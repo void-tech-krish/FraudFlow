@@ -1,0 +1,165 @@
+{
+    "week": 9,
+    "segmentation_features": [
+        "amt",
+        "amount_log",
+        "transaction_hour",
+        "transaction_day",
+        "transaction_month",
+        "transaction_day_of_week",
+        "is_weekend",
+        "customer_age",
+        "merchant_distance",
+        "lat",
+        "long",
+        "merch_lat",
+        "merch_long",
+        "city_pop",
+        "hour_sin",
+        "hour_cos"
+    ],
+    "n_features": 16,
+    "segmentation_population": 444575,
+    "pca": {
+        "pc1_explained_variance": 0.12951865518748168,
+        "pc2_explained_variance": 0.12523452412102254,
+        "cumulative_2pc": 0.2547531793085042,
+        "n_components_90pct": 11,
+        "n_components_used_for_kmeans": 11,
+        "explained_variance_ratio": [
+            0.12951865518748168,
+            0.12523452412102254,
+            0.11957643147778878,
+            0.11393150789839165,
+            0.09077657955118237,
+            0.06896346545271412,
+            0.06406134200172288,
+            0.061973665478294596,
+            0.060968017480638466,
+            0.05594067234537892,
+            0.05355263949014409,
+            0.030155191606236798,
+            0.013716628755562746,
+            0.01117298496913611,
+            0.0004024857279174067,
+            5.5208456386794646e-05
+        ],
+        "cumulative_variance": [
+            0.12951865518748168,
+            0.2547531793085042,
+            0.374329610786293,
+            0.4882611186846847,
+            0.579037698235867,
+            0.6480011636885812,
+            0.712062505690304,
+            0.7740361711685987,
+            0.8350041886492372,
+            0.8909448609946161,
+            0.9444975004847602,
+            0.974652692090997,
+            0.9883693208465598,
+            0.9995423058156959,
+            0.9999447915436134,
+            1.0000000000000002
+        ]
+    },
+    "kmeans": {
+        "candidates": [
+            {
+                "k": 2,
+                "inertia": 5981063.976729885,
+                "silhouette": 0.14022023206033501
+            },
+            {
+                "k": 3,
+                "inertia": 5458479.238431819,
+                "silhouette": 0.12487962329628226
+            },
+            {
+                "k": 4,
+                "inertia": 5060632.364001462,
+                "silhouette": 0.12660621108124392
+            },
+            {
+                "k": 5,
+                "inertia": 4793951.862001631,
+                "silhouette": 0.11483192624897365
+            },
+            {
+                "k": 6,
+                "inertia": 4519620.434234716,
+                "silhouette": 0.11672117897842413
+            }
+        ],
+        "selected_k": 2,
+        "selected_silhouette": 0.14022023206033501,
+        "selected_inertia": 5981063.976729885,
+        "silhouette_ambiguous": false,
+        "cluster_sizes": {
+            "0": 124270,
+            "1": 320305
+        }
+    },
+    "dbscan": {
+        "subset_size": 20000,
+        "subset_random_state": 42,
+        "candidates": [
+            {
+                "eps": 0.3,
+                "min_samples": 5,
+                "n_clusters": 0,
+                "n_noise": 20000,
+                "noise_pct": 1.0,
+                "silhouette": NaN
+            },
+            {
+                "eps": 0.5,
+                "min_samples": 5,
+                "n_clusters": 0,
+                "n_noise": 20000,
+                "noise_pct": 1.0,
+                "silhouette": NaN
+            },
+            {
+                "eps": 0.5,
+                "min_samples": 10,
+                "n_clusters": 0,
+                "n_noise": 20000,
+                "noise_pct": 1.0,
+                "silhouette": NaN
+            },
+            {
+                "eps": 1.0,
+                "min_samples": 5,
+                "n_clusters": 43,
+                "n_noise": 19706,
+                "noise_pct": 0.9853,
+                "silhouette": 0.3714633260577508
+            },
+            {
+                "eps": 1.0,
+                "min_samples": 10,
+                "n_clusters": 2,
+                "n_noise": 19982,
+                "noise_pct": 0.9991,
+                "silhouette": 0.14927236553766038
+            }
+        ],
+        "selected_eps": 1.0,
+        "selected_min_samples": 5,
+        "selected_n_clusters": 43,
+        "selected_n_noise": 19706,
+        "selected_noise_pct": 0.9853,
+        "selected_silhouette": 0.3714633260577508
+    },
+    "leakage_audit": {
+        "is_fraud_used_for_clustering": false,
+        "fraud_loss_amount_used": false,
+        "test_labels_used_for_fitting": false,
+        "target_derived_features_used": false,
+        "scaler_fitted_on_train_only": true,
+        "week10_threshold_tuning_performed": false,
+        "week11_work_performed": false,
+        "week12_work_performed": false
+    }
+}

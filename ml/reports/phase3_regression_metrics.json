@@ -1,0 +1,25 @@
+{
+    "dataset": {
+        "regression_population": "Fraudulent transactions only",
+        "fraud_count": 2145,
+        "train_size": 1716,
+        "test_size": 429
+    },
+    "target": "amt (proxy for expected loss)",
+    "ols": {
+        "train_mae": 41.801557773981806,
+        "test_mae": 85.31149718587265,
+        "train_rmse": 63.40004006405721,
+        "test_rmse": 138.83169659194888,
+        "train_r2": 0.9738804777862052,
+        "test_r2": 0.8758126884862287
+    },
+    "sgd": {
+        "train_mae": 47.197990533212504,
+        "test_mae": 74.44372197678184,
+        "train_rmse": 69.713151640325,
+        "test_rmse": 123.49468684829158,
+        "train_r2": 0.9684197475127418,
+        "test_r2": 0.9017355314338654
+    }
+}

@@ -1,0 +1,3024 @@
+feature,mean_abs_shap,mean_shap,rank
+amt,3.6291454,-3.4971879,1
+unix_time,0.899255,-0.8343954,2
+hour_cos,0.7905059,-0.49450135,3
+amount_log,0.7657495,-0.73815465,4
+city_pop,0.6317569,-0.5686737,5
+customer_age,0.6191138,-0.595498,6
+transaction_day,0.46010694,-0.43114394,7
+lat,0.43255553,-0.3951882,8
+transaction_hour,0.37368834,-0.32737646,9
+long,0.32512274,-0.30679184,10
+category_gas_transport,0.3125465,-0.091763176,11
+merchant_distance,0.25569642,-0.21687022,12
+transaction_day_of_week,0.25486672,-0.18175887,13
+category_shopping_pos,0.25056246,-0.118234605,14
+merch_lat,0.24394011,-0.23049632,15
+hour_sin,0.23938447,-0.21499152,16
+merch_long,0.2067206,-0.17956121,17
+category_home,0.17820103,-0.13714077,18
+category_shopping_net,0.17369372,-0.08486352,19
+category_kids_pets,0.16279273,-0.06782134,20
+category_entertainment,0.15241559,-0.09057507,21
+category_grocery_pos,0.13372414,-0.11186362,22
+category_food_dining,0.11898226,-0.110798925,23
+category_misc_net,0.10991458,-0.027150048,24
+category_health_fitness,0.099372,-0.02749053,25
+gender_F,0.098380655,-0.0765808,26
+category_personal_care,0.09539913,-0.041983187,27
+category_misc_pos,0.08816499,-0.08668036,28
+category_grocery_net,0.08643564,-0.06333928,29
+category_travel,0.07905284,-0.068618625,30
+state_OH,0.07585136,-0.034092225,31
+state_PA,0.0661725,-0.021923246,32
+state_WV,0.059920076,-0.036810387,33
+time_of_day_Morning,0.054910358,-0.042002525,34
+transaction_month,0.052916937,-0.04661931,35
+age_bucket_40-60,0.049443975,-0.018474538,36
+state_AR,0.048078235,-0.019427024,37
+state_MI,0.04752977,-0.016967364,38
+time_of_day_Evening,0.04351421,-0.02595358,39
+state_TX,0.043335482,-0.01635202,40
+time_of_day_Afternoon,0.040405992,-0.02827901,41
+state_MO,0.039359584,-0.01084541,42
+state_AL,0.039173286,-0.012088746,43
+state_TN,0.03600388,-0.016366633,44
+state_IL,0.03500725,-0.00923565,45
+state_MD,0.033028297,-0.010138209,46
+state_WY,0.03041802,-0.018025476,47
+state_NC,0.02961348,-0.012315136,48
+state_KS,0.027535755,-0.013495331,49
+state_SC,0.026852645,-0.009503805,50
+age_bucket_25-40,0.026378002,-0.01907377,51
+gender_M,0.022053309,-0.010712522,52
+city_Chatham,0.019819971,-0.018349817,53
+state_NY,0.01905093,-0.008961201,54
+job_Clothing/textile technologist,0.018123625,-0.0072681825,55
+job_Advertising account executive,0.017894143,-0.015206423,56
+is_weekend,0.01778165,-0.0072604255,57
+state_NE,0.016927447,-0.004971372,58
+"job_Engineer, biomedical",0.016357291,-0.007232181,59
+state_NJ,0.015599834,-0.006018285,60
+city_Guthrie,0.014323529,-0.014323529,61
+city_Livonia,0.0139933275,-0.013273103,62
+city_Sprague,0.013912318,-0.013555542,63
+city_Llano,0.013741933,-0.012831598,64
+state_KY,0.013150224,-0.0062625096,65
+"merchant_fraud_Bahringer, Osinski and Block",0.0131246,-0.01119235,66
+city_Lomax,0.012485114,-0.00860831,67
+"job_Surveyor, land/geomatics",0.012213196,-0.006171565,68
+state_CA,0.012176967,-0.007008371,69
+state_UT,0.012067478,-0.0069964104,70
+age_bucket_60+,0.011688962,-0.0051484667,71
+state_MS,0.011514855,-0.010351432,72
+zip_29320,0.01111649,-0.007897787,73
+city_Azusa,0.011093337,-0.009985026,74
+state_WA,0.011016637,-0.0029771538,75
+time_of_day_Night,0.010925644,-0.0066234176,76
+city_Mountain Center,0.010851308,-0.009486783,77
+state_VA,0.010774649,-0.001480541,78
+city_Prosperity,0.010548268,-0.009482803,79
+city_Heart Butte,0.010487911,-0.010005306,80
+state_CO,0.010050159,-0.0048714643,81
+job_Educational psychologist,0.009932996,-0.0048172404,82
+city_Mound City,0.009899841,-0.009499622,83
+state_IN,0.009747615,-0.005871875,84
+city_West Eaton,0.009511684,-0.009020765,85
+city_Coyle,0.009237868,-0.008853359,86
+job_Sub,0.009184011,-0.0048804213,87
+merchant_fraud_Stamm-Rodriguez,0.008909797,-0.007138746,88
+city_Clutier,0.008835909,-0.008038336,89
+job_Counsellor,0.008632693,-0.006331304,90
+merchant_fraud_Bruen-Yost,0.008617644,-0.0073236465,91
+city_Burrton,0.008205947,-0.0072086304,92
+zip_38060,0.008156852,-0.006047995,93
+city_Smackover,0.00811637,-0.007830099,94
+city_Lakeport,0.0080128955,-0.007102535,95
+city_Ridgeland,0.007815848,-0.005896793,96
+zip_59448,0.007763543,-0.007681147,97
+job_Chief Executive Officer,0.007751335,-0.004574459,98
+city_Plymouth,0.007545349,-0.005982579,99
+"job_Editor, commissioning",0.00744534,-0.0049384646,100
+zip_12037,0.007266404,-0.006621421,101
+city_Veedersburg,0.007257276,-0.0061734715,102
+city_Uledi,0.007118526,-0.006035551,103
+merchant_fraud_Gutmann-Upton,0.0067885863,-0.0052486244,104
+job_Amenity horticulturist,0.006765735,-0.005096311,105
+city_Deltona,0.0066772406,-0.0064640585,106
+"job_Engineer, control and instrumentation",0.006659302,-0.002876763,107
+city_Morrowville,0.0066544022,-0.0066544022,108
+merchant_fraud_Little-Gleichner,0.006650754,-0.0062423064,109
+merchant_fraud_Adams-Barrows,0.0066265985,-0.0053634318,110
+state_SD,0.006547341,-0.004557643,111
+city_Issaquah,0.0065231547,-0.0061323293,112
+job_Water engineer,0.0063806223,-0.0057280674,113
+zip_20012,0.0063017313,-0.005174319,114
+"job_Engineer, automotive",0.0062929527,-0.0041378257,115
+city_Varnell,0.0062645394,-0.0058816834,116
+city_Titusville,0.0060869325,-0.0054709916,117
+city_Viola,0.0060116453,-0.0059382296,118
+"job_Designer, ceramics/pottery",0.005997201,-0.0019424326,119
+city_Cascade Locks,0.005706909,-0.0047440394,120
+city_Sutherland,0.005694594,-0.005022402,121
+state_IA,0.0056927633,-0.0039709383,122
+merchant_fraud_Hoppe-Parisian,0.005592983,-0.0040050484,123
+city_Desdemona,0.005553614,-0.005553614,124
+state_MT,0.005455986,-0.0037332622,125
+merchant_fraud_Emmerich-Rau,0.005452689,-0.00439805,126
+city_Cottekill,0.0054411776,-0.0047391136,127
+"merchant_fraud_Hagenes, Kohler and Hoppe",0.0052161226,-0.0045326385,128
+state_MA,0.005102625,-0.0013764139,129
+merchant_fraud_Jaskolski-Vandervort,0.0050669266,-0.0042321794,130
+city_Moravian Falls,0.00501376,-0.004233351,131
+state_LA,0.0047469568,-0.001493402,132
+city_Etlan,0.004685048,-0.00455322,133
+city_Northport,0.0046108686,-0.0043029026,134
+city_Cazenovia,0.004550371,-0.0034939419,135
+state_WI,0.00450511,-0.0021799128,136
+"merchant_fraud_Monahan, Bogisich and Ledner",0.0045048003,-0.004333876,137
+state_NM,0.004445132,-0.004228259,138
+city_Smiths Grove,0.004418108,-0.0036079795,139
+merchant_fraud_Zboncak Ltd,0.004414514,-0.0035793912,140
+city_Whigham,0.00437948,-0.004178612,141
+job_Comptroller,0.004311631,-0.0037244286,142
+city_Heislerville,0.004296169,-0.004137024,143
+age_bucket_lt_25,0.0042668995,-0.0007849793,144
+city_Lake Oswego,0.0042169727,-0.0040878905,145
+merchant_fraud_Fadel-Hilpert,0.004173249,-0.0031177464,146
+merchant_fraud_Hills-Boyer,0.0041634776,-0.0041079214,147
+city_Holloway,0.004108323,-0.0039578015,148
+job_Licensed conveyancer,0.0040135784,-0.0031333356,149
+state_CT,0.00398572,-0.0021428629,150
+city_Cressona,0.0039756484,-0.0035829854,151
+job_Chemical engineer,0.0039747744,-0.0010635108,152
+state_FL,0.003927368,-0.0033999928,153
+merchant_fraud_Connelly PLC,0.0039272527,-0.003801359,154
+city_Preston,0.003905917,-0.003632907,155
+city_Grand Junction,0.0038087436,-0.0030459312,156
+job_Systems developer,0.0038038155,-0.0020774028,157
+city_Central,0.0037332214,-0.003495395,158
+state_ND,0.0037253129,-0.001211221,159
+city_Rossville,0.0037109226,-0.0031447052,160
+"merchant_fraud_Hartmann, Rowe and Hermann",0.0036528655,-0.0032466527,161
+job_Podiatrist,0.0036425448,-0.001050521,162
+zip_52535,0.0036050251,-0.002672404,163
+zip_87543,0.0035766365,-0.0034241492,164
+"merchant_fraud_Larson, Quitzon and Spencer",0.0035510552,-0.0035461704,165
+merchant_fraud_Boyer PLC,0.0035371876,-0.0033166008,166
+job_Financial trader,0.003507412,-0.0013175817,167
+job_Dispensing optician,0.0034451252,-0.0007055102,168
+city_Farmington,0.0034403722,-0.0031038125,169
+state_OK,0.003423223,-0.0030276326,170
+job_Toxicologist,0.0033939667,-0.00047654152,171
+city_Jay,0.0033628852,-0.0030491059,172
+city_Whittemore,0.0033568356,-0.002856962,173
+merchant_fraud_Abbott-Steuber,0.0032995744,-0.0029556123,174
+merchant_fraud_Weimann-Lockman,0.0032477176,-0.0031543493,175
+city_Grifton,0.003238893,-0.003238893,176
+zip_73027,0.0032052319,-0.0030791175,177
+job_Environmental consultant,0.0031997813,-0.00068839896,178
+job_Film/video editor,0.0031879502,-0.0013156772,179
+city_Leonard,0.003174413,-0.002629705,180
+city_Vero Beach,0.0031611794,-0.0030639577,181
+job_Mining engineer,0.0031563765,-0.00088934164,182
+job_Barrister,0.0031555186,-0.0019025255,183
+"merchant_fraud_Jenkins, Hauck and Friesen",0.0031391901,-0.0030663256,184
+"job_Scientist, audiological",0.0030706543,-0.0008000578,185
+"merchant_fraud_Ritchie, Oberbrunner and Cremin",0.0029537138,-0.0029272975,186
+city_Odessa,0.002932586,-0.002932586,187
+city_Meridian,0.0029256998,-0.0008552064,188
+zip_61454,0.0028568648,-0.0023439792,189
+city_Southfield,0.0028480026,-0.0025047127,190
+job_Animal technologist,0.0028393029,-0.002052555,191
+zip_71762,0.002837185,-0.0027327691,192
+job_Occupational psychologist,0.0027679252,-0.00038203222,193
+city_Loving,0.0027667563,-0.002706737,194
+state_VT,0.00275826,-0.0010872178,195
+merchant_fraud_Marvin-Lind,0.002740351,-0.0021140284,196
+job_Trade mark attorney,0.0026248111,-0.00093021605,197
+zip_48154,0.0024935703,-0.0023813108,198
+merchant_fraud_Stark-Batz,0.0024760978,-0.0015705683,199
+city_Steuben,0.002474317,-0.0020579156,200
+city_Drakes Branch,0.0024498373,-0.0019048149,201
+merchant_fraud_Mosciski Group,0.0023982401,-0.0018642141,202
+city_Saint Amant,0.0023919486,-0.002080528,203
+city_Halstad,0.0023583062,-0.002244495,204
+city_Springville,0.0023439913,-0.0023439913,205
+"merchant_fraud_Koss, McLaughlin and Mayer",0.0023145608,-0.0019072309,206
+city_Diamond,0.0022997262,-0.0021353464,207
+city_Denham Springs,0.0022867096,-0.0022358121,208
+city_Ford,0.0022459675,-0.0015404127,209
+job_Paramedic,0.0022452741,-0.001145063,210
+zip_47987,0.002229856,-0.0018772915,211
+merchant_fraud_Tromp Group,0.002212386,-0.002049091,212
+state_AZ,0.0021666677,-0.00082035025,213
+city_Grover,0.002162649,-0.002162649,214
+zip_76445,0.0021110012,-0.0021110012,215
+zip_68438,0.0020761068,-0.0019651076,216
+city_Turner,0.0020656215,-0.001998721,217
+city_Kirkwood,0.002007934,-0.002007934,218
+merchant_fraud_Renner Ltd,0.001996679,-0.0015966769,219
+city_Lexington,0.0019923423,-0.0019923423,220
+zip_66958,0.0019637488,-0.0019637488,221
+job_Fine artist,0.0019576377,-0.0008969716,222
+city_Glendale,0.0019513697,-0.0018131817,223
+city_Shrewsbury,0.0019279297,-0.0010251397,224
+city_Woodville,0.0019224711,-0.0015987476,225
+city_Barnard,0.0019178259,-0.0017874355,226
+city_Oolitic,0.0019066696,-0.0018124075,227
+merchant_fraud_Hilpert-Conroy,0.0018854681,-0.0013860941,228
+zip_73044,0.0018734591,-0.0018734591,229
+merchant_fraud_Lynch-Wisozk,0.0018654596,-0.0017139287,230
+zip_13484,0.0018649615,-0.0017646305,231
+merchant_fraud_Watsica LLC,0.0018427826,-0.0017924542,232
+state_GA,0.0018364401,-0.0014581699,233
+merchant_fraud_Osinski Inc,0.0018238932,-0.0018005978,234
+zip_40202,0.001816654,-0.0017976112,235
+city_Keisterville,0.0018131387,-0.0015253761,236
+city_Detroit,0.0017993095,-0.0014695536,237
+zip_4680,0.0017908567,-0.0013733476,238
+"job_Engineer, mining",0.0017862224,-0.00033565116,239
+zip_6782,0.0017693774,-0.0011112815,240
+city_Moorhead,0.0017558103,-0.0016249337,241
+zip_32725,0.0017549137,-0.0017327919,242
+state_MN,0.0017278318,-0.0013007092,243
+"merchant_fraud_Medhurst, Cartwright and Ebert",0.001721666,-0.0015499488,244
+zip_64470,0.0017134375,-0.0015754051,245
+zip_42171,0.001711018,-0.0013418718,246
+city_Dell City,0.0016994925,-0.0016994925,247
+zip_28073,0.0016688698,-0.0016653265,248
+merchant_fraud_Heller PLC,0.0016678547,-0.0016584566,249
+city_Arcadia,0.0016634578,-0.0015442915,250
+merchant_fraud_Kozey-Kuhlman,0.0016629271,-0.0012010856,251
+"merchant_fraud_Effertz, Welch and Schowalter",0.0016526659,-0.0016237467,252
+merchant_fraud_Hills-Witting,0.0016192527,-0.0013431374,253
+city_Pelham,0.0016180662,-0.0015524131,254
+city_River,0.0015958151,-0.0015631384,255
+"merchant_fraud_Kihn, Brakus and Goyette",0.0015827582,-0.0015398739,256
+merchant_fraud_Spencer-Runolfsson,0.00158092,-0.0015723703,257
+job_Social researcher,0.0015776763,-0.00060831185,258
+job_Science writer,0.0015738392,-0.0013033466,259
+city_Rice,0.00155382,-0.00155382,260
+city_Doe Hill,0.0015366329,-0.0013290267,261
+zip_95453,0.0015261828,-0.0014094344,262
+city_Honokaa,0.0015129882,-0.0011454475,263
+merchant_fraud_Schaefer Ltd,0.0015056594,-0.0010495564,264
+city_Senatobia,0.0015047401,-0.0015047401,265
+zip_32780,0.0015044477,-0.001265375,266
+city_Belmont,0.001498362,-0.0014116478,267
+"merchant_fraud_Schroeder, Wolff and Hermiston",0.0014841781,-0.0014708968,268
+city_Camden,0.0014834566,-0.0014167717,269
+city_West Sayville,0.0014833573,-0.0013841841,270
+city_Hartford,0.0014785454,-0.0013053729,271
+city_Bauxite,0.0014744858,-0.00048784362,272
+city_Moores Hill,0.0014292406,-0.0014047142,273
+city_Bridger,0.001402562,-0.0013121564,274
+city_Roosevelt,0.0013944113,-0.0013290491,275
+zip_53924,0.0013880975,-0.0008277675,276
+zip_50312,0.0013640587,-0.001188696,277
+zip_98027,0.0013469663,-0.0009317004,278
+zip_12419,0.0013301832,-0.0010804209,279
+city_Seligman,0.0013275068,-0.0012981124,280
+job_Health visitor,0.0013209146,-0.0011003263,281
+merchant_fraud_Rowe-Vandervort,0.0013169843,-0.00129223,282
+zip_29127,0.0013134895,-0.0012110462,283
+zip_67020,0.0013031976,-0.0011636659,284
+zip_39653,0.0012903947,-0.0011786033,285
+zip_39897,0.0012825793,-0.0012256254,286
+city_Sheffield,0.0012815504,-0.001279993,287
+zip_52217,0.0012809344,-0.0011656525,288
+"merchant_fraud_Hintz, Bauch and Smith",0.0012788306,-0.0012763131,289
+"merchant_fraud_Schneider, Hayes and Nikolaus",0.0012735553,-0.0012622218,290
+city_Littleton,0.0012696795,-0.0012175464,291
+city_Norwich,0.0012599411,-0.0008181973,292
+zip_91702,0.0012581352,-0.0011602793,293
+city_Birmingham,0.0012570987,-0.0010208284,294
+zip_48034,0.0012558743,-0.0011381309,295
+merchant_fraud_Kirlin and Sons,0.0012499227,-0.0012231068,296
+merchant_fraud_Lubowitz-Walter,0.0012312365,-0.0012266048,297
+city_Edmond,0.001230262,-0.001101308,298
+zip_97014,0.0012273409,-0.0011458262,299
+city_Owensville,0.0012260007,-0.0010544973,300
+merchant_fraud_Beer-Jast,0.0012227643,-0.0008229409,301
+zip_47110,0.0012141737,-0.0011510947,302
+city_Thrall,0.0012103558,-0.0010726448,303
+city_Sachse,0.001208862,-0.0010864764,304
+city_Louisville,0.0012060566,-0.0011793887,305
+zip_8324,0.0011974719,-0.0011691555,306
+city_New Boston,0.0011937235,-0.0011792486,307
+merchant_fraud_Kuvalis Ltd,0.0011848372,-0.0011472822,308
+zip_64076,0.0011695224,-0.0011695224,309
+city_Darien,0.0011649372,-0.00097446964,310
+zip_39157,0.0011637395,-0.0010330662,311
+job_Research scientist (physical sciences),0.001143764,-0.0010896706,312
+job_Tour manager,0.0011413667,-0.0011028139,313
+"merchant_fraud_Hettinger, McCullough and Fay",0.0011375401,-0.0011008835,314
+zip_56548,0.0011349539,-0.0011005189,315
+city_Kirtland,0.0011346322,-0.0011346322,316
+city_Orient,0.0011321068,-0.0010083932,317
+city_Bradley,0.0011214039,-0.00097399636,318
+city_Akron,0.0011111121,-0.0010716601,319
+state_ID,0.0010985367,-0.0009692149,320
+city_Maysville,0.0010981775,-0.0010540844,321
+merchant_fraud_Will Ltd,0.0010846561,-0.0010135706,322
+city_Princeton,0.0010741526,-0.0010594655,323
+merchant_fraud_Lynch-Mohr,0.0010594446,-0.001046174,324
+city_Highland,0.001057167,-0.00105075,325
+merchant_fraud_Kovacek Ltd,0.001041477,-0.0010201401,326
+city_Carlotta,0.0010414363,-0.000986062,327
+zip_47451,0.0010242311,-0.0009912961,328
+merchant_fraud_Bernier and Sons,0.00097389193,-0.0009438279,329
+zip_35211,0.0009504717,-0.0009504717,330
+city_Reynolds,0.0009447575,-0.0008727493,331
+city_Sun City,0.00094087323,-0.0002549253,332
+merchant_fraud_Dooley-Thompson,0.0009359026,-0.0008503788,333
+city_Rocky Mount,0.000934631,-0.0002502346,334
+zip_85086,0.00093063276,-0.0007117271,335
+job_Multimedia programmer,0.0009283159,-0.0003818654,336
+job_Furniture conservator/restorer,0.0009273758,-0.00061149476,337
+job_Chartered public finance accountant,0.00092383387,-0.0003702379,338
+job_Early years teacher,0.0009074169,-0.00040535827,339
+city_Santa Monica,0.0009040694,-0.0008532484,340
+merchant_fraud_Kris-Kertzmann,0.0008905264,-0.000872311,341
+city_Mc Intosh,0.00088870793,-0.0008854598,342
+city_Leetsdale,0.00088772963,-0.00086751644,343
+zip_59014,0.0008858837,-0.00087203656,344
+"merchant_fraud_Roberts, Ryan and Smith",0.00088376465,-0.0007493829,345
+state_OR,0.0008818065,-0.00037690898,346
+job_Production manager,0.00086487,-6.490908e-05,347
+merchant_fraud_Hintz-Bruen,0.00084240973,-0.0008383296,348
+city_Oakland,0.00084103976,-0.0008250145,349
+merchant_fraud_Brown Inc,0.00083960145,-0.00081535446,350
+city_Jackson,0.0008373011,-0.0008373011,351
+zip_31305,0.0008349532,-0.0007849664,352
+zip_43985,0.00083445903,-0.00077165634,353
+job_Art therapist,0.00083142926,-0.0005234057,354
+"job_Librarian, public",0.0008168461,-0.00027357668,355
+"job_Psychologist, counselling",0.0008129754,-0.0003202657,356
+zip_97034,0.00079981826,-0.0007900776,357
+merchant_fraud_Homenick LLC,0.0007993886,-0.0007058009,358
+city_Remer,0.0007943582,-0.0007943582,359
+city_Auburn,0.0007939704,-0.00063900964,360
+zip_48214,0.0007859027,-0.0007334283,361
+"merchant_fraud_Willms, Kris and Bergnaum",0.00078312604,-0.00077839964,362
+city_Creedmoor,0.0007679436,-0.00075127714,363
+zip_32565,0.00076351373,-0.000640979,364
+zip_57426,0.0007561597,-0.00070150517,365
+"merchant_fraud_Bahringer, Bergnaum and Quitzon",0.0007535459,-0.0007235037,366
+city_Port Gibson,0.00074182946,-0.00060783117,367
+zip_14425,0.0007379455,-0.000620266,368
+job_Advertising account planner,0.00073303044,-0.00067481707,369
+"merchant_fraud_Turner, Ziemann and Lehner",0.0007293213,-0.00063362933,370
+merchant_fraud_Kilback LLC,0.0007242646,-0.00071545976,371
+merchant_fraud_Dare-Gibson,0.00072171557,-0.0007204292,372
+city_Linthicum Heights,0.0007193482,-0.00066790875,373
+zip_15484,0.0007167677,-0.0004466691,374
+job_Gaffer,0.0007155183,-0.0006877306,375
+city_Thomas,0.00070642045,-0.0005947907,376
+city_Florence,0.00070568046,-0.00023288479,377
+city_Pea Ridge,0.0007028986,-0.0006161653,378
+city_Spring Church,0.00069488207,-0.0006720656,379
+zip_23937,0.00069282245,-0.0006329453,380
+merchant_fraud_Wilkinson Ltd,0.00068821205,-0.0006724026,381
+merchant_fraud_Torp-Lemke,0.00068576325,-0.0006398887,382
+zip_27311,0.0006593674,-0.00063222676,383
+job_Financial adviser,0.00063674996,-0.00059943536,384
+city_Wauchula,0.0006340334,-0.000508727,385
+city_Newberg,0.00063129386,-0.0006253495,386
+zip_99160,0.00062825903,-0.0005485223,387
+zip_43767,0.0006254534,-0.00037543915,388
+city_New Franken,0.0006224852,-0.0005172999,389
+job_Commercial horticulturist,0.0006183635,-0.00059053686,390
+job_Advice worker,0.0006147985,-0.0005716485,391
+city_Trenton,0.0006064235,-0.0006052187,392
+merchant_fraud_Barton LLC,0.0005952171,-0.0005932938,393
+city_Eureka,0.0005947286,-0.00059343636,394
+job_Chief Strategy Officer,0.00059159985,-0.0005829868,395
+zip_35776,0.00058572245,-0.00037412366,396
+city_East Canaan,0.0005813585,-0.0005425239,397
+zip_15449,0.0005812948,-0.0005055627,398
+merchant_fraud_Hamill-D'Amore,0.0005804692,-0.00053935574,399
+zip_47032,0.0005721745,-0.00057063403,400
+merchant_fraud_Howe Ltd,0.0005665291,-0.0005644539,401
+city_Morrisdale,0.00055894087,-0.000513253,402
+zip_13425,0.0005543459,-0.0004366365,403
+job_Materials engineer,0.00055202417,-0.000316804,404
+city_Lonsdale,0.0005516211,-0.00045086222,405
+zip_28530,0.000542701,-0.000542701,406
+zip_38039,0.0005368884,-0.00048439237,407
+zip_92561,0.0005327407,-0.0004559042,408
+city_Lamberton,0.00053131435,-0.0003480565,409
+zip_69165,0.0005243227,6.573234e-05,410
+merchant_fraud_Eichmann-Kilback,0.00051853666,-0.0002554031,411
+zip_70726,0.00051778025,-0.00051369827,412
+job_Energy manager,0.00050253386,-0.0004992503,413
+zip_6365,0.00050079083,-0.00048121295,414
+"merchant_fraud_Okuneva, Schneider and Rau",0.00049974717,-0.00048083367,415
+merchant_fraud_Sporer-Keebler,0.00049583666,-0.00047659673,416
+zip_91206,0.00049551117,-0.0004889381,417
+zip_11768,0.00049445446,-0.00041917348,418
+city_Adams,0.00048689026,-0.0004514007,419
+merchant_fraud_Leannon-Nikolaus,0.0004826815,-0.00048068486,420
+city_Cedar,0.00048115334,-0.0003763639,421
+job_Horticultural consultant,0.00047122236,-0.00044093005,422
+zip_15056,0.0004699526,-0.00046426064,423
+zip_65066,0.00046966123,-0.00044652828,424
+zip_60963,0.00046626225,-0.00036687643,425
+job_Osteopath,0.00045836892,-0.00028863244,426
+zip_38668,0.00045822505,-0.00045822505,427
+zip_72751,0.00045457078,-0.0003873561,428
+"merchant_fraud_Mante, Luettgen and Hackett",0.00044838802,-0.0004266509,429
+city_Surrency,0.00044521093,-0.00017998005,430
+job_Press sub,0.00044417754,-0.00040296811,431
+city_Baton Rouge,0.00044392995,-0.00038720487,432
+job_Chiropodist,0.0004413714,-0.00043959127,433
+merchant_fraud_Gleason and Sons,0.0004411806,-0.0004407525,434
+zip_75934,0.00044064506,-0.00043707195,435
+city_New York City,0.0004331356,-0.00043118015,436
+merchant_fraud_Schuppe-Schuppe,0.00042936226,-0.0004017504,437
+zip_88256,0.00042394627,-0.00039171052,438
+merchant_fraud_Bode-Schuster,0.0004232954,-0.00042183933,439
+zip_39211,0.0004222106,-0.0004222106,440
+job_Radio producer,0.00041712774,-7.588817e-05,441
+merchant_fraud_Ullrich Ltd,0.00041019302,-0.00037310104,442
+city_Port Ewen,0.0004064207,-0.00035326424,443
+merchant_fraud_Conroy-Cruickshank,0.00040415468,-0.00031927967,444
+merchant_fraud_Schoen-Quigley,0.00040091525,-0.00039682182,445
+job_Architect,0.00039687616,-0.00030883547,446
+"merchant_fraud_Dare, Casper and Bartoletti",0.0003901942,-0.0003731561,447
+job_Broadcast presenter,0.0003888357,-0.00038319177,448
+job_Database administrator,0.00038604363,-0.00034276213,449
+zip_24433,0.00038144688,-0.0003555718,450
+zip_72011,0.00038016698,-0.00011414799,451
+city_Bolivar,0.00037820623,-0.0003189188,452
+merchant_fraud_Fadel Inc,0.00037745136,-0.00037425983,453
+zip_72583,0.00037439025,-0.00037137142,454
+merchant_fraud_Fritsch LLC,0.00037401696,-0.0003739482,455
+zip_30756,0.00037342927,-0.0003689238,456
+merchant_fraud_Cummerata-Jones,0.0003720779,-0.00030288452,457
+merchant_fraud_Spinka-Welch,0.00036909003,-0.00036264746,458
+"job_Radiographer, therapeutic",0.00036555988,-0.00014582789,459
+city_Brandon,0.00036034625,-0.00013159018,460
+zip_56546,0.00035758846,-0.00030550561,461
+merchant_fraud_Turcotte-Halvorson,0.00035683787,-0.00034957723,462
+"merchant_fraud_Hyatt, Russel and Gleichner",0.00035459152,-0.0003542923,463
+merchant_fraud_Dicki Ltd,0.00035406032,-0.0003486412,464
+merchant_fraud_Nolan-Williamson,0.00035356593,-0.00034981483,465
+"merchant_fraud_Ferry, Reichel and DuBuque",0.0003528837,-0.00035255175,466
+merchant_fraud_Botsford and Sons,0.0003509599,-0.0003224544,467
+city_Jaffrey,0.0003505252,-0.0003482195,468
+zip_88355,0.0003501744,-0.00034543726,469
+zip_96727,0.00034822815,-0.0002976741,470
+zip_75210,0.00034798452,-0.00034524454,471
+zip_23850,0.0003456013,-0.00020539017,472
+zip_56672,0.00034546028,-0.00034546028,473
+job_Physiotherapist,0.00033779864,-0.0002692924,474
+"job_Designer, exhibition/display",0.00033679744,-8.341738e-05,475
+city_Centerview,0.00033663295,-7.13417e-05,476
+"merchant_fraud_Greenfelder, Bartoletti and Davis",0.00033176612,-0.00033167316,477
+zip_80120,0.0003314785,-0.00032423323,478
+city_Sherman,0.00032971692,-0.00032040948,479
+city_Oriskany Falls,0.00032871607,-0.00028137886,480
+zip_65072,0.0003286803,-7.738269e-05,481
+job_Public relations account executive,0.00032239524,-0.00030181004,482
+zip_49621,0.0003194929,-0.0002591707,483
+zip_1545,0.0003167778,-0.000120655764,484
+zip_33873,0.00031671024,-0.00026697727,485
+merchant_fraud_Towne LLC,0.00031473048,-0.0003104852,486
+merchant_fraud_Mohr-Bayer,0.00031414002,-0.00031345984,487
+zip_28654,0.00031245255,-0.0002547801,488
+job_Insurance broker,0.00031080915,-0.00026890612,489
+"merchant_fraud_Konopelski, Schneider and Hartmann",0.00030949706,-0.0003094236,490
+city_Watertown,0.00030823838,-0.00030700947,491
+city_Cisco,0.00030742175,-0.00024175133,492
+merchant_fraud_Baumbach Ltd,0.00030699538,-0.00030355438,493
+merchant_fraud_Predovic Inc,0.00030629936,-5.1238727e-05,494
+"merchant_fraud_Feil, Hilpert and Koss",0.00030234945,-0.00030094775,495
+"merchant_fraud_Crist, Jakubowski and Littel",0.00030033384,-0.0002822583,496
+merchant_fraud_Koss and Sons,0.00029551145,-0.00024700572,497
+city_Hooper,0.00029336658,-0.00018281948,498
+zip_36344,0.000291997,-0.00029118324,499
+"merchant_fraud_Nienow, Barrows and Romaguera",0.00029190615,-0.00029077096,500
+city_Phoenix,0.00028758775,-0.00026880798,501
+zip_35901,0.0002853957,-0.00019685843,502
+merchant_fraud_Haley Group,0.00028485447,-0.0002825265,503
+job_Operational investment banker,0.0002830538,-0.0002830538,504
+merchant_fraud_Rempel PLC,0.00028205747,-0.00027505183,505
+city_Annapolis,0.0002816745,-0.00025625326,506
+"merchant_fraud_Watsica, Haag and Considine",0.00028025135,-0.00017812112,507
+city_Spirit Lake,0.0002791839,-0.0002595109,508
+zip_32960,0.00027670118,-0.00027495206,509
+"merchant_fraud_Baumbach, Strosin and Nicolas",0.00027420328,-0.0002490462,510
+merchant_fraud_Block-Parisian,0.00027332205,-0.00027239326,511
+zip_65745,0.00027276808,-0.00026641547,512
+zip_70808,0.00027172142,-0.00026548165,513
+city_Palmdale,0.0002685205,-0.0002671026,514
+zip_50598,0.0002678243,-0.00021578565,515
+job_Arboriculturist,0.00026747776,-2.4441533e-05,516
+city_Stayton,0.000263035,-0.0002491194,517
+zip_44307,0.00026283434,-0.00026271475,518
+merchant_fraud_Stiedemann Ltd,0.00025967121,-0.00025142415,519
+merchant_fraud_Reynolds-Schinner,0.00025735944,-0.00023241618,520
+city_Blairstown,0.00025449073,-0.00019615883,521
+zip_58275,0.00025425066,-0.0002055336,522
+zip_56367,0.0002531646,-0.0002531646,523
+merchant_fraud_Zulauf LLC,0.00024996407,-0.0002416267,524
+zip_21090,0.00024909817,-0.00023138778,525
+city_Brinson,0.000245747,-0.00016547153,526
+merchant_fraud_Kub PLC,0.00024376986,4.7222666e-06,527
+zip_27522,0.00024244607,-0.00021434059,528
+city_Maria Stein,0.00024032003,-0.00020609856,529
+zip_40502,0.00023610849,-0.00023610849,530
+merchant_fraud_Cummings LLC,0.00023003158,-0.00021929038,531
+merchant_fraud_Zboncak LLC,0.0002280563,-0.00022711475,532
+city_Stirling,0.00022749297,-0.00019668127,533
+merchant_fraud_Erdman-Schaden,0.00022256105,-0.00022210454,534
+city_Clarks Mills,0.00022069266,-7.935194e-05,535
+zip_20634,0.0002206009,-0.00015783725,536
+merchant_fraud_Schmidt-Larkin,0.00022021518,-0.00021886968,537
+job_Herpetologist,0.000219921,-0.00012784665,538
+zip_11710,0.00021924498,-4.568786e-05,539
+merchant_fraud_Bashirian Group,0.00021918335,-0.00012985192,540
+zip_10162,0.00021834958,-0.00021834958,541
+"merchant_fraud_Dare, Fritsch and Zboncak",0.00021720967,-0.00021453746,542
+merchant_fraud_Thiel Ltd,0.00021473115,-0.0002143333,543
+zip_17929,0.00020919165,-0.00020080688,544
+merchant_fraud_Bednar PLC,0.0002039975,-0.00020103392,545
+"job_Scientist, clinical (histocompatibility and immunogenetics)",0.00020372805,-0.0001304748,546
+job_Theme park manager,0.00020253722,-0.00018703513,547
+merchant_fraud_Kutch LLC,0.00020095927,-0.00019725098,548
+"merchant_fraud_Tromp, Kerluke and Glover",0.00019730444,-0.00019614649,549
+merchant_fraud_Smitham-Schiller,0.0001972365,-0.00019685522,550
+job_Teaching laboratory technician,0.00018858502,-9.7398755e-05,551
+job_Higher education careers adviser,0.00018389634,-0.00016825325,552
+job_Retail manager,0.00018298386,-0.00015037273,553
+"merchant_fraud_Zemlak, Tillman and Cremin",0.00018269081,-0.00018222861,554
+zip_59542,0.00018132293,-0.00018108367,555
+zip_15923,0.00018066818,-0.00013710817,556
+zip_76050,0.00017680725,-1.3950393e-05,557
+"merchant_fraud_Roob, Conn and Tremblay",0.00017452161,-0.00015481,558
+merchant_fraud_Schumm PLC,0.0001742203,-0.00017372792,559
+"merchant_fraud_Kuhic, Bins and Pfeffer",0.00017107754,-0.00016865494,560
+city_Georgetown,0.00016558671,-0.00016070378,561
+city_Bristol,0.00016501563,-0.00011150117,562
+zip_44412,0.00016270395,-0.00013909276,563
+"merchant_fraud_Windler, Goodwin and Kovacek",0.00015957782,-0.00015429317,564
+city_Hancock,0.00015782946,-0.00013429485,565
+job_Psychiatric nurse,0.00015368668,-0.00015315895,566
+city_Lorenzo,0.00015349225,-0.00012268702,567
+merchant_fraud_Hyatt-Blick,0.00015299812,-0.00015080645,568
+"merchant_fraud_Harris, Gusikowski and Heaney",0.0001500145,-0.00014987294,569
+"merchant_fraud_Adams, Kovacek and Kuhlman",0.00014697501,-0.00014681654,570
+merchant_fraud_Mohr Inc,0.00014661292,-0.00014646792,571
+city_Seattle,0.00014499368,-0.00014499368,572
+zip_47470,0.00014384252,-0.00014384252,573
+merchant_fraud_Little Ltd,0.00013864602,-0.00013841054,574
+"merchant_fraud_Graham, Hegmann and Hammes",0.00013862377,-0.00013849158,575
+city_Boyd,0.00013661647,-0.000117850635,576
+city_Wilton,0.00013341916,-6.2615356e-05,577
+merchant_fraud_Lebsack and Sons,0.00012758265,-0.0001275099,578
+"job_Engineer, water",0.00012408909,-0.00012408909,579
+merchant_fraud_Ankunding-Carroll,0.00012363165,-0.000123617,580
+job_Audiological scientist,0.00012290741,-0.00010579035,581
+merchant_fraud_Auer-West,0.00012215904,-0.000121093086,582
+job_Video editor,0.00012100898,-0.00011565775,583
+state_NH,0.00011717737,-0.00010037513,584
+merchant_fraud_Schmeler-Howe,0.000114280425,-0.000114143804,585
+zip_19007,0.000109481836,-0.00010672768,586
+city_Williams,0.00010781651,-0.00010781651,587
+job_Insurance underwriter,0.000105603096,-8.771033e-05,588
+city_Gadsden,0.0001050446,-6.390289e-05,589
+zip_54229,0.00010156071,-9.838786e-05,590
+city_Manville,9.704676e-05,-7.9601545e-05,591
+merchant_fraud_Quitzon-Goyette,9.684249e-05,-9.673826e-05,592
+city_Richland,9.333552e-05,-7.563684e-05,593
+zip_79343,9.065723e-05,-8.623036e-05,594
+merchant_fraud_Ziemann-Waters,9.036332e-05,-9.0182126e-05,595
+merchant_fraud_Kiehn-Emmerich,8.811075e-05,-8.77788e-05,596
+job_Tourist information centre manager,8.5945234e-05,-6.71881e-05,597
+merchant_fraud_Barrows PLC,8.4103114e-05,-8.4064166e-05,598
+job_Research scientist (medical),8.1286606e-05,-9.3460185e-06,599
+city_Bonita Springs,8.000489e-05,-6.420998e-05,600
+city_Falls Church,7.548799e-05,-7.3816875e-05,601
+city_Craig,7.5024196e-05,-6.3701744e-05,602
+merchant_fraud_Haag-Blanda,7.309891e-05,-7.292389e-05,603
+"merchant_fraud_Mosciski, Ziemann and Farrell",6.8231675e-05,-4.817906e-05,604
+"merchant_fraud_Lehner, Reichert and Mills",6.794172e-05,-6.779374e-05,605
+merchant_fraud_Swift PLC,6.708797e-05,-6.689637e-05,606
+"merchant_fraud_Nienow, Ankunding and Collier",6.091616e-05,-6.086133e-05,607
+merchant_fraud_Erdman-Ebert,6.0292452e-05,-5.9425987e-05,608
+"merchant_fraud_Langworth, Boehm and Gulgowski",6.0108192e-05,-5.85398e-05,609
+city_Zavalla,6.004418e-05,-3.968753e-05,610
+city_Dresden,5.9861784e-05,-3.3525725e-05,611
+merchant_fraud_Carroll PLC,5.4725773e-05,-5.4597218e-05,612
+zip_15377,5.4561187e-05,-5.450532e-05,613
+merchant_fraud_Berge LLC,5.419743e-05,-3.5655616e-05,614
+merchant_fraud_Auer LLC,5.4069555e-05,-5.3702825e-05,615
+merchant_fraud_Huels-Nolan,5.0473278e-05,-4.9497172e-05,616
+merchant_fraud_Kling Inc,4.932321e-05,-4.9151276e-05,617
+zip_83646,4.8493763e-05,-3.0005383e-05,618
+"merchant_fraud_Swaniawski, Nitzsche and Welch",4.6614074e-05,-4.637623e-05,619
+city_Des Moines,4.5991834e-05,-4.5702724e-05,620
+city_Paradise Valley,4.5425262e-05,-4.5144832e-05,621
+city_West Finley,4.5362365e-05,-4.531241e-05,622
+merchant_fraud_Ernser-Feest,4.535378e-05,-4.4773915e-05,623
+zip_11796,4.1796422e-05,-3.9751485e-05,624
+merchant_fraud_Terry Ltd,3.993184e-05,-3.958614e-05,625
+merchant_fraud_Gottlieb-Hansen,3.6564852e-05,-3.6463767e-05,626
+city_Bessemer,3.498703e-05,-3.0555733e-05,627
+"merchant_fraud_Tillman, Dickinson and Labadie",3.427489e-05,-3.225359e-05,628
+merchant_fraud_Rolfson-Kunde,3.059019e-05,-3.0499443e-05,629
+merchant_fraud_Hickle Group,3.0541065e-05,-3.0505507e-05,630
+merchant_fraud_Kutch Group,2.8390858e-05,-2.8325077e-05,631
+merchant_fraud_Bins-Rice,2.5730455e-05,-2.5641048e-05,632
+merchant_fraud_Cassin-Harvey,2.2555194e-05,-2.252941e-05,633
+"merchant_fraud_Rodriguez, Yost and Jenkins",2.1514645e-05,-2.148045e-05,634
+merchant_fraud_Wisozk and Sons,1.9472867e-05,-1.9443973e-05,635
+merchant_fraud_Gutmann Ltd,1.9389401e-05,-1.9369289e-05,636
+merchant_fraud_Stiedemann Inc,1.8316154e-05,-1.8253793e-05,637
+"merchant_fraud_Conroy, Balistreri and Gorczany",1.7998658e-05,-1.7930055e-05,638
+job_Call centre manager,1.2883164e-05,-1.1544937e-05,639
+"merchant_fraud_Raynor, Reinger and Hagenes",8.80468e-06,2.913408e-06,640
+merchant_fraud_Kutch-Hegmann,0.0,0.0,641
+merchant_fraud_Kutch-Wilderman,0.0,0.0,642
+merchant_fraud_Labadie LLC,0.0,0.0,643
+"merchant_fraud_Labadie, Treutel and Bode",0.0,0.0,644
+"merchant_fraud_Lakin, Ferry and Beatty",0.0,0.0,645
+"merchant_fraud_Lang, Towne and Schuppe",0.0,0.0,646
+"merchant_fraud_Langosh, Wintheiser and Hyatt",0.0,0.0,647
+merchant_fraud_Langworth LLC,0.0,0.0,648
+merchant_fraud_Larkin Ltd,0.0,0.0,649
+"merchant_fraud_Larkin, Stracke and Greenfelder",0.0,0.0,650
+merchant_fraud_Larson-Moen,0.0,0.0,651
+merchant_fraud_Leannon-Ward,0.0,0.0,652
+"merchant_fraud_Ledner, Hartmann and Feest",0.0,0.0,653
+merchant_fraud_Ledner-Pfannerstill,0.0,0.0,654
+merchant_fraud_Leffler-Goldner,0.0,0.0,655
+"merchant_fraud_Lehner, Mosciski and King",0.0,0.0,656
+merchant_fraud_Lemke and Sons,0.0,0.0,657
+merchant_fraud_Lemke-Gutmann,0.0,0.0,658
+merchant_fraud_Lesch Ltd,0.0,0.0,659
+"merchant_fraud_Lesch, D'Amore and Brown",0.0,0.0,660
+"merchant_fraud_Lind, Huel and McClure",0.0,0.0,661
+merchant_fraud_Lind-Buckridge,0.0,0.0,662
+"merchant_fraud_Little, Gutmann and Lynch",0.0,0.0,663
+merchant_fraud_Lockman Ltd,0.0,0.0,664
+"merchant_fraud_Lockman, West and Runte",0.0,0.0,665
+"merchant_fraud_Lowe, Dietrich and Erdman",0.0,0.0,666
+"merchant_fraud_Lubowitz, Terry and Stracke",0.0,0.0,667
+merchant_fraud_Luettgen PLC,0.0,0.0,668
+merchant_fraud_Lynch Ltd,0.0,0.0,669
+merchant_fraud_Macejkovic-Lesch,0.0,0.0,670
+merchant_fraud_Maggio-Fahey,0.0,0.0,671
+merchant_fraud_Mante Group,0.0,0.0,672
+merchant_fraud_Marks Inc,0.0,0.0,673
+merchant_fraud_Mayert Group,0.0,0.0,674
+merchant_fraud_McCullough Group,0.0,0.0,675
+merchant_fraud_McCullough LLC,0.0,0.0,676
+"merchant_fraud_McCullough, Hudson and Schuster",0.0,0.0,677
+"merchant_fraud_McDermott, Osinski and Morar",0.0,0.0,678
+merchant_fraud_McDermott-Rice,0.0,0.0,679
+merchant_fraud_McDermott-Weimann,0.0,0.0,680
+merchant_fraud_McGlynn-Heathcote,0.0,0.0,681
+merchant_fraud_McGlynn-Jaskolski,0.0,0.0,682
+merchant_fraud_McKenzie-Huels,0.0,0.0,683
+"merchant_fraud_McLaughlin, Armstrong and Koepp",0.0,0.0,684
+merchant_fraud_Medhurst Inc,0.0,0.0,685
+merchant_fraud_Medhurst PLC,0.0,0.0,686
+"merchant_fraud_Medhurst, Labadie and Gottlieb",0.0,0.0,687
+"merchant_fraud_Metz, Russel and Metz",0.0,0.0,688
+merchant_fraud_Metz-Boehm,0.0,0.0,689
+merchant_fraud_Miller-Harris,0.0,0.0,690
+merchant_fraud_Miller-Hauck,0.0,0.0,691
+"merchant_fraud_Moen, Reinger and Murphy",0.0,0.0,692
+"merchant_fraud_Monahan, Hermann and Johns",0.0,0.0,693
+merchant_fraud_Monahan-Morar,0.0,0.0,694
+"merchant_fraud_Moore, Dibbert and Koepp",0.0,0.0,695
+"merchant_fraud_Moore, Williamson and Emmerich",0.0,0.0,696
+merchant_fraud_Morar Inc,0.0,0.0,697
+merchant_fraud_Morissette LLC,0.0,0.0,698
+merchant_fraud_Morissette PLC,0.0,0.0,699
+"merchant_fraud_Morissette, Weber and Wiegand",0.0,0.0,700
+merchant_fraud_Morissette-Schaefer,0.0,0.0,701
+"merchant_fraud_Mosciski, Gislason and Mertz",0.0,0.0,702
+merchant_fraud_Mraz-Herzog,0.0,0.0,703
+"merchant_fraud_Mueller, Gerhold and Mueller",0.0,0.0,704
+merchant_fraud_Murray Ltd,0.0,0.0,705
+merchant_fraud_Murray-Smitham,0.0,0.0,706
+merchant_fraud_Nader-Heller,0.0,0.0,707
+merchant_fraud_Nader-Maggio,0.0,0.0,708
+"merchant_fraud_Nicolas, Hills and McGlynn",0.0,0.0,709
+merchant_fraud_Nienow PLC,0.0,0.0,710
+"merchant_fraud_Nitzsche, Kessler and Wolff",0.0,0.0,711
+"merchant_fraud_O'Connell, Botsford and Hand",0.0,0.0,712
+merchant_fraud_O'Connell-Ullrich,0.0,0.0,713
+merchant_fraud_O'Hara-Wilderman,0.0,0.0,714
+merchant_fraud_O'Keefe-Hudson,0.0,0.0,715
+merchant_fraud_O'Keefe-Wisoky,0.0,0.0,716
+"merchant_fraud_O'Reilly, Mohr and Purdy",0.0,0.0,717
+"merchant_fraud_Olson, Becker and Koch",0.0,0.0,718
+merchant_fraud_Ortiz Group,0.0,0.0,719
+"merchant_fraud_Osinski, Ledner and Leuschke",0.0,0.0,720
+merchant_fraud_Pacocha-Bauch,0.0,0.0,721
+merchant_fraud_Pacocha-O'Reilly,0.0,0.0,722
+merchant_fraud_Pacocha-Weissnat,0.0,0.0,723
+merchant_fraud_Padberg-Rogahn,0.0,0.0,724
+merchant_fraud_Padberg-Sauer,0.0,0.0,725
+merchant_fraud_Padberg-Welch,0.0,0.0,726
+merchant_fraud_Pagac LLC,0.0,0.0,727
+merchant_fraud_Parisian and Sons,0.0,0.0,728
+"merchant_fraud_Parisian, Schiller and Altenwerth",0.0,0.0,729
+"merchant_fraud_Parker, Nolan and Trantow",0.0,0.0,730
+merchant_fraud_Parker-Kunde,0.0,0.0,731
+merchant_fraud_Paucek-Wiza,0.0,0.0,732
+merchant_fraud_Pfeffer LLC,0.0,0.0,733
+merchant_fraud_Pfeffer and Sons,0.0,0.0,734
+merchant_fraud_Pollich LLC,0.0,0.0,735
+"merchant_fraud_Pouros, Walker and Spencer",0.0,0.0,736
+merchant_fraud_Pouros-Conroy,0.0,0.0,737
+merchant_fraud_Pouros-Haag,0.0,0.0,738
+merchant_fraud_Powlowski-Weimann,0.0,0.0,739
+merchant_fraud_Price Inc,0.0,0.0,740
+merchant_fraud_Prohaska-Murray,0.0,0.0,741
+merchant_fraud_Prosacco LLC,0.0,0.0,742
+"merchant_fraud_Prosacco, Kreiger and Kovacek",0.0,0.0,743
+"merchant_fraud_Quitzon, Green and Bashirian",0.0,0.0,744
+merchant_fraud_Ratke and Sons,0.0,0.0,745
+merchant_fraud_Rau and Sons,0.0,0.0,746
+merchant_fraud_Rau-Grant,0.0,0.0,747
+merchant_fraud_Rau-Robel,0.0,0.0,748
+"merchant_fraud_Raynor, Feest and Miller",0.0,0.0,749
+merchant_fraud_Reichel Inc,0.0,0.0,750
+merchant_fraud_Reichel LLC,0.0,0.0,751
+"merchant_fraud_Reichel, Bradtke and Blanda",0.0,0.0,752
+"merchant_fraud_Reichert, Huels and Hoppe",0.0,0.0,753
+"merchant_fraud_Reichert, Rowe and Mraz",0.0,0.0,754
+"merchant_fraud_Reichert, Shanahan and Hayes",0.0,0.0,755
+merchant_fraud_Reichert-Weissnat,0.0,0.0,756
+merchant_fraud_Reilly LLC,0.0,0.0,757
+merchant_fraud_Reilly and Sons,0.0,0.0,758
+"merchant_fraud_Reilly, Heaney and Cole",0.0,0.0,759
+"merchant_fraud_Reinger, Weissnat and Strosin",0.0,0.0,760
+merchant_fraud_Rempel Inc,0.0,0.0,761
+"merchant_fraud_Rippin, Kub and Mann",0.0,0.0,762
+merchant_fraud_Rippin-VonRueden,0.0,0.0,763
+"merchant_fraud_Ritchie, Bradtke and Stiedemann",0.0,0.0,764
+"merchant_fraud_Robel, Cummerata and Prosacco",0.0,0.0,765
+"merchant_fraud_Roberts, Daniel and Macejkovic",0.0,0.0,766
+merchant_fraud_Roberts-Beahan,0.0,0.0,767
+merchant_fraud_Rodriguez Group,0.0,0.0,768
+"merchant_fraud_Rohan, White and Aufderhar",0.0,0.0,769
+merchant_fraud_Romaguera Ltd,0.0,0.0,770
+merchant_fraud_Romaguera and Sons,0.0,0.0,771
+"merchant_fraud_Romaguera, Cruickshank and Greenholt",0.0,0.0,772
+"merchant_fraud_Romaguera, Wehner and Tromp",0.0,0.0,773
+merchant_fraud_Roob LLC,0.0,0.0,774
+merchant_fraud_Roob-Okuneva,0.0,0.0,775
+"merchant_fraud_Rowe, Batz and Goodwin",0.0,0.0,776
+merchant_fraud_Ruecker Group,0.0,0.0,777
+"merchant_fraud_Ruecker, Beer and Collier",0.0,0.0,778
+merchant_fraud_Ruecker-Mayert,0.0,0.0,779
+"merchant_fraud_Runolfsdottir, Mueller and Hand",0.0,0.0,780
+merchant_fraud_Runolfsson and Sons,0.0,0.0,781
+"merchant_fraud_Runte, Green and Emard",0.0,0.0,782
+merchant_fraud_Runte-Mohr,0.0,0.0,783
+"merchant_fraud_Rutherford, Homenick and Bergstrom",0.0,0.0,784
+merchant_fraud_Rutherford-Mertz,0.0,0.0,785
+merchant_fraud_Satterfield-Lowe,0.0,0.0,786
+merchant_fraud_Sawayn PLC,0.0,0.0,787
+"merchant_fraud_Schaefer, Fay and Hilll",0.0,0.0,788
+"merchant_fraud_Schaefer, Maggio and Daugherty",0.0,0.0,789
+"merchant_fraud_Schaefer, McGlynn and Bosco",0.0,0.0,790
+merchant_fraud_Schamberger-O'Keefe,0.0,0.0,791
+merchant_fraud_Schiller Ltd,0.0,0.0,792
+"merchant_fraud_Schiller, Blanda and Johnson",0.0,0.0,793
+merchant_fraud_Schimmel-Olson,0.0,0.0,794
+merchant_fraud_Schmeler Inc,0.0,0.0,795
+"merchant_fraud_Schmeler, Bashirian and Price",0.0,0.0,796
+merchant_fraud_Schmidt and Sons,0.0,0.0,797
+merchant_fraud_Schmitt Inc,0.0,0.0,798
+merchant_fraud_Schmitt Ltd,0.0,0.0,799
+merchant_fraud_Schoen Ltd,0.0,0.0,800
+"merchant_fraud_Schoen, Kuphal and Nitzsche",0.0,0.0,801
+"merchant_fraud_Schoen, Nienow and Bauch",0.0,0.0,802
+merchant_fraud_Schroeder Group,0.0,0.0,803
+"merchant_fraud_Schroeder, Hauck and Treutel",0.0,0.0,804
+merchant_fraud_Schulist Ltd,0.0,0.0,805
+"merchant_fraud_Schultz, Simonis and Little",0.0,0.0,806
+"merchant_fraud_Schumm, Bauch and Ondricka",0.0,0.0,807
+"merchant_fraud_Schumm, McLaughlin and Carter",0.0,0.0,808
+merchant_fraud_Schuppe LLC,0.0,0.0,809
+"merchant_fraud_Schuppe, Nolan and Hoeger",0.0,0.0,810
+merchant_fraud_Shanahan-Lehner,0.0,0.0,811
+merchant_fraud_Shields Inc,0.0,0.0,812
+merchant_fraud_Shields-Wunsch,0.0,0.0,813
+merchant_fraud_Simonis-Prohaska,0.0,0.0,814
+merchant_fraud_Skiles LLC,0.0,0.0,815
+merchant_fraud_Skiles-Ankunding,0.0,0.0,816
+merchant_fraud_Smith-Stokes,0.0,0.0,817
+merchant_fraud_Smitham-Boehm,0.0,0.0,818
+merchant_fraud_Spencer PLC,0.0,0.0,819
+merchant_fraud_Spinka Inc,0.0,0.0,820
+merchant_fraud_Sporer Inc,0.0,0.0,821
+merchant_fraud_Stamm-Witting,0.0,0.0,822
+"merchant_fraud_Stanton, Jakubowski and Baumbach",0.0,0.0,823
+merchant_fraud_Stark-Koss,0.0,0.0,824
+"merchant_fraud_Stehr, Jewess and Schimmel",0.0,0.0,825
+"merchant_fraud_Stokes, Christiansen and Sipes",0.0,0.0,826
+merchant_fraud_Stoltenberg-Beatty,0.0,0.0,827
+merchant_fraud_Stracke-Lemke,0.0,0.0,828
+merchant_fraud_Streich Ltd,0.0,0.0,829
+"merchant_fraud_Streich, Dietrich and Barton",0.0,0.0,830
+"merchant_fraud_Streich, Hansen and Veum",0.0,0.0,831
+"merchant_fraud_Streich, Rolfson and Wilderman",0.0,0.0,832
+"merchant_fraud_Stroman, Hudson and Erdman",0.0,0.0,833
+merchant_fraud_Strosin-Cruickshank,0.0,0.0,834
+"merchant_fraud_Swaniawski, Bahringer and Ledner",0.0,0.0,835
+"merchant_fraud_Swaniawski, Lowe and Robel",0.0,0.0,836
+"merchant_fraud_Swift, Bradtke and Marquardt",0.0,0.0,837
+"merchant_fraud_Terry, Johns and Bins",0.0,0.0,838
+merchant_fraud_Terry-Huel,0.0,0.0,839
+merchant_fraud_Thiel PLC,0.0,0.0,840
+merchant_fraud_Thiel-Thiel,0.0,0.0,841
+merchant_fraud_Thompson-Gleason,0.0,0.0,842
+merchant_fraud_Tillman LLC,0.0,0.0,843
+"merchant_fraud_Tillman, Fritsch and Schmitt",0.0,0.0,844
+"merchant_fraud_Torp, Muller and Borer",0.0,0.0,845
+merchant_fraud_Torp-Labadie,0.0,0.0,846
+merchant_fraud_Torphy-Goyette,0.0,0.0,847
+merchant_fraud_Torphy-Kertzmann,0.0,0.0,848
+"merchant_fraud_Towne, Greenholt and Koepp",0.0,0.0,849
+"merchant_fraud_Towne, Walker and Borer",0.0,0.0,850
+merchant_fraud_Trantow PLC,0.0,0.0,851
+merchant_fraud_Treutel-King,0.0,0.0,852
+"merchant_fraud_Turcotte, Batz and Buckridge",0.0,0.0,853
+"merchant_fraud_Turcotte, McKenzie and Koss",0.0,0.0,854
+merchant_fraud_Turner LLC,0.0,0.0,855
+merchant_fraud_Turner and Sons,0.0,0.0,856
+"merchant_fraud_Turner, Ruecker and Parisian",0.0,0.0,857
+merchant_fraud_Upton PLC,0.0,0.0,858
+merchant_fraud_Vandervort-Funk,0.0,0.0,859
+merchant_fraud_Veum-Koelpin,0.0,0.0,860
+merchant_fraud_Volkman Ltd,0.0,0.0,861
+merchant_fraud_Volkman PLC,0.0,0.0,862
+merchant_fraud_Volkman-Predovic,0.0,0.0,863
+merchant_fraud_VonRueden Group,0.0,0.0,864
+merchant_fraud_Waelchi Inc,0.0,0.0,865
+merchant_fraud_Waelchi-Wolf,0.0,0.0,866
+"merchant_fraud_Walter, Hettinger and Kessler",0.0,0.0,867
+merchant_fraud_Waters-Cruickshank,0.0,0.0,868
+merchant_fraud_Weber and Sons,0.0,0.0,869
+"merchant_fraud_Weber, Thiel and Hammes",0.0,0.0,870
+"merchant_fraud_Weimann, Kuhic and Beahan",0.0,0.0,871
+merchant_fraud_Welch Inc,0.0,0.0,872
+"merchant_fraud_Welch, Rath and Koepp",0.0,0.0,873
+merchant_fraud_White and Sons,0.0,0.0,874
+merchant_fraud_Wiegand-Lowe,0.0,0.0,875
+merchant_fraud_Wilkinson LLC,0.0,0.0,876
+merchant_fraud_Wilkinson PLC,0.0,0.0,877
+merchant_fraud_Williamson LLC,0.0,0.0,878
+merchant_fraud_Windler LLC,0.0,0.0,879
+"merchant_fraud_Wintheiser, Dietrich and Schimmel",0.0,0.0,880
+"merchant_fraud_Witting, Beer and Ernser",0.0,0.0,881
+merchant_fraud_Wiza LLC,0.0,0.0,882
+"merchant_fraud_Wiza, Schaden and Stark",0.0,0.0,883
+merchant_fraud_Wolf Inc,0.0,0.0,884
+"merchant_fraud_Wuckert, Wintheiser and Friesen",0.0,0.0,885
+merchant_fraud_Wuckert-Goldner,0.0,0.0,886
+merchant_fraud_Wuckert-Walter,0.0,0.0,887
+"merchant_fraud_Yost, Block and Koepp",0.0,0.0,888
+"merchant_fraud_Yost, Schamberger and Windler",0.0,0.0,889
+merchant_fraud_Yost-Rogahn,0.0,0.0,890
+"merchant_fraud_Zboncak, Rowe and Murazik",0.0,0.0,891
+merchant_fraud_Zemlak Group,0.0,0.0,892
+"merchant_fraud_Zieme, Bode and Dooley",0.0,0.0,893
+city_Achille,0.0,0.0,894
+city_Acworth,0.0,0.0,895
+city_Afton,0.0,0.0,896
+city_Albany,0.0,0.0,897
+city_Albuquerque,0.0,0.0,898
+city_Alder,0.0,0.0,899
+city_Aledo,0.0,0.0,900
+city_Alexandria,0.0,0.0,901
+city_Allenhurst,0.0,0.0,902
+city_Allentown,0.0,0.0,903
+city_Alpharetta,0.0,0.0,904
+city_Altair,0.0,0.0,905
+city_Alton,0.0,0.0,906
+city_Altona,0.0,0.0,907
+city_Altonah,0.0,0.0,908
+city_Alva,0.0,0.0,909
+city_Amanda,0.0,0.0,910
+city_American Fork,0.0,0.0,911
+city_Amorita,0.0,0.0,912
+city_Amsterdam,0.0,0.0,913
+city_Andrews,0.0,0.0,914
+city_Apison,0.0,0.0,915
+city_Arlington,0.0,0.0,916
+city_Armagh,0.0,0.0,917
+city_Armonk,0.0,0.0,918
+city_Arnold,0.0,0.0,919
+city_Arvada,0.0,0.0,920
+city_Ash Flat,0.0,0.0,921
+city_Ashfield,0.0,0.0,922
+city_Ashford,0.0,0.0,923
+city_Atglen,0.0,0.0,924
+city_Athena,0.0,0.0,925
+city_Atlantic,0.0,0.0,926
+city_Aurora,0.0,0.0,927
+city_Avera,0.0,0.0,928
+city_Avoca,0.0,0.0,929
+city_Bagley,0.0,0.0,930
+city_Bailey,0.0,0.0,931
+city_Ballwin,0.0,0.0,932
+city_Barneveld,0.0,0.0,933
+city_Barnstable,0.0,0.0,934
+city_Baroda,0.0,0.0,935
+city_Basye,0.0,0.0,936
+city_Battle Creek,0.0,0.0,937
+city_Bay City,0.0,0.0,938
+city_Bay Minette,0.0,0.0,939
+city_Beasley,0.0,0.0,940
+city_Beaver Falls,0.0,0.0,941
+city_Beaverdam,0.0,0.0,942
+city_Belfast,0.0,0.0,943
+city_Belgrade,0.0,0.0,944
+city_Belle Fourche,0.0,0.0,945
+city_Bellmore,0.0,0.0,946
+city_Belmond,0.0,0.0,947
+city_Benton,0.0,0.0,948
+city_Bethel,0.0,0.0,949
+city_Bethel Springs,0.0,0.0,950
+city_Big Creek,0.0,0.0,951
+city_Big Indian,0.0,0.0,952
+city_Bigelow,0.0,0.0,953
+city_Blackville,0.0,0.0,954
+city_Blairsden-Graeagle,0.0,0.0,955
+city_Blooming Grove,0.0,0.0,956
+city_Bolton,0.0,0.0,957
+city_Bonfield,0.0,0.0,958
+city_Boonton,0.0,0.0,959
+city_Boulder,0.0,0.0,960
+city_Bowdoin,0.0,0.0,961
+city_Bowersville,0.0,0.0,962
+city_Brainard,0.0,0.0,963
+city_Brantley,0.0,0.0,964
+city_Brashear,0.0,0.0,965
+city_Breesport,0.0,0.0,966
+city_Bridgeport,0.0,0.0,967
+city_Bristow,0.0,0.0,968
+city_Bronx,0.0,0.0,969
+city_Brooklin,0.0,0.0,970
+city_Brooklyn,0.0,0.0,971
+city_Broomfield,0.0,0.0,972
+city_Browning,0.0,0.0,973
+city_Brownville,0.0,0.0,974
+city_Brunson,0.0,0.0,975
+city_Bryant,0.0,0.0,976
+city_Burbank,0.0,0.0,977
+city_Burke,0.0,0.0,978
+city_Burlington,0.0,0.0,979
+city_Burns Flat,0.0,0.0,980
+city_Bynum,0.0,0.0,981
+city_Cadiz,0.0,0.0,982
+city_Campbell,0.0,0.0,983
+city_Canton,0.0,0.0,984
+city_Cape Coral,0.0,0.0,985
+city_Cardwell,0.0,0.0,986
+city_Carlisle,0.0,0.0,987
+city_Carroll,0.0,0.0,988
+city_Cass,0.0,0.0,989
+city_Cassatt,0.0,0.0,990
+city_Catawba,0.0,0.0,991
+city_Cecilton,0.0,0.0,992
+city_Center Point,0.0,0.0,993
+city_Center Tuftonboro,0.0,0.0,994
+city_Cherokee Village,0.0,0.0,995
+city_Chester,0.0,0.0,996
+city_Chester Heights,0.0,0.0,997
+city_Christine,0.0,0.0,998
+city_Churubusco,0.0,0.0,999
+city_Claremont,0.0,0.0,1000
+city_Clarinda,0.0,0.0,1001
+city_Clarksville,0.0,0.0,1002
+city_Clay Center,0.0,0.0,1003
+city_Clayton,0.0,0.0,1004
+city_Clearwater,0.0,0.0,1005
+city_Cleveland,0.0,0.0,1006
+city_Clifton,0.0,0.0,1007
+city_Clune,0.0,0.0,1008
+city_Cochranton,0.0,0.0,1009
+city_Coffeeville,0.0,0.0,1010
+city_Cokeburg,0.0,0.0,1011
+city_Coleharbor,0.0,0.0,1012
+city_Coleman,0.0,0.0,1013
+city_Collegeville,0.0,0.0,1014
+city_Collettsville,0.0,0.0,1015
+city_Colorado Springs,0.0,0.0,1016
+city_Colton,0.0,0.0,1017
+city_Columbia,0.0,0.0,1018
+city_Comfort,0.0,0.0,1019
+city_Comfrey,0.0,0.0,1020
+city_Conway,0.0,0.0,1021
+city_Cord,0.0,0.0,1022
+city_Corona,0.0,0.0,1023
+city_Corriganville,0.0,0.0,1024
+city_Corsica,0.0,0.0,1025
+city_Cowlesville,0.0,0.0,1026
+city_Cranks,0.0,0.0,1027
+city_Creola,0.0,0.0,1028
+city_Cromona,0.0,0.0,1029
+city_Cross,0.0,0.0,1030
+city_Cross Plains,0.0,0.0,1031
+city_Crownpoint,0.0,0.0,1032
+city_Curlew,0.0,0.0,1033
+city_Cuthbert,0.0,0.0,1034
+city_Cuyahoga Falls,0.0,0.0,1035
+city_Dadeville,0.0,0.0,1036
+city_Dallas,0.0,0.0,1037
+city_Dalton,0.0,0.0,1038
+city_Daly City,0.0,0.0,1039
+city_Damascus,0.0,0.0,1040
+city_Daniels,0.0,0.0,1041
+city_Dayton,0.0,0.0,1042
+city_De Lancey,0.0,0.0,1043
+city_De Queen,0.0,0.0,1044
+city_De Soto,0.0,0.0,1045
+city_De Witt,0.0,0.0,1046
+city_Deadwood,0.0,0.0,1047
+city_Deane,0.0,0.0,1048
+city_Delhi,0.0,0.0,1049
+city_Dexter,0.0,0.0,1050
+city_Dieterich,0.0,0.0,1051
+city_Dongola,0.0,0.0,1052
+city_Downsville,0.0,0.0,1053
+city_Du Pont,0.0,0.0,1054
+city_Dublin,0.0,0.0,1055
+city_Dubre,0.0,0.0,1056
+city_Dumont,0.0,0.0,1057
+city_Duncan,0.0,0.0,1058
+city_Dunlevy,0.0,0.0,1059
+city_Eagarville,0.0,0.0,1060
+city_Early,0.0,0.0,1061
+city_East Andover,0.0,0.0,1062
+city_East Rochester,0.0,0.0,1063
+city_East Troy,0.0,0.0,1064
+city_Easton,0.0,0.0,1065
+city_Edinburg,0.0,0.0,1066
+city_Edisto Island,0.0,0.0,1067
+city_Egan,0.0,0.0,1068
+city_Ehrhardt,0.0,0.0,1069
+city_El Paso,0.0,0.0,1070
+city_Elberta,0.0,0.0,1071
+city_Eldridge,0.0,0.0,1072
+city_Elizabeth,0.0,0.0,1073
+city_Elizabethtown,0.0,0.0,1074
+city_Elk Rapids,0.0,0.0,1075
+city_Elkhart,0.0,0.0,1076
+city_Emmons,0.0,0.0,1077
+city_Emporium,0.0,0.0,1078
+city_Enola,0.0,0.0,1079
+city_Esbon,0.0,0.0,1080
+city_Espanola,0.0,0.0,1081
+city_Eugene,0.0,0.0,1082
+city_Fairhope,0.0,0.0,1083
+city_Fairview,0.0,0.0,1084
+city_Falconer,0.0,0.0,1085
+city_Falls City,0.0,0.0,1086
+city_Falmouth,0.0,0.0,1087
+city_Fayetteville,0.0,0.0,1088
+city_Fenelton,0.0,0.0,1089
+city_Ferney,0.0,0.0,1090
+city_Fiddletown,0.0,0.0,1091
+city_Fields Landing,0.0,0.0,1092
+city_Fordoche,0.0,0.0,1093
+city_Fort Myers,0.0,0.0,1094
+city_Fort Washakie,0.0,0.0,1095
+city_Freedom,0.0,0.0,1096
+city_Fullerton,0.0,0.0,1097
+city_Fulton,0.0,0.0,1098
+city_Gainesville,0.0,0.0,1099
+city_Gaithersburg,0.0,0.0,1100
+city_Galatia,0.0,0.0,1101
+city_Gardiner,0.0,0.0,1102
+city_Garfield,0.0,0.0,1103
+city_Garrattsville,0.0,0.0,1104
+city_Gibsonville,0.0,0.0,1105
+city_Girard,0.0,0.0,1106
+city_Glade Spring,0.0,0.0,1107
+city_Glen Rock,0.0,0.0,1108
+city_Goodrich,0.0,0.0,1109
+city_Goreville,0.0,0.0,1110
+city_Grand Bay,0.0,0.0,1111
+city_Grand Ridge,0.0,0.0,1112
+city_Grandview,0.0,0.0,1113
+city_Graniteville,0.0,0.0,1114
+city_Grant,0.0,0.0,1115
+city_Grantham,0.0,0.0,1116
+city_Grassflat,0.0,0.0,1117
+city_Great Mills,0.0,0.0,1118
+city_Greenbush,0.0,0.0,1119
+city_Greendale,0.0,0.0,1120
+city_Greenview,0.0,0.0,1121
+city_Greenville,0.0,0.0,1122
+city_Greenwich,0.0,0.0,1123
+city_Greenwood,0.0,0.0,1124
+city_Gregory,0.0,0.0,1125
+city_Grenada,0.0,0.0,1126
+city_Gretna,0.0,0.0,1127
+city_Grimesland,0.0,0.0,1128
+city_Hahira,0.0,0.0,1129
+city_Haines City,0.0,0.0,1130
+city_Halma,0.0,0.0,1131
+city_Hampton,0.0,0.0,1132
+city_Hannawa Falls,0.0,0.0,1133
+city_Harborcreek,0.0,0.0,1134
+city_Harmony,0.0,0.0,1135
+city_Harper,0.0,0.0,1136
+city_Harrington Park,0.0,0.0,1137
+city_Harrodsburg,0.0,0.0,1138
+city_Harwood,0.0,0.0,1139
+city_Hatch,0.0,0.0,1140
+city_Haw River,0.0,0.0,1141
+city_Hawley,0.0,0.0,1142
+city_Hawthorne,0.0,0.0,1143
+city_Haynes,0.0,0.0,1144
+city_Hazel,0.0,0.0,1145
+city_Hedley,0.0,0.0,1146
+city_Hedrick,0.0,0.0,1147
+city_Heidelberg,0.0,0.0,1148
+city_Heiskell,0.0,0.0,1149
+city_Helm,0.0,0.0,1150
+city_Henderson,0.0,0.0,1151
+city_Hewitt,0.0,0.0,1152
+city_Higganum,0.0,0.0,1153
+city_High Rolls Mountain Park,0.0,0.0,1154
+city_Hills,0.0,0.0,1155
+city_Hinckley,0.0,0.0,1156
+city_Hinesburg,0.0,0.0,1157
+city_Holcomb,0.0,0.0,1158
+city_Holliday,0.0,0.0,1159
+city_Holstein,0.0,0.0,1160
+city_Hopewell,0.0,0.0,1161
+city_Hopkins,0.0,0.0,1162
+city_Houston,0.0,0.0,1163
+city_Hovland,0.0,0.0,1164
+city_Howells,0.0,0.0,1165
+city_Howes Cave,0.0,0.0,1166
+city_Hudson,0.0,0.0,1167
+city_Humble,0.0,0.0,1168
+city_Humboldt,0.0,0.0,1169
+city_Huntington Beach,0.0,0.0,1170
+city_Huntsville,0.0,0.0,1171
+city_Hurley,0.0,0.0,1172
+city_Hurricane,0.0,0.0,1173
+city_Huslia,0.0,0.0,1174
+city_Iliff,0.0,0.0,1175
+city_Independence,0.0,0.0,1176
+city_Indian Wells,0.0,0.0,1177
+city_Indianapolis,0.0,0.0,1178
+city_Ironton,0.0,0.0,1179
+city_Irvine,0.0,0.0,1180
+city_Irwinton,0.0,0.0,1181
+city_Iselin,0.0,0.0,1182
+city_Jefferson,0.0,0.0,1183
+city_Jelm,0.0,0.0,1184
+city_Jermyn,0.0,0.0,1185
+city_Johns Island,0.0,0.0,1186
+city_Joliet,0.0,0.0,1187
+city_Jones,0.0,0.0,1188
+city_Jordan Valley,0.0,0.0,1189
+city_Jordanville,0.0,0.0,1190
+city_Juliette,0.0,0.0,1191
+city_June Lake,0.0,0.0,1192
+city_Kansas City,0.0,0.0,1193
+city_Karnack,0.0,0.0,1194
+city_Keller,0.0,0.0,1195
+city_Kenner,0.0,0.0,1196
+city_Kensington,0.0,0.0,1197
+city_Kent,0.0,0.0,1198
+city_Key West,0.0,0.0,1199
+city_Kilgore,0.0,0.0,1200
+city_Kings Bay,0.0,0.0,1201
+city_Kingsford Heights,0.0,0.0,1202
+city_Kingsport,0.0,0.0,1203
+city_Kingsville,0.0,0.0,1204
+city_Kirby,0.0,0.0,1205
+city_Kirk,0.0,0.0,1206
+city_Kirtland Afb,0.0,0.0,1207
+city_Kissee Mills,0.0,0.0,1208
+city_Kittery Point,0.0,0.0,1209
+city_Knowlesville,0.0,0.0,1210
+city_Knoxville,0.0,0.0,1211
+city_Lagrange,0.0,0.0,1212
+city_Laguna Hills,0.0,0.0,1213
+city_Lahoma,0.0,0.0,1214
+city_Lake Jackson,0.0,0.0,1215
+city_Lakeland,0.0,0.0,1216
+city_Lakeview,0.0,0.0,1217
+city_Lamy,0.0,0.0,1218
+city_Lanark Village,0.0,0.0,1219
+city_Lane,0.0,0.0,1220
+city_Laramie,0.0,0.0,1221
+city_Laredo,0.0,0.0,1222
+city_Lawn,0.0,0.0,1223
+city_Lawrence,0.0,0.0,1224
+city_Lebanon,0.0,0.0,1225
+city_Leo,0.0,0.0,1226
+city_Lepanto,0.0,0.0,1227
+city_Liberty Mills,0.0,0.0,1228
+city_Lima,0.0,0.0,1229
+city_Lithopolis,0.0,0.0,1230
+city_Loami,0.0,0.0,1231
+city_Logan,0.0,0.0,1232
+city_Lohrville,0.0,0.0,1233
+city_Lolita,0.0,0.0,1234
+city_Lonetree,0.0,0.0,1235
+city_Los Angeles,0.0,0.0,1236
+city_Louisiana,0.0,0.0,1237
+city_Lowell,0.0,0.0,1238
+city_Lowville,0.0,0.0,1239
+city_Loxahatchee,0.0,0.0,1240
+city_Lubbock,0.0,0.0,1241
+city_Luray,0.0,0.0,1242
+city_Luzerne,0.0,0.0,1243
+city_Malad City,0.0,0.0,1244
+city_Mallie,0.0,0.0,1245
+city_Manchester,0.0,0.0,1246
+city_Manderson,0.0,0.0,1247
+city_Manistique,0.0,0.0,1248
+city_Manley,0.0,0.0,1249
+city_Manor,0.0,0.0,1250
+city_Manquin,0.0,0.0,1251
+city_Mansfield,0.0,0.0,1252
+city_Marathon,0.0,0.0,1253
+city_Margaretville,0.0,0.0,1254
+city_Marienville,0.0,0.0,1255
+city_Marietta,0.0,0.0,1256
+city_Marion,0.0,0.0,1257
+city_Matawan,0.0,0.0,1258
+city_Matthews,0.0,0.0,1259
+city_May,0.0,0.0,1260
+city_Mayersville,0.0,0.0,1261
+city_Mc Clellandtown,0.0,0.0,1262
+city_Mc Cracken,0.0,0.0,1263
+city_Mc Nabb,0.0,0.0,1264
+city_Mc Veytown,0.0,0.0,1265
+city_Meadville,0.0,0.0,1266
+city_Melbourne,0.0,0.0,1267
+city_Mendon,0.0,0.0,1268
+city_Meredith,0.0,0.0,1269
+city_Mesa,0.0,0.0,1270
+city_Metairie,0.0,0.0,1271
+city_Methuen,0.0,0.0,1272
+city_Miamisburg,0.0,0.0,1273
+city_Michigan,0.0,0.0,1274
+city_Mifflin,0.0,0.0,1275
+city_Milford,0.0,0.0,1276
+city_Mill Creek,0.0,0.0,1277
+city_Milner,0.0,0.0,1278
+city_Milwaukee,0.0,0.0,1279
+city_Minneapolis,0.0,0.0,1280
+city_Minnesota Lake,0.0,0.0,1281
+city_Moab,0.0,0.0,1282
+city_Mobile,0.0,0.0,1283
+city_Monetta,0.0,0.0,1284
+city_Monitor,0.0,0.0,1285
+city_Monmouth Beach,0.0,0.0,1286
+city_Montandon,0.0,0.0,1287
+city_Montgomery,0.0,0.0,1288
+city_Montrose,0.0,0.0,1289
+city_Mooresville,0.0,0.0,1290
+city_Moriarty,0.0,0.0,1291
+city_Moriches,0.0,0.0,1292
+city_Moro,0.0,0.0,1293
+city_Moscow,0.0,0.0,1294
+city_Moulton,0.0,0.0,1295
+city_Mounds,0.0,0.0,1296
+city_Moundsville,0.0,0.0,1297
+city_Mount Clemens,0.0,0.0,1298
+city_Mount Hope,0.0,0.0,1299
+city_Mount Morris,0.0,0.0,1300
+city_Mount Perry,0.0,0.0,1301
+city_Mount Saint Joseph,0.0,0.0,1302
+city_Mountain Park,0.0,0.0,1303
+city_Mulberry Grove,0.0,0.0,1304
+city_Munith,0.0,0.0,1305
+city_Murfreesboro,0.0,0.0,1306
+city_Murrayville,0.0,0.0,1307
+city_Muskegon,0.0,0.0,1308
+city_Napa,0.0,0.0,1309
+city_Naples,0.0,0.0,1310
+city_Nazareth,0.0,0.0,1311
+city_Nelson,0.0,0.0,1312
+city_New Ellenton,0.0,0.0,1313
+city_New Goshen,0.0,0.0,1314
+city_New Holstein,0.0,0.0,1315
+city_New Memphis,0.0,0.0,1316
+city_New Waverly,0.0,0.0,1317
+city_Newark Valley,0.0,0.0,1318
+city_Newhall,0.0,0.0,1319
+city_Newport,0.0,0.0,1320
+city_Newton,0.0,0.0,1321
+city_Nobleboro,0.0,0.0,1322
+city_Nokomis,0.0,0.0,1323
+city_Noonan,0.0,0.0,1324
+city_Norman,0.0,0.0,1325
+city_Norman Park,0.0,0.0,1326
+city_North Augusta,0.0,0.0,1327
+city_North Brookfield,0.0,0.0,1328
+city_North Haverhill,0.0,0.0,1329
+city_North Judson,0.0,0.0,1330
+city_North Las Vegas,0.0,0.0,1331
+city_North Loup,0.0,0.0,1332
+city_North Prairie,0.0,0.0,1333
+city_North Tonawanda,0.0,0.0,1334
+city_North Washington,0.0,0.0,1335
+city_North Wilkesboro,0.0,0.0,1336
+city_Norwalk,0.0,0.0,1337
+city_Notrees,0.0,0.0,1338
+city_O Brien,0.0,0.0,1339
+city_Oak Hill,0.0,0.0,1340
+city_Oakdale,0.0,0.0,1341
+city_Oakford,0.0,0.0,1342
+city_Oaks,0.0,0.0,1343
+city_Oconto Falls,0.0,0.0,1344
+city_Ogdensburg,0.0,0.0,1345
+city_Oklahoma City,0.0,0.0,1346
+city_Old Hickory,0.0,0.0,1347
+city_Ollie,0.0,0.0,1348
+city_Olmsted,0.0,0.0,1349
+city_Omaha,0.0,0.0,1350
+city_Oran,0.0,0.0,1351
+city_Orangeburg,0.0,0.0,1352
+city_Orr,0.0,0.0,1353
+city_Oxford,0.0,0.0,1354
+city_Ozawkie,0.0,0.0,1355
+city_Paauilo,0.0,0.0,1356
+city_Paint Rock,0.0,0.0,1357
+city_Palermo,0.0,0.0,1358
+city_Palmyra,0.0,0.0,1359
+city_Paris,0.0,0.0,1360
+city_Parker,0.0,0.0,1361
+city_Parker Dam,0.0,0.0,1362
+city_Parkers Lake,0.0,0.0,1363
+city_Parks,0.0,0.0,1364
+city_Parsonsfield,0.0,0.0,1365
+city_Paulding,0.0,0.0,1366
+city_Paxton,0.0,0.0,1367
+city_Payson,0.0,0.0,1368
+city_Pearlington,0.0,0.0,1369
+city_Pecos,0.0,0.0,1370
+city_Pembroke,0.0,0.0,1371
+city_Pembroke Township,0.0,0.0,1372
+city_Pewee Valley,0.0,0.0,1373
+city_Phenix City,0.0,0.0,1374
+city_Phil Campbell,0.0,0.0,1375
+city_Philadelphia,0.0,0.0,1376
+city_Pikesville,0.0,0.0,1377
+city_Pittsburgh,0.0,0.0,1378
+city_Plainfield,0.0,0.0,1379
+city_Plantersville,0.0,0.0,1380
+city_Pointe Aux Pins,0.0,0.0,1381
+city_Pomona,0.0,0.0,1382
+city_Port Charlotte,0.0,0.0,1383
+city_Port Costa,0.0,0.0,1384
+city_Port Richey,0.0,0.0,1385
+city_Port Saint Lucie,0.0,0.0,1386
+city_Portland,0.0,0.0,1387
+city_Powell,0.0,0.0,1388
+city_Powell Butte,0.0,0.0,1389
+city_Prairie Creek,0.0,0.0,1390
+city_Prairie Hill,0.0,0.0,1391
+city_Premier,0.0,0.0,1392
+city_Providence,0.0,0.0,1393
+city_Pueblo,0.0,0.0,1394
+city_Purmela,0.0,0.0,1395
+city_Putnam,0.0,0.0,1396
+city_Quanah,0.0,0.0,1397
+city_Queenstown,0.0,0.0,1398
+city_Ragland,0.0,0.0,1399
+city_Randolph,0.0,0.0,1400
+city_Ranier,0.0,0.0,1401
+city_Ratcliff,0.0,0.0,1402
+city_Ravenna,0.0,0.0,1403
+city_Red Cliff,0.0,0.0,1404
+city_Red River,0.0,0.0,1405
+city_Redford,0.0,0.0,1406
+city_Reno,0.0,0.0,1407
+city_Republic,0.0,0.0,1408
+city_Rhame,0.0,0.0,1409
+city_Ringwood,0.0,0.0,1410
+city_Riverton,0.0,0.0,1411
+city_Riverview,0.0,0.0,1412
+city_Rochester,0.0,0.0,1413
+city_Rock Glen,0.0,0.0,1414
+city_Rock Springs,0.0,0.0,1415
+city_Rock Tavern,0.0,0.0,1416
+city_Rockwell,0.0,0.0,1417
+city_Rockwood,0.0,0.0,1418
+city_Roma,0.0,0.0,1419
+city_Romulus,0.0,0.0,1420
+city_Ronceverte,0.0,0.0,1421
+city_Roseland,0.0,0.0,1422
+city_Rosewood,0.0,0.0,1423
+city_Ruckersville,0.0,0.0,1424
+city_Ruidoso,0.0,0.0,1425
+city_Rule,0.0,0.0,1426
+city_Rumely,0.0,0.0,1427
+city_Ruth,0.0,0.0,1428
+city_Sacramento,0.0,0.0,1429
+city_Saint Bonaventure,0.0,0.0,1430
+city_Saint Francis,0.0,0.0,1431
+city_Saint James City,0.0,0.0,1432
+city_Saint Louis,0.0,0.0,1433
+city_Saint Paul,0.0,0.0,1434
+city_Saint Petersburg,0.0,0.0,1435
+city_San Angelo,0.0,0.0,1436
+city_San Antonio,0.0,0.0,1437
+city_San Diego,0.0,0.0,1438
+city_San Jose,0.0,0.0,1439
+city_Sardis,0.0,0.0,1440
+city_Sauk Rapids,0.0,0.0,1441
+city_Saxon,0.0,0.0,1442
+city_Scarborough,0.0,0.0,1443
+city_Schaefferstown,0.0,0.0,1444
+city_Schaumburg,0.0,0.0,1445
+city_Scotia,0.0,0.0,1446
+city_Scotland,0.0,0.0,1447
+city_Scotts Mills,0.0,0.0,1448
+city_Sea Island,0.0,0.0,1449
+city_Sebring,0.0,0.0,1450
+city_Seneca,0.0,0.0,1451
+city_Shedd,0.0,0.0,1452
+city_Shelter Island,0.0,0.0,1453
+city_Shenandoah Junction,0.0,0.0,1454
+city_Shields,0.0,0.0,1455
+city_Shippingport,0.0,0.0,1456
+city_Sixes,0.0,0.0,1457
+city_Skytop,0.0,0.0,1458
+city_Slayden,0.0,0.0,1459
+city_Smith River,0.0,0.0,1460
+city_Smithfield,0.0,0.0,1461
+city_Smock,0.0,0.0,1462
+city_Sontag,0.0,0.0,1463
+city_South Hero,0.0,0.0,1464
+city_South Londonderry,0.0,0.0,1465
+city_South Richmond Hill,0.0,0.0,1466
+city_Spearsville,0.0,0.0,1467
+city_Spencer,0.0,0.0,1468
+city_Spring,0.0,0.0,1469
+city_Springfield,0.0,0.0,1470
+city_Springfield Gardens,0.0,0.0,1471
+city_Stanchfield,0.0,0.0,1472
+city_Stephensport,0.0,0.0,1473
+city_Sterling City,0.0,0.0,1474
+city_Stillwater,0.0,0.0,1475
+city_Stittville,0.0,0.0,1476
+city_Stoneham,0.0,0.0,1477
+city_Sturgis,0.0,0.0,1478
+city_Sula,0.0,0.0,1479
+city_Summerfield,0.0,0.0,1480
+city_Sunflower,0.0,0.0,1481
+city_Superior,0.0,0.0,1482
+city_Syracuse,0.0,0.0,1483
+city_Tallmansville,0.0,0.0,1484
+city_Tamaroa,0.0,0.0,1485
+city_Tampa,0.0,0.0,1486
+city_Tekoa,0.0,0.0,1487
+city_Texarkana,0.0,0.0,1488
+city_Thida,0.0,0.0,1489
+city_Thompson,0.0,0.0,1490
+city_Thornville,0.0,0.0,1491
+city_Tickfaw,0.0,0.0,1492
+city_Timberville,0.0,0.0,1493
+city_Tiptonville,0.0,0.0,1494
+city_Tomahawk,0.0,0.0,1495
+city_Tomales,0.0,0.0,1496
+city_Topeka,0.0,0.0,1497
+city_Tower Hill,0.0,0.0,1498
+city_Tryon,0.0,0.0,1499
+city_Tulsa,0.0,0.0,1500
+city_Tupper Lake,0.0,0.0,1501
+city_Tuscarora,0.0,0.0,1502
+city_Tyaskin,0.0,0.0,1503
+city_Tyler,0.0,0.0,1504
+city_Umatilla,0.0,0.0,1505
+city_Union,0.0,0.0,1506
+city_Unionville,0.0,0.0,1507
+city_University,0.0,0.0,1508
+city_Utica,0.0,0.0,1509
+city_Valdosta,0.0,0.0,1510
+city_Valentine,0.0,0.0,1511
+city_Vancouver,0.0,0.0,1512
+city_Vanderbilt,0.0,0.0,1513
+job_Visual merchandiser,0.0,0.0,1514
+"job_Therapist, occupational",0.0,0.0,1515
+"job_Therapist, sports",0.0,0.0,1516
+city_Vienna,0.0,0.0,1517
+city_Vinton,0.0,0.0,1518
+job_Tourism officer,0.0,0.0,1519
+city_Wales,0.0,0.0,1520
+city_Walnut Ridge,0.0,0.0,1521
+city_Warren,0.0,0.0,1522
+city_Washington,0.0,0.0,1523
+city_Washington Court House,0.0,0.0,1524
+city_Washoe Valley,0.0,0.0,1525
+job_Town planner,0.0,0.0,1526
+job_Trading standards officer,0.0,0.0,1527
+city_Waukesha,0.0,0.0,1528
+city_Waupaca,0.0,0.0,1529
+city_Waynesfield,0.0,0.0,1530
+city_Webster City,0.0,0.0,1531
+city_Weeping Water,0.0,0.0,1532
+city_Wendel,0.0,0.0,1533
+city_West Bethel,0.0,0.0,1534
+city_West Chazy,0.0,0.0,1535
+city_West Columbia,0.0,0.0,1536
+city_West Decatur,0.0,0.0,1537
+job_Training and development officer,0.0,0.0,1538
+job_Transport planner,0.0,0.0,1539
+city_West Green,0.0,0.0,1540
+city_West Harrison,0.0,0.0,1541
+city_West Hartford,0.0,0.0,1542
+city_West Henrietta,0.0,0.0,1543
+city_West Long Branch,0.0,0.0,1544
+city_West Monroe,0.0,0.0,1545
+city_West Palm Beach,0.0,0.0,1546
+job_Travel agency manager,0.0,0.0,1547
+city_Westerville,0.0,0.0,1548
+city_Westfir,0.0,0.0,1549
+city_Westhampton Beach,0.0,0.0,1550
+city_Westport,0.0,0.0,1551
+city_Wetmore,0.0,0.0,1552
+city_Wever,0.0,0.0,1553
+city_Whaleyville,0.0,0.0,1554
+city_Wheaton,0.0,0.0,1555
+job_Tree surgeon,0.0,0.0,1556
+city_White Sulphur Springs,0.0,0.0,1557
+"job_Therapist, music",0.0,0.0,1558
+city_Wichita,0.0,0.0,1559
+merchant_fraud_Bahringer Group,0.0,0.0,1560
+city_Williamsburg,0.0,0.0,1561
+city_Wilmette,0.0,0.0,1562
+city_Wilmington,0.0,0.0,1563
+"merchant_fraud_Bahringer, Schoen and Corkery",0.0,0.0,1564
+city_Winfield,0.0,0.0,1565
+city_Winger,0.0,0.0,1566
+city_Winslow,0.0,0.0,1567
+city_Winter,0.0,0.0,1568
+city_Winthrop,0.0,0.0,1569
+city_Wittenberg,0.0,0.0,1570
+city_Woods Cross,0.0,0.0,1571
+merchant_fraud_Bahringer-Larson,0.0,0.0,1572
+city_Yellowstone National Park,0.0,0.0,1573
+city_Zaleski,0.0,0.0,1574
+merchant_fraud_Bahringer-Streich,0.0,0.0,1575
+state_AK,0.0,0.0,1576
+merchant_fraud_Bailey-Morar,0.0,0.0,1577
+merchant_fraud_Balistreri-Nader,0.0,0.0,1578
+merchant_fraud_Bartoletti and Sons,0.0,0.0,1579
+merchant_fraud_Bartoletti-Wunsch,0.0,0.0,1580
+merchant_fraud_Barton Inc,0.0,0.0,1581
+merchant_fraud_Bauch-Blanda,0.0,0.0,1582
+state_DC,0.0,0.0,1583
+merchant_fraud_Bauch-Raynor,0.0,0.0,1584
+"merchant_fraud_Baumbach, Feeney and Morar",0.0,0.0,1585
+state_HI,0.0,0.0,1586
+"merchant_fraud_Baumbach, Hodkiewicz and Walsh",0.0,0.0,1587
+merchant_fraud_Bechtelar-Rippin,0.0,0.0,1588
+"merchant_fraud_Becker, Harris and Harvey",0.0,0.0,1589
+merchant_fraud_Bednar Group,0.0,0.0,1590
+merchant_fraud_Bednar Inc,0.0,0.0,1591
+merchant_fraud_Beier LLC,0.0,0.0,1592
+merchant_fraud_Beier and Sons,0.0,0.0,1593
+merchant_fraud_Beier-Hyatt,0.0,0.0,1594
+"merchant_fraud_Berge, Kautzer and Harris",0.0,0.0,1595
+state_ME,0.0,0.0,1596
+merchant_fraud_Berge-Hills,0.0,0.0,1597
+merchant_fraud_Berge-Ullrich,0.0,0.0,1598
+merchant_fraud_Bernhard Inc,0.0,0.0,1599
+"merchant_fraud_Bernhard, Grant and Langworth",0.0,0.0,1600
+merchant_fraud_Bernhard-Lesch,0.0,0.0,1601
+"merchant_fraud_Bernier, Streich and Jewess",0.0,0.0,1602
+"merchant_fraud_Bernier, Volkman and Hoeger",0.0,0.0,1603
+"merchant_fraud_Bins, Balistreri and Beatty",0.0,0.0,1604
+merchant_fraud_Bins-Howell,0.0,0.0,1605
+merchant_fraud_Bins-Tillman,0.0,0.0,1606
+merchant_fraud_Block Group,0.0,0.0,1607
+state_NV,0.0,0.0,1608
+merchant_fraud_Block-Hauck,0.0,0.0,1609
+merchant_fraud_Bode-Rempel,0.0,0.0,1610
+"merchant_fraud_Boehm, Block and Jakubowski",0.0,0.0,1611
+"merchant_fraud_Boehm, Predovic and Reinger",0.0,0.0,1612
+merchant_fraud_Bogisich Inc,0.0,0.0,1613
+state_RI,0.0,0.0,1614
+merchant_fraud_Bogisich-Homenick,0.0,0.0,1615
+merchant_fraud_Bogisich-Weimann,0.0,0.0,1616
+merchant_fraud_Botsford Ltd,0.0,0.0,1617
+merchant_fraud_Botsford PLC,0.0,0.0,1618
+merchant_fraud_Boyer-Haley,0.0,0.0,1619
+merchant_fraud_Boyer-Reichert,0.0,0.0,1620
+merchant_fraud_Bradtke PLC,0.0,0.0,1621
+"merchant_fraud_Bradtke, Torp and Bahringer",0.0,0.0,1622
+merchant_fraud_Breitenberg LLC,0.0,0.0,1623
+merchant_fraud_Breitenberg-Hermiston,0.0,0.0,1624
+merchant_fraud_Brekke and Sons,0.0,0.0,1625
+zip_10039,0.0,0.0,1626
+merchant_fraud_Brown PLC,0.0,0.0,1627
+zip_10280,0.0,0.0,1628
+zip_10463,0.0,0.0,1629
+zip_10504,0.0,0.0,1630
+zip_10548,0.0,0.0,1631
+zip_10604,0.0,0.0,1632
+zip_10962,0.0,0.0,1633
+zip_10970,0.0,0.0,1634
+zip_11217,0.0,0.0,1635
+zip_11413,0.0,0.0,1636
+zip_11419,0.0,0.0,1637
+"merchant_fraud_Brown, Homenick and Lesch",0.0,0.0,1638
+merchant_fraud_Brown-Greenholt,0.0,0.0,1639
+zip_11769,0.0,0.0,1640
+merchant_fraud_Buckridge PLC,0.0,0.0,1641
+zip_11955,0.0,0.0,1642
+zip_11957,0.0,0.0,1643
+zip_11964,0.0,0.0,1644
+zip_11978,0.0,0.0,1645
+merchant_fraud_Cartwright PLC,0.0,0.0,1646
+zip_12092,0.0,0.0,1647
+zip_12093,0.0,0.0,1648
+zip_12222,0.0,0.0,1649
+zip_12410,0.0,0.0,1650
+merchant_fraud_Cartwright-Harris,0.0,0.0,1651
+zip_12455,0.0,0.0,1652
+zip_12460,0.0,0.0,1653
+zip_12466,0.0,0.0,1654
+zip_12534,0.0,0.0,1655
+zip_1257,0.0,0.0,1656
+zip_12575,0.0,0.0,1657
+zip_12910,0.0,0.0,1658
+zip_12986,0.0,0.0,1659
+zip_12992,0.0,0.0,1660
+zip_1330,0.0,0.0,1661
+zip_13304,0.0,0.0,1662
+zip_13316,0.0,0.0,1663
+zip_13342,0.0,0.0,1664
+zip_13361,0.0,0.0,1665
+zip_13367,0.0,0.0,1666
+"merchant_fraud_Casper, Hand and Zulauf",0.0,0.0,1667
+zip_13469,0.0,0.0,1668
+merchant_fraud_Champlin and Sons,0.0,0.0,1669
+zip_13615,0.0,0.0,1670
+zip_13647,0.0,0.0,1671
+zip_13752,0.0,0.0,1672
+zip_13755,0.0,0.0,1673
+zip_13795,0.0,0.0,1674
+zip_13811,0.0,0.0,1675
+zip_14037,0.0,0.0,1676
+zip_14120,0.0,0.0,1677
+zip_14141,0.0,0.0,1678
+"merchant_fraud_Champlin, Rolfson and Connelly",0.0,0.0,1679
+zip_14445,0.0,0.0,1680
+zip_14479,0.0,0.0,1681
+zip_14510,0.0,0.0,1682
+zip_14522,0.0,0.0,1683
+zip_14537,0.0,0.0,1684
+zip_14586,0.0,0.0,1685
+zip_14707,0.0,0.0,1686
+zip_14711,0.0,0.0,1687
+zip_14733,0.0,0.0,1688
+zip_14778,0.0,0.0,1689
+zip_14816,0.0,0.0,1690
+zip_15010,0.0,0.0,1691
+merchant_fraud_Champlin-Casper,0.0,0.0,1692
+zip_15077,0.0,0.0,1693
+zip_15217,0.0,0.0,1694
+zip_15324,0.0,0.0,1695
+zip_1535,0.0,0.0,1696
+"merchant_fraud_Christiansen, Goyette and Schamberger",0.0,0.0,1697
+zip_15432,0.0,0.0,1698
+merchant_fraud_Christiansen-Gusikowski,0.0,0.0,1699
+merchant_fraud_Cole PLC,0.0,0.0,1700
+zip_15458,0.0,0.0,1701
+zip_15480,0.0,0.0,1702
+"merchant_fraud_Cole, Hills and Jewess",0.0,0.0,1703
+zip_15486,0.0,0.0,1704
+zip_15557,0.0,0.0,1705
+zip_15665,0.0,0.0,1706
+zip_15686,0.0,0.0,1707
+zip_15727,0.0,0.0,1708
+zip_15829,0.0,0.0,1709
+zip_15834,0.0,0.0,1710
+zip_15920,0.0,0.0,1711
+merchant_fraud_Collier Inc,0.0,0.0,1712
+zip_16034,0.0,0.0,1713
+zip_16037,0.0,0.0,1714
+zip_16048,0.0,0.0,1715
+zip_16114,0.0,0.0,1716
+zip_1612,0.0,0.0,1717
+zip_16239,0.0,0.0,1718
+zip_16314,0.0,0.0,1719
+zip_16329,0.0,0.0,1720
+zip_16362,0.0,0.0,1721
+zip_16421,0.0,0.0,1722
+zip_16839,0.0,0.0,1723
+zip_16858,0.0,0.0,1724
+zip_16878,0.0,0.0,1725
+zip_17041,0.0,0.0,1726
+zip_17051,0.0,0.0,1727
+zip_17058,0.0,0.0,1728
+zip_17060,0.0,0.0,1729
+zip_17088,0.0,0.0,1730
+zip_17327,0.0,0.0,1731
+zip_17850,0.0,0.0,1732
+merchant_fraud_Collier LLC,0.0,0.0,1733
+zip_18103,0.0,0.0,1734
+zip_18246,0.0,0.0,1735
+zip_18357,0.0,0.0,1736
+zip_1843,0.0,0.0,1737
+zip_18433,0.0,0.0,1738
+zip_1844,0.0,0.0,1739
+zip_18917,0.0,0.0,1740
+"merchant_fraud_Connelly, Reichert and Fritsch",0.0,0.0,1741
+zip_19017,0.0,0.0,1742
+zip_19149,0.0,0.0,1743
+zip_19154,0.0,0.0,1744
+zip_19310,0.0,0.0,1745
+zip_19456,0.0,0.0,1746
+merchant_fraud_Connelly-Carter,0.0,0.0,1747
+zip_20017,0.0,0.0,1748
+zip_20036,0.0,0.0,1749
+merchant_fraud_Conroy Ltd,0.0,0.0,1750
+zip_20687,0.0,0.0,1751
+zip_20776,0.0,0.0,1752
+zip_20882,0.0,0.0,1753
+zip_20895,0.0,0.0,1754
+zip_21087,0.0,0.0,1755
+merchant_fraud_Conroy-Emard,0.0,0.0,1756
+zip_21102,0.0,0.0,1757
+zip_21208,0.0,0.0,1758
+zip_21405,0.0,0.0,1759
+zip_21524,0.0,0.0,1760
+zip_21619,0.0,0.0,1761
+zip_21658,0.0,0.0,1762
+zip_21750,0.0,0.0,1763
+zip_21790,0.0,0.0,1764
+zip_2180,0.0,0.0,1765
+zip_21865,0.0,0.0,1766
+zip_21872,0.0,0.0,1767
+zip_21913,0.0,0.0,1768
+zip_22015,0.0,0.0,1769
+zip_22046,0.0,0.0,1770
+zip_22151,0.0,0.0,1771
+zip_22204,0.0,0.0,1772
+zip_22213,0.0,0.0,1773
+zip_22311,0.0,0.0,1774
+zip_22719,0.0,0.0,1775
+zip_22810,0.0,0.0,1776
+zip_22824,0.0,0.0,1777
+zip_22853,0.0,0.0,1778
+zip_22968,0.0,0.0,1779
+zip_23106,0.0,0.0,1780
+zip_23303,0.0,0.0,1781
+zip_23357,0.0,0.0,1782
+zip_23666,0.0,0.0,1783
+merchant_fraud_Cormier LLC,0.0,0.0,1784
+zip_23860,0.0,0.0,1785
+"merchant_fraud_Cormier, Stracke and Thiel",0.0,0.0,1786
+zip_24070,0.0,0.0,1787
+zip_24236,0.0,0.0,1788
+zip_24266,0.0,0.0,1789
+zip_24340,0.0,0.0,1790
+merchant_fraud_Corwin-Collins,0.0,0.0,1791
+zip_24878,0.0,0.0,1792
+zip_24927,0.0,0.0,1793
+zip_24970,0.0,0.0,1794
+zip_24983,0.0,0.0,1795
+zip_24986,0.0,0.0,1796
+zip_25049,0.0,0.0,1797
+zip_25106,0.0,0.0,1798
+zip_25213,0.0,0.0,1799
+zip_25442,0.0,0.0,1800
+zip_25526,0.0,0.0,1801
+zip_25832,0.0,0.0,1802
+zip_26041,0.0,0.0,1803
+zip_26237,0.0,0.0,1804
+zip_26292,0.0,0.0,1805
+zip_2630,0.0,0.0,1806
+zip_26339,0.0,0.0,1807
+zip_27249,0.0,0.0,1808
+zip_27258,0.0,0.0,1809
+merchant_fraud_Corwin-Gorczany,0.0,0.0,1810
+zip_27358,0.0,0.0,1811
+merchant_fraud_Corwin-Romaguera,0.0,0.0,1812
+zip_27807,0.0,0.0,1813
+zip_27837,0.0,0.0,1814
+"merchant_fraud_Cremin, Hamill and Reichel",0.0,0.0,1815
+zip_28117,0.0,0.0,1816
+zip_28314,0.0,0.0,1817
+zip_28372,0.0,0.0,1818
+zip_28405,0.0,0.0,1819
+zip_28423,0.0,0.0,1820
+merchant_fraud_Crona and Sons,0.0,0.0,1821
+zip_28611,0.0,0.0,1822
+"merchant_fraud_Cronin, Kshlerin and Weber",0.0,0.0,1823
+zip_28659,0.0,0.0,1824
+zip_28901,0.0,0.0,1825
+zip_29032,0.0,0.0,1826
+zip_29061,0.0,0.0,1827
+zip_2908,0.0,0.0,1828
+zip_29081,0.0,0.0,1829
+zip_29105,0.0,0.0,1830
+merchant_fraud_Crooks and Sons,0.0,0.0,1831
+zip_29170,0.0,0.0,1832
+zip_29209,0.0,0.0,1833
+merchant_fraud_Cruickshank-Mills,0.0,0.0,1834
+zip_29324,0.0,0.0,1835
+zip_29436,0.0,0.0,1836
+zip_29438,0.0,0.0,1837
+zip_29455,0.0,0.0,1838
+zip_29661,0.0,0.0,1839
+zip_29809,0.0,0.0,1840
+zip_29817,0.0,0.0,1841
+zip_29819,0.0,0.0,1842
+zip_29860,0.0,0.0,1843
+zip_29911,0.0,0.0,1844
+zip_29939,0.0,0.0,1845
+zip_30009,0.0,0.0,1846
+zip_30257,0.0,0.0,1847
+zip_30426,0.0,0.0,1848
+merchant_fraud_Cummerata-Hilpert,0.0,0.0,1849
+zip_30803,0.0,0.0,1850
+zip_31003,0.0,0.0,1851
+zip_31042,0.0,0.0,1852
+zip_31046,0.0,0.0,1853
+zip_31092,0.0,0.0,1854
+merchant_fraud_Cummings Group,0.0,0.0,1855
+zip_31329,0.0,0.0,1856
+zip_31547,0.0,0.0,1857
+zip_31561,0.0,0.0,1858
+zip_31563,0.0,0.0,1859
+zip_31567,0.0,0.0,1860
+zip_31605,0.0,0.0,1861
+zip_31630,0.0,0.0,1862
+zip_31632,0.0,0.0,1863
+zip_31771,0.0,0.0,1864
+zip_32044,0.0,0.0,1865
+zip_3220,0.0,0.0,1866
+zip_32323,0.0,0.0,1867
+zip_32442,0.0,0.0,1868
+merchant_fraud_Dach-Borer,0.0,0.0,1869
+merchant_fraud_Dach-Nader,0.0,0.0,1870
+merchant_fraud_Dare-Marvin,0.0,0.0,1871
+zip_32784,0.0,0.0,1872
+zip_32935,0.0,0.0,1873
+merchant_fraud_Daugherty LLC,0.0,0.0,1874
+zip_33040,0.0,0.0,1875
+zip_33404,0.0,0.0,1876
+zip_33417,0.0,0.0,1877
+zip_33470,0.0,0.0,1878
+zip_33510,0.0,0.0,1879
+zip_33620,0.0,0.0,1880
+zip_33710,0.0,0.0,1881
+zip_33760,0.0,0.0,1882
+zip_33809,0.0,0.0,1883
+zip_33811,0.0,0.0,1884
+zip_33813,0.0,0.0,1885
+zip_33844,0.0,0.0,1886
+zip_33872,0.0,0.0,1887
+"merchant_fraud_Daugherty, Pouros and Beahan",0.0,0.0,1888
+zip_33909,0.0,0.0,1889
+zip_33956,0.0,0.0,1890
+zip_33967,0.0,0.0,1891
+zip_33981,0.0,0.0,1892
+zip_34112,0.0,0.0,1893
+zip_34120,0.0,0.0,1894
+zip_34135,0.0,0.0,1895
+zip_3452,0.0,0.0,1896
+zip_34668,0.0,0.0,1897
+zip_34953,0.0,0.0,1898
+zip_35022,0.0,0.0,1899
+zip_35049,0.0,0.0,1900
+zip_35131,0.0,0.0,1901
+merchant_fraud_Daugherty-Thompson,0.0,0.0,1902
+zip_35229,0.0,0.0,1903
+zip_35554,0.0,0.0,1904
+zip_35581,0.0,0.0,1905
+zip_35651,0.0,0.0,1906
+zip_35747,0.0,0.0,1907
+zip_35764,0.0,0.0,1908
+merchant_fraud_Deckow-Dare,0.0,0.0,1909
+zip_35803,0.0,0.0,1910
+zip_35811,0.0,0.0,1911
+merchant_fraud_Deckow-O'Conner,0.0,0.0,1912
+zip_35903,0.0,0.0,1913
+zip_36009,0.0,0.0,1914
+zip_3601,0.0,0.0,1915
+zip_36111,0.0,0.0,1916
+merchant_fraud_Denesik and Sons,0.0,0.0,1917
+zip_36507,0.0,0.0,1918
+zip_36532,0.0,0.0,1919
+zip_36541,0.0,0.0,1920
+zip_36617,0.0,0.0,1921
+zip_36749,0.0,0.0,1922
+zip_36758,0.0,0.0,1923
+zip_36775,0.0,0.0,1924
+zip_36853,0.0,0.0,1925
+zip_36869,0.0,0.0,1926
+zip_37040,0.0,0.0,1927
+zip_37132,0.0,0.0,1928
+zip_37138,0.0,0.0,1929
+zip_37165,0.0,0.0,1930
+zip_37302,0.0,0.0,1931
+zip_3753,0.0,0.0,1932
+zip_37663,0.0,0.0,1933
+zip_3774,0.0,0.0,1934
+zip_37754,0.0,0.0,1935
+zip_37849,0.0,0.0,1936
+zip_37932,0.0,0.0,1937
+"merchant_fraud_Denesik, Powlowski and Pouros",0.0,0.0,1938
+merchant_fraud_Dibbert and Sons,0.0,0.0,1939
+zip_38079,0.0,0.0,1940
+zip_3816,0.0,0.0,1941
+zip_3818,0.0,0.0,1942
+zip_38315,0.0,0.0,1943
+zip_3858,0.0,0.0,1944
+merchant_fraud_Dibbert-Green,0.0,0.0,1945
+zip_38677,0.0,0.0,1946
+zip_38740,0.0,0.0,1947
+zip_38761,0.0,0.0,1948
+zip_38778,0.0,0.0,1949
+zip_38922,0.0,0.0,1950
+zip_38949,0.0,0.0,1951
+zip_3905,0.0,0.0,1952
+zip_39073,0.0,0.0,1953
+zip_39113,0.0,0.0,1954
+merchant_fraud_Dickinson Ltd,0.0,0.0,1955
+merchant_fraud_Dickinson-Rempel,0.0,0.0,1956
+zip_39439,0.0,0.0,1957
+zip_39572,0.0,0.0,1958
+merchant_fraud_Dietrich-Fadel,0.0,0.0,1959
+zip_39665,0.0,0.0,1960
+zip_39769,0.0,0.0,1961
+zip_39825,0.0,0.0,1962
+zip_39840,0.0,0.0,1963
+merchant_fraud_Donnelly LLC,0.0,0.0,1964
+zip_40056,0.0,0.0,1965
+zip_40062,0.0,0.0,1966
+zip_40077,0.0,0.0,1967
+zip_40170,0.0,0.0,1968
+merchant_fraud_Donnelly PLC,0.0,0.0,1969
+zip_40209,0.0,0.0,1970
+zip_40336,0.0,0.0,1971
+zip_4047,0.0,0.0,1972
+merchant_fraud_Dooley Inc,0.0,0.0,1973
+zip_4074,0.0,0.0,1974
+zip_40820,0.0,0.0,1975
+zip_40914,0.0,0.0,1976
+zip_41056,0.0,0.0,1977
+zip_41254,0.0,0.0,1978
+zip_41810,0.0,0.0,1979
+zip_41812,0.0,0.0,1980
+zip_41836,0.0,0.0,1981
+zip_42049,0.0,0.0,1982
+zip_4210,0.0,0.0,1983
+"merchant_fraud_Douglas, DuBuque and McKenzie",0.0,0.0,1984
+zip_42211,0.0,0.0,1985
+zip_4226,0.0,0.0,1986
+zip_42273,0.0,0.0,1987
+zip_42634,0.0,0.0,1988
+zip_42701,0.0,0.0,1989
+zip_42731,0.0,0.0,1990
+zip_4286,0.0,0.0,1991
+zip_4287,0.0,0.0,1992
+zip_43070,0.0,0.0,1993
+zip_43076,0.0,0.0,1994
+zip_43102,0.0,0.0,1995
+zip_43136,0.0,0.0,1996
+zip_43160,0.0,0.0,1997
+zip_43321,0.0,0.0,1998
+zip_43330,0.0,0.0,1999
+zip_43408,0.0,0.0,2000
+zip_4364,0.0,0.0,2001
+zip_43760,0.0,0.0,2002
+"merchant_fraud_Douglas, Schneider and Turner",0.0,0.0,2003
+zip_43903,0.0,0.0,2004
+merchant_fraud_Douglas-White,0.0,0.0,2005
+zip_44223,0.0,0.0,2006
+zip_44233,0.0,0.0,2007
+zip_44265,0.0,0.0,2008
+merchant_fraud_Doyle Ltd,0.0,0.0,2009
+merchant_fraud_DuBuque LLC,0.0,0.0,2010
+zip_44483,0.0,0.0,2011
+zip_44702,0.0,0.0,2012
+zip_44804,0.0,0.0,2013
+zip_44857,0.0,0.0,2014
+zip_44902,0.0,0.0,2015
+zip_45051,0.0,0.0,2016
+zip_45106,0.0,0.0,2017
+zip_45150,0.0,0.0,2018
+zip_45307,0.0,0.0,2019
+zip_45331,0.0,0.0,2020
+zip_45342,0.0,0.0,2021
+zip_45415,0.0,0.0,2022
+zip_4555,0.0,0.0,2023
+zip_45622,0.0,0.0,2024
+zip_45638,0.0,0.0,2025
+zip_45698,0.0,0.0,2026
+zip_45801,0.0,0.0,2027
+zip_45808,0.0,0.0,2028
+zip_45860,0.0,0.0,2029
+zip_45879,0.0,0.0,2030
+zip_45896,0.0,0.0,2031
+zip_46143,0.0,0.0,2032
+zip_4616,0.0,0.0,2033
+zip_46254,0.0,0.0,2034
+zip_46290,0.0,0.0,2035
+zip_46322,0.0,0.0,2036
+zip_46346,0.0,0.0,2037
+zip_46366,0.0,0.0,2038
+zip_46702,0.0,0.0,2039
+zip_46723,0.0,0.0,2040
+zip_46765,0.0,0.0,2041
+"merchant_fraud_Durgan, Gislason and Spencer",0.0,0.0,2042
+zip_46946,0.0,0.0,2043
+merchant_fraud_Durgan-Auer,0.0,0.0,2044
+merchant_fraud_Ebert-Daugherty,0.0,0.0,2045
+zip_47434,0.0,0.0,2046
+merchant_fraud_Effertz LLC,0.0,0.0,2047
+"merchant_fraud_Eichmann, Bogan and Rodriguez",0.0,0.0,2048
+zip_47515,0.0,0.0,2049
+zip_47838,0.0,0.0,2050
+zip_47863,0.0,0.0,2051
+zip_47869,0.0,0.0,2052
+"merchant_fraud_Eichmann, Hayes and Treutel",0.0,0.0,2053
+merchant_fraud_Eichmann-Russel,0.0,0.0,2054
+zip_48043,0.0,0.0,2055
+zip_48088,0.0,0.0,2056
+merchant_fraud_Emard Inc,0.0,0.0,2057
+zip_48174,0.0,0.0,2058
+zip_48193,0.0,0.0,2059
+zip_48202,0.0,0.0,2060
+zip_48206,0.0,0.0,2061
+merchant_fraud_Emmerich-Luettgen,0.0,0.0,2062
+zip_48221,0.0,0.0,2063
+zip_48371,0.0,0.0,2064
+zip_48438,0.0,0.0,2065
+zip_48636,0.0,0.0,2066
+zip_48706,0.0,0.0,2067
+zip_48850,0.0,0.0,2068
+zip_49101,0.0,0.0,2069
+zip_49259,0.0,0.0,2070
+zip_49440,0.0,0.0,2071
+zip_4953,0.0,0.0,2072
+zip_49613,0.0,0.0,2073
+merchant_fraud_Erdman-Durgan,0.0,0.0,2074
+zip_49628,0.0,0.0,2075
+zip_49629,0.0,0.0,2076
+zip_49632,0.0,0.0,2077
+zip_49705,0.0,0.0,2078
+zip_49775,0.0,0.0,2079
+zip_49826,0.0,0.0,2080
+zip_49854,0.0,0.0,2081
+zip_49879,0.0,0.0,2082
+zip_49895,0.0,0.0,2083
+zip_50073,0.0,0.0,2084
+merchant_fraud_Erdman-Kertzmann,0.0,0.0,2085
+zip_50314,0.0,0.0,2086
+zip_50421,0.0,0.0,2087
+zip_50469,0.0,0.0,2088
+zip_50527,0.0,0.0,2089
+zip_50535,0.0,0.0,2090
+zip_50595,0.0,0.0,2091
+merchant_fraud_Ernser-Lynch,0.0,0.0,2092
+zip_50664,0.0,0.0,2093
+zip_5084,0.0,0.0,2094
+zip_51003,0.0,0.0,2095
+zip_51006,0.0,0.0,2096
+zip_51453,0.0,0.0,2097
+zip_51521,0.0,0.0,2098
+zip_5155,0.0,0.0,2099
+zip_51632,0.0,0.0,2100
+"merchant_fraud_Fadel, Mertz and Rippin",0.0,0.0,2101
+merchant_fraud_Fahey Inc,0.0,0.0,2102
+zip_52563,0.0,0.0,2103
+zip_52572,0.0,0.0,2104
+zip_52576,0.0,0.0,2105
+zip_52658,0.0,0.0,2106
+zip_52760,0.0,0.0,2107
+zip_52768,0.0,0.0,2108
+zip_53061,0.0,0.0,2109
+zip_53120,0.0,0.0,2110
+zip_53129,0.0,0.0,2111
+zip_53153,0.0,0.0,2112
+zip_53186,0.0,0.0,2113
+zip_53228,0.0,0.0,2114
+zip_53801,0.0,0.0,2115
+zip_53803,0.0,0.0,2116
+zip_53910,0.0,0.0,2117
+merchant_fraud_Feil-Morar,0.0,0.0,2118
+zip_53926,0.0,0.0,2119
+zip_54154,0.0,0.0,2120
+"merchant_fraud_Ferry, Lynch and Kautzer",0.0,0.0,2121
+zip_54418,0.0,0.0,2122
+zip_54441,0.0,0.0,2123
+zip_54487,0.0,0.0,2124
+zip_54499,0.0,0.0,2125
+zip_54559,0.0,0.0,2126
+zip_5461,0.0,0.0,2127
+zip_54654,0.0,0.0,2128
+zip_54726,0.0,0.0,2129
+zip_5486,0.0,0.0,2130
+zip_54896,0.0,0.0,2131
+zip_54981,0.0,0.0,2132
+zip_55001,0.0,0.0,2133
+zip_55046,0.0,0.0,2134
+zip_55065,0.0,0.0,2135
+zip_55080,0.0,0.0,2136
+zip_55128,0.0,0.0,2137
+zip_55388,0.0,0.0,2138
+zip_55403,0.0,0.0,2139
+zip_55428,0.0,0.0,2140
+zip_55606,0.0,0.0,2141
+zip_55771,0.0,0.0,2142
+zip_56019,0.0,0.0,2143
+zip_56029,0.0,0.0,2144
+zip_56068,0.0,0.0,2145
+zip_56117,0.0,0.0,2146
+zip_56138,0.0,0.0,2147
+zip_56152,0.0,0.0,2148
+zip_56321,0.0,0.0,2149
+merchant_fraud_Fisher Inc,0.0,0.0,2150
+zip_56379,0.0,0.0,2151
+zip_5654,0.0,0.0,2152
+merchant_fraud_Fisher-Schowalter,0.0,0.0,2153
+merchant_fraud_Flatley Group,0.0,0.0,2154
+zip_56549,0.0,0.0,2155
+zip_56592,0.0,0.0,2156
+zip_56668,0.0,0.0,2157
+merchant_fraud_Flatley-Durgan,0.0,0.0,2158
+zip_56729,0.0,0.0,2159
+zip_57036,0.0,0.0,2160
+zip_5733,0.0,0.0,2161
+zip_57340,0.0,0.0,2162
+zip_57374,0.0,0.0,2163
+merchant_fraud_Frami Group,0.0,0.0,2164
+zip_57439,0.0,0.0,2165
+zip_57641,0.0,0.0,2166
+zip_57717,0.0,0.0,2167
+zip_57732,0.0,0.0,2168
+zip_57756,0.0,0.0,2169
+zip_58015,0.0,0.0,2170
+zip_58259,0.0,0.0,2171
+merchant_fraud_Friesen Inc,0.0,0.0,2172
+zip_58531,0.0,0.0,2173
+zip_58569,0.0,0.0,2174
+zip_58579,0.0,0.0,2175
+zip_58651,0.0,0.0,2176
+zip_58765,0.0,0.0,2177
+zip_58769,0.0,0.0,2178
+merchant_fraud_Friesen Ltd,0.0,0.0,2179
+merchant_fraud_Friesen-D'Amore,0.0,0.0,2180
+merchant_fraud_Friesen-Ortiz,0.0,0.0,2181
+zip_59632,0.0,0.0,2182
+zip_59710,0.0,0.0,2183
+zip_59714,0.0,0.0,2184
+zip_59871,0.0,0.0,2185
+zip_60072,0.0,0.0,2186
+zip_60091,0.0,0.0,2187
+zip_60193,0.0,0.0,2188
+zip_6024,0.0,0.0,2189
+zip_60432,0.0,0.0,2190
+zip_60913,0.0,0.0,2191
+zip_60958,0.0,0.0,2192
+merchant_fraud_Friesen-Stamm,0.0,0.0,2193
+zip_61272,0.0,0.0,2194
+zip_61335,0.0,0.0,2195
+merchant_fraud_Fritsch and Sons,0.0,0.0,2196
+zip_61477,0.0,0.0,2197
+zip_61530,0.0,0.0,2198
+zip_61560,0.0,0.0,2199
+zip_61830,0.0,0.0,2200
+zip_62023,0.0,0.0,2201
+zip_62067,0.0,0.0,2202
+zip_62075,0.0,0.0,2203
+zip_62262,0.0,0.0,2204
+zip_62266,0.0,0.0,2205
+zip_62360,0.0,0.0,2206
+zip_62424,0.0,0.0,2207
+zip_62571,0.0,0.0,2208
+zip_62661,0.0,0.0,2209
+zip_62668,0.0,0.0,2210
+zip_62673,0.0,0.0,2211
+zip_62856,0.0,0.0,2212
+zip_62888,0.0,0.0,2213
+zip_62926,0.0,0.0,2214
+zip_62935,0.0,0.0,2215
+zip_62939,0.0,0.0,2216
+zip_62970,0.0,0.0,2217
+zip_63010,0.0,0.0,2218
+zip_63021,0.0,0.0,2219
+zip_63131,0.0,0.0,2220
+zip_63336,0.0,0.0,2221
+zip_63353,0.0,0.0,2222
+zip_63388,0.0,0.0,2223
+zip_63453,0.0,0.0,2224
+zip_63533,0.0,0.0,2225
+zip_63565,0.0,0.0,2226
+merchant_fraud_Funk Group,0.0,0.0,2227
+zip_63665,0.0,0.0,2228
+zip_63829,0.0,0.0,2229
+zip_63867,0.0,0.0,2230
+zip_64017,0.0,0.0,2231
+zip_64019,0.0,0.0,2232
+zip_64058,0.0,0.0,2233
+merchant_fraud_Gaylord-Powlowski,0.0,0.0,2234
+zip_64114,0.0,0.0,2235
+zip_6441,0.0,0.0,2236
+zip_6444,0.0,0.0,2237
+merchant_fraud_Gerhold LLC,0.0,0.0,2238
+zip_64630,0.0,0.0,2239
+zip_64659,0.0,0.0,2240
+zip_64686,0.0,0.0,2241
+zip_64726,0.0,0.0,2242
+zip_64874,0.0,0.0,2243
+merchant_fraud_Gerlach Inc,0.0,0.0,2244
+merchant_fraud_Gibson-Deckow,0.0,0.0,2245
+zip_65354,0.0,0.0,2246
+zip_65680,0.0,0.0,2247
+merchant_fraud_Gislason Group,0.0,0.0,2248
+zip_66018,0.0,0.0,2249
+zip_66020,0.0,0.0,2250
+zip_66070,0.0,0.0,2251
+zip_66616,0.0,0.0,2252
+zip_66618,0.0,0.0,2253
+zip_66941,0.0,0.0,2254
+merchant_fraud_Gleason-Macejkovic,0.0,0.0,2255
+"merchant_fraud_Goldner, Kovacek and Abbott",0.0,0.0,2256
+zip_67038,0.0,0.0,2257
+zip_67216,0.0,0.0,2258
+zip_67232,0.0,0.0,2259
+zip_67529,0.0,0.0,2260
+zip_67545,0.0,0.0,2261
+zip_67556,0.0,0.0,2262
+zip_67584,0.0,0.0,2263
+zip_67635,0.0,0.0,2264
+merchant_fraud_Goldner-Lemke,0.0,0.0,2265
+zip_67851,0.0,0.0,2266
+zip_68031,0.0,0.0,2267
+zip_68117,0.0,0.0,2268
+merchant_fraud_Goodwin-Nitzsche,0.0,0.0,2269
+merchant_fraud_Gottlieb Group,0.0,0.0,2270
+zip_68463,0.0,0.0,2271
+zip_68626,0.0,0.0,2272
+zip_68638,0.0,0.0,2273
+zip_68641,0.0,0.0,2274
+zip_68723,0.0,0.0,2275
+zip_68859,0.0,0.0,2276
+zip_68869,0.0,0.0,2277
+zip_68881,0.0,0.0,2278
+zip_68932,0.0,0.0,2279
+zip_68950,0.0,0.0,2280
+zip_68961,0.0,0.0,2281
+zip_68973,0.0,0.0,2282
+"merchant_fraud_Gottlieb, Considine and Schultz",0.0,0.0,2283
+zip_69201,0.0,0.0,2284
+zip_70003,0.0,0.0,2285
+zip_7005,0.0,0.0,2286
+zip_70056,0.0,0.0,2287
+zip_70062,0.0,0.0,2288
+zip_7022,0.0,0.0,2289
+zip_70466,0.0,0.0,2290
+zip_70531,0.0,0.0,2291
+zip_7060,0.0,0.0,2292
+merchant_fraud_Goyette Inc,0.0,0.0,2293
+zip_70732,0.0,0.0,2294
+zip_70774,0.0,0.0,2295
+"merchant_fraud_Goyette, Howell and Collier",0.0,0.0,2296
+zip_71232,0.0,0.0,2297
+zip_71277,0.0,0.0,2298
+zip_71291,0.0,0.0,2299
+merchant_fraud_Goyette-Gerhold,0.0,0.0,2300
+zip_71832,0.0,0.0,2301
+zip_71854,0.0,0.0,2302
+zip_71960,0.0,0.0,2303
+merchant_fraud_Goyette-Herzog,0.0,0.0,2304
+zip_72042,0.0,0.0,2305
+zip_72047,0.0,0.0,2306
+zip_72059,0.0,0.0,2307
+zip_7208,0.0,0.0,2308
+zip_72165,0.0,0.0,2309
+zip_72341,0.0,0.0,2310
+zip_72354,0.0,0.0,2311
+zip_72476,0.0,0.0,2312
+zip_72513,0.0,0.0,2313
+zip_72524,0.0,0.0,2314
+zip_72529,0.0,0.0,2315
+merchant_fraud_Graham and Sons,0.0,0.0,2316
+merchant_fraud_Greenholt Ltd,0.0,0.0,2317
+zip_72959,0.0,0.0,2318
+"merchant_fraud_Greenholt, Jacobi and Gleason",0.0,0.0,2319
+zip_73034,0.0,0.0,2320
+"merchant_fraud_Greenholt, O'Hara and Balistreri",0.0,0.0,2321
+zip_73134,0.0,0.0,2322
+zip_73559,0.0,0.0,2323
+zip_73564,0.0,0.0,2324
+zip_73624,0.0,0.0,2325
+zip_73669,0.0,0.0,2326
+zip_73719,0.0,0.0,2327
+zip_73754,0.0,0.0,2328
+zip_74047,0.0,0.0,2329
+zip_74074,0.0,0.0,2330
+zip_74130,0.0,0.0,2331
+zip_74131,0.0,0.0,2332
+zip_7439,0.0,0.0,2333
+zip_74536,0.0,0.0,2334
+zip_74555,0.0,0.0,2335
+zip_74633,0.0,0.0,2336
+zip_74720,0.0,0.0,2337
+zip_74875,0.0,0.0,2338
+zip_75048,0.0,0.0,2339
+zip_75092,0.0,0.0,2340
+merchant_fraud_Grimes LLC,0.0,0.0,2341
+zip_75218,0.0,0.0,2342
+zip_75236,0.0,0.0,2343
+zip_75238,0.0,0.0,2344
+zip_75452,0.0,0.0,2345
+zip_75490,0.0,0.0,2346
+zip_75661,0.0,0.0,2347
+zip_75662,0.0,0.0,2348
+zip_75703,0.0,0.0,2349
+zip_75858,0.0,0.0,2350
+merchant_fraud_Gulgowski LLC,0.0,0.0,2351
+zip_75980,0.0,0.0,2352
+zip_76008,0.0,0.0,2353
+"merchant_fraud_Gutmann, McLaughlin and Wiza",0.0,0.0,2354
+zip_76240,0.0,0.0,2355
+zip_76248,0.0,0.0,2356
+zip_76366,0.0,0.0,2357
+zip_7640,0.0,0.0,2358
+zip_76443,0.0,0.0,2359
+merchant_fraud_Hackett Group,0.0,0.0,2360
+zip_76566,0.0,0.0,2361
+zip_76578,0.0,0.0,2362
+zip_76626,0.0,0.0,2363
+zip_76631,0.0,0.0,2364
+zip_76665,0.0,0.0,2365
+zip_76678,0.0,0.0,2366
+zip_76834,0.0,0.0,2367
+zip_76857,0.0,0.0,2368
+zip_76905,0.0,0.0,2369
+zip_76951,0.0,0.0,2370
+zip_77007,0.0,0.0,2371
+zip_77026,0.0,0.0,2372
+zip_7711,0.0,0.0,2373
+zip_77327,0.0,0.0,2374
+zip_77338,0.0,0.0,2375
+zip_77358,0.0,0.0,2376
+zip_77379,0.0,0.0,2377
+zip_77412,0.0,0.0,2378
+zip_77417,0.0,0.0,2379
+zip_7747,0.0,0.0,2380
+zip_7750,0.0,0.0,2381
+zip_77566,0.0,0.0,2382
+zip_7764,0.0,0.0,2383
+zip_77971,0.0,0.0,2384
+zip_78040,0.0,0.0,2385
+zip_78113,0.0,0.0,2386
+zip_78214,0.0,0.0,2387
+zip_78248,0.0,0.0,2388
+zip_78584,0.0,0.0,2389
+zip_78631,0.0,0.0,2390
+zip_79063,0.0,0.0,2391
+zip_79085,0.0,0.0,2392
+zip_79237,0.0,0.0,2393
+zip_79252,0.0,0.0,2394
+merchant_fraud_Hackett-Lueilwitz,0.0,0.0,2395
+zip_79413,0.0,0.0,2396
+zip_79539,0.0,0.0,2397
+zip_79548,0.0,0.0,2398
+zip_79759,0.0,0.0,2399
+zip_79772,0.0,0.0,2400
+zip_7980,0.0,0.0,2401
+zip_79837,0.0,0.0,2402
+zip_79842,0.0,0.0,2403
+zip_79906,0.0,0.0,2404
+zip_80005,0.0,0.0,2405
+zip_80014,0.0,0.0,2406
+zip_80021,0.0,0.0,2407
+"merchant_fraud_Hagenes, Hermann and Stroman",0.0,0.0,2408
+zip_80138,0.0,0.0,2409
+zip_8014,0.0,0.0,2410
+zip_80436,0.0,0.0,2411
+zip_80736,0.0,0.0,2412
+zip_80824,0.0,0.0,2413
+zip_80951,0.0,0.0,2414
+zip_81005,0.0,0.0,2415
+zip_81642,0.0,0.0,2416
+zip_81649,0.0,0.0,2417
+zip_82063,0.0,0.0,2418
+zip_82072,0.0,0.0,2419
+zip_82190,0.0,0.0,2420
+zip_82221,0.0,0.0,2421
+zip_82227,0.0,0.0,2422
+zip_82501,0.0,0.0,2423
+zip_82514,0.0,0.0,2424
+zip_82711,0.0,0.0,2425
+zip_82901,0.0,0.0,2426
+zip_82936,0.0,0.0,2427
+zip_83120,0.0,0.0,2428
+zip_8323,0.0,0.0,2429
+"merchant_fraud_Hahn, Bahringer and McLaughlin",0.0,0.0,2430
+zip_83252,0.0,0.0,2431
+zip_8350,0.0,0.0,2432
+zip_83643,0.0,0.0,2433
+"merchant_fraud_Hahn, Douglas and Schowalter",0.0,0.0,2434
+zip_83869,0.0,0.0,2435
+zip_84002,0.0,0.0,2436
+zip_84003,0.0,0.0,2437
+zip_84087,0.0,0.0,2438
+zip_84325,0.0,0.0,2439
+zip_84532,0.0,0.0,2440
+zip_84540,0.0,0.0,2441
+zip_84735,0.0,0.0,2442
+zip_85020,0.0,0.0,2443
+"merchant_fraud_Haley, Batz and Auer",0.0,0.0,2444
+zip_85173,0.0,0.0,2445
+zip_85253,0.0,0.0,2446
+zip_86018,0.0,0.0,2447
+zip_86329,0.0,0.0,2448
+zip_87035,0.0,0.0,2449
+zip_87109,0.0,0.0,2450
+zip_87116,0.0,0.0,2451
+zip_87117,0.0,0.0,2452
+zip_87313,0.0,0.0,2453
+zip_87417,0.0,0.0,2454
+zip_87533,0.0,0.0,2455
+zip_87540,0.0,0.0,2456
+"merchant_fraud_Haley, Jewess and Bechtelar",0.0,0.0,2457
+zip_87558,0.0,0.0,2458
+merchant_fraud_Halvorson Group,0.0,0.0,2459
+zip_8830,0.0,0.0,2460
+zip_88325,0.0,0.0,2461
+merchant_fraud_Hamill-Daugherty,0.0,0.0,2462
+zip_89084,0.0,0.0,2463
+zip_89319,0.0,0.0,2464
+zip_89512,0.0,0.0,2465
+zip_89704,0.0,0.0,2466
+zip_90014,0.0,0.0,2467
+zip_90250,0.0,0.0,2468
+zip_90403,0.0,0.0,2469
+zip_90650,0.0,0.0,2470
+merchant_fraud_Hammes-Beatty,0.0,0.0,2471
+zip_91321,0.0,0.0,2472
+merchant_fraud_Harber Inc,0.0,0.0,2473
+zip_91711,0.0,0.0,2474
+zip_92101,0.0,0.0,2475
+zip_92128,0.0,0.0,2476
+zip_92210,0.0,0.0,2477
+zip_92267,0.0,0.0,2478
+merchant_fraud_Harris Group,0.0,0.0,2479
+zip_92585,0.0,0.0,2480
+zip_92637,0.0,0.0,2481
+zip_92648,0.0,0.0,2482
+zip_92882,0.0,0.0,2483
+zip_93529,0.0,0.0,2484
+zip_93552,0.0,0.0,2485
+zip_93627,0.0,0.0,2486
+zip_94015,0.0,0.0,2487
+zip_94558,0.0,0.0,2488
+zip_94569,0.0,0.0,2489
+zip_94619,0.0,0.0,2490
+zip_94971,0.0,0.0,2491
+zip_95148,0.0,0.0,2492
+merchant_fraud_Harris Inc,0.0,0.0,2493
+zip_95528,0.0,0.0,2494
+zip_95537,0.0,0.0,2495
+zip_95567,0.0,0.0,2496
+zip_95629,0.0,0.0,2497
+zip_95827,0.0,0.0,2498
+zip_95842,0.0,0.0,2499
+zip_96037,0.0,0.0,2500
+zip_96038,0.0,0.0,2501
+zip_96103,0.0,0.0,2502
+zip_96135,0.0,0.0,2503
+zip_96136,0.0,0.0,2504
+"merchant_fraud_Hauck, Dietrich and Funk",0.0,0.0,2505
+zip_96776,0.0,0.0,2506
+"merchant_fraud_Hayes, Marquardt and Dibbert",0.0,0.0,2507
+zip_97033,0.0,0.0,2508
+merchant_fraud_Heaney-Marquardt,0.0,0.0,2509
+zip_97107,0.0,0.0,2510
+zip_97132,0.0,0.0,2511
+zip_97210,0.0,0.0,2512
+zip_97375,0.0,0.0,2513
+zip_97377,0.0,0.0,2514
+zip_97383,0.0,0.0,2515
+zip_97403,0.0,0.0,2516
+zip_97441,0.0,0.0,2517
+zip_97452,0.0,0.0,2518
+zip_97476,0.0,0.0,2519
+zip_97492,0.0,0.0,2520
+zip_97753,0.0,0.0,2521
+zip_97813,0.0,0.0,2522
+zip_97910,0.0,0.0,2523
+merchant_fraud_Heathcote LLC,0.0,0.0,2524
+zip_98118,0.0,0.0,2525
+zip_98233,0.0,0.0,2526
+zip_98238,0.0,0.0,2527
+zip_98304,0.0,0.0,2528
+zip_98665,0.0,0.0,2529
+zip_98836,0.0,0.0,2530
+zip_99033,0.0,0.0,2531
+zip_99113,0.0,0.0,2532
+"merchant_fraud_Heathcote, Yost and Kertzmann",0.0,0.0,2533
+zip_99323,0.0,0.0,2534
+zip_99746,0.0,0.0,2535
+zip_99783,0.0,0.0,2536
+zip_99921,0.0,0.0,2537
+job_Academic librarian,0.0,0.0,2538
+"job_Accountant, chartered certified",0.0,0.0,2539
+"job_Accountant, chartered public finance",0.0,0.0,2540
+job_Accounting technician,0.0,0.0,2541
+job_Acupuncturist,0.0,0.0,2542
+job_Administrator,0.0,0.0,2543
+"job_Administrator, arts",0.0,0.0,2544
+"job_Administrator, charities/voluntary organisations",0.0,0.0,2545
+"job_Administrator, education",0.0,0.0,2546
+"job_Administrator, local government",0.0,0.0,2547
+merchant_fraud_Heidenreich PLC,0.0,0.0,2548
+"merchant_fraud_Heller, Gutmann and Zieme",0.0,0.0,2549
+job_Advertising copywriter,0.0,0.0,2550
+merchant_fraud_Heller-Abshire,0.0,0.0,2551
+job_Aeronautical engineer,0.0,0.0,2552
+job_Agricultural consultant,0.0,0.0,2553
+job_Aid worker,0.0,0.0,2554
+job_Air broker,0.0,0.0,2555
+job_Air cabin crew,0.0,0.0,2556
+job_Airline pilot,0.0,0.0,2557
+job_Ambulance person,0.0,0.0,2558
+merchant_fraud_Heller-Langosh,0.0,0.0,2559
+job_Analytical chemist,0.0,0.0,2560
+job_Animal nutritionist,0.0,0.0,2561
+merchant_fraud_Herman Inc,0.0,0.0,2562
+job_Animator,0.0,0.0,2563
+job_Applications developer,0.0,0.0,2564
+"merchant_fraud_Herman, Treutel and Dickens",0.0,0.0,2565
+job_Archaeologist,0.0,0.0,2566
+merchant_fraud_Hermann and Sons,0.0,0.0,2567
+job_Architectural technologist,0.0,0.0,2568
+job_Archivist,0.0,0.0,2569
+job_Armed forces logistics/support/administrative officer,0.0,0.0,2570
+job_Armed forces training and education officer,0.0,0.0,2571
+job_Art gallery manager,0.0,0.0,2572
+merchant_fraud_Hermann-Gaylord,0.0,0.0,2573
+job_Artist,0.0,0.0,2574
+job_Arts development officer,0.0,0.0,2575
+job_Associate Professor,0.0,0.0,2576
+"merchant_fraud_Hermiston, Pacocha and Smith",0.0,0.0,2577
+job_Barista,0.0,0.0,2578
+"merchant_fraud_Hermiston, Russel and Price",0.0,0.0,2579
+job_Barrister's clerk,0.0,0.0,2580
+"job_Biochemist, clinical",0.0,0.0,2581
+job_Biomedical engineer,0.0,0.0,2582
+job_Biomedical scientist,0.0,0.0,2583
+job_Bookseller,0.0,0.0,2584
+job_Broadcast engineer,0.0,0.0,2585
+merchant_fraud_Herzog Ltd,0.0,0.0,2586
+job_Building control surveyor,0.0,0.0,2587
+job_Building services engineer,0.0,0.0,2588
+job_Building surveyor,0.0,0.0,2589
+"job_Buyer, industrial",0.0,0.0,2590
+"job_Buyer, retail",0.0,0.0,2591
+job_Cabin crew,0.0,0.0,2592
+"merchant_fraud_Hills, Hegmann and Schaefer",0.0,0.0,2593
+job_Camera operator,0.0,0.0,2594
+job_Careers information officer,0.0,0.0,2595
+job_Cartographer,0.0,0.0,2596
+job_Catering manager,0.0,0.0,2597
+job_Ceramics designer,0.0,0.0,2598
+job_Charity fundraiser,0.0,0.0,2599
+job_Charity officer,0.0,0.0,2600
+job_Chartered accountant,0.0,0.0,2601
+job_Chartered legal executive (England and Wales),0.0,0.0,2602
+job_Chartered loss adjuster,0.0,0.0,2603
+merchant_fraud_Hills-Olson,0.0,0.0,2604
+merchant_fraud_Hirthe-Beier,0.0,0.0,2605
+"job_Chemist, analytical",0.0,0.0,2606
+"merchant_fraud_Hodkiewicz, Prohaska and Paucek",0.0,0.0,2607
+job_Chief Financial Officer,0.0,0.0,2608
+job_Chief Marketing Officer,0.0,0.0,2609
+job_Chief Operating Officer,0.0,0.0,2610
+"merchant_fraud_Hoppe, Harris and Bednar",0.0,0.0,2611
+job_Chief Technology Officer,0.0,0.0,2612
+job_Chief of Staff,0.0,0.0,2613
+job_Child psychotherapist,0.0,0.0,2614
+merchant_fraud_Howe PLC,0.0,0.0,2615
+job_Civil Service administrator,0.0,0.0,2616
+job_Civil Service fast streamer,0.0,0.0,2617
+"job_Civil engineer, contracting",0.0,0.0,2618
+job_Claims inspector/assessor,0.0,0.0,2619
+job_Clinical biochemist,0.0,0.0,2620
+job_Clinical cytogeneticist,0.0,0.0,2621
+job_Clinical psychologist,0.0,0.0,2622
+job_Clinical research associate,0.0,0.0,2623
+merchant_fraud_Hudson-Grady,0.0,0.0,2624
+job_Colour technologist,0.0,0.0,2625
+merchant_fraud_Hudson-Ratke,0.0,0.0,2626
+job_Commercial/residential surveyor,0.0,0.0,2627
+job_Commissioning editor,0.0,0.0,2628
+job_Communications engineer,0.0,0.0,2629
+job_Community arts worker,0.0,0.0,2630
+job_Community development worker,0.0,0.0,2631
+job_Community education officer,0.0,0.0,2632
+job_Community pharmacist,0.0,0.0,2633
+job_Company secretary,0.0,0.0,2634
+merchant_fraud_Huel Ltd,0.0,0.0,2635
+"job_Conservation officer, historic buildings",0.0,0.0,2636
+"job_Conservator, furniture",0.0,0.0,2637
+"job_Conservator, museum/gallery",0.0,0.0,2638
+job_Contractor,0.0,0.0,2639
+job_Control and instrumentation engineer,0.0,0.0,2640
+job_Copy,0.0,0.0,2641
+"job_Copywriter, advertising",0.0,0.0,2642
+job_Corporate investment banker,0.0,0.0,2643
+job_Counselling psychologist,0.0,0.0,2644
+"merchant_fraud_Huel, Hammes and Witting",0.0,0.0,2645
+zip_68403,0.0,0.0,2646
+job_Cytogeneticist,0.0,0.0,2647
+job_Dance movement psychotherapist,0.0,0.0,2648
+job_Data scientist,0.0,0.0,2649
+merchant_fraud_Huel-Langworth,0.0,0.0,2650
+job_Dealer,0.0,0.0,2651
+merchant_fraud_Huels-Hahn,0.0,0.0,2652
+merchant_fraud_Jacobi Inc,0.0,0.0,2653
+"job_Designer, furniture",0.0,0.0,2654
+"job_Designer, industrial/product",0.0,0.0,2655
+"job_Designer, interior/spatial",0.0,0.0,2656
+"job_Designer, jewellery",0.0,0.0,2657
+"job_Designer, multimedia",0.0,0.0,2658
+"job_Designer, television/film set",0.0,0.0,2659
+"job_Designer, textile",0.0,0.0,2660
+"job_Development worker, community",0.0,0.0,2661
+"job_Development worker, international aid",0.0,0.0,2662
+job_Diagnostic radiographer,0.0,0.0,2663
+merchant_fraud_Jacobi and Sons,0.0,0.0,2664
+"job_Doctor, general practice",0.0,0.0,2665
+"job_Doctor, hospital",0.0,0.0,2666
+job_Drilling engineer,0.0,0.0,2667
+merchant_fraud_Jakubowski Group,0.0,0.0,2668
+job_Ecologist,0.0,0.0,2669
+job_Economist,0.0,0.0,2670
+merchant_fraud_Jakubowski Inc,0.0,0.0,2671
+"job_Editor, film/video",0.0,0.0,2672
+"job_Editor, magazine features",0.0,0.0,2673
+job_Education administrator,0.0,0.0,2674
+"job_Education officer, community",0.0,0.0,2675
+"job_Education officer, museum",0.0,0.0,2676
+merchant_fraud_Jaskolski-Dibbert,0.0,0.0,2677
+job_Electrical engineer,0.0,0.0,2678
+job_Electronics engineer,0.0,0.0,2679
+"job_Embryologist, clinical",0.0,0.0,2680
+job_Emergency planning/management officer,0.0,0.0,2681
+job_Energy engineer,0.0,0.0,2682
+merchant_fraud_Jast Ltd,0.0,0.0,2683
+"job_Engineer, aeronautical",0.0,0.0,2684
+"job_Engineer, agricultural",0.0,0.0,2685
+merchant_fraud_Jast and Sons,0.0,0.0,2686
+merchant_fraud_Jast-McDermott,0.0,0.0,2687
+"job_Engineer, broadcasting (operations)",0.0,0.0,2688
+"job_Engineer, building services",0.0,0.0,2689
+"job_Engineer, civil (consulting)",0.0,0.0,2690
+"job_Engineer, civil (contracting)",0.0,0.0,2691
+"job_Engineer, communications",0.0,0.0,2692
+merchant_fraud_Jerde-Hermann,0.0,0.0,2693
+"job_Engineer, drilling",0.0,0.0,2694
+"job_Engineer, electronics",0.0,0.0,2695
+"job_Engineer, land",0.0,0.0,2696
+"job_Engineer, maintenance",0.0,0.0,2697
+"job_Engineer, manufacturing",0.0,0.0,2698
+"job_Engineer, materials",0.0,0.0,2699
+merchant_fraud_Jewess LLC,0.0,0.0,2700
+"job_Engineer, petroleum",0.0,0.0,2701
+"job_Engineer, production",0.0,0.0,2702
+"job_Engineer, structural",0.0,0.0,2703
+"job_Engineer, technical sales",0.0,0.0,2704
+merchant_fraud_Johns Inc,0.0,0.0,2705
+job_Engineering geologist,0.0,0.0,2706
+job_English as a foreign language teacher,0.0,0.0,2707
+job_English as a second language teacher,0.0,0.0,2708
+merchant_fraud_Johns-Hoeger,0.0,0.0,2709
+job_Environmental education officer,0.0,0.0,2710
+job_Environmental health practitioner,0.0,0.0,2711
+job_Environmental manager,0.0,0.0,2712
+job_Equality and diversity officer,0.0,0.0,2713
+job_Equities trader,0.0,0.0,2714
+job_Estate manager/land agent,0.0,0.0,2715
+job_Event organiser,0.0,0.0,2716
+job_Exercise physiologist,0.0,0.0,2717
+job_Exhibition designer,0.0,0.0,2718
+"job_Exhibitions officer, museum/gallery",0.0,0.0,2719
+job_Facilities manager,0.0,0.0,2720
+job_Farm manager,0.0,0.0,2721
+job_Field seismologist,0.0,0.0,2722
+job_Field trials officer,0.0,0.0,2723
+"merchant_fraud_Johnson, Runolfsdottir and Mayer",0.0,0.0,2724
+"merchant_fraud_Johnston, Nikolaus and Maggio",0.0,0.0,2725
+merchant_fraud_Johnston-Casper,0.0,0.0,2726
+"merchant_fraud_Jones, Sawayn and Romaguera",0.0,0.0,2727
+job_Firefighter,0.0,0.0,2728
+job_Fisheries officer,0.0,0.0,2729
+job_Fitness centre manager,0.0,0.0,2730
+job_Forensic psychologist,0.0,0.0,2731
+job_Freight forwarder,0.0,0.0,2732
+merchant_fraud_Kassulke Inc,0.0,0.0,2733
+job_Furniture designer,0.0,0.0,2734
+job_Further education lecturer,0.0,0.0,2735
+job_Futures trader,0.0,0.0,2736
+merchant_fraud_Kassulke PLC,0.0,0.0,2737
+job_Garment/textile technologist,0.0,0.0,2738
+job_General practice doctor,0.0,0.0,2739
+"job_Geneticist, molecular",0.0,0.0,2740
+job_Geochemist,0.0,0.0,2741
+"job_Geologist, engineering",0.0,0.0,2742
+"job_Geologist, wellsite",0.0,0.0,2743
+job_Geophysicist/field seismologist,0.0,0.0,2744
+job_Geoscientist,0.0,0.0,2745
+job_Glass blower/designer,0.0,0.0,2746
+job_Health and safety adviser,0.0,0.0,2747
+job_Health physicist,0.0,0.0,2748
+job_Health promotion specialist,0.0,0.0,2749
+job_Health service manager,0.0,0.0,2750
+merchant_fraud_Kautzer and Sons,0.0,0.0,2751
+job_Herbalist,0.0,0.0,2752
+job_Heritage manager,0.0,0.0,2753
+merchant_fraud_Keeling-Crist,0.0,0.0,2754
+merchant_fraud_Kemmer-Buckridge,0.0,0.0,2755
+job_Historic buildings inspector/conservation officer,0.0,0.0,2756
+merchant_fraud_Kemmer-Reinger,0.0,0.0,2757
+job_Horticultural therapist,0.0,0.0,2758
+"job_Horticulturist, commercial",0.0,0.0,2759
+job_Hospital doctor,0.0,0.0,2760
+job_Hospital pharmacist,0.0,0.0,2761
+job_Hotel manager,0.0,0.0,2762
+job_Human resources officer,0.0,0.0,2763
+job_Hydrogeologist,0.0,0.0,2764
+job_Hydrographic surveyor,0.0,0.0,2765
+job_Hydrologist,0.0,0.0,2766
+job_IT consultant,0.0,0.0,2767
+job_IT trainer,0.0,0.0,2768
+job_Illustrator,0.0,0.0,2769
+job_Immigration officer,0.0,0.0,2770
+job_Immunologist,0.0,0.0,2771
+job_Industrial/product designer,0.0,0.0,2772
+job_Information systems manager,0.0,0.0,2773
+merchant_fraud_Kerluke Inc,0.0,0.0,2774
+job_Insurance claims handler,0.0,0.0,2775
+job_Insurance risk surveyor,0.0,0.0,2776
+merchant_fraud_Kerluke PLC,0.0,0.0,2777
+job_Intelligence analyst,0.0,0.0,2778
+job_Interior and spatial designer,0.0,0.0,2779
+job_Interpreter,0.0,0.0,2780
+job_Investment analyst,0.0,0.0,2781
+"job_Investment banker, corporate",0.0,0.0,2782
+"job_Investment banker, operational",0.0,0.0,2783
+job_Jewellery designer,0.0,0.0,2784
+"job_Journalist, newspaper",0.0,0.0,2785
+job_Land,0.0,0.0,2786
+job_Land/geomatics surveyor,0.0,0.0,2787
+job_Landscape architect,0.0,0.0,2788
+job_Lawyer,0.0,0.0,2789
+job_Learning disability nurse,0.0,0.0,2790
+job_Learning mentor,0.0,0.0,2791
+"job_Lecturer, further education",0.0,0.0,2792
+"job_Lecturer, higher education",0.0,0.0,2793
+job_Leisure centre manager,0.0,0.0,2794
+job_Lexicographer,0.0,0.0,2795
+"job_Librarian, academic",0.0,0.0,2796
+"merchant_fraud_Kerluke, Considine and Macejkovic",0.0,0.0,2797
+"merchant_fraud_Kerluke, Kertzmann and Wiza",0.0,0.0,2798
+job_Local government officer,0.0,0.0,2799
+job_Location manager,0.0,0.0,2800
+job_Logistics and distribution manager,0.0,0.0,2801
+"job_Loss adjuster, chartered",0.0,0.0,2802
+job_Magazine features editor,0.0,0.0,2803
+job_Magazine journalist,0.0,0.0,2804
+job_Maintenance engineer,0.0,0.0,2805
+job_Make,0.0,0.0,2806
+job_Management consultant,0.0,0.0,2807
+job_Manufacturing engineer,0.0,0.0,2808
+job_Manufacturing systems engineer,0.0,0.0,2809
+job_Market researcher,0.0,0.0,2810
+job_Marketing executive,0.0,0.0,2811
+merchant_fraud_Kerluke-Abshire,0.0,0.0,2812
+job_Mechanical engineer,0.0,0.0,2813
+job_Media buyer,0.0,0.0,2814
+job_Media planner,0.0,0.0,2815
+job_Medical physicist,0.0,0.0,2816
+job_Medical sales representative,0.0,0.0,2817
+job_Medical secretary,0.0,0.0,2818
+job_Medical technical officer,0.0,0.0,2819
+job_Mental health nurse,0.0,0.0,2820
+"job_Merchandiser, retail",0.0,0.0,2821
+job_Metallurgist,0.0,0.0,2822
+job_Minerals surveyor,0.0,0.0,2823
+merchant_fraud_Kertzmann LLC,0.0,0.0,2824
+job_Mudlogger,0.0,0.0,2825
+merchant_fraud_Kessler Group,0.0,0.0,2826
+job_Museum education officer,0.0,0.0,2827
+job_Museum/gallery conservator,0.0,0.0,2828
+job_Museum/gallery exhibitions officer,0.0,0.0,2829
+job_Music therapist,0.0,0.0,2830
+job_Music tutor,0.0,0.0,2831
+job_Musician,0.0,0.0,2832
+job_Nature conservation officer,0.0,0.0,2833
+job_Naval architect,0.0,0.0,2834
+job_Network engineer,0.0,0.0,2835
+job_Neurosurgeon,0.0,0.0,2836
+"job_Nurse, children's",0.0,0.0,2837
+"job_Nurse, mental health",0.0,0.0,2838
+job_Nutritional therapist,0.0,0.0,2839
+job_Occupational hygienist,0.0,0.0,2840
+merchant_fraud_Kessler Inc,0.0,0.0,2841
+job_Occupational therapist,0.0,0.0,2842
+job_Oceanographer,0.0,0.0,2843
+job_Oncologist,0.0,0.0,2844
+merchant_fraud_Kiehn Inc,0.0,0.0,2845
+job_Operational researcher,0.0,0.0,2846
+job_Operations geologist,0.0,0.0,2847
+"job_Optician, dispensing",0.0,0.0,2848
+job_Optometrist,0.0,0.0,2849
+job_Orthoptist,0.0,0.0,2850
+merchant_fraud_Kihn Inc,0.0,0.0,2851
+job_Outdoor activities/education manager,0.0,0.0,2852
+job_Paediatric nurse,0.0,0.0,2853
+"merchant_fraud_Kihn, Abernathy and Douglas",0.0,0.0,2854
+job_Patent attorney,0.0,0.0,2855
+job_Pathologist,0.0,0.0,2856
+job_Pension scheme manager,0.0,0.0,2857
+job_Pensions consultant,0.0,0.0,2858
+job_Petroleum engineer,0.0,0.0,2859
+"job_Pharmacist, community",0.0,0.0,2860
+"job_Pharmacist, hospital",0.0,0.0,2861
+job_Pharmacologist,0.0,0.0,2862
+"job_Physicist, medical",0.0,0.0,2863
+job_Physiological scientist,0.0,0.0,2864
+merchant_fraud_Kihn-Fritsch,0.0,0.0,2865
+job_Phytotherapist,0.0,0.0,2866
+"job_Pilot, airline",0.0,0.0,2867
+job_Planning and development surveyor,0.0,0.0,2868
+job_Plant breeder/geneticist,0.0,0.0,2869
+merchant_fraud_Kihn-Schuster,0.0,0.0,2870
+job_Police officer,0.0,0.0,2871
+job_Politician's assistant,0.0,0.0,2872
+"job_Presenter, broadcasting",0.0,0.0,2873
+job_Press photographer,0.0,0.0,2874
+merchant_fraud_Kilback Group,0.0,0.0,2875
+job_Primary school teacher,0.0,0.0,2876
+job_Prison officer,0.0,0.0,2877
+job_Private music teacher,0.0,0.0,2878
+job_Probation officer,0.0,0.0,2879
+"job_Producer, radio",0.0,0.0,2880
+"job_Producer, television/film/video",0.0,0.0,2881
+job_Product designer,0.0,0.0,2882
+job_Product manager,0.0,0.0,2883
+job_Product/process development scientist,0.0,0.0,2884
+"job_Production assistant, radio",0.0,0.0,2885
+"job_Production assistant, television",0.0,0.0,2886
+job_Production engineer,0.0,0.0,2887
+merchant_fraud_Kilback and Sons,0.0,0.0,2888
+job_Professor Emeritus,0.0,0.0,2889
+"job_Programme researcher, broadcasting/film/video",0.0,0.0,2890
+"job_Programmer, applications",0.0,0.0,2891
+"job_Programmer, multimedia",0.0,0.0,2892
+"merchant_fraud_Kilback, Nitzsche and Leffler",0.0,0.0,2893
+job_Psychiatrist,0.0,0.0,2894
+"job_Psychologist, clinical",0.0,0.0,2895
+merchant_fraud_Klein Group,0.0,0.0,2896
+"job_Psychologist, forensic",0.0,0.0,2897
+"job_Psychologist, sport and exercise",0.0,0.0,2898
+job_Psychotherapist,0.0,0.0,2899
+"job_Psychotherapist, child",0.0,0.0,2900
+job_Public affairs consultant,0.0,0.0,2901
+job_Public house manager,0.0,0.0,2902
+job_Public librarian,0.0,0.0,2903
+"merchant_fraud_Kling, Howe and Schneider",0.0,0.0,2904
+job_Public relations officer,0.0,0.0,2905
+job_Purchasing manager,0.0,0.0,2906
+job_Quantity surveyor,0.0,0.0,2907
+job_Quarry manager,0.0,0.0,2908
+job_Race relations officer,0.0,0.0,2909
+job_Radio broadcast assistant,0.0,0.0,2910
+merchant_fraud_Kling-Ernser,0.0,0.0,2911
+"job_Radiographer, diagnostic",0.0,0.0,2912
+merchant_fraud_Kling-Grant,0.0,0.0,2913
+job_Records manager,0.0,0.0,2914
+job_Regulatory affairs officer,0.0,0.0,2915
+"job_Research officer, political party",0.0,0.0,2916
+"job_Research officer, trade union",0.0,0.0,2917
+job_Research scientist (life sciences),0.0,0.0,2918
+job_Research scientist (maths),0.0,0.0,2919
+merchant_fraud_Klocko LLC,0.0,0.0,2920
+"merchant_fraud_Klocko, Runolfsdottir and Breitenberg",0.0,0.0,2921
+"job_Restaurant manager, fast food",0.0,0.0,2922
+job_Retail banker,0.0,0.0,2923
+job_Retail buyer,0.0,0.0,2924
+merchant_fraud_Koelpin and Sons,0.0,0.0,2925
+job_Retail merchandiser,0.0,0.0,2926
+job_Risk analyst,0.0,0.0,2927
+job_Rural practice surveyor,0.0,0.0,2928
+job_Sales executive,0.0,0.0,2929
+"job_Sales professional, IT",0.0,0.0,2930
+merchant_fraud_Koepp-Parker,0.0,0.0,2931
+job_Scientific laboratory technician,0.0,0.0,2932
+merchant_fraud_Koepp-Witting,0.0,0.0,2933
+"job_Scientist, biomedical",0.0,0.0,2934
+"merchant_fraud_Kohler, Lindgren and Koelpin",0.0,0.0,2935
+"job_Scientist, marine",0.0,0.0,2936
+"job_Scientist, physiological",0.0,0.0,2937
+"job_Scientist, research (maths)",0.0,0.0,2938
+"job_Scientist, research (medical)",0.0,0.0,2939
+"job_Scientist, research (physical sciences)",0.0,0.0,2940
+job_Secondary school teacher,0.0,0.0,2941
+job_Secretary/administrator,0.0,0.0,2942
+job_Seismic interpreter,0.0,0.0,2943
+job_Senior tax professional/tax inspector,0.0,0.0,2944
+job_Set designer,0.0,0.0,2945
+job_Site engineer,0.0,0.0,2946
+"job_Social research officer, government",0.0,0.0,2947
+"merchant_fraud_Koss, Hansen and Lueilwitz",0.0,0.0,2948
+job_Software engineer,0.0,0.0,2949
+job_Soil scientist,0.0,0.0,2950
+"job_Solicitor, Scotland",0.0,0.0,2951
+job_Special educational needs teacher,0.0,0.0,2952
+job_Special effects artist,0.0,0.0,2953
+job_Sport and exercise psychologist,0.0,0.0,2954
+job_Sports administrator,0.0,0.0,2955
+job_Sports development officer,0.0,0.0,2956
+job_Stage manager,0.0,0.0,2957
+job_Statistician,0.0,0.0,2958
+job_Structural engineer,0.0,0.0,2959
+"merchant_fraud_Kovacek, Dibbert and Ondricka",0.0,0.0,2960
+job_Surgeon,0.0,0.0,2961
+"job_Surveyor, hydrographic",0.0,0.0,2962
+merchant_fraud_Kozey-Boehm,0.0,0.0,2963
+"job_Surveyor, minerals",0.0,0.0,2964
+"job_Surveyor, mining",0.0,0.0,2965
+"job_Surveyor, rural practice",0.0,0.0,2966
+job_Systems analyst,0.0,0.0,2967
+merchant_fraud_Kozey-McDermott,0.0,0.0,2968
+job_TEFL teacher,0.0,0.0,2969
+job_Tax adviser,0.0,0.0,2970
+job_Tax inspector,0.0,0.0,2971
+"job_Teacher, English as a foreign language",0.0,0.0,2972
+"job_Teacher, adult education",0.0,0.0,2973
+"job_Teacher, early years/pre",0.0,0.0,2974
+"job_Teacher, primary school",0.0,0.0,2975
+"job_Teacher, secondary school",0.0,0.0,2976
+"job_Teacher, special educational needs",0.0,0.0,2977
+merchant_fraud_Kris-Padberg,0.0,0.0,2978
+job_Technical brewer,0.0,0.0,2979
+job_Telecommunications researcher,0.0,0.0,2980
+job_Television camera operator,0.0,0.0,2981
+job_Television floor manager,0.0,0.0,2982
+job_Television production assistant,0.0,0.0,2983
+job_Television/film/video producer,0.0,0.0,2984
+job_Textile designer,0.0,0.0,2985
+job_Theatre director,0.0,0.0,2986
+job_Theatre manager,0.0,0.0,2987
+merchant_fraud_Kris-Weimann,0.0,0.0,2988
+"job_Therapist, art",0.0,0.0,2989
+"job_Therapist, drama",0.0,0.0,2990
+"job_Therapist, horticultural",0.0,0.0,2991
+merchant_fraud_Kub-Heaney,0.0,0.0,2992
+job_Warden/ranger,0.0,0.0,2993
+job_Waste management officer,0.0,0.0,2994
+merchant_fraud_Kuhic Inc,0.0,0.0,2995
+job_Water quality scientist,0.0,0.0,2996
+job_Web designer,0.0,0.0,2997
+job_Wellsite geologist,0.0,0.0,2998
+job_Writer,0.0,0.0,2999
+merchant_fraud_Kuhic LLC,0.0,0.0,3000
+merchant_fraud_Kuhn Group,0.0,0.0,3001
+merchant_fraud_Kuhn LLC,0.0,0.0,3002
+merchant_fraud_Kulas Group,0.0,0.0,3003
+merchant_fraud_Kunde-Sanford,0.0,0.0,3004
+merchant_fraud_Kunze Inc,0.0,0.0,3005
+"merchant_fraud_Kunze, Larkin and Mayert",0.0,0.0,3006
+job_Volunteer coordinator,0.0,0.0,3007
+merchant_fraud_Kuphal-Bartoletti,0.0,0.0,3008
+merchant_fraud_Kuphal-Predovic,0.0,0.0,3009
+merchant_fraud_Abbott-Rogahn,0.0,0.0,3010
+merchant_fraud_Kuphal-Toy,0.0,0.0,3011
+merchant_fraud_Abernathy and Sons,0.0,0.0,3012
+merchant_fraud_Abshire PLC,0.0,0.0,3013
+merchant_fraud_Kutch and Sons,0.0,0.0,3014
+"merchant_fraud_Kutch, Hermiston and Farrell",0.0,0.0,3015
+"merchant_fraud_Altenwerth, Cartwright and Koss",0.0,0.0,3016
+merchant_fraud_Altenwerth-Kilback,0.0,0.0,3017
+merchant_fraud_Ankunding LLC,0.0,0.0,3018
+"merchant_fraud_Kutch, Steuber and Gerhold",0.0,0.0,3019
+"merchant_fraud_Armstrong, Walter and Gottlieb",0.0,0.0,3020
+merchant_fraud_Kutch-Ferry,0.0,0.0,3021
+merchant_fraud_Auer-Mosciski,0.0,0.0,3022
+job_Curator,0.0,0.0,3023

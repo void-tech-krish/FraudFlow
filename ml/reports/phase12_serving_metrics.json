@@ -1,0 +1,14 @@
+{
+    "request_count": 500,
+    "average_latency_ms": 31.25708140071947,
+    "median_latency_ms": 32.56454999791458,
+    "p95_latency_ms": 37.857445000554435,
+    "p99_latency_ms": 41.030490984558114,
+    "max_latency_ms": 65.23860001470894,
+    "error_count": 0,
+    "sub_100ms_p99": true,
+    "drift_trigger_available": true,
+    "dry_run_available": true,
+    "candidate_validation_available": true,
+    "automatic_promotion": false
+}

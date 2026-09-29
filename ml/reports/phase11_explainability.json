@@ -1,0 +1,196 @@
+{
+    "week": 11,
+    "explainability_method": "SHAP (TreeExplainer)",
+    "sample_size": 5000,
+    "global_importance_top_10": [
+        {
+            "feature": "amt",
+            "mean_abs_shap": 3.629145383834839,
+            "mean_shap": -3.497187852859497,
+            "rank": 1
+        },
+        {
+            "feature": "unix_time",
+            "mean_abs_shap": 0.8992549777030945,
+            "mean_shap": -0.8343954086303711,
+            "rank": 2
+        },
+        {
+            "feature": "hour_cos",
+            "mean_abs_shap": 0.7905058860778809,
+            "mean_shap": -0.49450135231018066,
+            "rank": 3
+        },
+        {
+            "feature": "amount_log",
+            "mean_abs_shap": 0.7657495141029358,
+            "mean_shap": -0.7381546497344971,
+            "rank": 4
+        },
+        {
+            "feature": "city_pop",
+            "mean_abs_shap": 0.6317569017410278,
+            "mean_shap": -0.5686736702919006,
+            "rank": 5
+        },
+        {
+            "feature": "customer_age",
+            "mean_abs_shap": 0.6191138029098511,
+            "mean_shap": -0.5954980254173279,
+            "rank": 6
+        },
+        {
+            "feature": "transaction_day",
+            "mean_abs_shap": 0.4601069390773773,
+            "mean_shap": -0.43114393949508667,
+            "rank": 7
+        },
+        {
+            "feature": "lat",
+            "mean_abs_shap": 0.43255552649497986,
+            "mean_shap": -0.39518821239471436,
+            "rank": 8
+        },
+        {
+            "feature": "transaction_hour",
+            "mean_abs_shap": 0.37368834018707275,
+            "mean_shap": -0.32737645506858826,
+            "rank": 9
+        },
+        {
+            "feature": "long",
+            "mean_abs_shap": 0.32512274384498596,
+            "mean_shap": -0.30679184198379517,
+            "rank": 10
+        }
+    ],
+    "local_explanations": [
+        {
+            "type": "high_risk",
+            "transaction_index": 53556,
+            "predicted_probability": 0.9999732971191406,
+            "threshold": 0.11,
+            "decision": 1,
+            "base_value_log_odds": 1.144172191619873,
+            "margin_log_odds": 10.531194686889648,
+            "top_positive_contributors": [
+                {
+                    "feature": "amt",
+                    "contribution": 3.596454620361328
+                },
+                {
+                    "feature": "category_grocery_pos",
+                    "contribution": 3.045501708984375
+                },
+                {
+                    "feature": "city_Clutier",
+                    "contribution": 0.901585042476654
+                }
+            ],
+            "top_negative_contributors": [
+                {
+                    "feature": "unix_time",
+                    "contribution": -0.2292248159646988
+                },
+                {
+                    "feature": "transaction_day_of_week",
+                    "contribution": -0.2276337593793869
+                },
+                {
+                    "feature": "long",
+                    "contribution": -0.10133454948663712
+                }
+            ]
+        },
+        {
+            "type": "low_risk",
+            "transaction_index": 38021,
+            "predicted_probability": 3.3717064695792942e-09,
+            "threshold": 0.11,
+            "decision": 0,
+            "base_value_log_odds": 1.144172191619873,
+            "margin_log_odds": -19.50784683227539,
+            "top_positive_contributors": [
+                {
+                    "feature": "hour_cos",
+                    "contribution": 0.3543376922607422
+                },
+                {
+                    "feature": "category_shopping_pos",
+                    "contribution": 0.07605957239866257
+                },
+                {
+                    "feature": "category_shopping_net",
+                    "contribution": 0.058146268129348755
+                }
+            ],
+            "top_negative_contributors": [
+                {
+                    "feature": "unix_time",
+                    "contribution": -4.324092388153076
+                },
+                {
+                    "feature": "amt",
+                    "contribution": -3.4944021701812744
+                },
+                {
+                    "feature": "transaction_day",
+                    "contribution": -1.993076205253601
+                }
+            ]
+        },
+        {
+            "type": "borderline",
+            "transaction_index": 100409,
+            "predicted_probability": 0.10789813846349716,
+            "threshold": 0.11,
+            "decision": 0,
+            "base_value_log_odds": 1.144172191619873,
+            "margin_log_odds": -2.1123926639556885,
+            "top_positive_contributors": [
+                {
+                    "feature": "hour_cos",
+                    "contribution": 1.527482509613037
+                },
+                {
+                    "feature": "transaction_hour",
+                    "contribution": 0.13782671093940735
+                },
+                {
+                    "feature": "category_shopping_pos",
+                    "contribution": 0.11199164390563965
+                }
+            ],
+            "top_negative_contributors": [
+                {
+                    "feature": "amt",
+                    "contribution": -1.1194190979003906
+                },
+                {
+                    "feature": "city_pop",
+                    "contribution": -0.977159321308136
+                },
+                {
+                    "feature": "customer_age",
+                    "contribution": -0.6929512023925781
+                }
+            ]
+        }
+    ],
+    "borderline_analysis": {
+        "transaction_index": 100409,
+        "distance_from_threshold": 0.0021018609404563904,
+        "definition": "minimum absolute difference from probability threshold"
+    },
+    "consistency_check": {
+        "output_space": "log-odds (margin)",
+        "tolerance": 0.0001,
+        "max_difference": 2.6702880859375e-05,
+        "is_consistent": true
+    },
+    "leakage_audit": {
+        "is_fraud_excluded": true,
+        "fraud_loss_amount_excluded": true,
+        "target_used_for_shap": false
+    }
+}

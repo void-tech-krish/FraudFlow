@@ -1,0 +1,2103 @@
+feature,importance
+num__amt,0.23067796602971213
+num__amount_log,0.21780894863019928
+num__transaction_hour,0.09677117780308718
+num__unix_time,0.03181811397859477
+cat__category_grocery_pos,0.030508073755231725
+cat__category_shopping_net,0.028516537647727772
+cat__category_misc_net,0.015170484648458587
+num__transaction_month,0.015025440051659539
+num__lat,0.013011871516565722
+num__city_pop,0.012430150889608534
+num__customer_age,0.01206240195811436
+cat__category_home,0.011091794193509781
+num__transaction_day_of_week,0.010264071579775633
+cat__category_food_dining,0.009687727353671747
+num__long,0.009513611257119184
+cat__category_entertainment,0.009247324823761657
+num__transaction_day,0.009187153154782416
+cat__category_kids_pets,0.008597752775833741
+num__zip,0.008529261351137012
+cat__category_health_fitness,0.008063784630766126
+num__merch_lat,0.00789434244921438
+cat__category_personal_care,0.006448633761211688
+num__merch_long,0.0060160064963585185
+cat__state_WV,0.005328756866317367
+cat__category_gas_transport,0.0036452935825987127
+cat__gender_F,0.002719032155587655
+cat__city_Jay,0.002668495672056908
+cat__state_WY,0.002583878984645675
+num__merchant_distance,0.0025163398709219837
+cat__city_Camden,0.002398354505238893
+cat__category_grocery_net,0.0023302833787634974
+cat__category_misc_pos,0.0022303959072728285
+cat__gender_M,0.002189074932580082
+cat__state_UT,0.002149736491588895
+cat__state_VT,0.0018531195394079962
+cat__city_Chatham,0.0017665610952681537
+cat__job_Licensed conveyancer,0.0017618622300411176
+cat__city_Burrton,0.0016774702047366312
+cat__job_Exhibition designer,0.0016050420830753425
+cat__category_shopping_pos,0.0015251301425051307
+cat__city_Morrowville,0.0015054134890619352
+cat__city_Sprague,0.0015007131739675922
+cat__city_Etlan,0.001487250137939271
+"cat__job_Surveyor, land/geomatics",0.0014295966795282392
+cat__city_Heislerville,0.001412080669404608
+cat__job_Counsellor,0.0013977260737005912
+cat__job_Materials engineer,0.001378149657964348
+cat__city_Springville,0.001333699544707881
+cat__job_Civil Service fast streamer,0.0013289693226334084
+cat__job_Colour technologist,0.001269153766290762
+cat__job_Higher education careers adviser,0.0012535650530008243
+cat__job_Teaching laboratory technician,0.0012367923516065705
+cat__job_Commissioning editor,0.0012189539863793886
+cat__state_CO,0.0012151666362700815
+num__is_weekend,0.0011868874739700513
+cat__state_AR,0.001177767563043211
+cat__state_OH,0.0011393342983138206
+cat__city_Azusa,0.001129779687936999
+"cat__job_Engineer, biomedical",0.0010998515960201852
+cat__job_Human resources officer,0.0010878402131637116
+cat__city_Wauchula,0.0010756347017959285
+cat__category_travel,0.0010733491965238971
+cat__job_Chemical engineer,0.0010726922340260335
+cat__merchant_fraud_Lemke-Gutmann,0.001070117128796292
+cat__job_Television camera operator,0.0010111477206180797
+cat__job_Science writer,0.0010067977805290733
+cat__job_Advertising account executive,0.000989899291014749
+cat__job_Magazine features editor,0.0009758827034114884
+cat__city_Whittemore,0.0009666992578686186
+cat__city_Craig,0.0009596400565742362
+cat__city_Paradise Valley,0.0009396895986213436
+cat__city_Sutherland,0.0009375339980714722
+"cat__job_Therapist, occupational",0.0009360385345773679
+"cat__merchant_fraud_Romaguera, Cruickshank and Greenholt",0.0009003629573606972
+cat__state_CT,0.0008251677892028355
+cat__city_Lakeport,0.0008162789338956823
+"cat__job_Research officer, trade union",0.0008095328683589989
+"cat__merchant_fraud_Schultz, Simonis and Little",0.0008092143300866745
+cat__job_Software engineer,0.0007941215937946697
+cat__state_FL,0.0007823355077359321
+cat__job_Art therapist,0.0007793455653791139
+cat__city_Senatobia,0.0007674226273851683
+cat__state_SC,0.0007603650462932053
+cat__city_Georgetown,0.0007532952572069138
+cat__job_Animal technologist,0.00074299002213122
+cat__job_Amenity horticulturist,0.0007232576379648381
+cat__city_Elk Rapids,0.0007132133848900392
+cat__city_Owensville,0.0007100570325002664
+cat__city_Louisville,0.0007070555950961934
+cat__job_Water engineer,0.0007038130734084517
+cat__job_Gaffer,0.0006989855905194908
+cat__job_Operational investment banker,0.0006852458052181256
+"cat__merchant_fraud_Mosciski, Ziemann and Farrell",0.0006800840722640592
+cat__job_Paramedic,0.0006765256266098035
+cat__city_Mc Intosh,0.0006679303454093173
+cat__state_CA,0.0006661724425484557
+cat__job_Exercise physiologist,0.0006588204708306475
+cat__city_Lexington,0.0006387286166160186
+cat__state_VA,0.0006191964875165135
+cat__state_TX,0.0006117998174955476
+cat__state_LA,0.0006024233144263998
+cat__job_Firefighter,0.0005888737083053397
+cat__city_Pea Ridge,0.0005797084675963332
+cat__city_Des Moines,0.0005754055997648173
+cat__state_IN,0.0005749259782913307
+cat__city_Mound City,0.0005653692829215359
+cat__state_MS,0.0005640418834390532
+cat__city_Arcadia,0.0005580136480673117
+cat__city_Remer,0.0005573638669317799
+cat__city_Livonia,0.000557233157330275
+cat__city_Dell City,0.0005567839758859299
+cat__city_Titusville,0.0005557463842408354
+cat__city_Oolitic,0.0005543236154590797
+cat__city_Leonard,0.0005519720868250593
+cat__city_Heart Butte,0.0005494184758976023
+"cat__job_Psychotherapist, child",0.0005476997622447436
+cat__job_Architect,0.0005476251011111022
+cat__city_Issaquah,0.000529293992256291
+cat__city_Kirkwood,0.000528381258944266
+cat__job_Psychiatric nurse,0.0005224828330423924
+cat__state_KY,0.0005218863206324791
+cat__job_Set designer,0.0005171014325031653
+"cat__job_Engineer, building services",0.000516982536537064
+cat__job_Mechanical engineer,0.0005168699160943083
+cat__job_Chief Executive Officer,0.0005042526617782111
+cat__job_Environmental consultant,0.0004918103646556003
+cat__city_Desdemona,0.0004892252752634795
+cat__city_Viola,0.000488444741112267
+cat__city_Adams,0.0004823024119767035
+cat__city_Birmingham,0.0004800873008349202
+cat__city_Lomax,0.00045430217141949455
+"cat__job_Therapist, sports",0.0004534913662916141
+cat__state_MO,0.0004526224363585461
+cat__job_Insurance broker,0.0004462943677312816
+cat__state_MT,0.0004454278399324656
+cat__state_PA,0.00044486999724337384
+cat__job_Pensions consultant,0.0004437378344224094
+cat__job_Hydrogeologist,0.0004341723153578957
+cat__state_NE,0.0004292690762387544
+"cat__job_Scientist, research (medical)",0.0004272438190679479
+cat__city_Rice,0.0004270947430187221
+cat__job_Sub,0.00042616118589573185
+cat__job_Database administrator,0.0004220050963200503
+cat__job_Systems developer,0.00041798299251986627
+cat__city_Belmont,0.00041475737498061386
+cat__city_Prosperity,0.0004127612264085348
+cat__city_Norwich,0.0004092947908359837
+"cat__job_Psychologist, forensic",0.0004031677765699014
+cat__job_Podiatrist,0.0004017773652489348
+cat__job_Research scientist (physical sciences),0.0004015448445551264
+cat__job_Engineering geologist,0.0003970291624007948
+"cat__job_Librarian, public",0.00038986183150902865
+cat__job_Financial adviser,0.00038961980692011554
+cat__city_Llano,0.00038629468995841345
+cat__state_GA,0.0003789253581214831
+"cat__job_Copywriter, advertising",0.0003774163971682054
+cat__job_Prison officer,0.0003770026327336931
+cat__state_NM,0.0003761673868936212
+cat__state_IL,0.0003745576498470161
+cat__city_Leetsdale,0.0003734111048032833
+cat__job_Camera operator,0.00037017988836762794
+cat__city_Smackover,0.00036353847389973754
+cat__city_Doe Hill,0.00036287954421689896
+cat__job_Trade mark attorney,0.0003602069426509307
+"cat__job_Administrator, education",0.0003481709071212712
+cat__job_Herpetologist,0.00034739847946869626
+"cat__job_Therapist, music",0.0003440065039432963
+cat__city_Plymouth,0.00034036482867473474
+cat__city_Maria Stein,0.000339785530635169
+cat__job_Dance movement psychotherapist,0.00033831352237831175
+"cat__job_Librarian, academic",0.0003375360320848209
+cat__city_Creedmoor,0.0003370029724487035
+cat__job_Chief Strategy Officer,0.00033357543087827416
+cat__job_Geoscientist,0.0003324236050439718
+cat__city_Lorenzo,0.00033118143295747825
+cat__city_Utica,0.00032956818000833465
+cat__job_Osteopath,0.00032787181120226566
+cat__city_Lohrville,0.0003275219097196559
+cat__city_Smiths Grove,0.00032602611659334017
+cat__state_WA,0.000325061782838228
+cat__job_Horticultural consultant,0.00032484354965348674
+cat__city_West Eaton,0.0003247006111436757
+cat__state_OR,0.00032206692628457305
+cat__city_Pomona,0.00032175700630843906
+cat__state_DC,0.0003204943315857469
+cat__city_Palmdale,0.0003204515820822489
+cat__city_Spirit Lake,0.00031584063520147325
+cat__city_Mountain Center,0.0003152553305121292
+"cat__job_Civil engineer, contracting",0.00031159688543391627
+cat__city_Grand Junction,0.0003109891956463473
+cat__city_Annapolis,0.00031039700088071
+cat__job_Optometrist,0.0003101585084327997
+cat__state_IA,0.0003057294490463296
+cat__city_Halstad,0.0002990430428080828
+cat__city_Coyle,0.0002982501202758522
+cat__state_MN,0.00029620562787990954
+"cat__job_Conservator, furniture",0.0002946607530547424
+cat__job_Mining engineer,0.00029459237466341974
+cat__job_Educational psychologist,0.0002935628206012918
+"cat__job_Scientist, research (maths)",0.00029224517691830943
+cat__state_AK,0.00029207247974603185
+cat__merchant_fraud_Bashirian Group,0.00029151815268279555
+cat__job_Architectural technologist,0.0002913909087130954
+cat__job_Clothing/textile technologist,0.00028859813208861364
+cat__job_Planning and development surveyor,0.00028540907577078155
+cat__city_Reynolds,0.00028481618415640136
+cat__job_Counselling psychologist,0.00028454041580496913
+cat__city_Schaefferstown,0.00028250305074535814
+cat__job_Musician,0.000281078456448163
+cat__job_Naval architect,0.0002792074343704724
+cat__state_HI,0.0002774390073398538
+cat__state_NY,0.00027501074079526667
+cat__city_Greenbush,0.00027423613998437996
+cat__city_Guthrie,0.00027154582287561833
+cat__job_Film/video editor,0.0002714495552992076
+cat__job_Research scientist (medical),0.0002685246755690529
+cat__city_Cisco,0.000266470985173488
+cat__city_Uledi,0.0002635175086959914
+cat__city_Bradley,0.0002630768711671626
+cat__job_Immunologist,0.00026180981905538574
+cat__city_Portland,0.00026060431505739066
+cat__job_Secondary school teacher,0.00026003904454478685
+cat__city_Houston,0.00025882115594579757
+"cat__job_Engineer, automotive",0.00025716832449646323
+cat__city_Glendale,0.00025692840921134083
+cat__job_Press sub,0.0002558792698711366
+cat__city_Central,0.00025487696474268864
+cat__job_Building surveyor,0.00025274396187280194
+cat__job_Chiropodist,0.00025027945836864524
+cat__job_Accounting technician,0.00024933845969400133
+cat__city_Dallas,0.00024921816558312387
+cat__merchant_fraud_Heathcote LLC,0.00024816065309547953
+cat__job_Comptroller,0.0002462362968253786
+cat__city_Loving,0.0002457089306242849
+cat__city_Cressona,0.00024329764137255664
+cat__job_Tree surgeon,0.0002426163915500137
+cat__city_Carlotta,0.0002417093206243837
+"cat__job_Scientist, clinical (histocompatibility and immunogenetics)",0.00024047673092585515
+cat__city_Grifton,0.00023738205759816315
+cat__city_Trenton,0.00023537502567215845
+cat__city_Thrall,0.00023411226326577333
+"cat__job_Designer, industrial/product",0.0002341121980583286
+cat__job_Barrister,0.0002324892336899649
+cat__job_Special educational needs teacher,0.00022914547661000942
+"cat__merchant_fraud_Heathcote, Yost and Kertzmann",0.0002280239547094988
+cat__state_NJ,0.0002243280783522197
+cat__job_Energy manager,0.00021944411772337308
+cat__city_Lake Oswego,0.00021918011123435704
+"cat__job_Engineer, control and instrumentation",0.00021847705779422225
+cat__city_West Finley,0.0002149846607311066
+cat__city_Arlington,0.00021356044299574486
+cat__city_Cazenovia,0.000212133545385106
+cat__job_Ecologist,0.00021087922802093183
+cat__job_Senior tax professional/tax inspector,0.00020997667317322467
+cat__city_Paauilo,0.00020927614771617568
+"cat__job_Buyer, retail",0.0002089169462846689
+cat__job_Archaeologist,0.0002074169717266431
+cat__job_Sport and exercise psychologist,0.00020328204297115953
+cat__city_Vero Beach,0.00020320097564904916
+cat__city_Kirtland,0.0002020708618987508
+cat__state_OK,0.00020200876039247362
+"cat__job_Lecturer, higher education",0.00020198055072786876
+cat__state_NC,0.00020135404105126666
+cat__job_Electrical engineer,0.00019978550053895204
+"cat__job_Optician, dispensing",0.0001988447986344449
+cat__job_Advertising account planner,0.00019810982059385423
+cat__merchant_fraud_Parisian and Sons,0.00019706617323860472
+cat__city_Edmond,0.00019587766377553327
+cat__city_Turner,0.00019529463670055054
+cat__job_Barrister's clerk,0.00019214830123418438
+cat__city_Denham Springs,0.00019165897006090418
+cat__city_Cottekill,0.00018848369558694734
+"cat__job_Investment banker, operational",0.00018740484683537863
+cat__city_Seattle,0.0001862132493498828
+cat__job_Visual merchandiser,0.00018405603158506487
+cat__city_Thomas,0.00018181434761872607
+cat__city_Ford,0.00018125298131944074
+cat__job_Energy engineer,0.00018106887231951314
+cat__state_ME,0.0001810373033167992
+cat__state_MI,0.0001804390500061851
+cat__state_ID,0.00017820247399678014
+cat__city_Keisterville,0.00017796699225655613
+cat__city_Preston,0.00017694708303293168
+cat__city_Woodville,0.00017599995653682873
+cat__state_AL,0.00017417587694260343
+cat__city_Allentown,0.00017363195361318174
+cat__job_Media buyer,0.00017306295083090192
+cat__job_Physiotherapist,0.0001718202530234855
+cat__city_Lamberton,0.00017119466500497077
+cat__city_Washington,0.00016764651261480515
+cat__city_Linthicum Heights,0.00016544230961621496
+cat__city_Saint Amant,0.0001647411278100478
+cat__job_Toxicologist,0.00016466541347458818
+cat__job_Product designer,0.0001642256911554008
+cat__job_Medical sales representative,0.00016369500666755865
+"cat__job_Surveyor, rural practice",0.00016283928804629034
+"cat__job_Scientist, marine",0.00016204020886934956
+cat__job_Chartered public finance accountant,0.00016137685117954343
+cat__job_Fine artist,0.0001599209875568422
+cat__state_ND,0.00015738002593847865
+cat__merchant_fraud_Mante Group,0.00015664565970076308
+cat__job_Call centre manager,0.00015580771171258315
+cat__city_Auburn,0.0001540864743749348
+cat__city_Moravian Falls,0.00015346887881984554
+cat__job_Financial trader,0.00015337515933858408
+cat__city_Cascade Locks,0.00014777397550660174
+cat__job_Chief Financial Officer,0.00014690512224716973
+cat__job_Retail manager,0.00014687052528077635
+cat__job_Television production assistant,0.0001459818255002653
+cat__city_Drakes Branch,0.00014583946875606734
+"cat__job_Accountant, chartered certified",0.00014345809599606977
+cat__job_Television/film/video producer,0.00014299264563131413
+cat__city_Bristol,0.0001415695428029938
+cat__city_Clarks Mills,0.0001406677176571946
+cat__city_Veedersburg,0.00013932900528347526
+cat__merchant_fraud_Erdman-Schaden,0.00013817447068231327
+cat__job_Trading standards officer,0.0001371171336456373
+cat__city_Littleton,0.00013232288328185197
+cat__job_Cytogeneticist,0.00013207491907731947
+cat__city_Detroit,0.0001317595393849019
+cat__job_Commercial horticulturist,0.0001311000277488199
+cat__city_Steuben,0.0001305700281218323
+cat__city_Pelham,0.00012982244373052414
+cat__job_Occupational hygienist,0.00012977191874092735
+cat__city_Watertown,0.00012918253427574307
+cat__job_Radio broadcast assistant,0.00012911041821943637
+cat__state_KS,0.00012893138648638572
+cat__merchant_fraud_Medhurst PLC,0.0001274127251153314
+"cat__merchant_fraud_Koss, McLaughlin and Mayer",0.00012664829517890013
+cat__city_Stayton,0.0001262588536932319
+cat__job_Further education lecturer,0.00012489539370851208
+cat__city_Spring Church,0.0001241861310186877
+"cat__job_Development worker, community",0.00012345442125634472
+cat__city_Jackson,0.00012284729305467236
+"cat__job_Designer, television/film set",0.0001224457951333138
+"cat__merchant_fraud_Moen, Reinger and Murphy",0.00012188693040427839
+cat__merchant_fraud_Kiehn-Emmerich,0.00011868048720587667
+cat__state_WI,0.00011770098590233288
+cat__city_Conway,0.0001175522854524687
+cat__job_Health visitor,0.00011700934268964262
+"cat__merchant_fraud_Huel, Hammes and Witting",0.00011541210109180749
+cat__job_Jewellery designer,0.00011537507204081522
+cat__city_Maysville,0.00011536475533189426
+cat__city_Grover,0.00011355044264590028
+cat__city_Ridgeland,0.00011239059878221209
+"cat__merchant_fraud_Olson, Becker and Koch",0.0001123634023083338
+"cat__merchant_fraud_Bahringer, Osinski and Block",0.00011182647351144128
+cat__job_Landscape architect,0.00011155997854766019
+cat__city_Schaumburg,0.00011144199684572984
+cat__city_Warren,0.00011138683877968673
+"cat__job_Scientist, audiological",0.00011088867454874272
+cat__merchant_fraud_Turner and Sons,0.00010935019797526777
+cat__state_MA,0.00010880043276199062
+cat__job_Archivist,0.00010877146437356296
+cat__job_Tour manager,0.00010860724760955084
+cat__city_Hartford,0.0001081004239547019
+"cat__job_Engineer, water",0.00010748455945076336
+"cat__merchant_fraud_Ledner, Hartmann and Feest",0.00010737388622218735
+cat__city_Eureka,0.00010651564781220272
+cat__city_Zavalla,0.00010602308989513231
+cat__city_Honokaa,0.00010511321926879582
+cat__merchant_fraud_Rau and Sons,0.00010464808253234269
+cat__job_Broadcast presenter,0.00010429270174647359
+cat__job_Ceramics designer,0.0001042098999050254
+"cat__job_Psychologist, counselling",0.0001035237040699718
+cat__city_Churubusco,0.00010317905412219167
+cat__city_Williams,0.00010172372978192338
+cat__city_Barnard,0.00010130182713538606
+cat__city_Gardiner,0.00010094972428115733
+cat__merchant_fraud_Ziemann-Waters,0.00010074607051648923
+cat__merchant_fraud_Emmerich-Rau,0.00010052076783427727
+cat__job_Wellsite geologist,9.971101159819079e-05
+cat__merchant_fraud_Gutmann-Upton,9.92565332764754e-05
+cat__job_Facilities manager,9.807734922586288e-05
+cat__job_Theme park manager,9.770431716661555e-05
+cat__city_Bridger,9.695607291011559e-05
+cat__merchant_fraud_Kozey-Boehm,9.260760612638386e-05
+cat__city_Clutier,9.24455859413477e-05
+cat__city_Seligman,9.192114140948035e-05
+"cat__job_Sales professional, IT",9.178863333108152e-05
+cat__merchant_fraud_Kiehn Inc,9.157383252973398e-05
+cat__city_San Antonio,9.124517148354356e-05
+cat__city_Ruidoso,8.947051084599851e-05
+"cat__job_Physicist, medical",8.94689927249836e-05
+cat__city_Jaffrey,8.868523569758819e-05
+cat__city_New Franken,8.846356048193611e-05
+cat__city_Shrewsbury,8.790435380590468e-05
+cat__job_Multimedia programmer,8.762959294407199e-05
+cat__city_Akron,8.742227863442637e-05
+cat__state_TN,8.741355002055362e-05
+cat__job_IT trainer,8.73893355901425e-05
+cat__merchant_fraud_O'Keefe-Hudson,8.6810810341495e-05
+cat__job_Armed forces training and education officer,8.670056209251248e-05
+cat__city_Bolivar,8.657231458645077e-05
+cat__merchant_fraud_Wilkinson Ltd,8.322146770455012e-05
+"cat__merchant_fraud_Kihn, Abernathy and Douglas",8.303294756270591e-05
+cat__city_Fields Landing,8.275568192721511e-05
+cat__job_Administrator,8.223181781287338e-05
+cat__city_Wales,8.171258730360246e-05
+cat__city_Stirling,8.151588501115846e-05
+cat__city_Hooper,8.129584209774371e-05
+cat__merchant_fraud_Renner Ltd,8.12180710086711e-05
+"cat__merchant_fraud_Roberts, Ryan and Smith",8.120228523127702e-05
+cat__job_Production manager,8.058275477718006e-05
+cat__merchant_fraud_Cummerata-Jones,7.999482270913044e-05
+cat__state_MD,7.967785589317478e-05
+cat__city_Cowlesville,7.893617833117532e-05
+cat__city_Rossville,7.855171291609018e-05
+cat__job_Petroleum engineer,7.840475594897994e-05
+"cat__merchant_fraud_Harris, Gusikowski and Heaney",7.838949218047373e-05
+cat__merchant_fraud_Stamm-Rodriguez,7.733561190910652e-05
+cat__job_Town planner,7.664824923336512e-05
+cat__city_Diamond,7.631730087384378e-05
+cat__city_Whigham,7.606112739220565e-05
+cat__merchant_fraud_Bins-Rice,7.538321012682511e-05
+cat__job_Early years teacher,7.53726991153134e-05
+"cat__job_Surveyor, hydrographic",7.457308111124139e-05
+"cat__merchant_fraud_Stroman, Hudson and Erdman",7.390489249176596e-05
+cat__city_Luray,7.321466075787842e-05
+cat__job_Chartered loss adjuster,7.27564734136435e-05
+cat__merchant_fraud_Marvin-Lind,7.267046869388178e-05
+"cat__merchant_fraud_Altenwerth, Cartwright and Koss",7.241658451846417e-05
+cat__merchant_fraud_McCullough LLC,7.214735068776129e-05
+cat__state_NV,7.13155818754727e-05
+cat__job_Race relations officer,7.112659485425935e-05
+cat__merchant_fraud_Kovacek Ltd,7.036240675358889e-05
+cat__job_Social researcher,7.033523903931194e-05
+"cat__merchant_fraud_Medhurst, Cartwright and Ebert",7.025521111851148e-05
+cat__job_Radio producer,6.999624818660198e-05
+cat__city_Orient,6.956047098613326e-05
+cat__merchant_fraud_Little Ltd,6.949416179632189e-05
+"cat__merchant_fraud_Swaniawski, Lowe and Robel",6.866546458606045e-05
+cat__city_Brandon,6.851560650786619e-05
+"cat__merchant_fraud_Ruecker, Beer and Collier",6.839937894096378e-05
+cat__city_Meridian,6.683811704516051e-05
+"cat__merchant_fraud_Schiller, Blanda and Johnson",6.644990268649494e-05
+cat__city_Princeton,6.632949956705933e-05
+cat__city_Sachse,6.632799478652926e-05
+cat__merchant_fraud_Conroy-Cruickshank,6.614050230649107e-05
+cat__job_Dealer,6.604181335052204e-05
+cat__city_Burbank,6.49601933313837e-05
+"cat__merchant_fraud_Turcotte, Batz and Buckridge",6.473766496393922e-05
+"cat__merchant_fraud_Osinski, Ledner and Leuschke",6.463231767240428e-05
+cat__job_Agricultural consultant,6.449756661101031e-05
+"cat__job_Scientist, biomedical",6.445209268984229e-05
+"cat__merchant_fraud_Gottlieb, Considine and Schultz",6.415236596425097e-05
+"cat__merchant_fraud_Bernier, Volkman and Hoeger",6.395900104892439e-05
+cat__state_SD,6.292826977472168e-05
+"cat__merchant_fraud_Rodriguez, Yost and Jenkins",6.257271933826159e-05
+cat__job_Manufacturing engineer,6.167982582211463e-05
+"cat__job_Designer, furniture",6.162616844003444e-05
+cat__city_Manville,6.160130461538082e-05
+cat__merchant_fraud_Stamm-Witting,6.133617054106195e-05
+cat__job_Audiological scientist,6.109348845742686e-05
+cat__merchant_fraud_Hamill-Daugherty,6.08151440244656e-05
+"cat__job_Surveyor, minerals",6.0814366285750175e-05
+cat__job_Psychiatrist,6.0689149812133776e-05
+cat__job_Nature conservation officer,6.0667886683165165e-05
+cat__job_Chief Operating Officer,5.937149685046432e-05
+cat__merchant_fraud_Heller PLC,5.858780174412433e-05
+cat__city_Bonita Springs,5.845813038911995e-05
+"cat__job_Editor, commissioning",5.731705633628141e-05
+cat__merchant_fraud_Gottlieb-Hansen,5.7312321119551065e-05
+cat__state_AZ,5.7149819574816275e-05
+cat__city_Belmond,5.688152816718014e-05
+cat__city_Hahira,5.6530399998537056e-05
+"cat__job_Research officer, political party",5.615480337979839e-05
+cat__job_Community arts worker,5.6079405624554096e-05
+cat__city_Lane,5.601202660756668e-05
+"cat__merchant_fraud_Mante, Luettgen and Hackett",5.537075549859018e-05
+cat__merchant_fraud_Gleason and Sons,5.475751409992728e-05
+cat__merchant_fraud_Quitzon-Goyette,5.436734105905772e-05
+"cat__job_Programme researcher, broadcasting/film/video",5.418173379592163e-05
+cat__merchant_fraud_Osinski Inc,5.404092837733559e-05
+cat__job_Insurance risk surveyor,5.395237629052497e-05
+cat__job_Occupational psychologist,5.3904563550266326e-05
+"cat__merchant_fraud_Robel, Cummerata and Prosacco",5.3435548740346205e-05
+cat__city_Notrees,5.318915581082272e-05
+"cat__job_Exhibitions officer, museum/gallery",5.316722519059399e-05
+"cat__job_Scientist, physiological",5.269054281321134e-05
+cat__merchant_fraud_Botsford PLC,5.2280580359247036e-05
+cat__merchant_fraud_Goodwin-Nitzsche,5.193584547657639e-05
+cat__city_Lowell,5.17427105574364e-05
+cat__merchant_fraud_Nolan-Williamson,5.16914447125366e-05
+cat__city_New York City,5.157943996124178e-05
+"cat__merchant_fraud_Bernier, Streich and Jewess",5.152400699730207e-05
+"cat__job_Social research officer, government",5.089558884278753e-05
+cat__job_Tourist information centre manager,5.01053612023119e-05
+"cat__merchant_fraud_Larson, Quitzon and Spencer",4.994611962195059e-05
+cat__city_Port Ewen,4.989967099666285e-05
+cat__city_Newhall,4.983539787143012e-05
+cat__city_Oriskany Falls,4.983203241035104e-05
+cat__merchant_fraud_Hamill-D'Amore,4.918279241290186e-05
+cat__state_NH,4.895707656291797e-05
+cat__city_Odessa,4.827022454669636e-05
+cat__city_Baton Rouge,4.816444057005245e-05
+"cat__job_Engineer, petroleum",4.7675717243781335e-05
+"cat__merchant_fraud_Lehner, Reichert and Mills",4.766953132354002e-05
+cat__job_Insurance underwriter,4.7318308252416515e-05
+cat__city_Moorhead,4.696591942834617e-05
+"cat__merchant_fraud_Konopelski, Schneider and Hartmann",4.62825681749534e-05
+cat__city_Malad City,4.623207491200063e-05
+cat__job_Music tutor,4.620017073737106e-05
+cat__merchant_fraud_Kunze Inc,4.605151304750861e-05
+cat__merchant_fraud_Schamberger-O'Keefe,4.558097128387144e-05
+"cat__merchant_fraud_Okuneva, Schneider and Rau",4.498391543316289e-05
+"cat__merchant_fraud_Ferry, Reichel and DuBuque",4.474738899783846e-05
+cat__job_Public relations officer,4.4700318911484395e-05
+"cat__merchant_fraud_Yost, Block and Koepp",4.424557476410788e-05
+cat__city_Topeka,4.412909942920059e-05
+cat__city_New Boston,4.384995742018954e-05
+cat__city_Monmouth Beach,4.375868769874916e-05
+cat__merchant_fraud_Stracke-Lemke,4.374539635379637e-05
+cat__job_Intelligence analyst,4.369604194408138e-05
+cat__merchant_fraud_Bailey-Morar,4.330337653680561e-05
+cat__job_Futures trader,4.259040269236842e-05
+cat__merchant_fraud_Schaefer Ltd,4.248360901184665e-05
+cat__job_Herbalist,4.2389333063202706e-05
+cat__merchant_fraud_Boyer-Reichert,4.2251066493926114e-05
+cat__merchant_fraud_Strosin-Cruickshank,4.190706839458964e-05
+cat__city_Lake Jackson,4.184528538029323e-05
+cat__merchant_fraud_Goyette Inc,4.184125564837024e-05
+"cat__job_Administrator, charities/voluntary organisations",4.180999161785786e-05
+cat__job_Web designer,4.1743875203099185e-05
+cat__city_Deltona,4.124347083500601e-05
+cat__merchant_fraud_Daugherty-Thompson,4.122808944941501e-05
+"cat__job_Designer, jewellery",4.0755721013740376e-05
+cat__merchant_fraud_Adams-Barrows,4.061008683296188e-05
+cat__merchant_fraud_Barrows PLC,4.030363839206498e-05
+"cat__merchant_fraud_Zboncak, Rowe and Murazik",4.0242233773190325e-05
+cat__job_Technical brewer,3.973593691869244e-05
+cat__merchant_fraud_Mraz-Herzog,3.961544453865758e-05
+cat__city_Darien,3.960162153894693e-05
+cat__city_Hinesburg,3.936791171779259e-05
+cat__job_Advice worker,3.935530051537461e-05
+cat__job_Quantity surveyor,3.9241751112364355e-05
+cat__job_Heritage manager,3.9115893544445995e-05
+cat__job_English as a second language teacher,3.89345302112816e-05
+cat__city_Shields,3.864586234400237e-05
+cat__merchant_fraud_Bauch-Raynor,3.847125592205207e-05
+cat__city_Brownville,3.820271679683767e-05
+cat__merchant_fraud_Stiedemann Ltd,3.8093582209390666e-05
+cat__merchant_fraud_Kris-Weimann,3.790442464835654e-05
+cat__job_Tax adviser,3.766390505954376e-05
+"cat__merchant_fraud_Ferry, Lynch and Kautzer",3.752315091665103e-05
+cat__merchant_fraud_Kilback LLC,3.750386538235731e-05
+"cat__job_Designer, ceramics/pottery",3.7220414991387574e-05
+cat__city_Southfield,3.7212728971395755e-05
+cat__city_Tekoa,3.71644568192447e-05
+"cat__merchant_fraud_Casper, Hand and Zulauf",3.7012354671030294e-05
+"cat__merchant_fraud_Kovacek, Dibbert and Ondricka",3.68268854561954e-05
+cat__city_Roosevelt,3.667693689193632e-05
+cat__job_Make,3.661665014906977e-05
+cat__city_Blairstown,3.65287296451184e-05
+cat__job_Child psychotherapist,3.651589398456865e-05
+cat__city_Brinson,3.650638153831362e-05
+cat__merchant_fraud_Kuvalis Ltd,3.6414972461863864e-05
+cat__job_Applications developer,3.639767717140447e-05
+cat__job_Freight forwarder,3.635721788239756e-05
+cat__merchant_fraud_Tromp Group,3.627285041582647e-05
+cat__merchant_fraud_Kerluke PLC,3.625751837687802e-05
+cat__merchant_fraud_Vandervort-Funk,3.621544240389099e-05
+cat__merchant_fraud_Kerluke-Abshire,3.594155293503128e-05
+"cat__job_Teacher, special educational needs",3.572396000972341e-05
+"cat__merchant_fraud_Dare, Casper and Bartoletti",3.545036398051123e-05
+cat__city_Holloway,3.522364160633147e-05
+"cat__merchant_fraud_Rowe, Batz and Goodwin",3.519180896656895e-05
+cat__merchant_fraud_Cartwright-Harris,3.5033701374405435e-05
+cat__city_Farmington,3.502943712561095e-05
+"cat__merchant_fraud_Crist, Jakubowski and Littel",3.482217664495763e-05
+"cat__job_Buyer, industrial",3.479404487516384e-05
+cat__merchant_fraud_McDermott-Weimann,3.47064762028966e-05
+cat__merchant_fraud_Block-Parisian,3.464583499741456e-05
+"cat__job_Engineer, broadcasting (operations)",3.435529579125817e-05
+"cat__job_Embryologist, clinical",3.417855854693961e-05
+"cat__merchant_fraud_Reichert, Huels and Hoppe",3.394484189440746e-05
+cat__city_Manistique,3.39281550425944e-05
+cat__merchant_fraud_Kutch and Sons,3.3925387749049894e-05
+cat__city_Afton,3.385618165974889e-05
+cat__merchant_fraud_Brown PLC,3.371915688445124e-05
+cat__merchant_fraud_Torp-Labadie,3.358977166084192e-05
+cat__job_Fisheries officer,3.346035099526352e-05
+cat__city_Phoenix,3.3328184789274624e-05
+cat__job_Dispensing optician,3.314566426242859e-05
+cat__merchant_fraud_Will Ltd,3.3085475774656325e-05
+cat__city_Cedar,3.296376794150177e-05
+cat__merchant_fraud_Roob-Okuneva,3.292365760370598e-05
+cat__city_Richland,3.254578379845989e-05
+cat__city_Bellmore,3.2366173510714275e-05
+cat__merchant_fraud_Miller-Hauck,3.23642541365049e-05
+cat__merchant_fraud_Fahey Inc,3.2356443861124586e-05
+cat__city_Sebring,3.232881217142551e-05
+cat__job_Site engineer,3.2288044373418446e-05
+cat__merchant_fraud_Friesen Inc,3.223077426147622e-05
+"cat__merchant_fraud_Schmeler, Bashirian and Price",3.2069630847522225e-05
+cat__merchant_fraud_Bernier and Sons,3.186732985875814e-05
+cat__city_Orr,3.174615215330888e-05
+"cat__merchant_fraud_Jenkins, Hauck and Friesen",3.169235316115555e-05
+"cat__merchant_fraud_Denesik, Powlowski and Pouros",3.164542924284653e-05
+cat__city_Tickfaw,3.11737448313435e-05
+cat__merchant_fraud_VonRueden Group,3.115698202574667e-05
+cat__city_West Sayville,3.092544183088792e-05
+cat__city_Superior,3.0864245029112514e-05
+cat__job_Historic buildings inspector/conservation officer,3.0529898777109024e-05
+"cat__merchant_fraud_Dare, Fritsch and Zboncak",3.0494539836273312e-05
+cat__merchant_fraud_Thompson-Gleason,3.0450732608950042e-05
+cat__merchant_fraud_Rodriguez Group,3.01639510048921e-05
+cat__merchant_fraud_Hoppe-Parisian,2.982164400017957e-05
+"cat__merchant_fraud_Greenholt, Jacobi and Gleason",2.949077906659888e-05
+"cat__merchant_fraud_Schoen, Nienow and Bauch",2.9408355370661297e-05
+"cat__job_Designer, exhibition/display",2.9407168608651043e-05
+cat__merchant_fraud_Murray-Smitham,2.9140498235093464e-05
+cat__merchant_fraud_Predovic Inc,2.9048208821497885e-05
+cat__merchant_fraud_Abbott-Steuber,2.8605681834512063e-05
+cat__city_East Canaan,2.8567745759424818e-05
+cat__job_Forensic psychologist,2.8501912441106016e-05
+cat__merchant_fraud_Hudson-Ratke,2.8301554808819867e-05
+cat__city_Tyaskin,2.8293550046571944e-05
+cat__merchant_fraud_Metz-Boehm,2.823844166015459e-05
+cat__merchant_fraud_Koelpin and Sons,2.8208569912493003e-05
+"cat__job_Horticulturist, commercial",2.784488337437771e-05
+cat__city_Goreville,2.779714547428512e-05
+cat__job_Surgeon,2.7744923976501603e-05
+cat__city_Naples,2.7727658468999684e-05
+"cat__merchant_fraud_Raynor, Reinger and Hagenes",2.7677468722698966e-05
+cat__merchant_fraud_Auer-West,2.743513327881483e-05
+cat__merchant_fraud_Cormier LLC,2.7422221062622434e-05
+cat__city_Rocky Mount,2.735885363912155e-05
+cat__city_Lakeland,2.7270634464697988e-05
+"cat__merchant_fraud_Feil, Hilpert and Koss",2.719611123212941e-05
+cat__job_TEFL teacher,2.6952180167132145e-05
+"cat__merchant_fraud_Hagenes, Kohler and Hoppe",2.6709007723456624e-05
+cat__job_Physiological scientist,2.6606607150419753e-05
+cat__merchant_fraud_Hills-Boyer,2.629349992580564e-05
+cat__merchant_fraud_Wiza LLC,2.6178282137824892e-05
+cat__job_Lexicographer,2.6100871178283996e-05
+cat__job_Bookseller,2.5911763394974543e-05
+"cat__merchant_fraud_Schaefer, McGlynn and Bosco",2.5873907910260574e-05
+cat__merchant_fraud_Dach-Nader,2.5735677917654538e-05
+cat__city_Valdosta,2.56522075272329e-05
+"cat__merchant_fraud_Kihn, Brakus and Goyette",2.5628854729032654e-05
+cat__merchant_fraud_Kuhic LLC,2.5519910008161823e-05
+cat__city_Thida,2.5305181945091056e-05
+cat__city_Tomales,2.528271986642332e-05
+cat__merchant_fraud_Gislason Group,2.525297323214304e-05
+cat__merchant_fraud_Kirlin and Sons,2.5165211238755407e-05
+cat__merchant_fraud_Ledner-Pfannerstill,2.513283816730178e-05
+cat__city_Fort Washakie,2.5006504720984852e-05
+cat__merchant_fraud_Denesik and Sons,2.466077300244592e-05
+cat__merchant_fraud_Leannon-Ward,2.4506315426280465e-05
+cat__city_Pembroke Township,2.449155405028529e-05
+"cat__job_Radiographer, therapeutic",2.4476069659053574e-05
+cat__merchant_fraud_Kerluke Inc,2.43737915963813e-05
+cat__merchant_fraud_Hilpert-Conroy,2.426933628706971e-05
+cat__city_Grand Bay,2.419778511836314e-05
+"cat__merchant_fraud_O'Reilly, Mohr and Purdy",2.4115936376028516e-05
+"cat__merchant_fraud_Eichmann, Hayes and Treutel",2.4108193169318544e-05
+"cat__merchant_fraud_Lakin, Ferry and Beatty",2.408914132713492e-05
+cat__job_Retail banker,2.392439545250485e-05
+cat__merchant_fraud_Fadel Inc,2.3871368001663473e-05
+cat__merchant_fraud_Doyle Ltd,2.385227546253222e-05
+cat__city_Allenhurst,2.3755008932028716e-05
+cat__city_Northport,2.374122319577716e-05
+cat__city_Philadelphia,2.367346108731727e-05
+"cat__merchant_fraud_Turner, Ziemann and Lehner",2.3657454927520202e-05
+"cat__merchant_fraud_Labadie, Treutel and Bode",2.348262496637805e-05
+cat__city_West Harrison,2.3337317816866476e-05
+cat__merchant_fraud_Dooley-Thompson,2.3336904337197465e-05
+cat__job_Television floor manager,2.328057171562591e-05
+"cat__merchant_fraud_Parker, Nolan and Trantow",2.3144925750180155e-05
+cat__merchant_fraud_Spencer-Runolfsson,2.3105208877183812e-05
+"cat__job_Therapist, horticultural",2.3042789050342833e-05
+cat__merchant_fraud_DuBuque LLC,2.299294383503494e-05
+cat__merchant_fraud_Kunde-Sanford,2.2589036359000503e-05
+cat__merchant_fraud_Hills-Witting,2.2516707047774874e-05
+cat__merchant_fraud_Prohaska-Murray,2.2313189492438682e-05
+cat__merchant_fraud_Nader-Heller,2.2087907024222633e-05
+cat__job_Clinical research associate,2.207552742058144e-05
+cat__city_Meadville,2.2027484631926537e-05
+"cat__merchant_fraud_Christiansen, Goyette and Schamberger",2.1989270663457165e-05
+cat__merchant_fraud_Bode-Schuster,2.1931358746430912e-05
+cat__city_Port Gibson,2.1768868715553464e-05
+cat__merchant_fraud_Dickinson Ltd,2.1750709124621338e-05
+cat__city_Roma,2.1670900801688647e-05
+"cat__merchant_fraud_Koss, Hansen and Lueilwitz",2.148892784667647e-05
+"cat__job_Development worker, international aid",2.1457465723221098e-05
+cat__merchant_fraud_Parker-Kunde,2.1348571802647047e-05
+cat__merchant_fraud_Bogisich-Weimann,2.133543194511106e-05
+cat__job_Cartographer,2.123353310988455e-05
+cat__merchant_fraud_Friesen-D'Amore,2.0973285878689798e-05
+"cat__merchant_fraud_Kling, Howe and Schneider",2.0918493828572607e-05
+"cat__merchant_fraud_Nienow, Barrows and Romaguera",2.0828028488209324e-05
+cat__merchant_fraud_Kuhic Inc,2.0817054283134242e-05
+cat__job_Product/process development scientist,2.080590268787791e-05
+"cat__merchant_fraud_Towne, Greenholt and Koepp",2.061576818504257e-05
+cat__merchant_fraud_Bednar Group,2.0505595052145796e-05
+cat__city_Ranier,2.039306508794352e-05
+cat__city_Sheffield,2.00746066398934e-05
+cat__city_Morrisdale,2.006240674373311e-05
+cat__city_Indianapolis,2.0026504978713384e-05
+cat__job_Video editor,1.985575641063119e-05
+cat__merchant_fraud_Erdman-Kertzmann,1.9808630880096344e-05
+"cat__merchant_fraud_Boehm, Predovic and Reinger",1.9795124737892374e-05
+cat__job_Press photographer,1.9722936873630333e-05
+cat__city_Clarinda,1.9619422231832813e-05
+cat__job_Leisure centre manager,1.9574344803457758e-05
+"cat__merchant_fraud_Kutch, Hermiston and Farrell",1.946581432811336e-05
+"cat__job_Production assistant, radio",1.9406163698439004e-05
+"cat__merchant_fraud_Pouros, Walker and Spencer",1.9332536863678253e-05
+cat__merchant_fraud_Beier-Hyatt,1.9304324654547014e-05
+"cat__job_Engineer, maintenance",1.9227082630839143e-05
+cat__merchant_fraud_Lebsack and Sons,1.9072312884571824e-05
+cat__city_Moores Hill,1.9039857996564996e-05
+"cat__merchant_fraud_Schumm, Bauch and Ondricka",1.902419866992792e-05
+cat__job_Claims inspector/assessor,1.8735521464086233e-05
+cat__city_Moriarty,1.872065813865997e-05
+cat__city_Sun City,1.8702678763211833e-05
+"cat__job_Engineer, land",1.8681425778168778e-05
+cat__job_Health promotion specialist,1.8661348696295664e-05
+cat__merchant_fraud_Langworth LLC,1.860039769421108e-05
+cat__merchant_fraud_Haley Group,1.8584555082520906e-05
+cat__city_Lahoma,1.843795917709548e-05
+cat__city_Sula,1.8410824791081792e-05
+cat__merchant_fraud_Kutch-Wilderman,1.8399126876793293e-05
+cat__city_Bolton,1.8255687295462236e-05
+cat__job_Learning disability nurse,1.8173983740409473e-05
+"cat__merchant_fraud_Lockman, West and Runte",1.8136611909807706e-05
+cat__merchant_fraud_Wolf Inc,1.8041827606221058e-05
+"cat__merchant_fraud_Roberts, Daniel and Macejkovic",1.7934953844004372e-05
+cat__city_Fort Myers,1.790441092250956e-05
+cat__merchant_fraud_Collier LLC,1.7834669184907088e-05
+cat__city_Fulton,1.7816994699652666e-05
+cat__job_Waste management officer,1.7738448018499675e-05
+cat__merchant_fraud_Zboncak LLC,1.741422913340981e-05
+cat__merchant_fraud_Mohr Inc,1.7311516066452742e-05
+cat__city_Prairie Hill,1.7151632974883956e-05
+"cat__job_Pilot, airline",1.7134011081979246e-05
+cat__merchant_fraud_Runolfsson and Sons,1.7124869982572955e-05
+cat__merchant_fraud_Rempel PLC,1.7068116621257197e-05
+cat__job_Contractor,1.6999660088193172e-05
+cat__city_Colton,1.6967464145600117e-05
+cat__merchant_fraud_Botsford Ltd,1.6894078981263215e-05
+"cat__merchant_fraud_Jones, Sawayn and Romaguera",1.6849756568042292e-05
+cat__merchant_fraud_Hills-Olson,1.68316057010206e-05
+cat__merchant_fraud_Rau-Robel,1.6732745780707526e-05
+cat__merchant_fraud_Kuphal-Predovic,1.6691823294674104e-05
+cat__merchant_fraud_Donnelly PLC,1.667906007096415e-05
+"cat__merchant_fraud_Daugherty, Pouros and Beahan",1.6671582539886114e-05
+"cat__job_Engineer, production",1.663424656625767e-05
+cat__merchant_fraud_Herman Inc,1.6557028624044362e-05
+cat__merchant_fraud_Waelchi-Wolf,1.653875436229176e-05
+cat__merchant_fraud_Deckow-O'Conner,1.647150842559411e-05
+"cat__merchant_fraud_Hayes, Marquardt and Dibbert",1.6457147352306834e-05
+cat__merchant_fraud_Kilback and Sons,1.627239183384172e-05
+cat__job_Production engineer,1.624580046510735e-05
+cat__city_Hancock,1.6146913469413095e-05
+"cat__merchant_fraud_Windler, Goodwin and Kovacek",1.610013913088054e-05
+cat__job_Community pharmacist,1.6095578772837776e-05
+"cat__job_Engineer, electronics",1.6040884527209214e-05
+cat__city_Coleharbor,1.6019008892823483e-05
+cat__city_Vancouver,1.6013620003698105e-05
+cat__merchant_fraud_Leffler-Goldner,1.5995960872542728e-05
+cat__city_Belgrade,1.595586929132662e-05
+cat__city_Boyd,1.590624831207919e-05
+cat__merchant_fraud_Upton PLC,1.5838575763497165e-05
+cat__city_Falmouth,1.5686533894989357e-05
+cat__merchant_fraud_Corwin-Romaguera,1.564153242936902e-05
+cat__merchant_fraud_Schumm PLC,1.5635580094605786e-05
+cat__city_Elizabethtown,1.5626863577474754e-05
+cat__merchant_fraud_Connelly PLC,1.546458066648406e-05
+cat__city_Cape Coral,1.5460086884454012e-05
+cat__city_Westport,1.54354703031779e-05
+cat__job_Public relations account executive,1.5350142871596176e-05
+cat__city_Great Mills,1.5339944006896833e-05
+cat__merchant_fraud_Kozey-McDermott,1.5300356273320174e-05
+cat__city_Bessemer,1.4993885613057671e-05
+"cat__merchant_fraud_Haley, Batz and Auer",1.4809089692204456e-05
+cat__merchant_fraud_Huels-Nolan,1.4750999766089095e-05
+cat__merchant_fraud_O'Hara-Wilderman,1.4653859304028453e-05
+cat__merchant_fraud_Turcotte-Halvorson,1.4559129120704057e-05
+cat__merchant_fraud_Kutch Group,1.4472290552436917e-05
+cat__city_Surrency,1.4451850745398588e-05
+cat__merchant_fraud_Shields-Wunsch,1.4218867438937557e-05
+cat__job_Corporate investment banker,1.4011308664900465e-05
+cat__city_Plainfield,1.398759237276449e-05
+cat__merchant_fraud_Shanahan-Lehner,1.3986170418943906e-05
+cat__merchant_fraud_Durgan-Auer,1.3901286213619148e-05
+cat__merchant_fraud_Bruen-Yost,1.3814088328180296e-05
+"cat__merchant_fraud_Little, Gutmann and Lynch",1.3752712568427435e-05
+cat__city_Egan,1.3623020413102315e-05
+cat__merchant_fraud_Jacobi Inc,1.3585722940829047e-05
+cat__city_Mallie,1.3555395029750022e-05
+cat__city_Bay Minette,1.35375940366955e-05
+cat__city_Armagh,1.3484871637114033e-05
+cat__merchant_fraud_Price Inc,1.3450166001075734e-05
+cat__city_Esbon,1.3435414240696167e-05
+cat__merchant_fraud_Romaguera and Sons,1.339275276743829e-05
+cat__merchant_fraud_Botsford and Sons,1.3392119456347463e-05
+cat__city_Lonsdale,1.3386411734353406e-05
+"cat__merchant_fraud_Watsica, Haag and Considine",1.3316292329554456e-05
+cat__merchant_fraud_O'Keefe-Wisoky,1.3269085870757404e-05
+"cat__merchant_fraud_Greenfelder, Bartoletti and Davis",1.3248120787448193e-05
+"cat__merchant_fraud_Hettinger, McCullough and Fay",1.3230971201802803e-05
+cat__city_Walnut Ridge,1.322212237104579e-05
+cat__merchant_fraud_Rolfson-Kunde,1.31639131821053e-05
+cat__job_Industrial/product designer,1.3157299769364494e-05
+cat__city_Varnell,1.3155767851829947e-05
+cat__job_Sports development officer,1.3071214074549322e-05
+"cat__merchant_fraud_Becker, Harris and Harvey",1.3063813887972785e-05
+cat__city_Edisto Island,1.3037808751460757e-05
+cat__city_Benton,1.282615549110004e-05
+cat__merchant_fraud_Berge-Ullrich,1.2819759426379716e-05
+"cat__merchant_fraud_Adams, Kovacek and Kuhlman",1.280275751328545e-05
+"cat__job_Engineer, mining",1.2790323270202251e-05
+cat__job_Land,1.2727771278909965e-05
+cat__city_Hinckley,1.2719382431312133e-05
+"cat__merchant_fraud_Hauck, Dietrich and Funk",1.2687725838344079e-05
+cat__merchant_fraud_Conroy-Emard,1.263724102357672e-05
+cat__job_Retail merchandiser,1.2607634513576475e-05
+cat__job_Airline pilot,1.2522388457848728e-05
+cat__merchant_fraud_Kub PLC,1.251438087445941e-05
+"cat__job_Producer, radio",1.2459759951117874e-05
+cat__job_Careers information officer,1.2407604465634164e-05
+cat__merchant_fraud_Mosciski Group,1.2377435529280858e-05
+"cat__merchant_fraud_Terry, Johns and Bins",1.2372557792691233e-05
+cat__merchant_fraud_Weimann-Lockman,1.2362357243854253e-05
+cat__merchant_fraud_Klocko LLC,1.2361691564075168e-05
+cat__merchant_fraud_Huel-Langworth,1.2202156830331575e-05
+cat__merchant_fraud_Dicki Ltd,1.2102144558632356e-05
+"cat__merchant_fraud_Schneider, Hayes and Nikolaus",1.209656683929815e-05
+cat__city_Reno,1.2077792562500316e-05
+"cat__merchant_fraud_Conroy, Balistreri and Gorczany",1.2031641022672518e-05
+cat__merchant_fraud_Thiel PLC,1.1927136848647995e-05
+"cat__merchant_fraud_O'Connell, Botsford and Hand",1.192190845154694e-05
+cat__job_Health physicist,1.1833749829639414e-05
+cat__merchant_fraud_Eichmann-Russel,1.1808695263372927e-05
+cat__merchant_fraud_Kling Inc,1.1804488872524723e-05
+cat__merchant_fraud_Cummings LLC,1.1793193752281426e-05
+cat__merchant_fraud_Collier Inc,1.1777288627360884e-05
+cat__merchant_fraud_Little-Gleichner,1.1684293960514883e-05
+"cat__merchant_fraud_Mueller, Gerhold and Mueller",1.1651795282013879e-05
+"cat__merchant_fraud_Lesch, D'Amore and Brown",1.1621805291189956e-05
+cat__merchant_fraud_Lynch-Wisozk,1.1616382836342662e-05
+cat__merchant_fraud_Kozey-Kuhlman,1.1545906586363197e-05
+"cat__job_Lecturer, further education",1.1543699953683653e-05
+cat__job_Commercial/residential surveyor,1.147163861370705e-05
+cat__job_Public house manager,1.1459796112337776e-05
+cat__merchant_fraud_Kilback Group,1.1454552129829496e-05
+cat__city_Smith River,1.1405223393580642e-05
+cat__city_Mobile,1.140098700205681e-05
+cat__merchant_fraud_Friesen-Ortiz,1.1310347310395789e-05
+cat__job_Land/geomatics surveyor,1.1235437094087907e-05
+cat__city_Winger,1.1137734535564045e-05
+cat__merchant_fraud_Gaylord-Powlowski,1.1036665301685775e-05
+cat__city_North Wilkesboro,1.0979670703016417e-05
+"cat__merchant_fraud_Torp, Muller and Borer",1.094923001028747e-05
+cat__merchant_fraud_Terry Ltd,1.094583106533078e-05
+cat__merchant_fraud_Jaskolski-Vandervort,1.0880568813209464e-05
+"cat__merchant_fraud_Streich, Hansen and Veum",1.085612745746875e-05
+cat__job_Phytotherapist,1.0851728876362923e-05
+cat__merchant_fraud_Block Group,1.0843380916435671e-05
+cat__city_Bauxite,1.0648870438528559e-05
+cat__job_Systems analyst,1.0641006597679724e-05
+cat__merchant_fraud_Terry-Huel,1.0612265334945658e-05
+"cat__job_Radiographer, diagnostic",1.056799708074247e-05
+cat__city_Grandview,1.0513463355870753e-05
+cat__city_Cleveland,1.0503181113165256e-05
+cat__city_Hudson,1.0463547657388732e-05
+cat__merchant_fraud_Zemlak Group,1.0367355326613928e-05
+"cat__merchant_fraud_Effertz, Welch and Schowalter",1.035549146967169e-05
+cat__merchant_fraud_Cassin-Harvey,1.0319300980841992e-05
+cat__merchant_fraud_Carroll PLC,1.0274221727348374e-05
+"cat__merchant_fraud_Bahringer, Schoen and Corkery",1.0260938410010444e-05
+cat__city_New Holstein,1.017731420741482e-05
+cat__merchant_fraud_Johns Inc,1.0174781885480378e-05
+cat__merchant_fraud_Beer-Jast,1.0142914216939093e-05
+cat__merchant_fraud_Wuckert-Walter,1.0086374604400013e-05
+cat__merchant_fraud_Medhurst Inc,1.0060297986606622e-05
+cat__job_Patent attorney,1.0054656794071106e-05
+cat__city_Scotts Mills,9.92410686062641e-06
+cat__merchant_fraud_Champlin and Sons,9.906734857997868e-06
+cat__merchant_fraud_Spinka-Welch,9.890267222757575e-06
+"cat__merchant_fraud_Kutch, Steuber and Gerhold",9.844032623170207e-06
+cat__merchant_fraud_Haag-Blanda,9.822505820710282e-06
+cat__merchant_fraud_Herzog Ltd,9.702207574269466e-06
+"cat__job_Doctor, general practice",9.619022537098104e-06
+cat__merchant_fraud_Breitenberg-Hermiston,9.536529616307893e-06
+cat__merchant_fraud_Friesen-Stamm,9.523382001731114e-06
+cat__merchant_fraud_Romaguera Ltd,9.491806702092199e-06
+cat__merchant_fraud_Keeling-Crist,9.46175478555882e-06
+cat__city_Shedd,9.419294093211502e-06
+cat__job_Probation officer,9.397708563576128e-06
+"cat__job_Programmer, multimedia",9.397465145089658e-06
+cat__merchant_fraud_Leannon-Nikolaus,9.33861259666992e-06
+cat__city_Laramie,9.32803769073882e-06
+cat__merchant_fraud_Graham and Sons,9.274504129195869e-06
+cat__merchant_fraud_Heller-Langosh,9.24363060645184e-06
+"cat__merchant_fraud_Swift, Bradtke and Marquardt",9.130028687657299e-06
+"cat__merchant_fraud_Bahringer, Bergnaum and Quitzon",9.112565980953572e-06
+cat__merchant_fraud_Corwin-Collins,9.035603082058931e-06
+cat__merchant_fraud_Schmeler Inc,9.00612897119451e-06
+cat__merchant_fraud_Bradtke PLC,8.954420261139986e-06
+"cat__merchant_fraud_Monahan, Bogisich and Ledner",8.947179591182479e-06
+cat__merchant_fraud_Kautzer and Sons,8.9351382866561e-06
+cat__city_Westerville,8.90064785677346e-06
+"cat__merchant_fraud_Romaguera, Wehner and Tromp",8.85855059256182e-06
+"cat__job_Designer, multimedia",8.766328795830859e-06
+cat__merchant_fraud_Berge-Hills,8.725874153144456e-06
+cat__merchant_fraud_Kutch LLC,8.698801469529341e-06
+cat__merchant_fraud_Pacocha-Weissnat,8.653706885218408e-06
+cat__job_Medical physicist,8.579794924413338e-06
+cat__merchant_fraud_Volkman-Predovic,8.570733669408845e-06
+cat__merchant_fraud_Volkman PLC,8.561641049221923e-06
+cat__job_Hospital doctor,8.49997601652446e-06
+cat__merchant_fraud_Kuhn LLC,8.483022603526923e-06
+cat__city_Oakland,8.462766045404107e-06
+cat__city_Stillwater,8.403332805048906e-06
+cat__merchant_fraud_Kulas Group,8.37298655098668e-06
+cat__merchant_fraud_Macejkovic-Lesch,8.354246942437505e-06
+cat__merchant_fraud_Crooks and Sons,8.316948854847407e-06
+cat__merchant_fraud_Reichel LLC,8.267813294832714e-06
+cat__merchant_fraud_Barton Inc,8.219161559502632e-06
+cat__merchant_fraud_Fritsch LLC,8.217271881907444e-06
+cat__merchant_fraud_Pacocha-Bauch,8.08553996546635e-06
+cat__merchant_fraud_Huel Ltd,8.076676173066994e-06
+cat__city_May,8.04760428129339e-06
+cat__merchant_fraud_Koss and Sons,8.031526943253717e-06
+cat__merchant_fraud_Bogisich Inc,7.996003711031177e-06
+cat__city_Huslia,7.9864506143294e-06
+cat__merchant_fraud_Kassulke Inc,7.903192776694902e-06
+cat__job_Structural engineer,7.869831031867184e-06
+cat__merchant_fraud_Lynch-Mohr,7.85593165061541e-06
+"cat__merchant_fraud_Reichert, Rowe and Mraz",7.83809506102495e-06
+cat__city_Collettsville,7.82110934573843e-06
+cat__merchant_fraud_Torphy-Kertzmann,7.803730756299142e-06
+cat__job_Museum/gallery conservator,7.789077432143687e-06
+cat__merchant_fraud_Torp-Lemke,7.731555941962726e-06
+cat__merchant_fraud_Ernser-Lynch,7.713082795628157e-06
+cat__city_Sixes,7.675973651781734e-06
+cat__merchant_fraud_Dare-Gibson,7.669191044016431e-06
+cat__city_Romulus,7.584768691273073e-06
+cat__city_Methuen,7.577600132461653e-06
+"cat__merchant_fraud_Schumm, McLaughlin and Carter",7.569132809127152e-06
+cat__city_Goodrich,7.459641266882168e-06
+cat__city_Brooklyn,7.451851178032776e-06
+"cat__merchant_fraud_Willms, Kris and Bergnaum",7.4393800494869595e-06
+cat__job_Information systems manager,7.393100559577471e-06
+"cat__merchant_fraud_Cormier, Stracke and Thiel",7.376904525374497e-06
+cat__job_Oncologist,7.32924493498813e-06
+cat__merchant_fraud_Koepp-Witting,7.310055506523329e-06
+cat__job_Arboriculturist,7.305604222663436e-06
+cat__merchant_fraud_Padberg-Sauer,7.268179267880813e-06
+cat__city_Haines City,7.223588980520493e-06
+cat__city_Wetmore,7.148746662190727e-06
+cat__city_Blooming Grove,7.1416366918448575e-06
+cat__job_Music therapist,7.096265915749591e-06
+cat__job_Fitness centre manager,7.062185771157069e-06
+cat__merchant_fraud_Lockman Ltd,7.036849198998871e-06
+cat__city_Newberg,7.009728851388366e-06
+cat__job_Travel agency manager,6.953234867062169e-06
+cat__city_Kingsford Heights,6.949815868261099e-06
+"cat__merchant_fraud_Streich, Rolfson and Wilderman",6.887275578457035e-06
+"cat__merchant_fraud_Bradtke, Torp and Bahringer",6.885225679235375e-06
+cat__city_Ogdensburg,6.841647342313032e-06
+"cat__merchant_fraud_Schaefer, Maggio and Daugherty",6.832887278346513e-06
+cat__city_Oconto Falls,6.735354289677405e-06
+cat__merchant_fraud_Yost-Rogahn,6.733089240851606e-06
+cat__merchant_fraud_Crona and Sons,6.700717981147295e-06
+cat__city_Glade Spring,6.677042916301279e-06
+cat__merchant_fraud_Spinka Inc,6.66813725930979e-06
+"cat__merchant_fraud_Ritchie, Bradtke and Stiedemann",6.6630205284360444e-06
+cat__city_Thompson,6.64489065541023e-06
+"cat__merchant_fraud_Tromp, Kerluke and Glover",6.644131014847325e-06
+cat__city_Andrews,6.638528492282133e-06
+"cat__merchant_fraud_Tillman, Dickinson and Labadie",6.613094123356671e-06
+"cat__merchant_fraud_Reilly, Heaney and Cole",6.597335523670608e-06
+cat__city_Big Creek,6.566238973249383e-06
+cat__city_Barnstable,6.550696985775835e-06
+cat__merchant_fraud_Douglas-White,6.528015502078365e-06
+"cat__merchant_fraud_Baumbach, Feeney and Morar",6.489273589585945e-06
+cat__city_Matawan,6.46902253494715e-06
+cat__merchant_fraud_Goyette-Herzog,6.448700085675158e-06
+"cat__job_Teacher, early years/pre",6.366968249075391e-06
+cat__city_Alpharetta,6.3110209857729205e-06
+cat__city_High Rolls Mountain Park,6.280024555684539e-06
+"cat__job_Doctor, hospital",6.2733478304017585e-06
+cat__merchant_fraud_Stiedemann Inc,6.270135906412068e-06
+cat__merchant_fraud_Koepp-Parker,6.240446573870088e-06
+cat__city_Nobleboro,6.231558256764031e-06
+"cat__merchant_fraud_Turner, Ruecker and Parisian",6.226119806102309e-06
+"cat__merchant_fraud_Walter, Hettinger and Kessler",6.152431497341234e-06
+cat__merchant_fraud_Halvorson Group,6.147912280757759e-06
+cat__merchant_fraud_Greenholt Ltd,6.145445641758702e-06
+cat__city_Rock Springs,6.1294842090608036e-06
+cat__merchant_fraud_Brekke and Sons,6.122742619071551e-06
+cat__city_Amsterdam,6.069582618100769e-06
+cat__city_Espanola,6.057621372237915e-06
+"cat__merchant_fraud_Streich, Dietrich and Barton",6.053239626037722e-06
+cat__merchant_fraud_McGlynn-Jaskolski,6.042597220871202e-06
+cat__merchant_fraud_Ruecker-Mayert,6.016773980594824e-06
+"cat__job_Therapist, art",5.956640504338795e-06
+"cat__merchant_fraud_Mosciski, Gislason and Mertz",5.902290631280563e-06
+cat__merchant_fraud_Ebert-Daugherty,5.86750323576796e-06
+cat__merchant_fraud_Wilkinson LLC,5.858505837955181e-06
+"cat__merchant_fraud_Hagenes, Hermann and Stroman",5.822125193817146e-06
+cat__city_Heiskell,5.819343972512548e-06
+cat__city_River,5.809202359171032e-06
+cat__job_Drilling engineer,5.779996548226675e-06
+"cat__merchant_fraud_Langosh, Wintheiser and Hyatt",5.731368636191389e-06
+cat__merchant_fraud_Flatley-Durgan,5.727049936694138e-06
+cat__merchant_fraud_Hackett Group,5.720844401975011e-06
+cat__city_Mifflin,5.704572492603632e-06
+cat__merchant_fraud_White and Sons,5.693243965534373e-06
+"cat__job_Editor, film/video",5.6846124422482575e-06
+"cat__merchant_fraud_Swaniawski, Nitzsche and Welch",5.665833016525045e-06
+cat__city_Lanark Village,5.665703452304059e-06
+cat__merchant_fraud_Schoen-Quigley,5.664112776215049e-06
+cat__merchant_fraud_Nader-Maggio,5.588021560245647e-06
+"cat__job_Administrator, arts",5.574829365497659e-06
+cat__merchant_fraud_Reilly LLC,5.558901105274104e-06
+cat__merchant_fraud_Bechtelar-Rippin,5.5068393642062115e-06
+"cat__merchant_fraud_Graham, Hegmann and Hammes",5.484265073872976e-06
+cat__city_Sherman,5.437845162038645e-06
+cat__city_Key West,5.423995199290815e-06
+cat__city_Brooklin,5.37955556476587e-06
+cat__merchant_fraud_Spencer PLC,5.358683805819117e-06
+cat__merchant_fraud_Block-Hauck,5.336691050620041e-06
+cat__job_Animator,5.327374269902521e-06
+cat__job_Regulatory affairs officer,5.315306152258212e-06
+cat__city_Greenview,5.2692459393288506e-06
+cat__city_Gretna,5.237793565177727e-06
+cat__merchant_fraud_Hackett-Lueilwitz,5.223735923548248e-06
+cat__merchant_fraud_Hammes-Beatty,5.207417994840546e-06
+cat__merchant_fraud_Ankunding LLC,5.1981732040466514e-06
+cat__merchant_fraud_Schoen Ltd,5.187341414994639e-06
+cat__merchant_fraud_Schmidt and Sons,5.151048331135247e-06
+cat__merchant_fraud_Luettgen PLC,5.141216991869945e-06
+cat__city_Jones,5.127129874709632e-06
+cat__merchant_fraud_Gottlieb Group,5.105422468420297e-06
+cat__job_Chartered accountant,5.09587334422309e-06
+"cat__merchant_fraud_Larkin, Stracke and Greenfelder",5.072520946231177e-06
+cat__city_Florence,5.042388281768874e-06
+cat__merchant_fraud_Reichel Inc,5.034815194038658e-06
+cat__merchant_fraud_Jast Ltd,5.020099208787734e-06
+"cat__merchant_fraud_Wuckert, Wintheiser and Friesen",4.961154560204133e-06
+cat__merchant_fraud_Pollich LLC,4.9531767865101185e-06
+cat__merchant_fraud_Dibbert-Green,4.950391983523677e-06
+cat__merchant_fraud_Morissette LLC,4.947413397505521e-06
+"cat__merchant_fraud_Lind, Huel and McClure",4.937915389198303e-06
+cat__job_Building control surveyor,4.915493541022249e-06
+"cat__merchant_fraud_Hermiston, Pacocha and Smith",4.89432983944793e-06
+cat__merchant_fraud_Stark-Koss,4.884026898470459e-06
+cat__city_Laredo,4.857476320956743e-06
+cat__job_Market researcher,4.853273532764899e-06
+cat__merchant_fraud_Lesch Ltd,4.852978292000587e-06
+cat__merchant_fraud_Jacobi and Sons,4.757741540119687e-06
+cat__merchant_fraud_Smitham-Schiller,4.753786055009033e-06
+cat__city_Dresden,4.74268001271984e-06
+cat__city_Falls Church,4.7335478507569936e-06
+cat__city_Ashford,4.7112182582294975e-06
+cat__merchant_fraud_Bahringer-Larson,4.678262747997456e-06
+cat__city_Muskegon,4.652592051992936e-06
+"cat__job_Engineer, drilling",4.634798909737569e-06
+cat__merchant_fraud_Mayert Group,4.619736406186658e-06
+cat__merchant_fraud_Fisher-Schowalter,4.604621581814177e-06
+"cat__merchant_fraud_McDermott, Osinski and Morar",4.595506131425716e-06
+cat__job_Scientific laboratory technician,4.5939751975478085e-06
+cat__city_Knoxville,4.581851546733343e-06
+cat__city_Cord,4.538370752554503e-06
+cat__job_Telecommunications researcher,4.526021264899456e-06
+cat__merchant_fraud_Eichmann-Kilback,4.4971276219621615e-06
+cat__city_Napa,4.495351268193612e-06
+cat__city_Waukesha,4.4193523301099975e-06
+cat__merchant_fraud_Connelly-Carter,4.3923796254403425e-06
+cat__city_Altair,4.379821074749802e-06
+"cat__merchant_fraud_Zieme, Bode and Dooley",4.377395368077788e-06
+cat__job_Equality and diversity officer,4.3574741278220676e-06
+cat__city_Center Tuftonboro,4.357018520983111e-06
+cat__city_Moundsville,4.308233727573379e-06
+cat__city_Burlington,4.253461261170299e-06
+cat__merchant_fraud_Maggio-Fahey,4.253252411299571e-06
+cat__city_Tupper Lake,4.251821393320445e-06
+cat__city_Cass,4.217400669135566e-06
+cat__city_Meredith,4.215768534763119e-06
+cat__job_Horticultural therapist,4.208561962179886e-06
+cat__merchant_fraud_Reilly and Sons,4.142726146110806e-06
+cat__city_Santa Monica,4.1384887881021435e-06
+"cat__merchant_fraud_Kuhic, Bins and Pfeffer",4.134544051378987e-06
+cat__merchant_fraud_Harris Group,4.1331158486739335e-06
+cat__merchant_fraud_Kuphal-Toy,4.128115748017452e-06
+cat__merchant_fraud_Bahringer Group,4.116105634894036e-06
+cat__merchant_fraud_Gulgowski LLC,4.111889477930755e-06
+cat__merchant_fraud_Williamson LLC,4.0777796411525814e-06
+"cat__merchant_fraud_Schroeder, Wolff and Hermiston",4.049909898444724e-06
+cat__job_Plant breeder/geneticist,4.0430195326322595e-06
+cat__merchant_fraud_Pfeffer LLC,4.036457517019522e-06
+cat__city_Wilton,4.017292142611952e-06
+cat__merchant_fraud_Streich Ltd,3.953976717869399e-06
+cat__city_Altona,3.919375283969984e-06
+cat__merchant_fraud_McKenzie-Huels,3.919118826933494e-06
+"cat__merchant_fraud_Klocko, Runolfsdottir and Breitenberg",3.912293151248888e-06
+cat__merchant_fraud_Murray Ltd,3.910709986847775e-06
+"cat__merchant_fraud_Hills, Hegmann and Schaefer",3.898108983158064e-06
+"cat__job_Nurse, children's",3.896128819745373e-06
+cat__merchant_fraud_Ankunding-Carroll,3.885645798523063e-06
+cat__city_Blackville,3.873812698314466e-06
+"cat__merchant_fraud_Bins, Balistreri and Beatty",3.855668498088928e-06
+"cat__merchant_fraud_Weber, Thiel and Hammes",3.83600972266018e-06
+cat__job_Operational researcher,3.82871116391731e-06
+cat__merchant_fraud_Schuppe LLC,3.8121386371757722e-06
+cat__job_Mudlogger,3.7998139744701817e-06
+"cat__merchant_fraud_Brown, Homenick and Lesch",3.746389719032192e-06
+"cat__merchant_fraud_Wiza, Schaden and Stark",3.74132986356422e-06
+"cat__merchant_fraud_Schroeder, Hauck and Treutel",3.7360591060257403e-06
+cat__merchant_fraud_Brown-Greenholt,3.7129009153777493e-06
+cat__city_New Ellenton,3.7114353256502086e-06
+"cat__merchant_fraud_Cronin, Kshlerin and Weber",3.668687193408e-06
+cat__merchant_fraud_Rau-Grant,3.659766777585346e-06
+"cat__merchant_fraud_Weimann, Kuhic and Beahan",3.6594681003594877e-06
+cat__city_San Jose,3.634018868587371e-06
+cat__merchant_fraud_Kessler Inc,3.5888199210075094e-06
+cat__city_Humble,3.581994243346325e-06
+cat__merchant_fraud_Buckridge PLC,3.5723491910255367e-06
+"cat__job_Pharmacist, community",3.5478390306390576e-06
+"cat__merchant_fraud_Douglas, Schneider and Turner",3.5163555767546933e-06
+"cat__merchant_fraud_Kerluke, Kertzmann and Wiza",3.5142560655290857e-06
+cat__merchant_fraud_Kub-Heaney,3.4991842703767812e-06
+"cat__merchant_fraud_Langworth, Boehm and Gulgowski",3.4624081067548597e-06
+cat__merchant_fraud_Schiller Ltd,3.4530468622077536e-06
+cat__job_Primary school teacher,3.4459898651429767e-06
+cat__city_Beasley,3.4453218493603196e-06
+cat__city_Enola,3.4432913656140307e-06
+cat__city_Holliday,3.4290939876304142e-06
+cat__merchant_fraud_Donnelly LLC,3.4242539325386885e-06
+"cat__merchant_fraud_Goyette, Howell and Collier",3.404074318965773e-06
+"cat__job_Administrator, local government",3.3991810308484373e-06
+cat__city_Cokeburg,3.3599284381387853e-06
+cat__merchant_fraud_Heaney-Marquardt,3.353897619898673e-06
+cat__merchant_fraud_Emard Inc,3.3422167049071604e-06
+cat__job_Operations geologist,3.3346617908688594e-06
+cat__merchant_fraud_Nienow PLC,3.3170648976502697e-06
+cat__job_Metallurgist,3.291710669243908e-06
+cat__merchant_fraud_Breitenberg LLC,3.2891945498779245e-06
+"cat__merchant_fraud_Nienow, Ankunding and Collier",3.2719529096785762e-06
+cat__city_West Palm Beach,3.2682449645541852e-06
+cat__merchant_fraud_Bartoletti and Sons,3.2656281294862206e-06
+cat__city_Dunlevy,3.2227663268246593e-06
+cat__job_Health and safety adviser,3.216166695302017e-06
+"cat__merchant_fraud_Ritchie, Oberbrunner and Cremin",3.1919214947669444e-06
+cat__merchant_fraud_Pagac LLC,3.1833362983396774e-06
+cat__city_Helm,3.175552742229942e-06
+cat__city_Port Costa,3.1716298886034875e-06
+cat__job_Private music teacher,3.1475166107999102e-06
+cat__merchant_fraud_Dickinson-Rempel,3.1307322284682355e-06
+cat__city_Norman,3.0749283453179277e-06
+cat__job_Network engineer,3.0609633740569447e-06
+"cat__merchant_fraud_Rutherford, Homenick and Bergstrom",3.0553188814274196e-06
+"cat__merchant_fraud_Hartmann, Rowe and Hermann",3.038246639106224e-06
+cat__job_Risk analyst,2.992213321529184e-06
+"cat__merchant_fraud_Parisian, Schiller and Altenwerth",2.9902073974442317e-06
+cat__merchant_fraud_Waelchi Inc,2.981735782474124e-06
+"cat__merchant_fraud_Schoen, Kuphal and Nitzsche",2.9419216914667352e-06
+cat__city_Manderson,2.925019636494523e-06
+cat__city_Sacramento,2.9191132631716886e-06
+cat__merchant_fraud_Rutherford-Mertz,2.9133073047354757e-06
+cat__merchant_fraud_Rempel Inc,2.8871255757800347e-06
+cat__merchant_fraud_Cruickshank-Mills,2.8648418519029616e-06
+cat__city_Indian Wells,2.8641986662812934e-06
+cat__city_North Washington,2.854017904163234e-06
+cat__merchant_fraud_Zulauf LLC,2.7761287230080524e-06
+cat__city_Elberta,2.744870156121086e-06
+cat__city_Fayetteville,2.7263338710672766e-06
+cat__city_Grassflat,2.7232398710951823e-06
+cat__merchant_fraud_Dooley Inc,2.7211381461404908e-06
+cat__city_Shippingport,2.711702464357107e-06
+cat__job_Curator,2.7114147000833975e-06
+cat__city_Red River,2.7005067543827945e-06
+cat__merchant_fraud_Jakubowski Group,2.696703331572804e-06
+cat__merchant_fraud_Morissette-Schaefer,2.695447735967289e-06
+cat__merchant_fraud_Trantow PLC,2.681606776596558e-06
+cat__city_Tamaroa,2.680763999300158e-06
+"cat__merchant_fraud_Lang, Towne and Schuppe",2.666999781019398e-06
+cat__job_Research scientist (maths),2.666316262337176e-06
+cat__merchant_fraud_Lemke and Sons,2.6439608472727264e-06
+cat__merchant_fraud_Pfeffer and Sons,2.642445604779952e-06
+cat__city_Acworth,2.633798427501462e-06
+cat__city_Saint Bonaventure,2.627154253156599e-06
+cat__merchant_fraud_Schmeler-Howe,2.6212654308368334e-06
+cat__merchant_fraud_Christiansen-Gusikowski,2.614104774091485e-06
+cat__merchant_fraud_Hermann and Sons,2.6091568896391034e-06
+cat__city_Lolita,2.557021538011549e-06
+cat__merchant_fraud_Goyette-Gerhold,2.551384968596696e-06
+cat__city_Altonah,2.5478778919856505e-06
+cat__job_Furniture designer,2.5476445640701846e-06
+cat__city_Beaverdam,2.5378357262986184e-06
+cat__merchant_fraud_Monahan-Morar,2.5362436943941616e-06
+cat__city_Blairsden-Graeagle,2.5193742542666345e-06
+cat__merchant_fraud_Wisozk and Sons,2.5123212515152025e-06
+cat__city_Payson,2.5111093281516464e-06
+"cat__merchant_fraud_Douglas, DuBuque and McKenzie",2.5100688323941447e-06
+"cat__merchant_fraud_Hyatt, Russel and Gleichner",2.50758777869902e-06
+"cat__merchant_fraud_Reichel, Bradtke and Blanda",2.4996751237362576e-06
+cat__merchant_fraud_Altenwerth-Kilback,2.496852018850269e-06
+cat__merchant_fraud_Cummerata-Hilpert,2.4962610208536743e-06
+cat__city_Dieterich,2.488847952542778e-06
+cat__job_Immigration officer,2.4770890896812327e-06
+cat__city_Oaks,2.4713579968389106e-06
+cat__city_Noonan,2.460110773567353e-06
+"cat__merchant_fraud_Prosacco, Kreiger and Kovacek",2.457043020761857e-06
+"cat__merchant_fraud_Runte, Green and Emard",2.4510594883666515e-06
+"cat__merchant_fraud_Connelly, Reichert and Fritsch",2.4382810328459943e-06
+cat__city_Seneca,2.427116500301412e-06
+cat__city_Norwalk,2.4136432093369395e-06
+cat__city_Carroll,2.40978478257449e-06
+cat__city_Coleman,2.3830996709179084e-06
+cat__merchant_fraud_Brown Inc,2.379755680558797e-06
+cat__city_Gainesville,2.375319704541837e-06
+cat__city_Deane,2.3725900321125446e-06
+cat__merchant_fraud_Kassulke PLC,2.3457492546204974e-06
+"cat__job_Engineer, civil (consulting)",2.334647715058598e-06
+cat__merchant_fraud_Volkman Ltd,2.3304212830678554e-06
+cat__city_Kirby,2.3029685924350046e-06
+cat__merchant_fraud_Lind-Buckridge,2.294774482959567e-06
+cat__merchant_fraud_Kling-Ernser,2.2941471822852206e-06
+"cat__job_Conservation officer, historic buildings",2.2825180878535227e-06
+cat__job_Glass blower/designer,2.2563185333986456e-06
+cat__city_Mountain Park,2.231619855213273e-06
+cat__city_Scotland,2.2298828053250555e-06
+cat__merchant_fraud_Runte-Mohr,2.2294243756475793e-06
+cat__city_University,2.2100465440491193e-06
+cat__city_Sauk Rapids,2.203678365630047e-06
+cat__merchant_fraud_Cole PLC,2.1957754380248022e-06
+"cat__job_Accountant, chartered public finance",2.190567588868962e-06
+"cat__job_Journalist, newspaper",2.1793519387025247e-06
+"cat__job_Editor, magazine features",2.176203001348012e-06
+cat__city_West Hartford,2.148593832669605e-06
+"cat__merchant_fraud_Hermiston, Russel and Price",2.1237259989021576e-06
+cat__job_Pension scheme manager,2.1093018672903264e-06
+cat__merchant_fraud_Jast and Sons,2.097678398520676e-06
+"cat__merchant_fraud_McCullough, Hudson and Schuster",2.096589519856333e-06
+cat__job_Garment/textile technologist,2.0819630375527997e-06
+cat__merchant_fraud_Dare-Marvin,2.0715401727522428e-06
+cat__merchant_fraud_Reichert-Weissnat,2.0615526229575108e-06
+cat__merchant_fraud_Kuhn Group,2.046429032126586e-06
+cat__city_De Soto,2.0443372964792875e-06
+cat__merchant_fraud_Jerde-Hermann,2.0435496178616746e-06
+cat__city_Red Cliff,2.0421140130424014e-06
+cat__city_Clifton,2.041314085705589e-06
+cat__job_Warden/ranger,2.03391008009918e-06
+cat__city_Greenwood,2.0270922578381033e-06
+cat__city_Graniteville,2.016153673196877e-06
+"cat__merchant_fraud_Hahn, Douglas and Schowalter",1.995758910163762e-06
+cat__merchant_fraud_Jaskolski-Dibbert,1.987708259203003e-06
+cat__job_Environmental education officer,1.9836332742037374e-06
+cat__city_Tulsa,1.983437415063732e-06
+"cat__job_Geologist, engineering",1.9799965102490967e-06
+"cat__merchant_fraud_Johnson, Runolfsdottir and Mayer",1.9757970491256412e-06
+"cat__merchant_fraud_Lubowitz, Terry and Stracke",1.9199705090036294e-06
+"cat__merchant_fraud_Goldner, Kovacek and Abbott",1.915571441981694e-06
+cat__merchant_fraud_Goldner-Lemke,1.89275462785812e-06
+cat__city_San Diego,1.8925974931107756e-06
+cat__job_Sales executive,1.885710203267617e-06
+cat__job_Charity fundraiser,1.8855632556282494e-06
+cat__city_Duncan,1.8752750076186595e-06
+cat__merchant_fraud_Kuphal-Bartoletti,1.8648518826881565e-06
+cat__merchant_fraud_Pacocha-O'Reilly,1.8540180635627815e-06
+cat__city_Dumont,1.8530986399138722e-06
+cat__merchant_fraud_Towne LLC,1.841264956565175e-06
+cat__merchant_fraud_Schimmel-Olson,1.8334039506551506e-06
+cat__city_Loxahatchee,1.8260025359788649e-06
+cat__city_Mc Veytown,1.8254397984187408e-06
+cat__city_Monetta,1.8196391743072753e-06
+cat__city_Lonetree,1.8166690582119983e-06
+cat__job_General practice doctor,1.8133985942736292e-06
+cat__city_Yellowstone National Park,1.8005363156610303e-06
+cat__job_Interpreter,1.7984013608724876e-06
+cat__merchant_fraud_Dibbert and Sons,1.7888420776767213e-06
+cat__merchant_fraud_Jewess LLC,1.78403161770404e-06
+cat__merchant_fraud_Schulist Ltd,1.7746771545585886e-06
+cat__job_Theatre director,1.7582644347867637e-06
+cat__merchant_fraud_Cummings Group,1.753842801141908e-06
+cat__merchant_fraud_Schmitt Ltd,1.7425202973448147e-06
+"cat__merchant_fraud_Runolfsdottir, Mueller and Hand",1.7405291563177174e-06
+cat__city_Waynesfield,1.7376395722175978e-06
+cat__city_Lowville,1.7374147368963946e-06
+cat__merchant_fraud_Kihn-Schuster,1.7226344877892425e-06
+cat__city_Saint James City,1.7129803754207897e-06
+cat__merchant_fraud_Frami Group,1.707619581622561e-06
+cat__merchant_fraud_Kling-Grant,1.7076077900082838e-06
+cat__city_Wilmette,1.703272641315401e-06
+cat__city_Mayersville,1.7020282124352468e-06
+cat__city_Kansas City,1.6770107897313427e-06
+cat__city_Fordoche,1.6675884359699184e-06
+cat__job_Mental health nurse,1.6547810126137613e-06
+cat__merchant_fraud_Bernhard-Lesch,1.6540981096859942e-06
+"cat__job_Programmer, applications",1.643452415297431e-06
+"cat__merchant_fraud_Morissette, Weber and Wiegand",1.638093529897205e-06
+cat__merchant_fraud_Barton LLC,1.6333656472638714e-06
+cat__merchant_fraud_Schuppe-Schuppe,1.6030802128402175e-06
+cat__city_Munith,1.5988161654116812e-06
+cat__city_Saint Paul,1.592801684667927e-06
+cat__merchant_fraud_Schmitt Inc,1.5865228462196609e-06
+cat__city_Providence,1.5770859886402416e-06
+cat__city_Athena,1.5577107657451109e-06
+cat__merchant_fraud_Gleason-Macejkovic,1.5569029572397867e-06
+cat__city_Cross Plains,1.5529067803227105e-06
+"cat__merchant_fraud_Gutmann, McLaughlin and Wiza",1.5457050633909113e-06
+cat__city_Carlisle,1.5430948690466067e-06
+"cat__merchant_fraud_Rippin, Kub and Mann",1.5394228221575801e-06
+cat__city_North Loup,1.5393386666439594e-06
+cat__city_Lawn,1.5204131990037985e-06
+cat__merchant_fraud_Satterfield-Lowe,1.5199734149748224e-06
+"cat__merchant_fraud_Tillman, Fritsch and Schmitt",1.5197221886784273e-06
+cat__merchant_fraud_Schmidt-Larkin,1.5137497904769062e-06
+cat__merchant_fraud_Flatley Group,1.5082799531955353e-06
+cat__city_Parks,1.5060156884493633e-06
+cat__job_Diagnostic radiographer,1.4954311054849062e-06
+cat__job_Arts development officer,1.4902758665029246e-06
+cat__city_Halma,1.483869747487806e-06
+cat__merchant_fraud_Schroeder Group,1.479473976140044e-06
+cat__merchant_fraud_Prosacco LLC,1.4698454086192775e-06
+cat__city_North Tonawanda,1.4554687495826533e-06
+cat__city_Melbourne,1.4425966023364526e-06
+cat__merchant_fraud_Boyer PLC,1.4222629010536944e-06
+"cat__merchant_fraud_Moore, Williamson and Emmerich",1.4088436869655045e-06
+cat__job_Geophysicist/field seismologist,1.4075884050049812e-06
+cat__job_Biomedical scientist,1.406364652920139e-06
+"cat__merchant_fraud_Eichmann, Bogan and Rodriguez",1.4018161831243336e-06
+cat__merchant_fraud_Hudson-Grady,1.3991774325181163e-06
+cat__city_Centerview,1.391121154867405e-06
+cat__city_East Andover,1.3906419230182838e-06
+cat__city_Ronceverte,1.3791782427172664e-06
+"cat__merchant_fraud_Nicolas, Hills and McGlynn",1.3759875599040007e-06
+cat__merchant_fraud_Simonis-Prohaska,1.3662433044036822e-06
+"cat__merchant_fraud_Medhurst, Labadie and Gottlieb",1.3606517016249299e-06
+cat__merchant_fraud_Windler LLC,1.3514847561274495e-06
+cat__city_Fullerton,1.345164355025587e-06
+cat__city_Bay City,1.340594215632776e-06
+"cat__merchant_fraud_Turcotte, McKenzie and Koss",1.3081836174259642e-06
+cat__job_Training and development officer,1.2955685164957917e-06
+cat__job_Health service manager,1.2904645719461086e-06
+"cat__merchant_fraud_Bernhard, Grant and Langworth",1.290004288338242e-06
+cat__merchant_fraud_Balistreri-Nader,1.2833841602294555e-06
+cat__merchant_fraud_Auer LLC,1.2827398445061138e-06
+cat__merchant_fraud_Stark-Batz,1.2712649153675112e-06
+cat__job_Public librarian,1.2592956670948349e-06
+cat__city_Clay Center,1.256395605662751e-06
+cat__job_Artist,1.2542296216988983e-06
+cat__job_Chief of Staff,1.235247582495766e-06
+cat__job_Communications engineer,1.2319229588697288e-06
+cat__job_Associate Professor,1.215766968772335e-06
+cat__city_Cadiz,1.2087091548437036e-06
+cat__city_Riverton,1.2073063826181294e-06
+cat__merchant_fraud_Roberts-Beahan,1.1677336615014934e-06
+cat__job_Barista,1.1648170459024202e-06
+cat__merchant_fraud_Larkin Ltd,1.161415213371235e-06
+cat__merchant_fraud_Veum-Koelpin,1.1483255875062568e-06
+"cat__merchant_fraud_Zemlak, Tillman and Cremin",1.1457637297257928e-06
+cat__job_Psychotherapist,1.1130126607878208e-06
+cat__merchant_fraud_Kutch-Ferry,1.1091042044467884e-06
+cat__city_Wichita,1.108850338145565e-06
+"cat__merchant_fraud_Kilback, Nitzsche and Leffler",1.1053410698589493e-06
+cat__merchant_fraud_Mohr-Bayer,1.0965231781423894e-06
+"cat__merchant_fraud_Durgan, Gislason and Spencer",1.0905339522656938e-06
+cat__city_Cochranton,1.0689633126064067e-06
+cat__city_Freedom,1.061659753154894e-06
+cat__city_Huntsville,1.056358700002982e-06
+cat__merchant_fraud_Deckow-Dare,1.0403518111349464e-06
+cat__city_Montandon,1.0373212294513735e-06
+cat__merchant_fraud_Dietrich-Fadel,1.030618328680751e-06
+cat__merchant_fraud_Kutch-Hegmann,1.015819891226022e-06
+cat__job_Medical technical officer,1.0128914535746067e-06
+cat__city_Parsonsfield,9.85292545888892e-07
+cat__city_Barneveld,9.388202330466891e-07
+cat__city_West Columbia,9.355974100061968e-07
+cat__city_Atglen,9.336270717109215e-07
+cat__job_Orthoptist,9.309832154464285e-07
+cat__city_De Witt,9.203513041974407e-07
+cat__city_Eugene,9.198786610999928e-07
+"cat__job_Presenter, broadcasting",9.13486503635188e-07
+cat__city_Burke,9.034020908267714e-07
+cat__city_Harrington Park,8.961624395317144e-07
+cat__merchant_fraud_Labadie LLC,8.934949735076231e-07
+cat__city_Saint Petersburg,8.900151879216023e-07
+cat__merchant_fraud_Jakubowski Inc,8.892159329621232e-07
+cat__city_Aurora,8.733323331975941e-07
+cat__merchant_fraud_Auer-Mosciski,8.613494840054862e-07
+cat__merchant_fraud_Lubowitz-Walter,8.611567183898485e-07
+"cat__merchant_fraud_Fadel, Mertz and Rippin",8.585927733254833e-07
+"cat__merchant_fraud_Schuppe, Nolan and Hoeger",8.524305223422337e-07
+"cat__merchant_fraud_Swaniawski, Bahringer and Ledner",8.466634618354331e-07
+cat__city_Daly City,8.459198359560203e-07
+cat__merchant_fraud_Tillman LLC,8.444333031878907e-07
+cat__merchant_fraud_Smitham-Boehm,8.187082198114629e-07
+cat__merchant_fraud_Hermann-Gaylord,8.181808575660574e-07
+cat__merchant_fraud_Bins-Tillman,8.132303769013736e-07
+cat__merchant_fraud_Huels-Hahn,8.11478914984773e-07
+"cat__merchant_fraud_Boehm, Block and Jakubowski",8.104455688223221e-07
+cat__city_Mounds,8.092015272308167e-07
+cat__job_Tax inspector,7.996822466842663e-07
+cat__merchant_fraud_Marks Inc,7.995848315668895e-07
+cat__merchant_fraud_Johns-Hoeger,7.902718437867251e-07
+cat__city_West Henrietta,7.851255748840582e-07
+"cat__merchant_fraud_Heller, Gutmann and Zieme",7.804921429208824e-07
+"cat__merchant_fraud_Quitzon, Green and Bashirian",7.715517089460613e-07
+cat__city_Brainard,7.699793995925368e-07
+cat__merchant_fraud_Morar Inc,7.607381629443481e-07
+cat__merchant_fraud_Wilkinson PLC,7.584466782422343e-07
+"cat__job_Therapist, drama",7.491158667145009e-07
+cat__job_Civil Service administrator,7.147113345832792e-07
+cat__merchant_fraud_Kemmer-Buckridge,7.00878786189083e-07
+"cat__merchant_fraud_Baumbach, Strosin and Nicolas",6.880404176694301e-07
+cat__job_Records manager,6.850418470197276e-07
+cat__merchant_fraud_Weber and Sons,6.816854323042493e-07
+cat__city_Holstein,6.764729213019935e-07
+cat__merchant_fraud_Bednar PLC,6.731364646696301e-07
+cat__city_Bonfield,6.702621967117744e-07
+"cat__merchant_fraud_Armstrong, Walter and Gottlieb",6.656144440708985e-07
+cat__city_Moscow,6.589053948634002e-07
+cat__job_Marketing executive,6.480138711744641e-07
+cat__city_Rumely,6.470624442967079e-07
+cat__city_Lubbock,6.441386588925675e-07
+cat__merchant_fraud_Hyatt-Blick,6.408912774136469e-07
+cat__merchant_fraud_Howe PLC,6.359240104759946e-07
+"cat__merchant_fraud_Kohler, Lindgren and Koelpin",6.354570902612104e-07
+cat__merchant_fraud_Zboncak Ltd,6.341065029235495e-07
+cat__job_Learning mentor,6.275505875696217e-07
+cat__city_New Goshen,6.22142455981813e-07
+cat__merchant_fraud_Abernathy and Sons,6.150655369003018e-07
+cat__city_Oran,6.101271740386395e-07
+cat__job_Paediatric nurse,6.008376196301734e-07
+cat__merchant_fraud_Morissette PLC,5.941692182691817e-07
+cat__city_Mount Hope,5.82389723308068e-07
+cat__merchant_fraud_Ruecker Group,5.804818146322158e-07
+cat__job_Event organiser,5.720439943801224e-07
+cat__merchant_fraud_Wuckert-Goldner,5.713611669016403e-07
+cat__city_Springfield,5.709350237933062e-07
+cat__city_Kent,5.668814822830117e-07
+cat__city_Roseland,5.637773901396113e-07
+cat__city_Rhame,5.594122812693548e-07
+cat__city_Fiddletown,5.415259137441199e-07
+cat__merchant_fraud_Ullrich Ltd,5.394618807934706e-07
+cat__city_Vanderbilt,5.383043617288631e-07
+cat__city_Marathon,5.380377056724096e-07
+"cat__job_Engineer, civil (contracting)",5.299676073882211e-07
+cat__city_Johns Island,5.231293384382518e-07
+"cat__merchant_fraud_Reichert, Shanahan and Hayes",5.141048837895006e-07
+cat__city_Spencer,5.093899633645693e-07
+"cat__merchant_fraud_Wintheiser, Dietrich and Schimmel",5.008532033326887e-07
+cat__city_Boulder,4.854907488167048e-07
+cat__city_Texarkana,4.7676228897619206e-07
+cat__city_Bowdoin,4.7452414600420445e-07
+cat__merchant_fraud_Boyer-Haley,4.621290921566632e-07
+cat__merchant_fraud_Friesen Ltd,4.4995645551579933e-07
+cat__merchant_fraud_Heller-Abshire,4.4392378368166435e-07
+cat__merchant_fraud_Hirthe-Beier,4.417822713736399e-07
+cat__city_Nazareth,4.3928712486146216e-07
+cat__city_Umatilla,4.303021256835399e-07
+cat__city_Hatch,4.271227639505641e-07
+cat__city_Early,4.2344898042672927e-07
+cat__city_Colorado Springs,4.2165812626443697e-07
+"cat__job_Loss adjuster, chartered",3.8891951012212133e-07
+cat__merchant_fraud_Bartoletti-Wunsch,3.867655341309732e-07
+"cat__merchant_fraud_Witting, Beer and Ernser",3.856625012583499e-07
+cat__merchant_fraud_Homenick LLC,3.5868745891582487e-07
+cat__city_Stanchfield,3.306709683705324e-07
+cat__merchant_fraud_Baumbach Ltd,3.2587993601995793e-07
+"cat__merchant_fraud_Cremin, Hamill and Reichel",3.2527169552353286e-07
+cat__merchant_fraud_Rippin-VonRueden,3.2149162415159716e-07
+cat__city_Ravenna,3.133920242700392e-07
+cat__city_Canton,3.1288917976142987e-07
+cat__merchant_fraud_Turner LLC,3.128515580114132e-07
+cat__city_Lebanon,3.040192903406536e-07
+cat__city_Clearwater,3.0298005816048826e-07
+cat__city_Montgomery,3.026827308927404e-07
+cat__merchant_fraud_Swift PLC,2.993085586423217e-07
+cat__city_North Haverhill,2.9602074967554154e-07
+cat__merchant_fraud_Bernhard Inc,2.9544803358051935e-07
+"cat__job_Investment banker, corporate",2.927019408074284e-07
+cat__job_Neurosurgeon,2.9204417237435336e-07
+cat__merchant_fraud_Beier and Sons,2.8628722509050377e-07
+cat__city_Hewitt,2.7777337844476864e-07
+cat__merchant_fraud_Thiel-Thiel,2.7553176845427255e-07
+cat__city_Vinton,2.56496603914362e-07
+cat__merchant_fraud_Bins-Howell,2.5425237375703916e-07
+cat__merchant_fraud_Skiles LLC,2.472649922451209e-07
+cat__merchant_fraud_Bahringer-Streich,2.4650253344431316e-07
+cat__city_Whaleyville,2.406765839226058e-07
+cat__city_Mesa,2.3543690477102584e-07
+cat__merchant_fraud_Ernser-Feest,2.3176630036879493e-07
+cat__city_Paulding,2.2868001432067988e-07
+"cat__merchant_fraud_Baumbach, Hodkiewicz and Walsh",2.2598957525581432e-07
+cat__city_Greenville,2.218887988592245e-07
+cat__merchant_fraud_Corwin-Gorczany,2.138026094413387e-07
+cat__merchant_fraud_Abbott-Rogahn,2.0520341020325444e-07
+cat__merchant_fraud_Paucek-Wiza,2.0465674930685904e-07
+cat__city_Scotia,1.8579187777204542e-07
+"cat__job_Teacher, adult education",1.7936752474323217e-07
+cat__job_Farm manager,1.7551450633059341e-07
+cat__job_Charity officer,1.6702101920851247e-07
+cat__merchant_fraud_Harber Inc,1.5856602308093084e-07
+cat__merchant_fraud_Pouros-Haag,1.5086451857373498e-07
+cat__city_Metairie,1.3943630243989157e-07
+cat__merchant_fraud_Cartwright PLC,1.331118827220703e-07
+cat__merchant_fraud_Powlowski-Weimann,1.2800514425157718e-07
+cat__city_Big Indian,1.2620395777264385e-07
+cat__merchant_fraud_Watsica LLC,1.229874038054044e-07
+cat__city_Tyler,1.2086073467472493e-07
+"cat__merchant_fraud_Reinger, Weissnat and Strosin",1.103590659069358e-07
+"cat__merchant_fraud_Welch, Rath and Koepp",1.0603446865038523e-07
+cat__city_Hedley,1.018197449081045e-07
+cat__city_Bynum,1.0105462307297608e-07
+cat__city_Falls City,9.89911594603447e-08
+cat__city_Hannawa Falls,9.715002114019151e-08
+cat__merchant_fraud_Hickle Group,9.514305845400907e-08
+"cat__merchant_fraud_Stanton, Jakubowski and Baumbach",9.420354443380869e-08
+"cat__merchant_fraud_Hintz, Bauch and Smith",9.405825431306394e-08
+"cat__merchant_fraud_Cole, Hills and Jewess",9.008247851761095e-08
+"cat__merchant_fraud_Kunze, Larkin and Mayert",8.647706420398129e-08
+"cat__merchant_fraud_Nitzsche, Kessler and Wolff",8.4211271155798e-08
+cat__job_Nutritional therapist,8.403555433934463e-08
+cat__city_Kilgore,8.167916798233085e-08
+cat__city_Milwaukee,7.873881996973608e-08
+cat__merchant_fraud_Reynolds-Schinner,7.855968569268977e-08
+cat__merchant_fraud_Heidenreich PLC,7.175568691778452e-08
+"cat__job_Education officer, museum",7.098889886650512e-08
+cat__city_Port Richey,7.042710434347663e-08
+cat__merchant_fraud_Erdman-Ebert,6.653171535010568e-08
+cat__city_Mc Nabb,6.198065648747984e-08
+cat__job_Soil scientist,6.035280779339067e-08
+cat__city_Purmela,5.877600807952453e-08
+cat__merchant_fraud_Daugherty LLC,5.7986345675670004e-08
+cat__job_Emergency planning/management officer,5.722288576067451e-08
+cat__city_Minneapolis,5.6515994505840995e-08
+cat__city_Hampton,5.3509722479973593e-08
+"cat__merchant_fraud_Yost, Schamberger and Windler",5.028423241494959e-08
+cat__city_Summerfield,5.0238692924403026e-08
+cat__merchant_fraud_Fisher Inc,4.8495929996718175e-08
+cat__city_Catawba,4.207478371699884e-08
+cat__city_Gadsden,3.983120291054338e-08
+cat__city_Plantersville,3.756909235079378e-08
+"cat__job_Education officer, community",3.643559070860644e-08
+cat__job_Catering manager,3.608368336615547e-08
+cat__merchant_fraud_Emmerich-Luettgen,3.438593259347644e-08
+cat__merchant_fraud_Gerlach Inc,3.3953700979392206e-08
+cat__city_Keller,3.343062720474466e-08
+cat__merchant_fraud_Funk Group,3.15181799831143e-08
+cat__merchant_fraud_Fritsch and Sons,2.8075083351247214e-08
+cat__merchant_fraud_Welch Inc,2.530920690464457e-08
+"cat__merchant_fraud_Lehner, Mosciski and King",2.4489589804665442e-08
+cat__merchant_fraud_McCullough Group,2.3986452027400387e-08
+cat__city_San Angelo,2.1887309532372855e-08
+cat__merchant_fraud_Berge LLC,1.704088999317793e-08
+cat__city_Rule,6.646064055718249e-09
+cat__merchant_fraud_Bogisich-Homenick,6.429313677433473e-09
+cat__city_Falconer,2.75661490589309e-09
+cat__merchant_fraud_Gerhold LLC,2.6532832529046534e-09
+cat__job_Seismic interpreter,1.6207913915910283e-09
+cat__merchant_fraud_Larson-Moen,7.02678283837649e-10
+"cat__merchant_fraud_Herman, Treutel and Dickens",1.894588444172866e-10
+cat__city_Tampa,0.0
+cat__city_Tallmansville,0.0
+cat__city_Syracuse,0.0
+cat__city_Sunflower,0.0
+cat__city_Delhi,0.0
+cat__merchant_fraud_Kemmer-Reinger,0.0
+cat__city_Edinburg,0.0
+cat__city_Stoneham,0.0
+cat__city_Dublin,0.0
+cat__city_Du Pont,0.0
+cat__city_Downsville,0.0
+cat__city_Dongola,0.0
+cat__city_Easton,0.0
+cat__city_East Troy,0.0
+cat__city_East Rochester,0.0
+cat__city_Tuscarora,0.0
+cat__city_Tryon,0.0
+cat__city_Tower Hill,0.0
+cat__city_Tomahawk,0.0
+cat__city_Tiptonville,0.0
+cat__city_Timberville,0.0
+cat__city_Unionville,0.0
+cat__city_Union,0.0
+cat__city_Washington Court House,0.0
+cat__city_Vienna,0.0
+cat__city_Valentine,0.0
+cat__city_Westhampton Beach,0.0
+cat__city_Westfir,0.0
+cat__city_West Monroe,0.0
+"cat__merchant_fraud_Haley, Jewess and Bechtelar",0.0
+"cat__merchant_fraud_Hahn, Bahringer and McLaughlin",0.0
+cat__city_Cuthbert,0.0
+cat__city_Curlew,0.0
+cat__city_Eagarville,0.0
+cat__city_Dubre,0.0
+cat__city_Irvine,0.0
+cat__city_West Chazy,0.0
+cat__city_West Bethel,0.0
+cat__city_Wendel,0.0
+cat__city_Winslow,0.0
+cat__city_Winfield,0.0
+cat__city_Wilmington,0.0
+cat__city_Williamsburg,0.0
+cat__city_Sea Island,0.0
+cat__city_Smock,0.0
+cat__city_Smithfield,0.0
+cat__city_Slayden,0.0
+cat__city_Skytop,0.0
+cat__city_Oak Hill,0.0
+cat__city_O Brien,0.0
+cat__merchant_fraud_Bauch-Blanda,0.0
+cat__city_Emmons,0.0
+cat__city_Elkhart,0.0
+cat__city_Elizabeth,0.0
+cat__city_Eldridge,0.0
+cat__city_El Paso,0.0
+cat__city_White Sulphur Springs,0.0
+cat__city_Dexter,0.0
+cat__city_Weeping Water,0.0
+cat__city_Webster City,0.0
+cat__city_Waupaca,0.0
+cat__city_Washoe Valley,0.0
+cat__city_West Green,0.0
+cat__city_West Decatur,0.0
+cat__city_Harrodsburg,0.0
+cat__city_Hovland,0.0
+cat__city_Hopkins,0.0
+cat__city_Hopewell,0.0
+cat__city_Holcomb,0.0
+cat__city_Hills,0.0
+cat__city_Nokomis,0.0
+cat__city_Newton,0.0
+cat__city_Newport,0.0
+cat__city_Higganum,0.0
+cat__city_Corona,0.0
+cat__city_Wheaton,0.0
+cat__city_Wever,0.0
+cat__city_Deadwood,0.0
+cat__city_De Queen,0.0
+cat__city_De Lancey,0.0
+cat__city_Dayton,0.0
+cat__city_Daniels,0.0
+cat__city_Damascus,0.0
+cat__city_Dalton,0.0
+cat__city_Dadeville,0.0
+cat__city_West Long Branch,0.0
+cat__city_Collegeville,0.0
+cat__city_Coffeeville,0.0
+cat__city_Clune,0.0
+cat__city_Cuyahoga Falls,0.0
+cat__city_Zaleski,0.0
+cat__city_Woods Cross,0.0
+cat__city_Wittenberg,0.0
+cat__city_Clarksville,0.0
+cat__city_Crownpoint,0.0
+cat__city_Cross,0.0
+cat__city_Cromona,0.0
+cat__city_Creola,0.0
+cat__city_Cranks,0.0
+cat__city_Corsica,0.0
+cat__city_Corriganville,0.0
+cat__merchant_fraud_Gibson-Deckow,0.0
+cat__city_Cardwell,0.0
+cat__city_Claremont,0.0
+cat__city_Christine,0.0
+cat__city_Chester Heights,0.0
+cat__city_Chester,0.0
+cat__city_Comfrey,0.0
+cat__city_Comfort,0.0
+cat__city_Columbia,0.0
+cat__city_Winthrop,0.0
+cat__city_Winter,0.0
+cat__merchant_fraud_Gutmann Ltd,0.0
+cat__merchant_fraud_Grimes LLC,0.0
+"cat__merchant_fraud_Greenholt, O'Hara and Balistreri",0.0
+cat__city_Nelson,0.0
+cat__city_Murrayville,0.0
+cat__city_Murfreesboro,0.0
+cat__job_Academic librarian,0.0
+cat__merchant_fraud_Feil-Morar,0.0
+cat__city_Emporium,0.0
+cat__city_Garrattsville,0.0
+cat__city_Garfield,0.0
+cat__city_Galatia,0.0
+cat__city_Gaithersburg,0.0
+cat__city_Saxon,0.0
+cat__city_Spring,0.0
+cat__city_Spearsville,0.0
+cat__city_South Richmond Hill,0.0
+cat__city_South Londonderry,0.0
+cat__city_South Hero,0.0
+cat__city_Sontag,0.0
+cat__city_Sturgis,0.0
+cat__merchant_fraud_Fadel-Hilpert,0.0
+cat__job_Animal nutritionist,0.0
+cat__city_Clayton,0.0
+cat__state_RI,0.0
+cat__city_Cassatt,0.0
+cat__city_Cherokee Village,0.0
+cat__merchant_fraud_Klein Group,0.0
+cat__city_Ironton,0.0
+cat__city_Independence,0.0
+cat__city_Iliff,0.0
+cat__city_Hurricane,0.0
+cat__city_Hurley,0.0
+cat__city_Huntington Beach,0.0
+cat__city_Humboldt,0.0
+cat__city_Newark Valley,0.0
+cat__city_New Memphis,0.0
+cat__city_Burns Flat,0.0
+cat__job_Analytical chemist,0.0
+cat__job_Ambulance person,0.0
+cat__job_Air cabin crew,0.0
+cat__job_Air broker,0.0
+cat__job_Aid worker,0.0
+cat__job_Aeronautical engineer,0.0
+cat__job_Advertising copywriter,0.0
+cat__merchant_fraud_Kihn-Fritsch,0.0
+cat__merchant_fraud_Kihn Inc,0.0
+cat__city_Center Point,0.0
+cat__city_Cecilton,0.0
+cat__merchant_fraud_Erdman-Durgan,0.0
+cat__city_Bronx,0.0
+cat__city_Bristow,0.0
+cat__city_Bridgeport,0.0
+cat__job_Acupuncturist,0.0
+cat__merchant_fraud_Effertz LLC,0.0
+cat__job_Art gallery manager,0.0
+cat__job_Armed forces logistics/support/administrative officer,0.0
+cat__city_Boonton,0.0
+cat__city_Campbell,0.0
+cat__job_Chief Marketing Officer,0.0
+"cat__job_Chemist, analytical",0.0
+cat__job_Chartered legal executive (England and Wales),0.0
+cat__job_Cabin crew,0.0
+cat__city_Bryant,0.0
+cat__city_Brunson,0.0
+cat__city_Browning,0.0
+cat__city_Broomfield,0.0
+cat__job_Broadcast engineer,0.0
+cat__job_Biomedical engineer,0.0
+"cat__job_Biochemist, clinical",0.0
+cat__job_Community development worker,0.0
+cat__job_Clinical psychologist,0.0
+cat__job_Clinical cytogeneticist,0.0
+cat__job_Clinical biochemist,0.0
+cat__city_Armonk,0.0
+cat__city_Belle Fourche,0.0
+cat__city_Belfast,0.0
+cat__city_Phil Campbell,0.0
+cat__city_Phenix City,0.0
+cat__city_Pewee Valley,0.0
+cat__city_Highland,0.0
+cat__city_North Prairie,0.0
+cat__city_Palmyra,0.0
+cat__city_Palermo,0.0
+"cat__merchant_fraud_Kerluke, Considine and Macejkovic",0.0
+cat__city_Ferney,0.0
+cat__city_Fenelton,0.0
+cat__merchant_fraud_Harris Inc,0.0
+cat__city_Shenandoah Junction,0.0
+cat__city_Shelter Island,0.0
+cat__city_Breesport,0.0
+cat__city_Brashear,0.0
+cat__city_Brantley,0.0
+cat__city_Bowersville,0.0
+cat__city_Bethel Springs,0.0
+cat__city_Bethel,0.0
+cat__job_Building services engineer,0.0
+cat__city_Mulberry Grove,0.0
+cat__city_North Las Vegas,0.0
+cat__city_North Judson,0.0
+cat__city_North Brookfield,0.0
+cat__city_North Augusta,0.0
+cat__city_Norman Park,0.0
+cat__city_Jelm,0.0
+cat__city_Jefferson,0.0
+cat__city_Milford,0.0
+cat__city_Mount Saint Joseph,0.0
+cat__city_Mount Perry,0.0
+cat__city_Avera,0.0
+cat__city_Atlantic,0.0
+cat__city_Beaver Falls,0.0
+cat__city_Battle Creek,0.0
+cat__city_Basye,0.0
+cat__city_Baroda,0.0
+cat__job_Chief Technology Officer,0.0
+cat__job_Company secretary,0.0
+cat__job_Community education officer,0.0
+"cat__job_Designer, textile",0.0
+cat__city_Bigelow,0.0
+cat__job_Education administrator,0.0
+cat__job_Economist,0.0
+cat__city_Apison,0.0
+cat__city_Amorita,0.0
+cat__city_American Fork,0.0
+"cat__job_Designer, interior/spatial",0.0
+cat__job_Data scientist,0.0
+cat__job_Copy,0.0
+cat__job_Control and instrumentation engineer,0.0
+cat__city_Aledo,0.0
+cat__city_Alder,0.0
+cat__city_Ballwin,0.0
+cat__city_Bailey,0.0
+cat__city_Bagley,0.0
+cat__city_Avoca,0.0
+"cat__job_Engineer, materials",0.0
+"cat__job_Engineer, manufacturing",0.0
+"cat__job_Engineer, communications",0.0
+"cat__job_Engineer, agricultural",0.0
+cat__job_Stage manager,0.0
+cat__city_Albuquerque,0.0
+cat__city_Albany,0.0
+cat__city_Ashfield,0.0
+cat__city_Ash Flat,0.0
+cat__city_Arvada,0.0
+cat__city_Arnold,0.0
+"cat__job_Conservator, museum/gallery",0.0
+cat__job_Electronics engineer,0.0
+cat__merchant_fraud_McGlynn-Heathcote,0.0
+cat__merchant_fraud_McDermott-Rice,0.0
+cat__merchant_fraud_Kris-Kertzmann,0.0
+"cat__job_Engineer, aeronautical",0.0
+cat__city_Kirtland Afb,0.0
+cat__merchant_fraud_Dach-Borer,0.0
+cat__job_Environmental manager,0.0
+cat__job_Environmental health practitioner,0.0
+cat__job_English as a foreign language teacher,0.0
+cat__city_Kirk,0.0
+cat__city_Redford,0.0
+cat__city_Saint Francis,0.0
+cat__city_Ruth,0.0
+cat__merchant_fraud_Johnston-Casper,0.0
+cat__city_Ruckersville,0.0
+cat__city_Rosewood,0.0
+cat__city_Sardis,0.0
+"cat__merchant_fraud_Johnston, Nikolaus and Maggio",0.0
+cat__city_Parkers Lake,0.0
+cat__city_Parker Dam,0.0
+cat__city_Parker,0.0
+cat__city_Paris,0.0
+"cat__merchant_fraud_Berge, Kautzer and Harris",0.0
+"cat__job_Engineer, technical sales",0.0
+cat__city_Amanda,0.0
+cat__city_Alva,0.0
+cat__city_Alton,0.0
+cat__city_Alexandria,0.0
+cat__job_Retail buyer,0.0
+cat__city_Milner,0.0
+cat__city_Mill Creek,0.0
+cat__city_Howes Cave,0.0
+cat__city_Howells,0.0
+cat__merchant_fraud_Beier LLC,0.0
+cat__merchant_fraud_Bednar Inc,0.0
+cat__city_Stittville,0.0
+cat__city_Achille,0.0
+cat__job_Field seismologist,0.0
+cat__job_Estate manager/land agent,0.0
+cat__job_Equities trader,0.0
+cat__city_Mount Morris,0.0
+cat__city_Mount Clemens,0.0
+cat__city_Moulton,0.0
+cat__city_Moro,0.0
+cat__city_Moriches,0.0
+cat__city_Mooresville,0.0
+cat__city_New Waverly,0.0
+cat__merchant_fraud_Abshire PLC,0.0
+cat__merchant_fraud_Treutel-King,0.0
+cat__merchant_fraud_Wiegand-Lowe,0.0
+"cat__merchant_fraud_Monahan, Hermann and Johns",0.0
+cat__merchant_fraud_Miller-Harris,0.0
+cat__merchant_fraud_Padberg-Welch,0.0
+cat__merchant_fraud_Waters-Cruickshank,0.0
+cat__merchant_fraud_Thiel Ltd,0.0
+"cat__job_Geologist, wellsite",0.0
+cat__city_Girard,0.0
+cat__city_Gibsonville,0.0
+cat__city_Harper,0.0
+cat__city_Harmony,0.0
+cat__city_Harborcreek,0.0
+cat__job_Statistician,0.0
+"cat__job_Teacher, English as a foreign language",0.0
+cat__city_Paint Rock,0.0
+cat__city_Greendale,0.0
+cat__city_Grantham,0.0
+cat__city_Grant,0.0
+cat__city_Grand Ridge,0.0
+cat__city_Glen Rock,0.0
+cat__city_Saint Louis,0.0
+cat__city_Gregory,0.0
+cat__job_Geochemist,0.0
+"cat__job_Geneticist, molecular",0.0
+cat__job_Furniture conservator/restorer,0.0
+"cat__job_Engineer, structural",0.0
+cat__city_Mendon,0.0
+cat__job_Textile designer,0.0
+cat__merchant_fraud_Conroy Ltd,0.0
+cat__job_Insurance claims handler,0.0
+cat__merchant_fraud_Stoltenberg-Beatty,0.0
+"cat__merchant_fraud_Towne, Walker and Borer",0.0
+cat__merchant_fraud_Torphy-Goyette,0.0
+cat__job_Field trials officer,0.0
+cat__job_IT consultant,0.0
+cat__job_Hydrologist,0.0
+cat__job_Hydrographic surveyor,0.0
+cat__job_Hotel manager,0.0
+cat__job_Hospital pharmacist,0.0
+"cat__merchant_fraud_Stokes, Christiansen and Sipes",0.0
+"cat__merchant_fraud_Stehr, Jewess and Schimmel",0.0
+cat__merchant_fraud_Kris-Padberg,0.0
+cat__city_Karnack,0.0
+cat__city_June Lake,0.0
+cat__city_Juliette,0.0
+cat__city_Jordanville,0.0
+cat__city_Jordan Valley,0.0
+cat__city_Joliet,0.0
+cat__city_Jermyn,0.0
+cat__merchant_fraud_Bode-Rempel,0.0
+cat__job_Magazine journalist,0.0
+cat__job_Logistics and distribution manager,0.0
+cat__job_Location manager,0.0
+cat__job_Local government officer,0.0
+cat__job_Museum/gallery exhibitions officer,0.0
+cat__job_Museum education officer,0.0
+cat__job_Transport planner,0.0
+cat__city_Pueblo,0.0
+cat__city_Premier,0.0
+cat__city_Rockwood,0.0
+cat__city_Rockwell,0.0
+cat__city_Rock Tavern,0.0
+cat__city_Rock Glen,0.0
+cat__city_Scarborough,0.0
+cat__city_Rochester,0.0
+cat__city_Riverview,0.0
+cat__city_Ringwood,0.0
+cat__city_Republic,0.0
+cat__job_Illustrator,0.0
+cat__job_Lawyer,0.0
+cat__job_Investment analyst,0.0
+cat__job_Interior and spatial designer,0.0
+cat__city_Marietta,0.0
+cat__city_Marienville,0.0
+cat__merchant_fraud_Smith-Stokes,0.0
+cat__merchant_fraud_Skiles-Ankunding,0.0
+cat__merchant_fraud_Shields Inc,0.0
+cat__job_Writer,0.0
+cat__merchant_fraud_Sporer-Keebler,0.0
+cat__merchant_fraud_Sporer Inc,0.0
+cat__job_Manufacturing systems engineer,0.0
+cat__job_Management consultant,0.0
+cat__job_Maintenance engineer,0.0
+cat__job_Minerals surveyor,0.0
+"cat__job_Merchandiser, retail",0.0
+cat__job_Medical secretary,0.0
+cat__city_Mc Cracken,0.0
+cat__city_Mc Clellandtown,0.0
+cat__city_Montrose,0.0
+"cat__job_Surveyor, mining",0.0
+cat__city_Port Charlotte,0.0
+cat__city_Pointe Aux Pins,0.0
+"cat__job_Teacher, primary school",0.0
+cat__city_Pittsburgh,0.0
+cat__job_Research scientist (life sciences),0.0
+cat__city_Grimesland,0.0
+cat__city_Grenada,0.0
+cat__city_Ratcliff,0.0
+cat__city_Randolph,0.0
+cat__city_Ragland,0.0
+cat__city_Queenstown,0.0
+cat__city_Quanah,0.0
+cat__city_Putnam,0.0
+cat__city_Monitor,0.0
+cat__city_Moab,0.0
+cat__city_Minnesota Lake,0.0
+cat__city_Matthews,0.0
+cat__city_Marion,0.0
+cat__city_Manor,0.0
+cat__city_Manley,0.0
+cat__city_Manchester,0.0
+cat__city_Michigan,0.0
+cat__city_Miamisburg,0.0
+"cat__merchant_fraud_Champlin, Rolfson and Connelly",0.0
+cat__city_Sterling City,0.0
+cat__job_Oceanographer,0.0
+cat__job_Occupational therapist,0.0
+cat__city_Stephensport,0.0
+"cat__job_Nurse, mental health",0.0
+cat__job_Police officer,0.0
+cat__job_Pharmacologist,0.0
+"cat__job_Pharmacist, hospital",0.0
+cat__city_Springfield Gardens,0.0
+cat__job_Outdoor activities/education manager,0.0
+cat__city_Ozawkie,0.0
+"cat__merchant_fraud_Schaefer, Fay and Hilll",0.0
+cat__merchant_fraud_Sawayn PLC,0.0
+cat__job_Media planner,0.0
+cat__city_Margaretville,0.0
+cat__city_Mansfield,0.0
+cat__city_Manquin,0.0
+"cat__job_Production assistant, television",0.0
+cat__job_Product manager,0.0
+"cat__job_Producer, television/film/video",0.0
+cat__merchant_fraud_Padberg-Rogahn,0.0
+"cat__merchant_fraud_Raynor, Feest and Miller",0.0
+cat__merchant_fraud_Ratke and Sons,0.0
+cat__merchant_fraud_Rowe-Vandervort,0.0
+"cat__merchant_fraud_Roob, Conn and Tremblay",0.0
+cat__merchant_fraud_Roob LLC,0.0
+"cat__merchant_fraud_Rohan, White and Aufderhar",0.0
+cat__merchant_fraud_Champlin-Casper,0.0
+cat__job_Politician's assistant,0.0
+cat__job_Pathologist,0.0
+"cat__job_Psychologist, clinical",0.0
+cat__city_Iselin,0.0
+cat__city_Irwinton,0.0
+cat__city_Kingsville,0.0
+cat__city_Kingsport,0.0
+cat__city_Kings Bay,0.0
+cat__city_Oxford,0.0
+cat__city_Harwood,0.0
+cat__city_Pembroke,0.0
+cat__city_Pecos,0.0
+cat__merchant_fraud_Hintz-Bruen,0.0
+cat__city_Orangeburg,0.0
+cat__city_Pikesville,0.0
+cat__city_Greenwich,0.0
+cat__city_Henderson,0.0
+cat__city_Heidelberg,0.0
+cat__city_Prairie Creek,0.0
+cat__city_Powell Butte,0.0
+cat__city_Powell,0.0
+cat__city_Port Saint Lucie,0.0
+cat__city_Lagrange,0.0
+cat__merchant_fraud_Howe Ltd,0.0
+"cat__merchant_fraud_Hoppe, Harris and Bednar",0.0
+"cat__merchant_fraud_Hodkiewicz, Prohaska and Paucek",0.0
+cat__job_Professor Emeritus,0.0
+cat__merchant_fraud_O'Connell-Ullrich,0.0
+"cat__job_Psychologist, sport and exercise",0.0
+"cat__merchant_fraud_McLaughlin, Armstrong and Koepp",0.0
+cat__job_Quarry manager,0.0
+cat__job_Purchasing manager,0.0
+cat__job_Public affairs consultant,0.0
+cat__city_Omaha,0.0
+cat__city_Olmsted,0.0
+cat__city_Ollie,0.0
+cat__merchant_fraud_Pouros-Conroy,0.0
+cat__city_Old Hickory,0.0
+cat__merchant_fraud_Ortiz Group,0.0
+cat__city_Louisiana,0.0
+cat__city_Los Angeles,0.0
+cat__city_Logan,0.0
+cat__city_Loami,0.0
+cat__city_Lithopolis,0.0
+cat__city_Lima,0.0
+cat__city_Liberty Mills,0.0
+cat__city_Luzerne,0.0
+cat__city_Lakeview,0.0
+cat__city_Kensington,0.0
+cat__city_Kenner,0.0
+cat__city_Knowlesville,0.0
+cat__city_Kittery Point,0.0
+cat__city_Kissee Mills,0.0
+cat__job_Sports administrator,0.0
+cat__job_Special effects artist,0.0
+"cat__job_Solicitor, Scotland",0.0
+cat__city_Oklahoma City,0.0
+cat__merchant_fraud_Lynch Ltd,0.0
+"cat__job_Scientist, research (physical sciences)",0.0
+cat__job_Rural practice surveyor,0.0
+"cat__merchant_fraud_Moore, Dibbert and Koepp",0.0
+cat__job_Water quality scientist,0.0
+cat__job_Tourism officer,0.0
+cat__job_Volunteer coordinator,0.0
+"cat__job_Teacher, secondary school",0.0
+"cat__merchant_fraud_Metz, Russel and Metz",0.0
+cat__city_Oakford,0.0
+cat__merchant_fraud_Jast-McDermott,0.0
+cat__city_Lepanto,0.0
+cat__city_Leo,0.0
+cat__city_Lawrence,0.0
+cat__city_Lamy,0.0
+cat__city_Oakdale,0.0
+cat__city_Fairview,0.0
+cat__city_Fairhope,0.0
+cat__job_Secretary/administrator,0.0
+cat__city_Laguna Hills,0.0
+"cat__merchant_fraud_Lowe, Dietrich and Erdman",0.0
+cat__city_Ehrhardt,0.0
+cat__merchant_fraud_Kessler Group,0.0
+cat__merchant_fraud_Kertzmann LLC,0.0
+cat__city_Pearlington,0.0
+cat__city_Paxton,0.0
+cat__city_Hedrick,0.0
+cat__city_Thornville,0.0
+cat__city_Hazel,0.0
+cat__city_Haynes,0.0
+cat__city_Hawthorne,0.0
+cat__city_Hawley,0.0
+cat__city_Haw River,0.0
+"cat__job_Restaurant manager, fast food",0.0
+cat__job_Theatre manager,0.0

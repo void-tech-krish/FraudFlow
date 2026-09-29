@@ -1,0 +1,3024 @@
+feature,psi,ks_pvalue,severity
+amt,0.00035806251136096933,0.5172869,INFO
+lat,0.0008034961899108769,0.63279593,INFO
+long,0.0005839892125267461,0.67494243,INFO
+city_pop,0.001137131203615145,0.7737408,INFO
+unix_time,0.0010166605408508667,0.040425766,INFO
+merch_lat,0.0006386290456900361,0.2958576,INFO
+merch_long,0.0006036890585230884,0.54144543,INFO
+transaction_hour,0.00033206591890590226,0.92613864,INFO
+transaction_day,0.0006102251131004838,0.7001253,INFO
+transaction_month,0.0010075977338846027,0.1614373,INFO
+transaction_day_of_week,0.00042979136335874403,0.9998116,INFO
+is_weekend,5.7404524070747724e-05,0.9998116,INFO
+hour_sin,0.0003712163917306048,0.9483818,INFO
+hour_cos,0.0002419159362612231,0.9898333,INFO
+customer_age,0.0015030855964908018,0.03822115,INFO
+merchant_distance,0.0009063391433586312,0.39043877,INFO
+amount_log,0.000758416025307381,0.5172869,INFO
+merchant_fraud_Abbott-Rogahn,3.345086499043619e-05,1.0,INFO
+merchant_fraud_Abbott-Steuber,0.0,1.0,INFO
+merchant_fraud_Abernathy and Sons,0.0001296597520473538,1.0,INFO
+merchant_fraud_Abshire PLC,6.6791524724094175e-06,1.0,INFO
+"merchant_fraud_Adams, Kovacek and Kuhlman",3.452145388163107e-06,1.0,INFO
+merchant_fraud_Adams-Barrows,0.0,1.0,INFO
+"merchant_fraud_Altenwerth, Cartwright and Koss",2.5072692693499294e-05,1.0,INFO
+merchant_fraud_Altenwerth-Kilback,8.941770904716355e-05,1.0,INFO
+merchant_fraud_Ankunding LLC,1.4951523520104073e-06,1.0,INFO
+merchant_fraud_Ankunding-Carroll,0.0001858018075450543,1.0,INFO
+"merchant_fraud_Armstrong, Walter and Gottlieb",0.0002823626461674757,1.0,INFO
+merchant_fraud_Auer LLC,0.00025227283010500475,1.0,INFO
+merchant_fraud_Auer-Mosciski,0.00011121292697834295,1.0,INFO
+merchant_fraud_Auer-West,5.011062097554697e-06,1.0,INFO
+merchant_fraud_Bahringer Group,1.963538849233835e-06,1.0,INFO
+"merchant_fraud_Bahringer, Bergnaum and Quitzon",0.0004550383422349627,1.0,INFO
+"merchant_fraud_Bahringer, Osinski and Block",0.00010396472658117391,1.0,INFO
+"merchant_fraud_Bahringer, Schoen and Corkery",0.0002143655794162665,1.0,INFO
+merchant_fraud_Bahringer-Larson,1.5425074486961936e-05,1.0,INFO
+merchant_fraud_Bahringer-Streich,6.463867637827813e-06,1.0,INFO
+merchant_fraud_Bailey-Morar,2.8829968680332922e-05,1.0,INFO
+merchant_fraud_Balistreri-Nader,8.711149212211536e-06,1.0,INFO
+merchant_fraud_Barrows PLC,0.00011826676892991111,1.0,INFO
+merchant_fraud_Bartoletti and Sons,0.00018254943232023287,1.0,INFO
+merchant_fraud_Bartoletti-Wunsch,6.231115445063848e-05,1.0,INFO
+merchant_fraud_Barton Inc,8.941770904716355e-05,1.0,INFO
+merchant_fraud_Barton LLC,4.253735152285378e-05,1.0,INFO
+merchant_fraud_Bashirian Group,0.00043700440541511224,1.0,INFO
+merchant_fraud_Bauch-Blanda,1.478854528693681e-05,1.0,INFO
+merchant_fraud_Bauch-Raynor,6.0724787089218236e-06,1.0,INFO
+merchant_fraud_Baumbach Ltd,1.8412875910197634e-05,1.0,INFO
+"merchant_fraud_Baumbach, Feeney and Morar",1.963538849233835e-06,1.0,INFO
+"merchant_fraud_Baumbach, Hodkiewicz and Walsh",7.14596533765018e-05,1.0,INFO
+"merchant_fraud_Baumbach, Strosin and Nicolas",0.0004476046990148447,1.0,INFO
+merchant_fraud_Bechtelar-Rippin,0.0,1.0,INFO
+"merchant_fraud_Becker, Harris and Harvey",0.0001744037101657273,1.0,INFO
+merchant_fraud_Bednar Group,0.0002697484880974061,1.0,INFO
+merchant_fraud_Bednar Inc,7.640796399319598e-05,1.0,INFO
+merchant_fraud_Bednar PLC,6.262051723782787e-06,1.0,INFO
+merchant_fraud_Beer-Jast,1.95677760813627e-05,1.0,INFO
+merchant_fraud_Beier LLC,6.6791524724094175e-06,1.0,INFO
+merchant_fraud_Beier and Sons,1.0334704373746202e-06,1.0,INFO
+merchant_fraud_Beier-Hyatt,3.0219626904642388e-05,1.0,INFO
+merchant_fraud_Berge LLC,1.1790301943233414e-06,1.0,INFO
+"merchant_fraud_Berge, Kautzer and Harris",1.5410870024505055e-06,1.0,INFO
+merchant_fraud_Berge-Hills,0.00016732838066854566,1.0,INFO
+merchant_fraud_Berge-Ullrich,1.7021832648146787e-05,1.0,INFO
+merchant_fraud_Bernhard Inc,0.00046055452207349523,1.0,INFO
+"merchant_fraud_Bernhard, Grant and Langworth",6.963060137017287e-05,1.0,INFO
+merchant_fraud_Bernhard-Lesch,0.00034522425112027246,1.0,INFO
+merchant_fraud_Bernier and Sons,1.5410870024505148e-06,1.0,INFO
+"merchant_fraud_Bernier, Streich and Jewess",1.6715414469927114e-05,1.0,INFO
+"merchant_fraud_Bernier, Volkman and Hoeger",0.0,1.0,INFO
+"merchant_fraud_Bins, Balistreri and Beatty",0.00027622388360554163,1.0,INFO
+merchant_fraud_Bins-Howell,7.4208107336302036e-06,1.0,INFO
+merchant_fraud_Bins-Rice,0.0002881406440079891,1.0,INFO
+merchant_fraud_Bins-Tillman,9.681133820800384e-05,1.0,INFO
+merchant_fraud_Block Group,0.00030282829569388853,1.0,INFO
+merchant_fraud_Block-Hauck,4.3530702878090336e-06,1.0,INFO
+merchant_fraud_Block-Parisian,0.0004210322910267794,1.0,INFO
+merchant_fraud_Bode-Rempel,0.000172109114673109,1.0,INFO
+merchant_fraud_Bode-Schuster,0.00025452480296954893,1.0,INFO
+"merchant_fraud_Boehm, Block and Jakubowski",3.345086499043619e-05,1.0,INFO
+"merchant_fraud_Boehm, Predovic and Reinger",7.4208107336302036e-06,1.0,INFO
+merchant_fraud_Bogisich Inc,4.7557372890665617e-05,1.0,INFO
+merchant_fraud_Bogisich-Homenick,3.4521453881631104e-06,1.0,INFO
+merchant_fraud_Bogisich-Weimann,3.744553835621389e-05,1.0,INFO
+merchant_fraud_Botsford Ltd,0.00014694889379000456,1.0,INFO
+merchant_fraud_Botsford PLC,1.5410870024505055e-06,1.0,INFO
+merchant_fraud_Botsford and Sons,6.5646769851082e-05,1.0,INFO
+merchant_fraud_Boyer PLC,0.00032936359121131216,1.0,INFO
+merchant_fraud_Boyer-Haley,3.452145388163107e-06,1.0,INFO
+merchant_fraud_Boyer-Reichert,2.228519915201263e-05,1.0,INFO
+merchant_fraud_Bradtke PLC,8.042859882828927e-05,1.0,INFO
+"merchant_fraud_Bradtke, Torp and Bahringer",7.243872968654492e-05,1.0,INFO
+merchant_fraud_Breitenberg LLC,0.0001679747859085429,1.0,INFO
+merchant_fraud_Breitenberg-Hermiston,4.5174841276201844e-05,1.0,INFO
+merchant_fraud_Brekke and Sons,4.871556579572676e-05,1.0,INFO
+merchant_fraud_Brown Inc,0.00015777938860015963,1.0,INFO
+merchant_fraud_Brown PLC,2.860422881413692e-06,1.0,INFO
+"merchant_fraud_Brown, Homenick and Lesch",0.00036961262148028896,1.0,INFO
+merchant_fraud_Brown-Greenholt,0.00011826676892991111,1.0,INFO
+merchant_fraud_Bruen-Yost,4.737308283233104e-05,1.0,INFO
+merchant_fraud_Buckridge PLC,7.243872968654491e-05,1.0,INFO
+merchant_fraud_Carroll PLC,6.0724787089218236e-06,1.0,INFO
+merchant_fraud_Cartwright PLC,0.0004711010922333543,1.0,INFO
+merchant_fraud_Cartwright-Harris,2.2285199152012628e-05,1.0,INFO
+"merchant_fraud_Casper, Hand and Zulauf",0.0001585282232917628,1.0,INFO
+merchant_fraud_Cassin-Harvey,2.860422881413692e-06,1.0,INFO
+merchant_fraud_Champlin and Sons,0.0002639755079652351,1.0,INFO
+"merchant_fraud_Champlin, Rolfson and Connelly",0.00037385737604291573,1.0,INFO
+merchant_fraud_Champlin-Casper,0.00020224399115208956,1.0,INFO
+"merchant_fraud_Christiansen, Goyette and Schamberger",1.0778160870942685e-06,1.0,INFO
+merchant_fraud_Christiansen-Gusikowski,8.711149212211533e-06,1.0,INFO
+merchant_fraud_Cole PLC,1.4518811636150696e-06,1.0,INFO
+"merchant_fraud_Cole, Hills and Jewess",0.0008242877609244541,1.0,INFO
+merchant_fraud_Collier Inc,1.3363146768089832e-05,1.0,INFO
+merchant_fraud_Collier LLC,4.2018776630148304e-05,1.0,INFO
+merchant_fraud_Connelly PLC,2.3596675247207537e-05,1.0,INFO
+"merchant_fraud_Connelly, Reichert and Fritsch",3.1750550091884864e-05,1.0,INFO
+merchant_fraud_Connelly-Carter,1.3359170504141585e-06,1.0,INFO
+merchant_fraud_Conroy Ltd,2.866022480677849e-05,1.0,INFO
+"merchant_fraud_Conroy, Balistreri and Gorczany",0.00024134309819966962,1.0,INFO
+merchant_fraud_Conroy-Cruickshank,0.00012590771514769662,1.0,INFO
+merchant_fraud_Conroy-Emard,0.00015452790667899022,1.0,INFO
+merchant_fraud_Cormier LLC,8.281528057529724e-06,1.0,INFO
+"merchant_fraud_Cormier, Stracke and Thiel",0.0,1.0,INFO
+merchant_fraud_Corwin-Collins,9.364065555118921e-05,1.0,INFO
+merchant_fraud_Corwin-Gorczany,0.0,1.0,INFO
+merchant_fraud_Corwin-Romaguera,4.0046369471545226e-06,1.0,INFO
+"merchant_fraud_Cremin, Hamill and Reichel",4.4035255805838156e-05,1.0,INFO
+"merchant_fraud_Crist, Jakubowski and Littel",5.40755172637592e-05,1.0,INFO
+merchant_fraud_Crona and Sons,7.845815952636575e-05,1.0,INFO
+"merchant_fraud_Cronin, Kshlerin and Weber",0.0002116787257756763,1.0,INFO
+merchant_fraud_Crooks and Sons,8.356653916141329e-05,1.0,INFO
+merchant_fraud_Cruickshank-Mills,0.00011121292697834295,1.0,INFO
+merchant_fraud_Cummerata-Hilpert,1.5826609456970565e-05,1.0,INFO
+merchant_fraud_Cummerata-Jones,1.207382777239977e-06,1.0,INFO
+merchant_fraud_Cummings Group,0.00011052072402826188,1.0,INFO
+merchant_fraud_Cummings LLC,1.0778160870942685e-06,1.0,INFO
+merchant_fraud_Dach-Borer,0.00044390174759572325,1.0,INFO
+merchant_fraud_Dach-Nader,0.0003581259263045821,1.0,INFO
+"merchant_fraud_Dare, Casper and Bartoletti",0.00013259675302299722,1.0,INFO
+"merchant_fraud_Dare, Fritsch and Zboncak",0.0001150990552706836,1.0,INFO
+merchant_fraud_Dare-Gibson,0.00017469722717477823,1.0,INFO
+merchant_fraud_Dare-Marvin,0.0,1.0,INFO
+merchant_fraud_Daugherty LLC,1.3074245428054108e-05,1.0,INFO
+"merchant_fraud_Daugherty, Pouros and Beahan",0.00014013193549064116,1.0,INFO
+merchant_fraud_Daugherty-Thompson,7.879938296008665e-05,1.0,INFO
+merchant_fraud_Deckow-Dare,7.706117130543204e-06,1.0,INFO
+merchant_fraud_Deckow-O'Conner,0.00010872580597178741,1.0,INFO
+merchant_fraud_Denesik and Sons,0.00016131920379429098,1.0,INFO
+"merchant_fraud_Denesik, Powlowski and Pouros",5.1645234854784476e-05,1.0,INFO
+merchant_fraud_Dibbert and Sons,0.00027622388360554163,1.0,INFO
+merchant_fraud_Dibbert-Green,6.462354006240881e-05,1.0,INFO
+merchant_fraud_Dicki Ltd,2.328503472137348e-06,1.0,INFO
+merchant_fraud_Dickinson Ltd,0.00010479650037799008,1.0,INFO
+merchant_fraud_Dickinson-Rempel,2.328503472137348e-06,1.0,INFO
+merchant_fraud_Dietrich-Fadel,1.963538849233839e-06,1.0,INFO
+merchant_fraud_Donnelly LLC,1.3464361554227958e-05,1.0,INFO
+merchant_fraud_Donnelly PLC,2.130483661895937e-06,1.0,INFO
+merchant_fraud_Dooley Inc,1.202894841782303e-05,1.0,INFO
+merchant_fraud_Dooley-Thompson,1.1132572519138093e-05,1.0,INFO
+"merchant_fraud_Douglas, DuBuque and McKenzie",1.3363146768089832e-05,1.0,INFO
+"merchant_fraud_Douglas, Schneider and Turner",0.00022805487282212607,1.0,INFO
+merchant_fraud_Douglas-White,8.652370208889649e-05,1.0,INFO
+merchant_fraud_Doyle Ltd,2.9724055096787032e-05,1.0,INFO
+merchant_fraud_DuBuque LLC,9.47157836910239e-05,1.0,INFO
+"merchant_fraud_Durgan, Gislason and Spencer",0.00012916504310877118,1.0,INFO
+merchant_fraud_Durgan-Auer,6.134317863680421e-05,1.0,INFO
+merchant_fraud_Ebert-Daugherty,9.373590457667464e-05,1.0,INFO
+merchant_fraud_Effertz LLC,8.356653916141328e-05,1.0,INFO
+"merchant_fraud_Effertz, Welch and Schowalter",0.00027258488415998365,1.0,INFO
+"merchant_fraud_Eichmann, Bogan and Rodriguez",3.175055009188483e-05,1.0,INFO
+"merchant_fraud_Eichmann, Hayes and Treutel",2.4400360256477946e-05,1.0,INFO
+merchant_fraud_Eichmann-Kilback,3.344546556409732e-05,1.0,INFO
+merchant_fraud_Eichmann-Russel,0.0001242221795944294,1.0,INFO
+merchant_fraud_Emard Inc,4.889036959062902e-06,1.0,INFO
+merchant_fraud_Emmerich-Luettgen,7.358497803730374e-05,1.0,INFO
+merchant_fraud_Emmerich-Rau,1.7689984072623163e-05,1.0,INFO
+merchant_fraud_Erdman-Durgan,4.2301856769709426e-05,1.0,INFO
+merchant_fraud_Erdman-Ebert,0.0004551650708072864,1.0,INFO
+merchant_fraud_Erdman-Kertzmann,4.4551988078309314e-06,1.0,INFO
+merchant_fraud_Erdman-Schaden,0.0,1.0,INFO
+merchant_fraud_Ernser-Feest,4.3020442490616486e-05,1.0,INFO
+merchant_fraud_Ernser-Lynch,6.6791524724094175e-06,1.0,INFO
+merchant_fraud_Fadel Inc,0.00011955741171653481,1.0,INFO
+"merchant_fraud_Fadel, Mertz and Rippin",0.00018759706268217584,1.0,INFO
+merchant_fraud_Fadel-Hilpert,3.650435540737798e-05,1.0,INFO
+merchant_fraud_Fahey Inc,9.199005715080359e-05,1.0,INFO
+"merchant_fraud_Feil, Hilpert and Koss",8.34817290833079e-06,1.0,INFO
+merchant_fraud_Feil-Morar,0.00019498270880914035,1.0,INFO
+"merchant_fraud_Ferry, Lynch and Kautzer",2.4400360256477946e-05,1.0,INFO
+"merchant_fraud_Ferry, Reichel and DuBuque",2.705863378155357e-06,1.0,INFO
+merchant_fraud_Fisher Inc,0.0001807570232645825,1.0,INFO
+merchant_fraud_Fisher-Schowalter,4.253735152285378e-05,1.0,INFO
+merchant_fraud_Flatley Group,2.2013044214986948e-05,1.0,INFO
+merchant_fraud_Flatley-Durgan,1.1132572519138093e-05,1.0,INFO
+merchant_fraud_Frami Group,0.0001385709140187295,1.0,INFO
+merchant_fraud_Friesen Inc,0.0,1.0,INFO
+merchant_fraud_Friesen Ltd,0.00010396472658117391,1.0,INFO
+merchant_fraud_Friesen-D'Amore,4.556259456190824e-06,1.0,INFO
+merchant_fraud_Friesen-Ortiz,2.866022480677852e-05,1.0,INFO
+merchant_fraud_Friesen-Stamm,0.00010588070655260384,1.0,INFO
+merchant_fraud_Fritsch LLC,0.0005814044471207339,1.0,INFO
+merchant_fraud_Fritsch and Sons,0.0007895573849923136,1.0,INFO
+merchant_fraud_Funk Group,6.207101167781245e-05,1.0,INFO
+merchant_fraud_Gaylord-Powlowski,7.658243141431538e-05,1.0,INFO
+merchant_fraud_Gerhold LLC,1.3359170504141555e-06,1.0,INFO
+merchant_fraud_Gerlach Inc,0.0002436396056869643,1.0,INFO
+merchant_fraud_Gibson-Deckow,4.737308283233104e-05,1.0,INFO
+merchant_fraud_Gislason Group,0.0002843164346990845,1.0,INFO
+merchant_fraud_Gleason and Sons,0.0,1.0,INFO
+merchant_fraud_Gleason-Macejkovic,8.652370208889649e-05,1.0,INFO
+"merchant_fraud_Goldner, Kovacek and Abbott",0.00029655422893041573,1.0,INFO
+merchant_fraud_Goldner-Lemke,0.00010746583500055553,1.0,INFO
+merchant_fraud_Goodwin-Nitzsche,8.941770904716355e-05,1.0,INFO
+merchant_fraud_Gottlieb Group,0.0001296597520473538,1.0,INFO
+"merchant_fraud_Gottlieb, Considine and Schultz",0.0009325593554125877,1.0,INFO
+merchant_fraud_Gottlieb-Hansen,2.7670125780519488e-05,1.0,INFO
+merchant_fraud_Goyette Inc,0.00034522425112027246,1.0,INFO
+"merchant_fraud_Goyette, Howell and Collier",1.1716774616536578e-05,1.0,INFO
+merchant_fraud_Goyette-Gerhold,1.8234443835306413e-05,1.0,INFO
+merchant_fraud_Goyette-Herzog,0.00010142881611429659,1.0,INFO
+merchant_fraud_Graham and Sons,3.210858007774798e-05,1.0,INFO
+"merchant_fraud_Graham, Hegmann and Hammes",0.000134749086881303,1.0,INFO
+"merchant_fraud_Greenfelder, Bartoletti and Davis",0.00012081679589469324,1.0,INFO
+merchant_fraud_Greenholt Ltd,0.0001744037101657273,1.0,INFO
+"merchant_fraud_Greenholt, Jacobi and Gleason",4.358534247004241e-06,1.0,INFO
+"merchant_fraud_Greenholt, O'Hara and Balistreri",1.8895197160377713e-06,1.0,INFO
+merchant_fraud_Grimes LLC,7.4208107336302036e-06,1.0,INFO
+merchant_fraud_Gulgowski LLC,1.2706148212767014e-05,1.0,INFO
+merchant_fraud_Gutmann Ltd,2.860422881413695e-06,1.0,INFO
+"merchant_fraud_Gutmann, McLaughlin and Wiza",0.00013259675302299722,1.0,INFO
+merchant_fraud_Gutmann-Upton,9.107188832694365e-06,1.0,INFO
+merchant_fraud_Haag-Blanda,6.703318705918746e-05,1.0,INFO
+merchant_fraud_Hackett Group,0.0002015000273278811,1.0,INFO
+merchant_fraud_Hackett-Lueilwitz,0.00020572779564738758,1.0,INFO
+"merchant_fraud_Hagenes, Hermann and Stroman",4.768010303406207e-06,1.0,INFO
+"merchant_fraud_Hagenes, Kohler and Hoppe",0.0001292695571576746,1.0,INFO
+"merchant_fraud_Hahn, Bahringer and McLaughlin",3.210858007774798e-05,1.0,INFO
+"merchant_fraud_Hahn, Douglas and Schowalter",0.0,1.0,INFO
+merchant_fraud_Haley Group,9.107188832694364e-06,1.0,INFO
+"merchant_fraud_Haley, Batz and Auer",0.0002515199923972926,1.0,INFO
+"merchant_fraud_Haley, Jewess and Bechtelar",0.00011172914399868217,1.0,INFO
+merchant_fraud_Halvorson Group,8.014283283006578e-06,1.0,INFO
+merchant_fraud_Hamill-D'Amore,1.963538849233835e-06,1.0,INFO
+merchant_fraud_Hamill-Daugherty,0.00047750285499138345,1.0,INFO
+merchant_fraud_Hammes-Beatty,1.2706148212767014e-05,1.0,INFO
+merchant_fraud_Harber Inc,2.7562866315623965e-05,1.0,INFO
+merchant_fraud_Harris Group,0.00030685580678945624,1.0,INFO
+merchant_fraud_Harris Inc,5.416740661324405e-06,1.0,INFO
+"merchant_fraud_Harris, Gusikowski and Heaney",3.619682259387001e-05,1.0,INFO
+"merchant_fraud_Hartmann, Rowe and Hermann",2.914591961721043e-05,1.0,INFO
+"merchant_fraud_Hauck, Dietrich and Funk",0.00012183348814298713,1.0,INFO
+"merchant_fraud_Hayes, Marquardt and Dibbert",1.0546061074824592e-05,1.0,INFO
+merchant_fraud_Heaney-Marquardt,5.65058136823295e-05,1.0,INFO
+merchant_fraud_Heathcote LLC,0.0,1.0,INFO
+"merchant_fraud_Heathcote, Yost and Kertzmann",7.580078735213234e-05,1.0,INFO
+merchant_fraud_Heidenreich PLC,3.860027168494942e-05,1.0,INFO
+merchant_fraud_Heller PLC,0.0,1.0,INFO
+"merchant_fraud_Heller, Gutmann and Zieme",3.533226070006786e-05,1.0,INFO
+merchant_fraud_Heller-Abshire,3.033733155025224e-06,1.0,INFO
+merchant_fraud_Heller-Langosh,2.005677187185124e-05,1.0,INFO
+merchant_fraud_Herman Inc,0.0,1.0,INFO
+"merchant_fraud_Herman, Treutel and Dickens",0.0002747479820688774,1.0,INFO
+merchant_fraud_Hermann and Sons,0.00010061750898939385,1.0,INFO
+merchant_fraud_Hermann-Gaylord,5.1261179818234104e-05,1.0,INFO
+"merchant_fraud_Hermiston, Pacocha and Smith",0.0001292695571576746,1.0,INFO
+"merchant_fraud_Hermiston, Russel and Price",1.387853464170541e-05,1.0,INFO
+merchant_fraud_Herzog Ltd,1.9197532195125672e-05,1.0,INFO
+"merchant_fraud_Hettinger, McCullough and Fay",0.0005730682160620998,1.0,INFO
+merchant_fraud_Hickle Group,0.00014838333380055152,1.0,INFO
+"merchant_fraud_Hills, Hegmann and Schaefer",7.243872968654492e-05,1.0,INFO
+merchant_fraud_Hills-Boyer,0.00032216339126406237,1.0,INFO
+merchant_fraud_Hills-Olson,6.207101167781245e-05,1.0,INFO
+merchant_fraud_Hills-Witting,0.00029408938576526813,1.0,INFO
+merchant_fraud_Hilpert-Conroy,5.529290364281676e-05,1.0,INFO
+"merchant_fraud_Hintz, Bauch and Smith",7.155910417850324e-06,1.0,INFO
+merchant_fraud_Hintz-Bruen,8.141814858405145e-05,1.0,INFO
+merchant_fraud_Hirthe-Beier,0.0004210322910267795,1.0,INFO
+"merchant_fraud_Hodkiewicz, Prohaska and Paucek",0.00010220514075973422,1.0,INFO
+merchant_fraud_Homenick LLC,6.0724787089218236e-06,1.0,INFO
+"merchant_fraud_Hoppe, Harris and Bednar",4.564297525464227e-05,1.0,INFO
+merchant_fraud_Hoppe-Parisian,0.0,1.0,INFO
+merchant_fraud_Howe Ltd,0.00011523305329689447,1.0,INFO
+merchant_fraud_Howe PLC,1.4319062464093258e-05,1.0,INFO
+merchant_fraud_Hudson-Grady,8.080596761322178e-05,1.0,INFO
+merchant_fraud_Hudson-Ratke,1.2358255873164285e-05,1.0,INFO
+merchant_fraud_Huel Ltd,0.00014725008824608047,1.0,INFO
+"merchant_fraud_Huel, Hammes and Witting",0.0001469488937900047,1.0,INFO
+merchant_fraud_Huel-Langworth,0.00011393695856979387,1.0,INFO
+merchant_fraud_Huels-Hahn,1.1790301943233414e-06,1.0,INFO
+merchant_fraud_Huels-Nolan,4.9700484913070196e-05,1.0,INFO
+"merchant_fraud_Hyatt, Russel and Gleichner",1.6402424774888796e-05,1.0,INFO
+merchant_fraud_Hyatt-Blick,4.768010303406207e-06,1.0,INFO
+merchant_fraud_Jacobi Inc,0.00018266202672118052,1.0,INFO
+merchant_fraud_Jacobi and Sons,1.3074245428054108e-05,1.0,INFO
+merchant_fraud_Jakubowski Group,1.6975812767316962e-06,1.0,INFO
+merchant_fraud_Jakubowski Inc,5.929947023267093e-05,1.0,INFO
+merchant_fraud_Jaskolski-Dibbert,2.914591961721043e-05,1.0,INFO
+merchant_fraud_Jaskolski-Vandervort,1.1132572519138092e-05,1.0,INFO
+merchant_fraud_Jast Ltd,7.580078735213234e-05,1.0,INFO
+merchant_fraud_Jast and Sons,8.711149212211536e-06,1.0,INFO
+merchant_fraud_Jast-McDermott,0.00010061750898939385,1.0,INFO
+"merchant_fraud_Jenkins, Hauck and Friesen",1.3012791419454797e-06,1.0,INFO
+merchant_fraud_Jerde-Hermann,0.0001014288161142966,1.0,INFO
+merchant_fraud_Jewess LLC,1.910212013777039e-05,1.0,INFO
+merchant_fraud_Johns Inc,2.7670125780519464e-05,1.0,INFO
+merchant_fraud_Johns-Hoeger,0.0001684864938791834,1.0,INFO
+"merchant_fraud_Johnson, Runolfsdottir and Mayer",2.2250909442098357e-06,1.0,INFO
+"merchant_fraud_Johnston, Nikolaus and Maggio",0.00011393695856979387,1.0,INFO
+merchant_fraud_Johnston-Casper,0.0001014288161142966,1.0,INFO
+"merchant_fraud_Jones, Sawayn and Romaguera",0.00011393695856979384,1.0,INFO
+merchant_fraud_Kassulke Inc,0.0001296597520473538,1.0,INFO
+merchant_fraud_Kassulke PLC,5.65058136823295e-05,1.0,INFO
+merchant_fraud_Kautzer and Sons,0.0001339659948481606,1.0,INFO
+merchant_fraud_Keeling-Crist,8.652370208889651e-05,1.0,INFO
+merchant_fraud_Kemmer-Buckridge,0.0,1.0,INFO
+merchant_fraud_Kemmer-Reinger,4.768010303406207e-06,1.0,INFO
+merchant_fraud_Kerluke Inc,7.548443661470501e-05,1.0,INFO
+merchant_fraud_Kerluke PLC,2.0052234234729344e-05,1.0,INFO
+"merchant_fraud_Kerluke, Considine and Macejkovic",2.130483661895937e-06,1.0,INFO
+"merchant_fraud_Kerluke, Kertzmann and Wiza",4.7317789641904335e-05,1.0,INFO
+merchant_fraud_Kerluke-Abshire,0.00015442516050351936,1.0,INFO
+merchant_fraud_Kertzmann LLC,0.00016296158832410413,1.0,INFO
+merchant_fraud_Kessler Group,0.0001679747859085429,1.0,INFO
+merchant_fraud_Kessler Inc,4.3174822686514226e-05,1.0,INFO
+merchant_fraud_Kiehn Inc,0.000254524802969549,1.0,INFO
+merchant_fraud_Kiehn-Emmerich,5.139348976862723e-06,1.0,INFO
+merchant_fraud_Kihn Inc,5.790067349390757e-05,1.0,INFO
+"merchant_fraud_Kihn, Abernathy and Douglas",1.4319062464093258e-05,1.0,INFO
+"merchant_fraud_Kihn, Brakus and Goyette",6.804598673726286e-05,1.0,INFO
+merchant_fraud_Kihn-Fritsch,0.00011523305329689447,1.0,INFO
+merchant_fraud_Kihn-Schuster,2.866022480677852e-05,1.0,INFO
+merchant_fraud_Kilback Group,1.8208856507773321e-06,1.0,INFO
+merchant_fraud_Kilback LLC,1.8868563815507343e-05,1.0,INFO
+merchant_fraud_Kilback and Sons,6.745288639911455e-05,1.0,INFO
+"merchant_fraud_Kilback, Nitzsche and Leffler",4.3530702878090336e-06,1.0,INFO
+merchant_fraud_Kirlin and Sons,4.564297525464227e-05,1.0,INFO
+merchant_fraud_Klein Group,0.0,1.0,INFO
+merchant_fraud_Kling Inc,3.4362894649743205e-05,1.0,INFO
+"merchant_fraud_Kling, Howe and Schneider",4.517484127620185e-05,1.0,INFO
+merchant_fraud_Kling-Ernser,0.00033328732382480734,1.0,INFO
+merchant_fraud_Kling-Grant,1.3363146768089856e-05,1.0,INFO
+merchant_fraud_Klocko LLC,9.541028491477443e-06,1.0,INFO
+"merchant_fraud_Klocko, Runolfsdottir and Breitenberg",0.0,1.0,INFO
+merchant_fraud_Koelpin and Sons,1.8208856507773321e-06,1.0,INFO
+merchant_fraud_Koepp-Parker,0.0003250133690860004,1.0,INFO
+merchant_fraud_Koepp-Witting,0.0001914329239840564,1.0,INFO
+"merchant_fraud_Kohler, Lindgren and Koelpin",4.353070287809033e-06,1.0,INFO
+"merchant_fraud_Konopelski, Schneider and Hartmann",7.155910417850323e-06,1.0,INFO
+merchant_fraud_Koss and Sons,2.9724055096787032e-05,1.0,INFO
+"merchant_fraud_Koss, Hansen and Lueilwitz",0.0,1.0,INFO
+"merchant_fraud_Koss, McLaughlin and Mayer",4.924015335107161e-05,1.0,INFO
+merchant_fraud_Kovacek Ltd,3.229427995881807e-06,1.0,INFO
+"merchant_fraud_Kovacek, Dibbert and Ondricka",4.4071227137243745e-05,1.0,INFO
+merchant_fraud_Kozey-Boehm,0.000223308725977349,1.0,INFO
+merchant_fraud_Kozey-Kuhlman,0.0001292695571576746,1.0,INFO
+merchant_fraud_Kozey-McDermott,3.707900296326453e-06,1.0,INFO
+merchant_fraud_Kris-Kertzmann,0.00025455561075778013,1.0,INFO
+merchant_fraud_Kris-Padberg,6.072478708921841e-06,1.0,INFO
+merchant_fraud_Kris-Weimann,4.466874629540481e-05,1.0,INFO
+merchant_fraud_Kub PLC,0.0,1.0,INFO
+merchant_fraud_Kub-Heaney,0.0002078147739820657,1.0,INFO
+merchant_fraud_Kuhic Inc,1.235825587316431e-05,1.0,INFO
+merchant_fraud_Kuhic LLC,0.00011955741171653483,1.0,INFO
+"merchant_fraud_Kuhic, Bins and Pfeffer",0.00010081137560593048,1.0,INFO
+merchant_fraud_Kuhn Group,1.8412875910197634e-05,1.0,INFO
+merchant_fraud_Kuhn LLC,6.1820689017473e-05,1.0,INFO
+merchant_fraud_Kulas Group,2.043602792269452e-06,1.0,INFO
+merchant_fraud_Kunde-Sanford,2.860422881413695e-06,1.0,INFO
+merchant_fraud_Kunze Inc,1.235825587316431e-05,1.0,INFO
+"merchant_fraud_Kunze, Larkin and Mayert",2.232435963345523e-05,1.0,INFO
+merchant_fraud_Kuphal-Bartoletti,4.2301856769709426e-05,1.0,INFO
+merchant_fraud_Kuphal-Predovic,0.0,1.0,INFO
+merchant_fraud_Kuphal-Toy,0.0001875970626821758,1.0,INFO
+merchant_fraud_Kutch Group,1.5425074486961936e-05,1.0,INFO
+merchant_fraud_Kutch LLC,0.00012916504310877123,1.0,INFO
+merchant_fraud_Kutch and Sons,1.387853464170541e-05,1.0,INFO
+"merchant_fraud_Kutch, Hermiston and Farrell",1.0126415687285608e-06,1.0,INFO
+"merchant_fraud_Kutch, Steuber and Gerhold",6.462354006240881e-05,1.0,INFO
+merchant_fraud_Kutch-Ferry,5.416740661324405e-06,1.0,INFO
+merchant_fraud_Kutch-Hegmann,0.0,1.0,INFO
+merchant_fraud_Kutch-Wilderman,0.0002685854847795272,1.0,INFO
+merchant_fraud_Kuvalis Ltd,5.725858914681919e-06,1.0,INFO
+merchant_fraud_Labadie LLC,0.0006447561964227183,1.0,INFO
+"merchant_fraud_Labadie, Treutel and Bode",0.0002143655794162665,1.0,INFO
+"merchant_fraud_Lakin, Ferry and Beatty",4.4035255805838176e-05,1.0,INFO
+"merchant_fraud_Lang, Towne and Schuppe",0.0,1.0,INFO
+"merchant_fraud_Langosh, Wintheiser and Hyatt",1.6419949594730096e-06,1.0,INFO
+merchant_fraud_Langworth LLC,0.0003259269977132886,1.0,INFO
+"merchant_fraud_Langworth, Boehm and Gulgowski",7.4208107336302036e-06,1.0,INFO
+merchant_fraud_Larkin Ltd,0.00024116621367894237,1.0,INFO
+"merchant_fraud_Larkin, Stracke and Greenfelder",1.6402424774888796e-05,1.0,INFO
+"merchant_fraud_Larson, Quitzon and Spencer",1.6715414469927107e-05,1.0,INFO
+merchant_fraud_Larson-Moen,0.0005312761749637246,1.0,INFO
+merchant_fraud_Leannon-Nikolaus,0.00011052072402826188,1.0,INFO
+merchant_fraud_Leannon-Ward,1.7570695581478307e-06,1.0,INFO
+merchant_fraud_Lebsack and Sons,2.4420107736013698e-06,1.0,INFO
+"merchant_fraud_Ledner, Hartmann and Feest",0.0003259269977132886,1.0,INFO
+merchant_fraud_Ledner-Pfannerstill,0.00010872580597178741,1.0,INFO
+merchant_fraud_Leffler-Goldner,0.00016848649387918337,1.0,INFO
+"merchant_fraud_Lehner, Mosciski and King",7.198307284866504e-05,1.0,INFO
+"merchant_fraud_Lehner, Reichert and Mills",0.0008472582141408031,1.0,INFO
+merchant_fraud_Lemke and Sons,4.768010303406201e-06,1.0,INFO
+merchant_fraud_Lemke-Gutmann,1.2706148212767014e-05,1.0,INFO
+merchant_fraud_Lesch Ltd,0.0,1.0,INFO
+"merchant_fraud_Lesch, D'Amore and Brown",5.650581368232951e-05,1.0,INFO
+"merchant_fraud_Lind, Huel and McClure",5.9299470232670926e-05,1.0,INFO
+merchant_fraud_Lind-Buckridge,0.00026155134747214194,1.0,INFO
+merchant_fraud_Little Ltd,2.0056771871851238e-05,1.0,INFO
+"merchant_fraud_Little, Gutmann and Lynch",0.0006593936094978688,1.0,INFO
+merchant_fraud_Little-Gleichner,0.00022013560127710855,1.0,INFO
+merchant_fraud_Lockman Ltd,5.139348976862724e-06,1.0,INFO
+"merchant_fraud_Lockman, West and Runte",2.1112179276374254e-05,1.0,INFO
+"merchant_fraud_Lowe, Dietrich and Erdman",1.3074245428054108e-05,1.0,INFO
+"merchant_fraud_Lubowitz, Terry and Stracke",2.7670125780519464e-05,1.0,INFO
+merchant_fraud_Lubowitz-Walter,8.698609864589123e-05,1.0,INFO
+merchant_fraud_Luettgen PLC,1.2028948417823022e-05,1.0,INFO
+merchant_fraud_Lynch Ltd,1.14204305721685e-05,1.0,INFO
+merchant_fraud_Lynch-Mohr,0.0007272683557536961,1.0,INFO
+merchant_fraud_Lynch-Wisozk,0.00015852822329176278,1.0,INFO
+merchant_fraud_Macejkovic-Lesch,1.7689984072623173e-05,1.0,INFO
+merchant_fraud_Maggio-Fahey,1.8208856507773277e-06,1.0,INFO
+merchant_fraud_Mante Group,2.860422881413692e-06,1.0,INFO
+"merchant_fraud_Mante, Luettgen and Hackett",0.00014725008824608047,1.0,INFO
+merchant_fraud_Marks Inc,1.2706148212767014e-05,1.0,INFO
+merchant_fraud_Marvin-Lind,0.00012081679589469324,1.0,INFO
+merchant_fraud_Mayert Group,1.5410870024505148e-06,1.0,INFO
+merchant_fraud_McCullough Group,0.0,1.0,INFO
+merchant_fraud_McCullough LLC,1.8208856507773277e-06,1.0,INFO
+"merchant_fraud_McCullough, Hudson and Schuster",1.9197532195125655e-05,1.0,INFO
+"merchant_fraud_McDermott, Osinski and Morar",2.5072692693499294e-05,1.0,INFO
+merchant_fraud_McDermott-Rice,8.711149212211533e-06,1.0,INFO
+merchant_fraud_McDermott-Weimann,0.00014345884823407606,1.0,INFO
+merchant_fraud_McGlynn-Heathcote,0.0001914001552095638,1.0,INFO
+merchant_fraud_McGlynn-Jaskolski,8.014283283006578e-06,1.0,INFO
+merchant_fraud_McKenzie-Huels,0.00012183348814298713,1.0,INFO
+"merchant_fraud_McLaughlin, Armstrong and Koepp",0.0002749772510739511,1.0,INFO
+merchant_fraud_Medhurst Inc,0.00027465849976183077,1.0,INFO
+merchant_fraud_Medhurst PLC,0.0002823626461674757,1.0,INFO
+"merchant_fraud_Medhurst, Cartwright and Ebert",0.00027155156091366526,1.0,INFO
+"merchant_fraud_Medhurst, Labadie and Gottlieb",1.3363146768089856e-05,1.0,INFO
+"merchant_fraud_Metz, Russel and Metz",1.697581276731701e-06,1.0,INFO
+merchant_fraud_Metz-Boehm,7.352489137674678e-05,1.0,INFO
+merchant_fraud_Miller-Harris,7.640796399319598e-05,1.0,INFO
+merchant_fraud_Miller-Hauck,2.057090896454796e-05,1.0,INFO
+"merchant_fraud_Moen, Reinger and Murphy",1.1138741478052003e-05,1.0,INFO
+merchant_fraud_Mohr Inc,0.00036469424919782057,1.0,INFO
+merchant_fraud_Mohr-Bayer,0.0004873649173946613,1.0,INFO
+"merchant_fraud_Monahan, Bogisich and Ledner",1.8895197160377713e-06,1.0,INFO
+"merchant_fraud_Monahan, Hermann and Johns",0.0,1.0,INFO
+merchant_fraud_Monahan-Morar,0.00014881153791606973,1.0,INFO
+"merchant_fraud_Moore, Dibbert and Koepp",0.00027155156091366526,1.0,INFO
+"merchant_fraud_Moore, Williamson and Emmerich",1.2706148212767014e-05,1.0,INFO
+merchant_fraud_Morar Inc,0.00011393695856979387,1.0,INFO
+merchant_fraud_Morissette LLC,7.879938296008659e-05,1.0,INFO
+merchant_fraud_Morissette PLC,3.436289464974321e-05,1.0,INFO
+"merchant_fraud_Morissette, Weber and Wiegand",1.6715414469927114e-05,1.0,INFO
+merchant_fraud_Morissette-Schaefer,1.6975812767316962e-06,1.0,INFO
+merchant_fraud_Mosciski Group,1.2526322301814062e-05,1.0,INFO
+"merchant_fraud_Mosciski, Gislason and Mertz",1.4518811636150696e-06,1.0,INFO
+"merchant_fraud_Mosciski, Ziemann and Farrell",0.00031177086015952684,1.0,INFO
+merchant_fraud_Mraz-Herzog,0.0004024700563316076,1.0,INFO
+"merchant_fraud_Mueller, Gerhold and Mueller",0.00014350696798106098,1.0,INFO
+merchant_fraud_Murray Ltd,0.0,1.0,INFO
+merchant_fraud_Murray-Smitham,0.0,1.0,INFO
+merchant_fraud_Nader-Heller,0.0003361298692081689,1.0,INFO
+merchant_fraud_Nader-Maggio,0.00010396472658117391,1.0,INFO
+"merchant_fraud_Nicolas, Hills and McGlynn",6.463867637827809e-06,1.0,INFO
+merchant_fraud_Nienow PLC,0.00047750285499138345,1.0,INFO
+"merchant_fraud_Nienow, Ankunding and Collier",1.702183264814679e-05,1.0,INFO
+"merchant_fraud_Nienow, Barrows and Romaguera",1.387853464170541e-05,1.0,INFO
+"merchant_fraud_Nitzsche, Kessler and Wolff",6.463867637827809e-06,1.0,INFO
+merchant_fraud_Nolan-Williamson,4.4035255805838176e-05,1.0,INFO
+"merchant_fraud_O'Connell, Botsford and Hand",0.00024116621367894237,1.0,INFO
+merchant_fraud_O'Connell-Ullrich,0.0,1.0,INFO
+merchant_fraud_O'Hara-Wilderman,5.5848458220569715e-05,1.0,INFO
+merchant_fraud_O'Keefe-Hudson,0.0002881406440079891,1.0,INFO
+merchant_fraud_O'Keefe-Wisoky,1.589938859440898e-06,1.0,INFO
+"merchant_fraud_O'Reilly, Mohr and Purdy",3.63581104602496e-05,1.0,INFO
+"merchant_fraud_Okuneva, Schneider and Rau",3.436289464974321e-05,1.0,INFO
+"merchant_fraud_Olson, Becker and Koch",5.020638769175432e-05,1.0,INFO
+merchant_fraud_Ortiz Group,4.7317789641904335e-05,1.0,INFO
+merchant_fraud_Osinski Inc,5.1261179818234104e-05,1.0,INFO
+"merchant_fraud_Osinski, Ledner and Leuschke",5.725858914681931e-06,1.0,INFO
+merchant_fraud_Pacocha-Bauch,2.5072692693499294e-05,1.0,INFO
+merchant_fraud_Pacocha-O'Reilly,0.00012590771514769662,1.0,INFO
+merchant_fraud_Pacocha-Weissnat,4.564297525464227e-05,1.0,INFO
+merchant_fraud_Padberg-Rogahn,6.262051723782807e-06,1.0,INFO
+merchant_fraud_Padberg-Sauer,5.416740661324394e-06,1.0,INFO
+merchant_fraud_Padberg-Welch,1.2028948417823022e-05,1.0,INFO
+merchant_fraud_Pagac LLC,0.00013259675302299722,1.0,INFO
+merchant_fraud_Parisian and Sons,4.5174841276201844e-05,1.0,INFO
+"merchant_fraud_Parisian, Schiller and Altenwerth",2.860422881413695e-06,1.0,INFO
+"merchant_fraud_Parker, Nolan and Trantow",0.00013396599484816055,1.0,INFO
+merchant_fraud_Parker-Kunde,7.4208107336302036e-06,1.0,INFO
+merchant_fraud_Paucek-Wiza,0.0001724893586624169,1.0,INFO
+merchant_fraud_Pfeffer LLC,3.229427995881807e-06,1.0,INFO
+merchant_fraud_Pfeffer and Sons,0.0,1.0,INFO
+merchant_fraud_Pollich LLC,8.698609864589118e-05,1.0,INFO
+"merchant_fraud_Pouros, Walker and Spencer",1.2028948417823022e-05,1.0,INFO
+merchant_fraud_Pouros-Conroy,0.00011826676892991111,1.0,INFO
+merchant_fraud_Pouros-Haag,0.0003628957020892438,1.0,INFO
+merchant_fraud_Powlowski-Weimann,7.580078735213243e-05,1.0,INFO
+merchant_fraud_Predovic Inc,6.745288639911455e-05,1.0,INFO
+merchant_fraud_Price Inc,4.884584565860713e-05,1.0,INFO
+merchant_fraud_Prohaska-Murray,0.0003453693805177056,1.0,INFO
+merchant_fraud_Prosacco LLC,1.8895197160377707e-06,1.0,INFO
+"merchant_fraud_Prosacco, Kreiger and Kovacek",3.982877225053257e-05,1.0,INFO
+"merchant_fraud_Quitzon, Green and Bashirian",5.650581368232951e-05,1.0,INFO
+merchant_fraud_Quitzon-Goyette,0.00026136363249201137,1.0,INFO
+merchant_fraud_Ratke and Sons,0.0002916391937655252,1.0,INFO
+merchant_fraud_Rau and Sons,5.833694404952606e-05,1.0,INFO
+merchant_fraud_Rau-Grant,0.00011490437241302702,1.0,INFO
+merchant_fraud_Rau-Robel,4.884584565860713e-05,1.0,INFO
+"merchant_fraud_Raynor, Feest and Miller",0.0,1.0,INFO
+"merchant_fraud_Raynor, Reinger and Hagenes",6.564676985108196e-05,1.0,INFO
+merchant_fraud_Reichel Inc,0.0004158236374884495,1.0,INFO
+merchant_fraud_Reichel LLC,6.462354006240881e-05,1.0,INFO
+"merchant_fraud_Reichel, Bradtke and Blanda",1.5425074486961943e-05,1.0,INFO
+"merchant_fraud_Reichert, Huels and Hoppe",0.0,1.0,INFO
+"merchant_fraud_Reichert, Rowe and Mraz",0.00027258488415998365,1.0,INFO
+"merchant_fraud_Reichert, Shanahan and Hayes",1.4951523520104073e-06,1.0,INFO
+merchant_fraud_Reichert-Weissnat,3.707900296326449e-06,1.0,INFO
+merchant_fraud_Reilly LLC,1.2683953464858867e-06,1.0,INFO
+merchant_fraud_Reilly and Sons,7.548443661470501e-05,1.0,INFO
+"merchant_fraud_Reilly, Heaney and Cole",0.0,1.0,INFO
+"merchant_fraud_Reinger, Weissnat and Strosin",0.0004551650708072865,1.0,INFO
+merchant_fraud_Rempel Inc,2.5882408392384418e-05,1.0,INFO
+merchant_fraud_Rempel PLC,2.2013044214986958e-05,1.0,INFO
+merchant_fraud_Renner Ltd,4.7557372890665596e-05,1.0,INFO
+merchant_fraud_Reynolds-Schinner,8.242115282022525e-05,1.0,INFO
+"merchant_fraud_Rippin, Kub and Mann",2.4400360256477946e-05,1.0,INFO
+merchant_fraud_Rippin-VonRueden,4.564297525464227e-05,1.0,INFO
+"merchant_fraud_Ritchie, Bradtke and Stiedemann",2.0077074548724745e-05,1.0,INFO
+"merchant_fraud_Ritchie, Oberbrunner and Cremin",8.11330416317714e-05,1.0,INFO
+"merchant_fraud_Robel, Cummerata and Prosacco",0.00016890220695839656,1.0,INFO
+"merchant_fraud_Roberts, Daniel and Macejkovic",6.6791524724094175e-06,1.0,INFO
+"merchant_fraud_Roberts, Ryan and Smith",1.5826609456970575e-05,1.0,INFO
+merchant_fraud_Roberts-Beahan,0.00019140015520956372,1.0,INFO
+merchant_fraud_Rodriguez Group,2.818213522960434e-05,1.0,INFO
+"merchant_fraud_Rodriguez, Yost and Jenkins",1.3363146768089832e-05,1.0,INFO
+"merchant_fraud_Rohan, White and Aufderhar",0.0001150990552706836,1.0,INFO
+merchant_fraud_Rolfson-Kunde,0.0,1.0,INFO
+merchant_fraud_Romaguera Ltd,3.650435540737798e-05,1.0,INFO
+merchant_fraud_Romaguera and Sons,1.6715414469927107e-05,1.0,INFO
+"merchant_fraud_Romaguera, Cruickshank and Greenholt",0.0001684864938791834,1.0,INFO
+"merchant_fraud_Romaguera, Wehner and Tromp",2.866022480677852e-05,1.0,INFO
+merchant_fraud_Roob LLC,3.22942799588181e-06,1.0,INFO
+"merchant_fraud_Roob, Conn and Tremblay",6.936172799086692e-05,1.0,INFO
+merchant_fraud_Roob-Okuneva,0.0,1.0,INFO
+"merchant_fraud_Rowe, Batz and Goodwin",1.1716774616536575e-05,1.0,INFO
+merchant_fraud_Rowe-Vandervort,0.0001724893586624169,1.0,INFO
+merchant_fraud_Ruecker Group,0.00013474908688130294,1.0,INFO
+"merchant_fraud_Ruecker, Beer and Collier",7.420810733630187e-06,1.0,INFO
+merchant_fraud_Ruecker-Mayert,8.250113429339403e-05,1.0,INFO
+"merchant_fraud_Runolfsdottir, Mueller and Hand",0.00035806862361803266,1.0,INFO
+merchant_fraud_Runolfsson and Sons,0.00015089662177955804,1.0,INFO
+"merchant_fraud_Runte, Green and Emard",2.130483661895937e-06,1.0,INFO
+merchant_fraud_Runte-Mohr,1.8412875910197654e-05,1.0,INFO
+"merchant_fraud_Rutherford, Homenick and Bergstrom",3.22942799588181e-06,1.0,INFO
+merchant_fraud_Rutherford-Mertz,0.0003646942491978205,1.0,INFO
+merchant_fraud_Satterfield-Lowe,3.619682259387001e-05,1.0,INFO
+merchant_fraud_Sawayn PLC,0.00012916504310877118,1.0,INFO
+merchant_fraud_Schaefer Ltd,4.4071227137243745e-05,1.0,INFO
+"merchant_fraud_Schaefer, Fay and Hilll",2.130483661895937e-06,1.0,INFO
+"merchant_fraud_Schaefer, Maggio and Daugherty",0.0003842995540965667,1.0,INFO
+"merchant_fraud_Schaefer, McGlynn and Bosco",0.0,1.0,INFO
+merchant_fraud_Schamberger-O'Keefe,4.2018776630148304e-05,1.0,INFO
+merchant_fraud_Schiller Ltd,1.2706148212767014e-05,1.0,INFO
+"merchant_fraud_Schiller, Blanda and Johnson",7.308897549583668e-05,1.0,INFO
+merchant_fraud_Schimmel-Olson,1.1716774616536578e-05,1.0,INFO
+merchant_fraud_Schmeler Inc,0.0,1.0,INFO
+"merchant_fraud_Schmeler, Bashirian and Price",3.087018803327352e-05,1.0,INFO
+merchant_fraud_Schmeler-Howe,0.0002515199923972926,1.0,INFO
+merchant_fraud_Schmidt and Sons,8.242115282022525e-05,1.0,INFO
+merchant_fraud_Schmidt-Larkin,0.0002617937468319788,1.0,INFO
+merchant_fraud_Schmitt Inc,4.5982720409917296e-05,1.0,INFO
+merchant_fraud_Schmitt Ltd,0.0003068558067894562,1.0,INFO
+"merchant_fraud_Schneider, Hayes and Nikolaus",0.0001008113756059305,1.0,INFO
+merchant_fraud_Schoen Ltd,5.020638769175432e-05,1.0,INFO
+"merchant_fraud_Schoen, Kuphal and Nitzsche",1.207382777239977e-06,1.0,INFO
+"merchant_fraud_Schoen, Nienow and Bauch",0.0005236313243021058,1.0,INFO
+merchant_fraud_Schoen-Quigley,2.3596675247207537e-05,1.0,INFO
+merchant_fraud_Schroeder Group,5.345609859873199e-05,1.0,INFO
+"merchant_fraud_Schroeder, Hauck and Treutel",7.580078735213243e-05,1.0,INFO
+"merchant_fraud_Schroeder, Wolff and Hermiston",1.6715414469927114e-05,1.0,INFO
+merchant_fraud_Schulist Ltd,2.7670125780519464e-05,1.0,INFO
+"merchant_fraud_Schultz, Simonis and Little",4.884584565860713e-05,1.0,INFO
+merchant_fraud_Schumm PLC,0.00011169167183388838,1.0,INFO
+"merchant_fraud_Schumm, Bauch and Ondricka",0.00012916504310877118,1.0,INFO
+"merchant_fraud_Schumm, McLaughlin and Carter",4.924015335107161e-05,1.0,INFO
+merchant_fraud_Schuppe LLC,5.3169365708944836e-05,1.0,INFO
+"merchant_fraud_Schuppe, Nolan and Hoeger",1.411048293725903e-06,1.0,INFO
+merchant_fraud_Schuppe-Schuppe,0.0001385709140187295,1.0,INFO
+merchant_fraud_Shanahan-Lehner,1.8895197160377707e-06,1.0,INFO
+merchant_fraud_Shields Inc,5.757644251010356e-05,1.0,INFO
+merchant_fraud_Shields-Wunsch,0.00010872580597178741,1.0,INFO
+merchant_fraud_Simonis-Prohaska,3.210858007774798e-05,1.0,INFO
+merchant_fraud_Skiles LLC,0.0001771740159919515,1.0,INFO
+merchant_fraud_Skiles-Ankunding,0.0,1.0,INFO
+merchant_fraud_Smith-Stokes,9.681133820800384e-05,1.0,INFO
+merchant_fraud_Smitham-Boehm,3.937715261510925e-05,1.0,INFO
+merchant_fraud_Smitham-Schiller,5.757644251010356e-05,1.0,INFO
+merchant_fraud_Spencer PLC,1.8412875910197654e-05,1.0,INFO
+merchant_fraud_Spencer-Runolfsson,8.356653916141329e-05,1.0,INFO
+merchant_fraud_Spinka Inc,0.0005501346913118393,1.0,INFO
+merchant_fraud_Spinka-Welch,8.141814858405143e-05,1.0,INFO
+merchant_fraud_Sporer Inc,0.00011437987720840076,1.0,INFO
+merchant_fraud_Sporer-Keebler,1.4319062464093258e-05,1.0,INFO
+merchant_fraud_Stamm-Rodriguez,9.311877053565688e-05,1.0,INFO
+merchant_fraud_Stamm-Witting,2.5882408392384418e-05,1.0,INFO
+"merchant_fraud_Stanton, Jakubowski and Baumbach",5.9299470232670926e-05,1.0,INFO
+merchant_fraud_Stark-Batz,0.00042836178953109896,1.0,INFO
+merchant_fraud_Stark-Koss,8.941770904716355e-05,1.0,INFO
+"merchant_fraud_Stehr, Jewess and Schimmel",4.4668746295404814e-05,1.0,INFO
+merchant_fraud_Stiedemann Inc,3.210858007774798e-05,1.0,INFO
+merchant_fraud_Stiedemann Ltd,2.043602792269453e-06,1.0,INFO
+"merchant_fraud_Stokes, Christiansen and Sipes",0.0,1.0,INFO
+merchant_fraud_Stoltenberg-Beatty,0.00033193803622496486,1.0,INFO
+merchant_fraud_Stracke-Lemke,0.00012916504310877123,1.0,INFO
+merchant_fraud_Streich Ltd,0.00013259675302299716,1.0,INFO
+"merchant_fraud_Streich, Dietrich and Barton",0.0003452242511202725,1.0,INFO
+"merchant_fraud_Streich, Hansen and Veum",0.00011596577102008425,1.0,INFO
+"merchant_fraud_Streich, Rolfson and Wilderman",0.0002411662136789424,1.0,INFO
+"merchant_fraud_Stroman, Hudson and Erdman",0.0002251264844530411,1.0,INFO
+merchant_fraud_Strosin-Cruickshank,0.00023442504960763375,1.0,INFO
+"merchant_fraud_Swaniawski, Bahringer and Ledner",0.0,1.0,INFO
+"merchant_fraud_Swaniawski, Lowe and Robel",2.3596675247207537e-05,1.0,INFO
+"merchant_fraud_Swaniawski, Nitzsche and Welch",7.155910417850323e-06,1.0,INFO
+merchant_fraud_Swift PLC,1.5826609456970575e-05,1.0,INFO
+"merchant_fraud_Swift, Bradtke and Marquardt",0.00010709255974737674,1.0,INFO
+merchant_fraud_Terry Ltd,5.316936570894485e-05,1.0,INFO
+"merchant_fraud_Terry, Johns and Bins",0.00010990278356823295,1.0,INFO
+merchant_fraud_Terry-Huel,5.011062097554697e-06,1.0,INFO
+merchant_fraud_Thiel Ltd,0.0003393999377144457,1.0,INFO
+merchant_fraud_Thiel PLC,1.8412875910197654e-05,1.0,INFO
+merchant_fraud_Thiel-Thiel,0.00011172914399868217,1.0,INFO
+merchant_fraud_Thompson-Gleason,0.00019498270880914035,1.0,INFO
+merchant_fraud_Tillman LLC,3.4521453881631104e-06,1.0,INFO
+"merchant_fraud_Tillman, Dickinson and Labadie",0.0002965542289304158,1.0,INFO
+"merchant_fraud_Tillman, Fritsch and Schmitt",0.0002235992863306021,1.0,INFO
+"merchant_fraud_Torp, Muller and Borer",0.00047087022921213085,1.0,INFO
+merchant_fraud_Torp-Labadie,4.2018776630148304e-05,1.0,INFO
+merchant_fraud_Torp-Lemke,4.5642975254642256e-05,1.0,INFO
+merchant_fraud_Torphy-Goyette,0.0004093015246881161,1.0,INFO
+merchant_fraud_Torphy-Kertzmann,1.8412875910197634e-05,1.0,INFO
+merchant_fraud_Towne LLC,0.0002515199923972926,1.0,INFO
+"merchant_fraud_Towne, Greenholt and Koepp",3.982877225053262e-05,1.0,INFO
+"merchant_fraud_Towne, Walker and Borer",1.3363146768089856e-05,1.0,INFO
+merchant_fraud_Trantow PLC,0.00034682377792592334,1.0,INFO
+merchant_fraud_Treutel-King,9.043704275684868e-05,1.0,INFO
+merchant_fraud_Tromp Group,0.0002080341946868927,1.0,INFO
+"merchant_fraud_Tromp, Kerluke and Glover",0.0001858424706163645,1.0,INFO
+"merchant_fraud_Turcotte, Batz and Buckridge",3.0870188033273536e-05,1.0,INFO
+"merchant_fraud_Turcotte, McKenzie and Koss",0.00010396472658117391,1.0,INFO
+merchant_fraud_Turcotte-Halvorson,8.014283283006578e-06,1.0,INFO
+merchant_fraud_Turner LLC,0.0006595275893413632,1.0,INFO
+merchant_fraud_Turner and Sons,4.7557372890665596e-05,1.0,INFO
+"merchant_fraud_Turner, Ruecker and Parisian",2.043602792269452e-06,1.0,INFO
+"merchant_fraud_Turner, Ziemann and Lehner",0.00035806862361803266,1.0,INFO
+merchant_fraud_Ullrich Ltd,1.2706148212767014e-05,1.0,INFO
+merchant_fraud_Upton PLC,0.00011121292697834302,1.0,INFO
+merchant_fraud_Vandervort-Funk,1.2371357022914699e-06,1.0,INFO
+merchant_fraud_Veum-Koelpin,1.5425074486961943e-05,1.0,INFO
+merchant_fraud_Volkman Ltd,1.3363146768089832e-05,1.0,INFO
+merchant_fraud_Volkman PLC,7.352489137674678e-05,1.0,INFO
+merchant_fraud_Volkman-Predovic,8.014283283006582e-06,1.0,INFO
+merchant_fraud_VonRueden Group,4.004636947154527e-06,1.0,INFO
+merchant_fraud_Waelchi Inc,4.253735152285378e-05,1.0,INFO
+merchant_fraud_Waelchi-Wolf,6.02913438421276e-05,1.0,INFO
+"merchant_fraud_Walter, Hettinger and Kessler",5.65058136823295e-05,1.0,INFO
+merchant_fraud_Waters-Cruickshank,0.00010068602772476246,1.0,INFO
+merchant_fraud_Watsica LLC,0.000223308725977349,1.0,INFO
+"merchant_fraud_Watsica, Haag and Considine",0.00030466238777639317,1.0,INFO
+merchant_fraud_Weber and Sons,0.0001607064832929692,1.0,INFO
+"merchant_fraud_Weber, Thiel and Hammes",0.0,1.0,INFO
+"merchant_fraud_Weimann, Kuhic and Beahan",0.00020224399115208956,1.0,INFO
+merchant_fraud_Weimann-Lockman,5.65058136823295e-05,1.0,INFO
+merchant_fraud_Welch Inc,2.0052234234729344e-05,1.0,INFO
+"merchant_fraud_Welch, Rath and Koepp",1.7021832648146787e-05,1.0,INFO
+merchant_fraud_White and Sons,0.00019668841397029347,1.0,INFO
+merchant_fraud_Wiegand-Lowe,3.707900296326453e-06,1.0,INFO
+merchant_fraud_Wilkinson LLC,0.0001292695571576746,1.0,INFO
+merchant_fraud_Wilkinson Ltd,0.0004551650708072865,1.0,INFO
+merchant_fraud_Wilkinson PLC,3.53322607000678e-05,1.0,INFO
+merchant_fraud_Will Ltd,1.702183264814679e-05,1.0,INFO
+merchant_fraud_Williamson LLC,7.580078735213243e-05,1.0,INFO
+"merchant_fraud_Willms, Kris and Bergnaum",0.00026858548477952724,1.0,INFO
+merchant_fraud_Windler LLC,0.0004476046990148447,1.0,INFO
+"merchant_fraud_Windler, Goodwin and Kovacek",0.00030203885112105555,1.0,INFO
+"merchant_fraud_Wintheiser, Dietrich and Schimmel",1.9197532195125655e-05,1.0,INFO
+merchant_fraud_Wisozk and Sons,3.210858007774798e-05,1.0,INFO
+"merchant_fraud_Witting, Beer and Ernser",0.00011490437241302702,1.0,INFO
+merchant_fraud_Wiza LLC,3.033733155025225e-06,1.0,INFO
+"merchant_fraud_Wiza, Schaden and Stark",0.0,1.0,INFO
+merchant_fraud_Wolf Inc,6.463867637827813e-06,1.0,INFO
+"merchant_fraud_Wuckert, Wintheiser and Friesen",0.00015779092396620684,1.0,INFO
+merchant_fraud_Wuckert-Goldner,5.139348976862723e-06,1.0,INFO
+merchant_fraud_Wuckert-Walter,0.0,1.0,INFO
+"merchant_fraud_Yost, Block and Koepp",4.11383582812197e-05,1.0,INFO
+"merchant_fraud_Yost, Schamberger and Windler",1.6975812767316962e-06,1.0,INFO
+merchant_fraud_Yost-Rogahn,4.4035255805838156e-05,1.0,INFO
+merchant_fraud_Zboncak LLC,0.0003361298692081689,1.0,INFO
+merchant_fraud_Zboncak Ltd,4.737308283233104e-05,1.0,INFO
+"merchant_fraud_Zboncak, Rowe and Murazik",2.043602792269452e-06,1.0,INFO
+merchant_fraud_Zemlak Group,0.0,1.0,INFO
+"merchant_fraud_Zemlak, Tillman and Cremin",1.8895197160377707e-06,1.0,INFO
+merchant_fraud_Ziemann-Waters,1.5289937383057635e-05,1.0,INFO
+"merchant_fraud_Zieme, Bode and Dooley",0.00018645366036474154,1.0,INFO
+merchant_fraud_Zulauf LLC,0.00023442504960763378,1.0,INFO
+category_entertainment,1.8039734775729306e-06,1.0,INFO
+category_food_dining,1.560876944237361e-07,1.0,INFO
+category_gas_transport,0.00013932908600131877,0.9994451,INFO
+category_grocery_net,1.4176715342934889e-05,1.0,INFO
+category_grocery_pos,2.648327120716487e-05,1.0,INFO
+category_health_fitness,3.2654707829936954e-06,1.0,INFO
+category_home,0.00015321760109642655,0.9994451,INFO
+category_kids_pets,7.02509385963768e-06,1.0,INFO
+category_misc_net,0.00024033872849492111,0.9998606,INFO
+category_misc_pos,5.8392863903831216e-05,1.0,INFO
+category_personal_care,0.000188957984092208,0.99966884,INFO
+category_shopping_net,4.405155550480878e-05,1.0,INFO
+category_shopping_pos,0.00011396460155370031,0.9999836,INFO
+category_travel,7.531440692560499e-07,1.0,INFO
+gender_F,9.0879048525698e-08,1.0,INFO
+gender_M,9.0879048525698e-08,1.0,INFO
+city_Achille,0.0002452698304454852,1.0,INFO
+city_Acworth,0.00012562386071259012,1.0,INFO
+city_Adams,2.8778210746411887e-05,1.0,INFO
+city_Afton,0.00012183348814298713,1.0,INFO
+city_Akron,2.8778210746411887e-05,1.0,INFO
+city_Albany,0.0002117043307941975,1.0,INFO
+city_Albuquerque,0.00012172959998378885,1.0,INFO
+city_Alder,6.207101167781245e-05,1.0,INFO
+city_Aledo,2.7370752096962177e-05,1.0,INFO
+city_Alexandria,0.00010103175206000631,1.0,INFO
+city_Allenhurst,0.00020150002732788108,1.0,INFO
+city_Allentown,9.31092497302313e-05,1.0,INFO
+city_Alpharetta,1.5410870024505148e-06,1.0,INFO
+city_Altair,0.00016732838066854566,1.0,INFO
+city_Alton,0.0002774189682837499,1.0,INFO
+city_Altona,0.0,1.0,INFO
+city_Altonah,7.138234601333478e-05,1.0,INFO
+city_Alva,3.229427995881807e-06,1.0,INFO
+city_Amanda,0.0002315620362821152,1.0,INFO
+city_American Fork,1.3363146768089856e-05,1.0,INFO
+city_Amorita,0.0,1.0,INFO
+city_Amsterdam,0.00019198936822259157,1.0,INFO
+city_Andrews,0.0,1.0,INFO
+city_Annapolis,0.00023662724412436273,1.0,INFO
+city_Apison,0.0002366272441243627,1.0,INFO
+city_Arcadia,7.544022084588288e-07,1.0,INFO
+city_Arlington,0.00036961262148028896,1.0,INFO
+city_Armagh,0.00029290547492860733,1.0,INFO
+city_Armonk,8.141814858405143e-05,1.0,INFO
+city_Arnold,7.308897549583668e-05,1.0,INFO
+city_Arvada,1.8242161182430476e-05,1.0,INFO
+city_Ash Flat,9.077435165264722e-05,1.0,INFO
+city_Ashfield,0.0,1.0,INFO
+city_Ashford,3.707900296326453e-06,1.0,INFO
+city_Atglen,1.1788312072877839e-05,1.0,INFO
+city_Athena,0.0001292695571576746,1.0,INFO
+city_Atlantic,0.0,1.0,INFO
+city_Auburn,8.713921891275558e-05,1.0,INFO
+city_Aurora,0.00035418286504345297,1.0,INFO
+city_Avera,3.619682259387001e-05,1.0,INFO
+city_Avoca,6.238194012365118e-05,1.0,INFO
+city_Azusa,7.71003480412759e-06,1.0,INFO
+city_Bagley,8.042859882828925e-05,1.0,INFO
+city_Bailey,0.00029408938576526813,1.0,INFO
+city_Ballwin,0.00010081137560593048,1.0,INFO
+city_Barnard,0.0,1.0,INFO
+city_Barneveld,0.00011523305329689447,1.0,INFO
+city_Barnstable,3.650435540737798e-05,1.0,INFO
+city_Baroda,1.8895197160377713e-06,1.0,INFO
+city_Basye,3.0870188033273536e-05,1.0,INFO
+city_Baton Rouge,9.916246473029165e-06,1.0,INFO
+city_Battle Creek,0.00043537813653588047,1.0,INFO
+city_Bauxite,0.00023940413748336185,1.0,INFO
+city_Bay City,4.2301856769709426e-05,1.0,INFO
+city_Bay Minette,0.0005467419806431024,1.0,INFO
+city_Beasley,4.353070287809033e-06,1.0,INFO
+city_Beaver Falls,8.713921891275558e-05,1.0,INFO
+city_Beaverdam,1.2526322301814062e-05,1.0,INFO
+city_Belfast,1.6402424774888793e-05,1.0,INFO
+city_Belgrade,6.703318705918746e-05,1.0,INFO
+city_Belle Fourche,2.2013044214986948e-05,1.0,INFO
+city_Bellmore,1.3012791419454795e-06,1.0,INFO
+city_Belmond,2.7058633781553574e-06,1.0,INFO
+city_Belmont,0.00013068548442216093,1.0,INFO
+city_Benton,0.0007334186344419443,1.0,INFO
+city_Bessemer,6.39352811464564e-05,1.0,INFO
+city_Bethel,4.779057036040145e-05,1.0,INFO
+city_Bethel Springs,0.0001809541936290788,1.0,INFO
+city_Big Creek,2.567167159256931e-06,1.0,INFO
+city_Big Indian,0.00014725008824608047,1.0,INFO
+city_Bigelow,2.5141446829699582e-05,1.0,INFO
+city_Birmingham,2.1840448762268794e-06,1.0,INFO
+city_Blackville,7.548443661470501e-05,1.0,INFO
+city_Blairsden-Graeagle,4.017417913260402e-05,1.0,INFO
+city_Blairstown,0.00010746583500055553,1.0,INFO
+city_Blooming Grove,5.020638769175434e-05,1.0,INFO
+city_Bolivar,0.0002697484880974061,1.0,INFO
+city_Bolton,0.00010515925146569877,1.0,INFO
+city_Bonfield,5.126117981823411e-05,1.0,INFO
+city_Bonita Springs,0.0,1.0,INFO
+city_Boonton,0.0003393999377144457,1.0,INFO
+city_Boulder,9.118578527387359e-06,1.0,INFO
+city_Bowdoin,1.910212013777039e-05,1.0,INFO
+city_Bowersville,0.00019140015520956372,1.0,INFO
+city_Boyd,8.11330416317714e-05,1.0,INFO
+city_Bradley,4.5174841276201844e-05,1.0,INFO
+city_Brainard,6.679070569078354e-06,1.0,INFO
+city_Brandon,0.00020169359723382692,1.0,INFO
+city_Brantley,2.5671671592569294e-06,1.0,INFO
+city_Brashear,8.396487437955765e-05,1.0,INFO
+city_Breesport,0.0001296597520473538,1.0,INFO
+city_Bridgeport,4.4035255805838176e-05,1.0,INFO
+city_Bridger,1.6419949594730096e-06,1.0,INFO
+city_Brinson,2.9145919617210432e-05,1.0,INFO
+city_Bristol,0.0002626110955129528,1.0,INFO
+city_Bristow,0.0002235992863306021,1.0,INFO
+city_Bronx,0.0005923070564266854,1.0,INFO
+city_Brooklin,0.00020150002732788108,1.0,INFO
+city_Brooklyn,0.0003223102043781548,1.0,INFO
+city_Broomfield,5.891652845771447e-06,1.0,INFO
+city_Browning,6.134317863680421e-05,1.0,INFO
+city_Brownville,3.982877225053262e-05,1.0,INFO
+city_Brunson,1.2706148212767014e-05,1.0,INFO
+city_Bryant,0.00017334931858660455,1.0,INFO
+city_Burbank,0.00017577545834453282,1.0,INFO
+city_Burke,5.126117981823411e-05,1.0,INFO
+city_Burlington,7.243872968654491e-05,1.0,INFO
+city_Burns Flat,0.00013481165488510598,1.0,INFO
+city_Burrton,4.7317789641904335e-05,1.0,INFO
+city_Bynum,5.891652845771446e-06,1.0,INFO
+city_Cadiz,0.0002117043307941975,1.0,INFO
+city_Camden,7.658243141431538e-05,1.0,INFO
+city_Campbell,4.4035255805838156e-05,1.0,INFO
+city_Canton,0.0,1.0,INFO
+city_Cape Coral,0.0,1.0,INFO
+city_Cardwell,5.891652845771447e-06,1.0,INFO
+city_Carlisle,5.030291768193534e-05,1.0,INFO
+city_Carlotta,7.822293620308585e-05,1.0,INFO
+city_Carroll,9.562620491753953e-05,1.0,INFO
+city_Cascade Locks,0.0,1.0,INFO
+city_Cass,1.0018355865716621e-05,1.0,INFO
+city_Cassatt,0.00013481165488510598,1.0,INFO
+city_Catawba,4.11383582812197e-05,1.0,INFO
+city_Cazenovia,7.155910417850323e-06,1.0,INFO
+city_Cecilton,1.8895197160377713e-06,1.0,INFO
+city_Cedar,0.00010068602772476246,1.0,INFO
+city_Center Point,0.00014350696798106093,1.0,INFO
+city_Center Tuftonboro,0.00012172959998378885,1.0,INFO
+city_Centerview,0.0,1.0,INFO
+city_Central,1.2526322301814062e-05,1.0,INFO
+city_Chatham,0.0,1.0,INFO
+city_Cherokee Village,2.2250909442098357e-06,1.0,INFO
+city_Chester,3.033733155025224e-06,1.0,INFO
+city_Chester Heights,5.345609859873199e-05,1.0,INFO
+city_Christine,1.8242161182430476e-05,1.0,INFO
+city_Churubusco,6.804598673726286e-05,1.0,INFO
+city_Cisco,0.00036961262148028896,1.0,INFO
+city_Claremont,6.679070569078354e-06,1.0,INFO
+city_Clarinda,6.963060137017287e-05,1.0,INFO
+city_Clarks Mills,0.00012824548255334586,1.0,INFO
+city_Clarksville,0.00030282829569388853,1.0,INFO
+city_Clay Center,9.562620491753953e-05,1.0,INFO
+city_Clayton,5.9299470232670926e-05,1.0,INFO
+city_Clearwater,9.043704275684865e-05,1.0,INFO
+city_Cleveland,6.894004334356241e-06,1.0,INFO
+city_Clifton,1.3363146768089856e-05,1.0,INFO
+city_Clune,4.2301856769709426e-05,1.0,INFO
+city_Clutier,2.87782107464119e-05,1.0,INFO
+city_Cochranton,0.0,1.0,INFO
+city_Coffeeville,1.2706148212767014e-05,1.0,INFO
+city_Cokeburg,6.463867637827813e-06,1.0,INFO
+city_Coleharbor,7.580078735213243e-05,1.0,INFO
+city_Coleman,9.107188832694364e-06,1.0,INFO
+city_Collegeville,0.0001410911473124468,1.0,INFO
+city_Collettsville,0.0003136178382326059,1.0,INFO
+city_Colorado Springs,8.34817290833079e-06,1.0,INFO
+city_Colton,1.4320091368979128e-05,1.0,INFO
+city_Columbia,0.00017469722717477823,1.0,INFO
+city_Comfort,1.8895197160377713e-06,1.0,INFO
+city_Comfrey,2.5072692693499274e-05,1.0,INFO
+city_Conway,9.735448882141548e-05,1.0,INFO
+city_Cord,0.00010872580597178741,1.0,INFO
+city_Corona,0.0002774189682837499,1.0,INFO
+city_Corriganville,0.0,1.0,INFO
+city_Corsica,5.846628005550711e-05,1.0,INFO
+city_Cottekill,8.394901809490084e-05,1.0,INFO
+city_Cowlesville,1.7689984072623173e-05,1.0,INFO
+city_Coyle,3.345086499043619e-05,1.0,INFO
+city_Craig,0.0,1.0,INFO
+city_Cranks,9.681133820800384e-05,1.0,INFO
+city_Creedmoor,1.2706148212767014e-05,1.0,INFO
+city_Creola,1.589938859440898e-06,1.0,INFO
+city_Cressona,0.00020449037761101677,1.0,INFO
+city_Cromona,1.7021832648146787e-05,1.0,INFO
+city_Cross,0.0,1.0,INFO
+city_Cross Plains,1.178831207287784e-05,1.0,INFO
+city_Crownpoint,7.198307284866504e-05,1.0,INFO
+city_Curlew,8.396487437955765e-05,1.0,INFO
+city_Cuthbert,0.0,1.0,INFO
+city_Cuyahoga Falls,0.00020103190396168633,1.0,INFO
+city_Dadeville,0.00027497725107395105,1.0,INFO
+city_Dallas,0.0003374752457323821,1.0,INFO
+city_Dalton,0.0004125334357151359,1.0,INFO
+city_Daly City,6.703318705918748e-05,1.0,INFO
+city_Damascus,0.0,1.0,INFO
+city_Daniels,1.1159678128337601e-05,1.0,INFO
+city_Darien,0.00038693864545929243,1.0,INFO
+city_Dayton,0.00033907922419703805,1.0,INFO
+city_De Lancey,4.3174822686514226e-05,1.0,INFO
+city_De Queen,2.232435963345523e-05,1.0,INFO
+city_De Soto,2.344418213896005e-05,1.0,INFO
+city_De Witt,1.5141616783409742e-05,1.0,INFO
+city_Deadwood,9.107188832694364e-06,1.0,INFO
+city_Deane,2.866022480677849e-05,1.0,INFO
+city_Delhi,0.00024134309819966962,1.0,INFO
+city_Dell City,0.0002366272441243627,1.0,INFO
+city_Deltona,5.0302917681935345e-05,1.0,INFO
+city_Denham Springs,0.00010588070655260384,1.0,INFO
+city_Des Moines,4.924015335107161e-05,1.0,INFO
+city_Desdemona,1.3363146768089832e-05,1.0,INFO
+city_Detroit,8.572290019173489e-07,1.0,INFO
+city_Dexter,5.891652845771447e-06,1.0,INFO
+city_Diamond,0.0,1.0,INFO
+city_Dieterich,5.5848458220569715e-05,1.0,INFO
+city_Doe Hill,1.5410870024505055e-06,1.0,INFO
+city_Dongola,9.562620491753953e-05,1.0,INFO
+city_Downsville,3.033733155025224e-06,1.0,INFO
+city_Drakes Branch,1.9102120137770352e-05,1.0,INFO
+city_Dresden,7.71003480412759e-06,1.0,INFO
+city_Du Pont,0.0007334186344419443,1.0,INFO
+city_Dublin,5.891652845771446e-06,1.0,INFO
+city_Dubre,0.00016095891029484116,1.0,INFO
+city_Dumont,0.00025227283010500475,1.0,INFO
+city_Duncan,2.737075209696216e-05,1.0,INFO
+city_Dunlevy,5.345609859873199e-05,1.0,INFO
+city_Eagarville,0.00032356378262787507,1.0,INFO
+city_Early,2.8778210746411887e-05,1.0,INFO
+city_East Andover,0.00015452790667899022,1.0,INFO
+city_East Canaan,0.0004832935175353568,1.0,INFO
+city_East Rochester,4.0556513311449894e-05,1.0,INFO
+city_East Troy,3.349404789493225e-05,1.0,INFO
+city_Easton,5.757644251010359e-05,1.0,INFO
+city_Edinburg,1.8242161182430476e-05,1.0,INFO
+city_Edisto Island,6.06528130183054e-05,1.0,INFO
+city_Edmond,5.274392384719282e-06,1.0,INFO
+city_Egan,5.894067031250936e-06,1.0,INFO
+city_Ehrhardt,3.365722666302989e-05,1.0,INFO
+city_El Paso,0.0006400356042966824,1.0,INFO
+city_Elberta,5.2910796884595786e-05,1.0,INFO
+city_Eldridge,0.0005204235189716311,1.0,INFO
+city_Elizabeth,7.308897549583668e-05,1.0,INFO
+city_Elizabethtown,6.45198383228235e-05,1.0,INFO
+city_Elk Rapids,0.0004159783308422691,1.0,INFO
+city_Elkhart,0.0001385709140187295,1.0,INFO
+city_Emmons,0.0,1.0,INFO
+city_Emporium,8.242115282022525e-05,1.0,INFO
+city_Enola,0.00014004288192627804,1.0,INFO
+city_Esbon,0.0005220417590156291,1.0,INFO
+city_Espanola,4.302044249061646e-05,1.0,INFO
+city_Etlan,5.891652845771446e-06,1.0,INFO
+city_Eugene,2.4420107736013698e-06,1.0,INFO
+city_Eureka,7.4208107336302036e-06,1.0,INFO
+city_Fairhope,5.35237511574179e-05,1.0,INFO
+city_Fairview,5.126117981823411e-05,1.0,INFO
+city_Falconer,2.431223751006747e-05,1.0,INFO
+city_Falls Church,3.4521453881631104e-06,1.0,INFO
+city_Falls City,0.0002315620362821152,1.0,INFO
+city_Falmouth,6.262051723782787e-06,1.0,INFO
+city_Farmington,0.0003022217482218163,1.0,INFO
+city_Fayetteville,1.1790301943233435e-06,1.0,INFO
+city_Fenelton,0.0004550383422349627,1.0,INFO
+city_Ferney,2.8778210746411887e-05,1.0,INFO
+city_Fiddletown,1.8208856507773321e-06,1.0,INFO
+city_Fields Landing,6.703318705918748e-05,1.0,INFO
+city_Florence,5.011062097554697e-06,1.0,INFO
+city_Ford,0.0001150990552706836,1.0,INFO
+city_Fordoche,0.00014881153791606973,1.0,INFO
+city_Fort Myers,4.205327929931742e-05,1.0,INFO
+city_Fort Washakie,5.8445165688045126e-05,1.0,INFO
+city_Freedom,2.7670125780519488e-05,1.0,INFO
+city_Fullerton,3.650435540737796e-05,1.0,INFO
+city_Fulton,2.9145227665246094e-05,1.0,INFO
+city_Gadsden,1.6048641785468258e-05,1.0,INFO
+city_Gainesville,0.0006439352129901797,1.0,INFO
+city_Gaithersburg,3.707900296326449e-06,1.0,INFO
+city_Galatia,5.35237511574179e-05,1.0,INFO
+city_Gardiner,5.126117981823411e-05,1.0,INFO
+city_Garfield,0.00046353133396815407,1.0,INFO
+city_Garrattsville,0.00016732838066854555,1.0,INFO
+city_Georgetown,3.087018803327352e-05,1.0,INFO
+city_Gibsonville,1.5425074486961936e-05,1.0,INFO
+city_Girard,3.937715261510925e-05,1.0,INFO
+city_Glade Spring,5.757644251010356e-05,1.0,INFO
+city_Glen Rock,0.0003393999377144457,1.0,INFO
+city_Glendale,0.00024363960568696426,1.0,INFO
+city_Goodrich,8.596321293981907e-06,1.0,INFO
+city_Goreville,3.22942799588181e-06,1.0,INFO
+city_Grand Bay,6.134317863680421e-05,1.0,INFO
+city_Grand Junction,0.00013474908688130294,1.0,INFO
+city_Grand Ridge,0.00020449037761101677,1.0,INFO
+city_Grandview,0.00016890220695839656,1.0,INFO
+city_Graniteville,3.744553835621389e-05,1.0,INFO
+city_Grant,3.257590260692518e-05,1.0,INFO
+city_Grantham,2.9145919617210432e-05,1.0,INFO
+city_Grassflat,1.8895197160377707e-06,1.0,INFO
+city_Great Mills,5.846628005550711e-05,1.0,INFO
+city_Greenbush,7.71003480412759e-06,1.0,INFO
+city_Greendale,1.0018355865716621e-05,1.0,INFO
+city_Greenview,3.8251089396821946e-05,1.0,INFO
+city_Greenville,3.619682259387001e-05,1.0,INFO
+city_Greenwich,7.658243141431538e-05,1.0,INFO
+city_Greenwood,0.00017113775807745256,1.0,INFO
+city_Gregory,0.0,1.0,INFO
+city_Grenada,3.4910723482050266e-05,1.0,INFO
+city_Gretna,7.4208107336302036e-06,1.0,INFO
+city_Grifton,0.0,1.0,INFO
+city_Grimesland,9.541028491477448e-06,1.0,INFO
+city_Grover,0.0004929501323926827,1.0,INFO
+city_Guthrie,0.0,1.0,INFO
+city_Hahira,1.7570695581478259e-06,1.0,INFO
+city_Haines City,9.562620491753953e-05,1.0,INFO
+city_Halma,2.705863378155357e-06,1.0,INFO
+city_Halstad,0.0002697484880974061,1.0,INFO
+city_Hampton,0.00034682377792592334,1.0,INFO
+city_Hancock,1.1790301943233435e-06,1.0,INFO
+city_Hannawa Falls,0.00036222925310610334,1.0,INFO
+city_Harborcreek,2.4400360256477946e-05,1.0,INFO
+city_Harmony,0.00010220514075973422,1.0,INFO
+city_Harper,0.0,1.0,INFO
+city_Harrington Park,9.562620491753953e-05,1.0,INFO
+city_Harrodsburg,7.706117130543204e-06,1.0,INFO
+city_Hartford,0.00031325325618983247,1.0,INFO
+city_Harwood,0.00022359928633060205,1.0,INFO
+city_Hatch,0.0001242221795944294,1.0,INFO
+city_Haw River,0.00019668841397029347,1.0,INFO
+city_Hawley,6.963060137017287e-05,1.0,INFO
+city_Hawthorne,0.0002880893046156042,1.0,INFO
+city_Haynes,4.466874629540481e-05,1.0,INFO
+city_Hazel,5.270526970956171e-06,1.0,INFO
+city_Heart Butte,0.0001961417312650677,1.0,INFO
+city_Hedley,3.22942799588181e-06,1.0,INFO
+city_Hedrick,3.22942799588181e-06,1.0,INFO
+city_Heidelberg,4.731778964190432e-05,1.0,INFO
+city_Heiskell,1.4319062464093236e-05,1.0,INFO
+city_Heislerville,2.860422881413692e-06,1.0,INFO
+city_Helm,0.0001256238607125902,1.0,INFO
+city_Henderson,4.924015335107161e-05,1.0,INFO
+city_Hewitt,0.0001529412379625751,1.0,INFO
+city_Higganum,0.00018584247061636448,1.0,INFO
+city_High Rolls Mountain Park,1.8208856507773321e-06,1.0,INFO
+city_Highland,0.00012081679589469324,1.0,INFO
+city_Hills,0.000134811654885106,1.0,INFO
+city_Hinckley,5.529290364281677e-05,1.0,INFO
+city_Hinesburg,2.7562866315623965e-05,1.0,INFO
+city_Holcomb,1.387853464170541e-05,1.0,INFO
+city_Holliday,2.972405509678706e-05,1.0,INFO
+city_Holloway,8.652370208889651e-05,1.0,INFO
+city_Holstein,1.7689984072623163e-05,1.0,INFO
+city_Honokaa,1.824216118243048e-05,1.0,INFO
+city_Hooper,7.352489137674678e-05,1.0,INFO
+city_Hopewell,8.396487437955765e-05,1.0,INFO
+city_Hopkins,1.7689984072623163e-05,1.0,INFO
+city_Houston,6.303464245417445e-05,1.0,INFO
+city_Hovland,0.00030331811447115815,1.0,INFO
+city_Howells,0.0003208099060456402,1.0,INFO
+city_Howes Cave,2.232435963345523e-05,1.0,INFO
+city_Hudson,0.000233366220839678,1.0,INFO
+city_Humble,5.757644251010359e-05,1.0,INFO
+city_Humboldt,5.270526970956171e-06,1.0,INFO
+city_Huntington Beach,7.71003480412759e-06,1.0,INFO
+city_Huntsville,0.00012076350053793756,1.0,INFO
+city_Hurley,6.804598673726286e-05,1.0,INFO
+city_Hurricane,2.228519915201263e-05,1.0,INFO
+city_Huslia,2.5141446829699582e-05,1.0,INFO
+city_Iliff,3.229427995881807e-06,1.0,INFO
+city_Independence,0.00020103190396168633,1.0,INFO
+city_Indian Wells,1.4320091368979138e-05,1.0,INFO
+city_Indianapolis,0.00012415387557004418,1.0,INFO
+city_Ironton,7.71003480412759e-06,1.0,INFO
+city_Irvine,0.00014725008824608045,1.0,INFO
+city_Irwinton,3.650435540737798e-05,1.0,INFO
+city_Iselin,9.118578527387359e-06,1.0,INFO
+city_Issaquah,1.589938859440898e-06,1.0,INFO
+city_Jackson,3.365722666302989e-05,1.0,INFO
+city_Jaffrey,0.00010220514075973419,1.0,INFO
+city_Jay,6.679070569078347e-06,1.0,INFO
+city_Jefferson,5.1261179818234104e-05,1.0,INFO
+city_Jelm,5.846628005550707e-05,1.0,INFO
+city_Jermyn,4.017417913260404e-05,1.0,INFO
+city_Johns Island,1.207382777239977e-06,1.0,INFO
+city_Joliet,0.00023694457049965167,1.0,INFO
+city_Jones,3.096611581143074e-05,1.0,INFO
+city_Jordan Valley,0.00010399458214767331,1.0,INFO
+city_Jordanville,0.00025566306213846955,1.0,INFO
+city_Juliette,2.7670125780519464e-05,1.0,INFO
+city_June Lake,0.0004273296321746616,1.0,INFO
+city_Kansas City,5.1645234854784476e-05,1.0,INFO
+city_Karnack,2.5671671592569294e-06,1.0,INFO
+city_Keisterville,0.00024134309819966962,1.0,INFO
+city_Keller,8.639471633554065e-05,1.0,INFO
+city_Kenner,2.328503472137347e-06,1.0,INFO
+city_Kensington,2.4312237510067485e-05,1.0,INFO
+city_Kent,0.0001809541936290788,1.0,INFO
+city_Key West,0.000539998404433369,1.0,INFO
+city_Kilgore,2.0986815569845635e-05,1.0,INFO
+city_Kings Bay,0.0003393999377144457,1.0,INFO
+city_Kingsford Heights,0.0002926279757903885,1.0,INFO
+city_Kingsport,4.731778964190432e-05,1.0,INFO
+city_Kingsville,7.71003480412759e-06,1.0,INFO
+city_Kirby,1.495152352010408e-06,1.0,INFO
+city_Kirk,1.3363146768089856e-05,1.0,INFO
+city_Kirkwood,0.0,1.0,INFO
+city_Kirtland,0.0,1.0,INFO
+city_Kirtland Afb,7.640796399319598e-05,1.0,INFO
+city_Kissee Mills,0.00016740634876479633,1.0,INFO
+city_Kittery Point,2.5141446829699582e-05,1.0,INFO
+city_Knowlesville,4.768010303406207e-06,1.0,INFO
+city_Knoxville,1.1716774616536578e-05,1.0,INFO
+city_Lagrange,3.707900296326453e-06,1.0,INFO
+city_Laguna Hills,2.2250909442098357e-06,1.0,INFO
+city_Lahoma,3.7141542411406658e-06,1.0,INFO
+city_Lake Jackson,4.302044249061646e-05,1.0,INFO
+city_Lake Oswego,1.2526322301814062e-05,1.0,INFO
+city_Lakeland,0.0005061262522818317,1.0,INFO
+city_Lakeport,0.00028178479880410255,1.0,INFO
+city_Lakeview,1.8242161182430476e-05,1.0,INFO
+city_Lamberton,0.0006507323001154487,1.0,INFO
+city_Lamy,2.232435963345523e-05,1.0,INFO
+city_Lanark Village,4.884584565860715e-05,1.0,INFO
+city_Lane,0.00017334931858660455,1.0,INFO
+city_Laramie,2.866022480677852e-05,1.0,INFO
+city_Laredo,6.134317863680417e-05,1.0,INFO
+city_Lawn,1.5410870024505148e-06,1.0,INFO
+city_Lawrence,1.1790301943233414e-06,1.0,INFO
+city_Lebanon,0.00010103175206000631,1.0,INFO
+city_Leetsdale,3.452145388163107e-06,1.0,INFO
+city_Leo,1.8208856507773277e-06,1.0,INFO
+city_Leonard,8.042859882828925e-05,1.0,INFO
+city_Lepanto,0.0,1.0,INFO
+city_Lexington,0.0,1.0,INFO
+city_Liberty Mills,0.000329673713609211,1.0,INFO
+city_Lima,4.253735152285378e-05,1.0,INFO
+city_Linthicum Heights,6.679070569078347e-06,1.0,INFO
+city_Lithopolis,4.768010303406207e-06,1.0,INFO
+city_Littleton,0.00028175978489808573,1.0,INFO
+city_Livonia,0.0,1.0,INFO
+city_Llano,0.00020103190396168633,1.0,INFO
+city_Loami,7.358497803730371e-05,1.0,INFO
+city_Logan,0.00010588070655260383,1.0,INFO
+city_Lohrville,0.0,1.0,INFO
+city_Lolita,4.4668746295404814e-05,1.0,INFO
+city_Lomax,9.116249098176331e-06,1.0,INFO
+city_Lonetree,2.9145919617210432e-05,1.0,INFO
+city_Lonsdale,4.5642975254642256e-05,1.0,INFO
+city_Lorenzo,5.352375115741789e-05,1.0,INFO
+city_Los Angeles,0.0006439352129901797,1.0,INFO
+city_Louisiana,7.71003480412759e-06,1.0,INFO
+city_Louisville,0.00011121292697834295,1.0,INFO
+city_Loving,3.937715261510928e-05,1.0,INFO
+city_Lowell,3.345086499043619e-05,1.0,INFO
+city_Lowville,5.1261179818234104e-05,1.0,INFO
+city_Loxahatchee,6.703318705918748e-05,1.0,INFO
+city_Lubbock,6.733447133878482e-05,1.0,INFO
+city_Luray,2.3145123933040963e-05,1.0,INFO
+city_Luzerne,3.033733155025224e-06,1.0,INFO
+city_Malad City,2.0077074548724745e-05,1.0,INFO
+city_Mallie,0.00045591417692007833,1.0,INFO
+city_Manchester,0.00041624863263865894,1.0,INFO
+city_Manderson,7.155910417850324e-06,1.0,INFO
+city_Manistique,1.0126415687285583e-06,1.0,INFO
+city_Manley,0.00014071933894913976,1.0,INFO
+city_Manor,0.0001919893682225916,1.0,INFO
+city_Manquin,2.232435963345523e-05,1.0,INFO
+city_Mansfield,4.4035255805838176e-05,1.0,INFO
+city_Manville,2.2285199152012628e-05,1.0,INFO
+city_Marathon,3.982877225053262e-05,1.0,INFO
+city_Margaretville,7.706117130543204e-06,1.0,INFO
+city_Maria Stein,7.358497803730374e-05,1.0,INFO
+city_Marienville,0.00014725008824608045,1.0,INFO
+city_Marietta,0.00015159647746669876,1.0,INFO
+city_Marion,1.4320091368979138e-05,1.0,INFO
+city_Matawan,0.00011121292697834295,1.0,INFO
+city_Matthews,0.0,1.0,INFO
+city_May,1.4110482937259e-06,1.0,INFO
+city_Mayersville,0.00013396599484816055,1.0,INFO
+city_Maysville,1.4320091368979138e-05,1.0,INFO
+city_Mc Clellandtown,6.679070569078347e-06,1.0,INFO
+city_Mc Cracken,0.0,1.0,INFO
+city_Mc Intosh,0.00027497725107395105,1.0,INFO
+city_Mc Nabb,0.00022805434995687123,1.0,INFO
+city_Mc Veytown,6.463867637827809e-06,1.0,INFO
+city_Meadville,4.0149620744688776e-05,1.0,INFO
+city_Melbourne,1.178831207287784e-05,1.0,INFO
+city_Mendon,0.00014725008824608045,1.0,INFO
+city_Meredith,0.00045375730931847757,1.0,INFO
+city_Meridian,3.874477324426827e-05,1.0,INFO
+city_Mesa,0.00011826676892991111,1.0,INFO
+city_Metairie,7.198307284866504e-05,1.0,INFO
+city_Methuen,1.528993738305764e-05,1.0,INFO
+city_Miamisburg,6.451983832282352e-05,1.0,INFO
+city_Michigan,2.8778210746411887e-05,1.0,INFO
+city_Mifflin,6.262051723782807e-06,1.0,INFO
+city_Milford,2.1112179276374267e-05,1.0,INFO
+city_Mill Creek,1.0018355865716621e-05,1.0,INFO
+city_Milner,3.033733155025224e-06,1.0,INFO
+city_Milwaukee,0.00018266202672118052,1.0,INFO
+city_Minneapolis,0.0001008113756059305,1.0,INFO
+city_Minnesota Lake,8.713921891275558e-05,1.0,INFO
+city_Moab,0.0,1.0,INFO
+city_Mobile,3.436289464974321e-05,1.0,INFO
+city_Monetta,4.779057036040145e-05,1.0,INFO
+city_Monitor,0.00012143948677548685,1.0,INFO
+city_Monmouth Beach,5.5670031479478814e-06,1.0,INFO
+city_Montandon,0.00010990278356823293,1.0,INFO
+city_Montgomery,9.562620491753953e-05,1.0,INFO
+city_Montrose,0.00018580180754505432,1.0,INFO
+city_Moores Hill,4.768010303406207e-06,1.0,INFO
+city_Mooresville,2.2013044214986948e-05,1.0,INFO
+city_Moorhead,0.0,1.0,INFO
+city_Moravian Falls,1.3724532802480387e-06,1.0,INFO
+city_Moriarty,5.478661578429473e-05,1.0,INFO
+city_Moriches,6.679070569078347e-06,1.0,INFO
+city_Moro,1.702183264814679e-05,1.0,INFO
+city_Morrisdale,0.0001282454825533459,1.0,INFO
+city_Morrowville,0.0,1.0,INFO
+city_Moscow,9.043704275684868e-05,1.0,INFO
+city_Moulton,0.0001744037101657273,1.0,INFO
+city_Mound City,0.0001943547332392429,1.0,INFO
+city_Mounds,2.22509094420983e-06,1.0,INFO
+city_Moundsville,1.3724532802480387e-06,1.0,INFO
+city_Mount Clemens,0.0,1.0,INFO
+city_Mount Hope,0.00016848649387918337,1.0,INFO
+city_Mount Morris,2.328503472137348e-06,1.0,INFO
+city_Mount Perry,3.650435540737798e-05,1.0,INFO
+city_Mount Saint Joseph,0.0010906500282976067,1.0,INFO
+city_Mountain Center,2.5671671592569294e-06,1.0,INFO
+city_Mountain Park,6.463867637827809e-06,1.0,INFO
+city_Mulberry Grove,5.416740661324394e-06,1.0,INFO
+city_Munith,5.5848458220569715e-05,1.0,INFO
+city_Murfreesboro,6.463867637827813e-06,1.0,INFO
+city_Murrayville,0.00015061444806295269,1.0,INFO
+city_Muskegon,0.00010703763903815192,1.0,INFO
+city_Napa,1.202894841782303e-05,1.0,INFO
+city_Naples,5.542060074399229e-05,1.0,INFO
+city_Nazareth,4.737308283233104e-05,1.0,INFO
+city_Nelson,0.0,1.0,INFO
+city_New Boston,0.0003223102043781548,1.0,INFO
+city_New Ellenton,0.00030282829569388853,1.0,INFO
+city_New Franken,0.000354182865043453,1.0,INFO
+city_New Goshen,0.0002080341946868927,1.0,INFO
+city_New Holstein,2.1682791065334298e-05,1.0,INFO
+city_New Memphis,4.0046369471545226e-06,1.0,INFO
+city_New Waverly,2.4420107736013698e-06,1.0,INFO
+city_New York City,5.65058136823295e-05,1.0,INFO
+city_Newark Valley,0.00017113775807745256,1.0,INFO
+city_Newberg,7.640796399319598e-05,1.0,INFO
+city_Newhall,0.0005144943954969026,1.0,INFO
+city_Newport,2.232435963345523e-05,1.0,INFO
+city_Newton,6.679070569078354e-06,1.0,INFO
+city_Nobleboro,0.00024363960568696426,1.0,INFO
+city_Nokomis,0.0002749772510739511,1.0,INFO
+city_Noonan,0.00047429520634703816,1.0,INFO
+city_Norman,3.844022345184094e-05,1.0,INFO
+city_Norman Park,0.00016740634876479633,1.0,INFO
+city_North Augusta,2.7670125780519464e-05,1.0,INFO
+city_North Brookfield,1.438660406016616e-05,1.0,INFO
+city_North Haverhill,7.71003480412759e-06,1.0,INFO
+city_North Judson,1.6402424774888793e-05,1.0,INFO
+city_North Las Vegas,2.8778210746411887e-05,1.0,INFO
+city_North Loup,5.894067031250936e-06,1.0,INFO
+city_North Prairie,2.674633861517375e-05,1.0,INFO
+city_North Tonawanda,6.733447133878483e-05,1.0,INFO
+city_North Washington,3.982877225053257e-05,1.0,INFO
+city_North Wilkesboro,6.5646769851082e-05,1.0,INFO
+city_Northport,0.00010220514075973422,1.0,INFO
+city_Norwalk,9.152633136918776e-05,1.0,INFO
+city_Norwich,0.0,1.0,INFO
+city_Notrees,6.909301669759039e-06,1.0,INFO
+city_O Brien,8.652370208889651e-05,1.0,INFO
+city_Oak Hill,3.4910723482050266e-05,1.0,INFO
+city_Oakdale,5.352375115741789e-05,1.0,INFO
+city_Oakford,0.0010297938107835644,1.0,INFO
+city_Oakland,0.00021088495742452898,1.0,INFO
+city_Oaks,6.963060137017287e-05,1.0,INFO
+city_Oconto Falls,0.0001744037101657273,1.0,INFO
+city_Odessa,0.00013481165488510598,1.0,INFO
+city_Ogdensburg,0.0002143655794162665,1.0,INFO
+city_Oklahoma City,0.0,1.0,INFO
+city_Old Hickory,4.0556513311449894e-05,1.0,INFO
+city_Ollie,0.0,1.0,INFO
+city_Olmsted,0.00020449037761101674,1.0,INFO
+city_Omaha,7.052305170177992e-05,1.0,INFO
+city_Oolitic,7.308897549583666e-05,1.0,INFO
+city_Oran,3.619682259387001e-05,1.0,INFO
+city_Orangeburg,3.345086499043621e-05,1.0,INFO
+city_Orient,4.6858809828666526e-05,1.0,INFO
+city_Oriskany Falls,4.466874629540481e-05,1.0,INFO
+city_Orr,0.0005467419806431024,1.0,INFO
+city_Owensville,0.0006439352129901797,1.0,INFO
+city_Oxford,4.924015335107161e-05,1.0,INFO
+city_Ozawkie,3.4910723482050266e-05,1.0,INFO
+city_Paauilo,0.00043700440541511224,1.0,INFO
+city_Paint Rock,7.706117130543192e-06,1.0,INFO
+city_Palermo,0.00014725008824608045,1.0,INFO
+city_Palmdale,5.891652845771446e-06,1.0,INFO
+city_Palmyra,0.00023662724412436273,1.0,INFO
+city_Paradise Valley,0.00026922930740267515,1.0,INFO
+city_Paris,7.71003480412759e-06,1.0,INFO
+city_Parker,0.00015159647746669876,1.0,INFO
+city_Parker Dam,6.679070569078354e-06,1.0,INFO
+city_Parkers Lake,2.7370752096962177e-05,1.0,INFO
+city_Parks,1.178831207287784e-05,1.0,INFO
+city_Parsonsfield,3.53322607000678e-05,1.0,INFO
+city_Paulding,2.043602792269453e-06,1.0,INFO
+city_Paxton,0.0,1.0,INFO
+city_Payson,0.00010746583500055557,1.0,INFO
+city_Pea Ridge,6.679070569078347e-06,1.0,INFO
+city_Pearlington,7.71003480412759e-06,1.0,INFO
+city_Pecos,0.0,1.0,INFO
+city_Pelham,3.116842104111414e-05,1.0,INFO
+city_Pembroke,5.0302917681935345e-05,1.0,INFO
+city_Pembroke Township,5.790067349390757e-05,1.0,INFO
+city_Pewee Valley,4.317482268651423e-05,1.0,INFO
+city_Phenix City,0.0,1.0,INFO
+city_Phil Campbell,4.2301856769709426e-05,1.0,INFO
+city_Philadelphia,1.0334704373746202e-06,1.0,INFO
+city_Phoenix,0.00044956502406456,1.0,INFO
+city_Pikesville,3.707900296326449e-06,1.0,INFO
+city_Pittsburgh,2.972405509678706e-05,1.0,INFO
+city_Plainfield,1.6716418018898796e-05,1.0,INFO
+city_Plantersville,3.53322607000678e-05,1.0,INFO
+city_Plymouth,6.262051723782807e-06,1.0,INFO
+city_Pointe Aux Pins,3.860027168494942e-05,1.0,INFO
+city_Pomona,0.0001014288161142966,1.0,INFO
+city_Port Charlotte,5.369282734158634e-05,1.0,INFO
+city_Port Costa,8.941770904716355e-05,1.0,INFO
+city_Port Ewen,8.242115282022525e-05,1.0,INFO
+city_Port Gibson,5.126117981823411e-05,1.0,INFO
+city_Port Richey,2.9145919617210432e-05,1.0,INFO
+city_Port Saint Lucie,0.00013866944811572357,1.0,INFO
+city_Portland,3.349404789493227e-05,1.0,INFO
+city_Powell,0.0001807570232645825,1.0,INFO
+city_Powell Butte,0.0,1.0,INFO
+city_Prairie Creek,0.0004159783308422691,1.0,INFO
+city_Prairie Hill,0.0,1.0,INFO
+city_Premier,3.3657226663029884e-05,1.0,INFO
+city_Preston,8.396487437955765e-05,1.0,INFO
+city_Princeton,0.00020103190396168633,1.0,INFO
+city_Prosperity,5.0302917681935345e-05,1.0,INFO
+city_Providence,1.1159678128337601e-05,1.0,INFO
+city_Pueblo,0.00018584247061636448,1.0,INFO
+city_Purmela,0.0,1.0,INFO
+city_Putnam,7.71003480412759e-06,1.0,INFO
+city_Quanah,2.130483661895937e-06,1.0,INFO
+city_Queenstown,0.0,1.0,INFO
+city_Ragland,5.35237511574179e-05,1.0,INFO
+city_Randolph,2.130483661895937e-06,1.0,INFO
+city_Ranier,1.7442367610147916e-05,1.0,INFO
+city_Ratcliff,1.5289937383057635e-05,1.0,INFO
+city_Ravenna,7.052305170177992e-05,1.0,INFO
+city_Red Cliff,6.679070569078354e-06,1.0,INFO
+city_Red River,8.698609864589123e-05,1.0,INFO
+city_Redford,6.39352811464564e-05,1.0,INFO
+city_Remer,8.396487437955765e-05,1.0,INFO
+city_Reno,2.483538387337108e-05,1.0,INFO
+city_Republic,6.084227465693216e-05,1.0,INFO
+city_Reynolds,2.860422881413695e-06,1.0,INFO
+city_Rhame,8.34817290833079e-06,1.0,INFO
+city_Rice,0.0,1.0,INFO
+city_Richland,0.0005305973344562543,1.0,INFO
+city_Ridgeland,0.0001724893586624169,1.0,INFO
+city_Ringwood,8.713921891275558e-05,1.0,INFO
+city_River,7.879938296008659e-05,1.0,INFO
+city_Riverton,0.0001256238607125902,1.0,INFO
+city_Riverview,0.0,1.0,INFO
+city_Rochester,1.1159678128337601e-05,1.0,INFO
+city_Rock Glen,4.768010303406207e-06,1.0,INFO
+city_Rock Springs,7.35248913767468e-05,1.0,INFO
+city_Rock Tavern,1.478854528693681e-05,1.0,INFO
+city_Rockwell,5.270526970956171e-06,1.0,INFO
+city_Rockwood,0.00026922930740267515,1.0,INFO
+city_Rocky Mount,1.0778160870942685e-06,1.0,INFO
+city_Roma,2.9508392009750998e-05,1.0,INFO
+city_Romulus,5.274392384719282e-06,1.0,INFO
+city_Ronceverte,0.00017724046365926146,1.0,INFO
+city_Roosevelt,4.737308283233104e-05,1.0,INFO
+city_Roseland,3.8251089396821946e-05,1.0,INFO
+city_Rosewood,2.232435963345523e-05,1.0,INFO
+city_Rossville,0.00042151302134077267,1.0,INFO
+city_Ruckersville,0.0003421700903069316,1.0,INFO
+city_Ruidoso,7.879938296008665e-05,1.0,INFO
+city_Rule,2.860422881413692e-06,1.0,INFO
+city_Rumely,1.3363146768089832e-05,1.0,INFO
+city_Ruth,2.0052234234729358e-05,1.0,INFO
+city_Sachse,1.2073827772399746e-06,1.0,INFO
+city_Sacramento,1.3359170504141555e-06,1.0,INFO
+city_Saint Amant,0.00014004288192627804,1.0,INFO
+city_Saint Bonaventure,0.0,1.0,INFO
+city_Saint Francis,9.118578527387357e-06,1.0,INFO
+city_Saint James City,9.311877053565688e-05,1.0,INFO
+city_Saint Louis,2.0077074548724752e-05,1.0,INFO
+city_Saint Paul,4.358534247004244e-06,1.0,INFO
+city_Saint Petersburg,0.0006227581327160821,1.0,INFO
+city_San Angelo,7.71003480412759e-06,1.0,INFO
+city_San Antonio,8.05782982150554e-05,1.0,INFO
+city_San Diego,2.8182135229604338e-05,1.0,INFO
+city_San Jose,1.7689984072623163e-05,1.0,INFO
+city_Santa Monica,0.0002117043307941975,1.0,INFO
+city_Sardis,7.052305170177992e-05,1.0,INFO
+city_Sauk Rapids,6.451983832282352e-05,1.0,INFO
+city_Saxon,6.0291343842127604e-05,1.0,INFO
+city_Scarborough,3.345086499043621e-05,1.0,INFO
+city_Schaefferstown,0.00018254943232023287,1.0,INFO
+city_Schaumburg,0.00020103190396168633,1.0,INFO
+city_Scotia,2.2285199152012628e-05,1.0,INFO
+city_Scotland,0.00015852822329176278,1.0,INFO
+city_Scotts Mills,0.0002774189682837499,1.0,INFO
+city_Sea Island,6.679070569078347e-06,1.0,INFO
+city_Seattle,0.0,1.0,INFO
+city_Sebring,1.782958740639011e-05,1.0,INFO
+city_Seligman,0.0,1.0,INFO
+city_Senatobia,0.0,1.0,INFO
+city_Seneca,3.4910723482050266e-05,1.0,INFO
+city_Shedd,0.0002080341946868927,1.0,INFO
+city_Sheffield,7.35248913767468e-05,1.0,INFO
+city_Shelter Island,0.00014350696798106093,1.0,INFO
+city_Shenandoah Junction,6.0724787089218236e-06,1.0,INFO
+city_Sherman,3.744553835621389e-05,1.0,INFO
+city_Shields,9.116249098176331e-06,1.0,INFO
+city_Shippingport,0.0001292695571576746,1.0,INFO
+city_Shrewsbury,0.00020449037761101674,1.0,INFO
+city_Sixes,0.00010103175206000631,1.0,INFO
+city_Skytop,0.0,1.0,INFO
+city_Slayden,0.00025202977177480614,1.0,INFO
+city_Smackover,9.107188832694364e-06,1.0,INFO
+city_Smith River,3.707900296326453e-06,1.0,INFO
+city_Smithfield,2.8778210746411887e-05,1.0,INFO
+city_Smiths Grove,1.1790301943233435e-06,1.0,INFO
+city_Smock,4.7317789641904335e-05,1.0,INFO
+city_Sontag,3.210858007774796e-05,1.0,INFO
+city_South Hero,3.033733155025224e-06,1.0,INFO
+city_South Londonderry,5.757644251010356e-05,1.0,INFO
+city_South Richmond Hill,0.00015333774116289297,1.0,INFO
+city_Southfield,0.0001807570232645825,1.0,INFO
+city_Spearsville,0.0,1.0,INFO
+city_Spencer,0.0003294811400227051,1.0,INFO
+city_Spirit Lake,0.0003722079744409239,1.0,INFO
+city_Sprague,0.0,1.0,INFO
+city_Spring,7.71003480412759e-06,1.0,INFO
+city_Spring Church,2.22509094420983e-06,1.0,INFO
+city_Springfield,2.1112179276374254e-05,1.0,INFO
+city_Springfield Gardens,0.00013866944811572357,1.0,INFO
+city_Springville,0.0,1.0,INFO
+city_Stanchfield,4.5174841276201844e-05,1.0,INFO
+city_Stayton,0.00010142881611429659,1.0,INFO
+city_Stephensport,0.0,1.0,INFO
+city_Sterling City,4.768010303406207e-06,1.0,INFO
+city_Steuben,3.927626220299646e-05,1.0,INFO
+city_Stillwater,4.4668746295404814e-05,1.0,INFO
+city_Stirling,1.6402424774888793e-05,1.0,INFO
+city_Stittville,0.0,1.0,INFO
+city_Stoneham,4.0556513311449894e-05,1.0,INFO
+city_Sturgis,0.0001914001552095638,1.0,INFO
+city_Sula,0.00024134309819966962,1.0,INFO
+city_Summerfield,4.113835828121969e-05,1.0,INFO
+city_Sun City,4.6858809828666526e-05,1.0,INFO
+city_Sunflower,3.365722666302989e-05,1.0,INFO
+city_Superior,2.6402777705662784e-05,1.0,INFO
+city_Surrency,8.969934961869647e-05,1.0,INFO
+city_Sutherland,8.394901809490079e-05,1.0,INFO
+city_Syracuse,4.0046369471545226e-06,1.0,INFO
+city_Tallmansville,0.0013937808960237741,1.0,INFO
+city_Tamaroa,0.0,1.0,INFO
+city_Tampa,6.207101167781245e-05,1.0,INFO
+city_Tekoa,1.6716418018898796e-05,1.0,INFO
+city_Texarkana,5.757644251010356e-05,1.0,INFO
+city_Thida,7.587195181309668e-06,1.0,INFO
+city_Thomas,4.527876768387769e-05,1.0,INFO
+city_Thompson,0.000455719145590065,1.0,INFO
+city_Thornville,0.0,1.0,INFO
+city_Thrall,0.00016890220695839656,1.0,INFO
+city_Tickfaw,0.0,1.0,INFO
+city_Timberville,3.210858007774796e-05,1.0,INFO
+city_Tiptonville,1.4320091368979128e-05,1.0,INFO
+city_Titusville,6.909301669759039e-06,1.0,INFO
+city_Tomahawk,0.00011955741171653483,1.0,INFO
+city_Tomales,1.202894841782303e-05,1.0,INFO
+city_Topeka,0.00015114952305801056,1.0,INFO
+city_Tower Hill,7.420810733630187e-06,1.0,INFO
+city_Trenton,0.00013481165488510598,1.0,INFO
+city_Tryon,6.207101167781245e-05,1.0,INFO
+city_Tulsa,0.0002537114987763607,1.0,INFO
+city_Tupper Lake,1.1014510364078618e-06,1.0,INFO
+city_Turner,2.328503472137348e-06,1.0,INFO
+city_Tuscarora,2.5141446829699582e-05,1.0,INFO
+city_Tyaskin,0.0,1.0,INFO
+city_Tyler,7.155910417850324e-06,1.0,INFO
+city_Uledi,3.613351911720888e-05,1.0,INFO
+city_Umatilla,0.0004083682742281307,1.0,INFO
+city_Union,0.0002235992863306021,1.0,INFO
+city_Unionville,1.2526322301814054e-05,1.0,INFO
+city_University,1.697581276731701e-06,1.0,INFO
+city_Utica,4.6529975997570016e-05,1.0,INFO
+city_Valdosta,3.4910723482050266e-05,1.0,INFO
+city_Valentine,0.00035418286504345297,1.0,INFO
+city_Vancouver,5.270526970956171e-06,1.0,INFO
+city_Vanderbilt,8.713921891275558e-05,1.0,INFO
+city_Varnell,0.0002319703071439042,1.0,INFO
+city_Veedersburg,9.562620491753953e-05,1.0,INFO
+city_Vero Beach,0.0,1.0,INFO
+city_Vienna,2.232435963345523e-05,1.0,INFO
+city_Vinton,0.0003530323773494227,1.0,INFO
+city_Viola,5.584845822056967e-05,1.0,INFO
+city_Wales,9.311877053565688e-05,1.0,INFO
+city_Walnut Ridge,8.95058841671216e-05,1.0,INFO
+city_Warren,6.3172105909932875e-06,1.0,INFO
+city_Washington,1.4861702723268248e-05,1.0,INFO
+city_Washington Court House,6.238194012365118e-05,1.0,INFO
+city_Washoe Valley,0.00030653661015975307,1.0,INFO
+city_Watertown,3.229427995881807e-06,1.0,INFO
+city_Wauchula,0.0,1.0,INFO
+city_Waukesha,0.00016095891029484113,1.0,INFO
+city_Waupaca,0.0001150990552706836,1.0,INFO
+city_Waynesfield,0.00046353133396815407,1.0,INFO
+city_Webster City,0.00011759734698545894,1.0,INFO
+city_Weeping Water,2.860422881413695e-06,1.0,INFO
+city_Wendel,0.00011759734698545897,1.0,INFO
+city_West Bethel,3.3657226663029884e-05,1.0,INFO
+city_West Chazy,5.35237511574179e-05,1.0,INFO
+city_West Columbia,8.711149212211533e-06,1.0,INFO
+city_West Decatur,0.00013416990170830216,1.0,INFO
+city_West Eaton,2.860422881413695e-06,1.0,INFO
+city_West Finley,4.3530702878090336e-06,1.0,INFO
+city_West Green,4.2301856769709426e-05,1.0,INFO
+city_West Harrison,4.4668746295404814e-05,1.0,INFO
+city_West Hartford,8.969934961869642e-05,1.0,INFO
+city_West Henrietta,0.0,1.0,INFO
+city_West Long Branch,2.5141446829699582e-05,1.0,INFO
+city_West Monroe,0.0005075259324333981,1.0,INFO
+city_West Palm Beach,2.22509094420983e-06,1.0,INFO
+city_West Sayville,0.00012281174257451616,1.0,INFO
+city_Westerville,5.316936570894485e-05,1.0,INFO
+city_Westfir,9.118578527387359e-06,1.0,INFO
+city_Westhampton Beach,4.23018567697094e-05,1.0,INFO
+city_Westport,9.034322319395847e-07,1.0,INFO
+city_Wetmore,0.00017724046365926146,1.0,INFO
+city_Wever,0.0,1.0,INFO
+city_Whaleyville,3.784059368704708e-06,1.0,INFO
+city_Wheaton,0.0001296597520473538,1.0,INFO
+city_Whigham,0.0,1.0,INFO
+city_White Sulphur Springs,4.768010303406207e-06,1.0,INFO
+city_Whittemore,5.891652845771446e-06,1.0,INFO
+city_Wichita,9.499388807988416e-06,1.0,INFO
+city_Williams,0.00012143948677548685,1.0,INFO
+city_Williamsburg,0.00015333774116289297,1.0,INFO
+city_Wilmette,0.00010068602772476246,1.0,INFO
+city_Wilmington,4.010558524034984e-06,1.0,INFO
+city_Wilton,0.00014838333380055152,1.0,INFO
+city_Winfield,0.00012590771514769662,1.0,INFO
+city_Winger,4.4035255805838176e-05,1.0,INFO
+city_Winslow,1.6715414469927107e-05,1.0,INFO
+city_Winter,0.0,1.0,INFO
+city_Winthrop,3.365722666302989e-05,1.0,INFO
+city_Wittenberg,0.0,1.0,INFO
+city_Woods Cross,0.0,1.0,INFO
+city_Woodville,0.00019498270880914035,1.0,INFO
+city_Yellowstone National Park,8.113304163177139e-05,1.0,INFO
+city_Zaleski,0.00017113775807745248,1.0,INFO
+city_Zavalla,0.0005417233877261481,1.0,INFO
+state_AK,9.199005715080359e-05,1.0,INFO
+state_AL,2.2692128828661534e-05,1.0,INFO
+state_AR,9.257859969454848e-07,1.0,INFO
+state_AZ,0.0004099878167718778,1.0,INFO
+state_CA,1.354172535055482e-05,1.0,INFO
+state_CO,4.609283628130641e-05,1.0,INFO
+state_CT,0.00034155772668465503,1.0,INFO
+state_DC,1.4861702723268248e-05,1.0,INFO
+state_FL,0.00011200971795956013,1.0,INFO
+state_GA,0.00018705022287730078,1.0,INFO
+state_HI,0.00022805487282212607,1.0,INFO
+state_IA,4.0249355192689985e-05,1.0,INFO
+state_ID,0.0001342863545818827,1.0,INFO
+state_IL,6.784263248531139e-05,1.0,INFO
+state_IN,5.994822139676511e-05,1.0,INFO
+state_KS,5.863516797445205e-05,1.0,INFO
+state_KY,0.0001222979235301924,1.0,INFO
+state_LA,1.600207728476403e-07,1.0,INFO
+state_MA,0.00019520423415398863,1.0,INFO
+state_MD,0.00013132456329961663,1.0,INFO
+state_ME,7.793662745836137e-07,1.0,INFO
+state_MI,0.0001398813851964034,1.0,INFO
+state_MN,0.00039563129920626975,0.9999641,INFO
+state_MO,1.0109967196896372e-05,1.0,INFO
+state_MS,0.0,1.0,INFO
+state_MT,0.0001896171215041463,1.0,INFO
+state_NC,0.00017405004992940043,1.0,INFO
+state_ND,1.7626412235197597e-05,1.0,INFO
+state_NE,0.00012846878765219335,1.0,INFO
+state_NH,0.0,1.0,INFO
+state_NJ,1.2850187420371653e-05,1.0,INFO
+state_NM,0.00010616440530732878,1.0,INFO
+state_NV,6.875364048006652e-05,1.0,INFO
+state_NY,0.00012022505025738253,0.9999995,INFO
+state_OH,7.1041054492583e-08,1.0,INFO
+state_OK,0.00019250356791499553,1.0,INFO
+state_OR,5.1898738239136655e-05,1.0,INFO
+state_PA,0.00027361925695498047,0.9979433,INFO
+state_RI,1.1159678128337601e-05,1.0,INFO
+state_SC,3.996733879761788e-06,1.0,INFO
+state_SD,0.0001771015809247274,1.0,INFO
+state_TN,3.8638108182901424e-05,1.0,INFO
+state_TX,3.280752298162035e-05,1.0,INFO
+state_UT,0.0002579093784904962,1.0,INFO
+state_VA,3.48631377584314e-05,1.0,INFO
+state_VT,3.44006305506707e-05,1.0,INFO
+state_WA,1.6214153796519723e-06,1.0,INFO
+state_WI,2.6116796414454223e-05,1.0,INFO
+state_WV,0.00035147129924892095,0.9999997,INFO
+state_WY,0.000137266408452395,1.0,INFO
+zip_10039,5.369282734158634e-05,1.0,INFO
+zip_10162,1.8242161182430476e-05,1.0,INFO
+zip_10280,0.00013866944811572357,1.0,INFO
+zip_10463,0.0005923070564266854,1.0,INFO
+zip_10504,8.141814858405143e-05,1.0,INFO
+zip_10548,0.00018580180754505432,1.0,INFO
+zip_10604,4.4668746295404814e-05,1.0,INFO
+zip_10962,3.345086499043621e-05,1.0,INFO
+zip_10970,0.0001014288161142966,1.0,INFO
+zip_11217,0.0003223102043781548,1.0,INFO
+zip_11413,0.00013866944811572357,1.0,INFO
+zip_11419,0.00015333774116289297,1.0,INFO
+zip_11710,1.3012791419454795e-06,1.0,INFO
+zip_11768,0.00010220514075973422,1.0,INFO
+zip_11769,5.352375115741789e-05,1.0,INFO
+zip_11796,0.00012281174257451616,1.0,INFO
+zip_11955,6.679070569078347e-06,1.0,INFO
+zip_11957,0.00011759734698545894,1.0,INFO
+zip_11964,0.00014350696798106093,1.0,INFO
+zip_11978,4.23018567697094e-05,1.0,INFO
+zip_12037,0.0,1.0,INFO
+zip_12092,2.232435963345523e-05,1.0,INFO
+zip_12093,5.1261179818234104e-05,1.0,INFO
+zip_12222,0.0002117043307941975,1.0,INFO
+zip_12410,0.00014725008824608047,1.0,INFO
+zip_12419,8.394901809490084e-05,1.0,INFO
+zip_12455,7.706117130543204e-06,1.0,INFO
+zip_12460,3.4910723482050266e-05,1.0,INFO
+zip_12466,8.242115282022525e-05,1.0,INFO
+zip_12534,0.0001914329239840564,1.0,INFO
+zip_1257,7.35248913767468e-05,1.0,INFO
+zip_12575,1.478854528693681e-05,1.0,INFO
+zip_12910,0.0,1.0,INFO
+zip_12986,1.1014510364078618e-06,1.0,INFO
+zip_12992,5.35237511574179e-05,1.0,INFO
+zip_1330,0.0,1.0,INFO
+zip_13304,0.00011523305329689447,1.0,INFO
+zip_13316,0.00012172959998378885,1.0,INFO
+zip_13342,0.00016732838066854555,1.0,INFO
+zip_13361,0.00025566306213846955,1.0,INFO
+zip_13367,5.1261179818234104e-05,1.0,INFO
+zip_13425,4.466874629540481e-05,1.0,INFO
+zip_13469,0.0,1.0,INFO
+zip_13484,2.860422881413695e-06,1.0,INFO
+zip_13615,3.982877225053262e-05,1.0,INFO
+zip_13647,0.00036222925310610334,1.0,INFO
+zip_13752,4.3174822686514226e-05,1.0,INFO
+zip_13755,3.033733155025224e-06,1.0,INFO
+zip_13795,0.0,1.0,INFO
+zip_13811,0.00017113775807745256,1.0,INFO
+zip_14037,1.7689984072623173e-05,1.0,INFO
+zip_14120,6.733447133878483e-05,1.0,INFO
+zip_14141,0.0,1.0,INFO
+zip_14425,0.0003022217482218163,1.0,INFO
+zip_14445,4.0556513311449894e-05,1.0,INFO
+zip_14479,4.768010303406207e-06,1.0,INFO
+zip_14510,2.328503472137348e-06,1.0,INFO
+zip_14522,0.00023662724412436273,1.0,INFO
+zip_14537,5.126117981823411e-05,1.0,INFO
+zip_14586,0.0,1.0,INFO
+zip_14707,6.804598673726286e-05,1.0,INFO
+zip_14711,1.6402424774888793e-05,1.0,INFO
+zip_14733,2.431223751006747e-05,1.0,INFO
+zip_14778,0.0,1.0,INFO
+zip_14816,0.0001296597520473538,1.0,INFO
+zip_15010,8.713921891275558e-05,1.0,INFO
+zip_15056,3.452145388163107e-06,1.0,INFO
+zip_15077,0.0001292695571576746,1.0,INFO
+zip_15217,2.972405509678706e-05,1.0,INFO
+zip_15324,6.463867637827813e-06,1.0,INFO
+zip_1535,1.438660406016616e-05,1.0,INFO
+zip_15377,4.3530702878090336e-06,1.0,INFO
+zip_15432,5.345609859873199e-05,1.0,INFO
+zip_15449,0.00024134309819966962,1.0,INFO
+zip_1545,0.00020449037761101674,1.0,INFO
+zip_15458,6.679070569078347e-06,1.0,INFO
+zip_15480,4.7317789641904335e-05,1.0,INFO
+zip_15484,3.613351911720888e-05,1.0,INFO
+zip_15486,8.713921891275558e-05,1.0,INFO
+zip_15557,0.00026922930740267515,1.0,INFO
+zip_15665,0.0001919893682225916,1.0,INFO
+zip_15686,2.22509094420983e-06,1.0,INFO
+zip_15727,4.2301856769709426e-05,1.0,INFO
+zip_15829,5.846628005550711e-05,1.0,INFO
+zip_15834,8.242115282022525e-05,1.0,INFO
+zip_15920,0.00029290547492860733,1.0,INFO
+zip_15923,0.0002697484880974061,1.0,INFO
+zip_16034,0.0004550383422349627,1.0,INFO
+zip_16037,0.00010220514075973422,1.0,INFO
+zip_16048,3.982877225053257e-05,1.0,INFO
+zip_16114,0.00012824548255334586,1.0,INFO
+zip_1612,0.0,1.0,INFO
+zip_16239,0.00014725008824608045,1.0,INFO
+zip_16314,0.0,1.0,INFO
+zip_16329,8.141814858405145e-05,1.0,INFO
+zip_16362,0.0001623462034055655,1.0,INFO
+zip_16421,2.4400360256477946e-05,1.0,INFO
+zip_16839,1.8895197160377707e-06,1.0,INFO
+zip_16858,0.0001282454825533459,1.0,INFO
+zip_16878,0.00013416990170830216,1.0,INFO
+zip_17041,1.5410870024505148e-06,1.0,INFO
+zip_17051,6.463867637827809e-06,1.0,INFO
+zip_17058,6.262051723782807e-06,1.0,INFO
+zip_17060,1.0018355865716621e-05,1.0,INFO
+zip_17088,0.00018254943232023287,1.0,INFO
+zip_17327,0.0003393999377144457,1.0,INFO
+zip_17850,0.00010990278356823293,1.0,INFO
+zip_17929,0.00020449037761101677,1.0,INFO
+zip_18103,0.00014350696798106093,1.0,INFO
+zip_18246,4.768010303406207e-06,1.0,INFO
+zip_18357,0.0,1.0,INFO
+zip_1843,1.1790301943233414e-06,1.0,INFO
+zip_18433,4.017417913260404e-05,1.0,INFO
+zip_1844,1.528993738305764e-05,1.0,INFO
+zip_18917,5.891652845771446e-06,1.0,INFO
+zip_19007,0.0002626110955129528,1.0,INFO
+zip_19017,5.345609859873199e-05,1.0,INFO
+zip_19149,4.7557372890665617e-05,1.0,INFO
+zip_19154,0.00024272407754351522,1.0,INFO
+zip_19310,1.1788312072877839e-05,1.0,INFO
+zip_19456,6.963060137017287e-05,1.0,INFO
+zip_20012,7.879938296008659e-05,1.0,INFO
+zip_20017,6.679070569078347e-06,1.0,INFO
+zip_20036,2.130483661895937e-06,1.0,INFO
+zip_20634,5.846628005550711e-05,1.0,INFO
+zip_20687,0.00015852822329176278,1.0,INFO
+zip_20776,0.00022359928633060205,1.0,INFO
+zip_20882,3.707900296326449e-06,1.0,INFO
+zip_20895,2.4312237510067485e-05,1.0,INFO
+zip_21087,7.71003480412759e-06,1.0,INFO
+zip_21090,6.679070569078347e-06,1.0,INFO
+zip_21102,0.00041624863263865894,1.0,INFO
+zip_21208,3.707900296326449e-06,1.0,INFO
+zip_21405,0.00023662724412436273,1.0,INFO
+zip_21524,0.0,1.0,INFO
+zip_21619,3.033733155025224e-06,1.0,INFO
+zip_21658,0.0,1.0,INFO
+zip_21750,1.1790301943233435e-06,1.0,INFO
+zip_21790,2.5141446829699582e-05,1.0,INFO
+zip_2180,4.0556513311449894e-05,1.0,INFO
+zip_21865,0.0,1.0,INFO
+zip_21872,3.784059368704708e-06,1.0,INFO
+zip_21913,1.8895197160377713e-06,1.0,INFO
+zip_22015,5.126117981823411e-05,1.0,INFO
+zip_22046,3.4521453881631104e-06,1.0,INFO
+zip_22151,1.1132572519138092e-05,1.0,INFO
+zip_22204,0.0,1.0,INFO
+zip_22213,0.00036961262148028896,1.0,INFO
+zip_22311,0.00010103175206000631,1.0,INFO
+zip_22719,5.891652845771446e-06,1.0,INFO
+zip_22810,3.0870188033273536e-05,1.0,INFO
+zip_22824,1.8242161182430476e-05,1.0,INFO
+zip_22853,3.210858007774796e-05,1.0,INFO
+zip_22968,0.0003421700903069316,1.0,INFO
+zip_23106,2.232435963345523e-05,1.0,INFO
+zip_23303,0.0,1.0,INFO
+zip_23357,7.71003480412759e-06,1.0,INFO
+zip_23666,0.0005265496225697141,1.0,INFO
+zip_23850,0.0001150990552706836,1.0,INFO
+zip_23860,8.396487437955765e-05,1.0,INFO
+zip_23937,1.9102120137770352e-05,1.0,INFO
+zip_24070,4.11383582812197e-05,1.0,INFO
+zip_24236,0.0,1.0,INFO
+zip_24266,0.00010103175206000631,1.0,INFO
+zip_24340,5.757644251010356e-05,1.0,INFO
+zip_24433,1.5410870024505055e-06,1.0,INFO
+zip_24878,3.3657226663029884e-05,1.0,INFO
+zip_24927,1.0018355865716621e-05,1.0,INFO
+zip_24970,0.00017724046365926146,1.0,INFO
+zip_24983,0.0002235992863306021,1.0,INFO
+zip_24986,4.768010303406207e-06,1.0,INFO
+zip_25049,1.8895197160377713e-06,1.0,INFO
+zip_25106,4.924015335107161e-05,1.0,INFO
+zip_25213,0.00012590771514769662,1.0,INFO
+zip_25442,6.0724787089218236e-06,1.0,INFO
+zip_25526,2.228519915201263e-05,1.0,INFO
+zip_25832,1.1159678128337601e-05,1.0,INFO
+zip_26041,1.3724532802480387e-06,1.0,INFO
+zip_26237,0.0013937808960237741,1.0,INFO
+zip_26292,8.22477029917392e-05,1.0,INFO
+zip_2630,3.650435540737798e-05,1.0,INFO
+zip_26339,0.00014350696798106093,1.0,INFO
+zip_27249,1.5425074486961936e-05,1.0,INFO
+zip_27258,0.00019668841397029347,1.0,INFO
+zip_27311,3.116842104111414e-05,1.0,INFO
+zip_27358,9.043704275684868e-05,1.0,INFO
+zip_27522,1.2706148212767014e-05,1.0,INFO
+zip_27807,0.00029408938576526813,1.0,INFO
+zip_27837,9.541028491477448e-06,1.0,INFO
+zip_28073,0.0004929501323926827,1.0,INFO
+zip_28117,2.2013044214986948e-05,1.0,INFO
+zip_28314,1.1790301943233435e-06,1.0,INFO
+zip_28372,5.0302917681935345e-05,1.0,INFO
+zip_28405,4.010558524034984e-06,1.0,INFO
+zip_28423,0.00010515925146569877,1.0,INFO
+zip_28530,0.0,1.0,INFO
+zip_28611,0.0003136178382326059,1.0,INFO
+zip_28654,1.3724532802480387e-06,1.0,INFO
+zip_28659,6.5646769851082e-05,1.0,INFO
+zip_28901,2.043602792269453e-06,1.0,INFO
+zip_29032,0.00013481165488510598,1.0,INFO
+zip_29061,1.7689984072623163e-05,1.0,INFO
+zip_2908,1.1159678128337601e-05,1.0,INFO
+zip_29081,3.365722666302989e-05,1.0,INFO
+zip_29105,4.779057036040145e-05,1.0,INFO
+zip_29127,5.0302917681935345e-05,1.0,INFO
+zip_29170,8.711149212211533e-06,1.0,INFO
+zip_29209,0.00017469722717477823,1.0,INFO
+zip_29320,2.1682791065334298e-05,1.0,INFO
+zip_29324,1.3363146768089856e-05,1.0,INFO
+zip_29436,0.0,1.0,INFO
+zip_29438,6.06528130183054e-05,1.0,INFO
+zip_29455,1.207382777239977e-06,1.0,INFO
+zip_29661,0.00015159647746669876,1.0,INFO
+zip_29809,0.00030282829569388853,1.0,INFO
+zip_29817,7.548443661470501e-05,1.0,INFO
+zip_29819,4.5174841276201844e-05,1.0,INFO
+zip_29860,2.7670125780519464e-05,1.0,INFO
+zip_29911,1.2706148212767014e-05,1.0,INFO
+zip_29939,2.2285199152012628e-05,1.0,INFO
+zip_30009,1.5410870024505148e-06,1.0,INFO
+zip_30257,3.033733155025224e-06,1.0,INFO
+zip_30426,3.937715261510925e-05,1.0,INFO
+zip_30756,0.0002319703071439042,1.0,INFO
+zip_30803,3.619682259387001e-05,1.0,INFO
+zip_31003,0.0002749772510739511,1.0,INFO
+zip_31042,3.650435540737798e-05,1.0,INFO
+zip_31046,2.7670125780519464e-05,1.0,INFO
+zip_31092,2.232435963345523e-05,1.0,INFO
+zip_31305,0.00038693864545929243,1.0,INFO
+zip_31329,1.0018355865716604e-05,1.0,INFO
+zip_31547,0.0003393999377144457,1.0,INFO
+zip_31561,6.679070569078347e-06,1.0,INFO
+zip_31563,8.969934961869647e-05,1.0,INFO
+zip_31567,4.2301856769709426e-05,1.0,INFO
+zip_31605,3.4910723482050266e-05,1.0,INFO
+zip_31630,0.0007334186344419443,1.0,INFO
+zip_31632,1.7570695581478259e-06,1.0,INFO
+zip_31771,0.00016740634876479633,1.0,INFO
+zip_32044,4.779057036040146e-05,1.0,INFO
+zip_3220,0.00013068548442216093,1.0,INFO
+zip_32323,4.884584565860715e-05,1.0,INFO
+zip_32442,0.00020449037761101677,1.0,INFO
+zip_32565,6.679070569078347e-06,1.0,INFO
+zip_32725,5.0302917681935345e-05,1.0,INFO
+zip_32780,6.909301669759039e-06,1.0,INFO
+zip_32784,0.0004083682742281307,1.0,INFO
+zip_32935,1.178831207287784e-05,1.0,INFO
+zip_32960,0.0,1.0,INFO
+zip_33040,0.000539998404433369,1.0,INFO
+zip_33404,2.232435963345523e-05,1.0,INFO
+zip_33417,3.349404789493225e-05,1.0,INFO
+zip_33470,6.703318705918748e-05,1.0,INFO
+zip_33510,0.00010515925146569877,1.0,INFO
+zip_33620,6.207101167781245e-05,1.0,INFO
+zip_33710,0.0006227581327160821,1.0,INFO
+zip_33760,9.043704275684865e-05,1.0,INFO
+zip_33809,1.8242161182430476e-05,1.0,INFO
+zip_33811,0.0008732713123349431,1.0,INFO
+zip_33813,3.707900296326449e-06,1.0,INFO
+zip_33844,9.562620491753953e-05,1.0,INFO
+zip_33872,1.782958740639011e-05,1.0,INFO
+zip_33873,0.0,1.0,INFO
+zip_33909,0.0,1.0,INFO
+zip_33956,9.311877053565688e-05,1.0,INFO
+zip_33967,4.205327929931742e-05,1.0,INFO
+zip_33981,5.369282734158634e-05,1.0,INFO
+zip_34112,3.613351911720888e-05,1.0,INFO
+zip_34120,2.5141446829699582e-05,1.0,INFO
+zip_34135,0.0,1.0,INFO
+zip_3452,0.00010220514075973419,1.0,INFO
+zip_34668,2.9145919617210432e-05,1.0,INFO
+zip_34953,0.00013866944811572357,1.0,INFO
+zip_35022,6.39352811464564e-05,1.0,INFO
+zip_35049,1.3074245428054098e-05,1.0,INFO
+zip_35131,5.35237511574179e-05,1.0,INFO
+zip_35211,0.0,1.0,INFO
+zip_35229,7.145965337650184e-05,1.0,INFO
+zip_35554,0.0005204235189716311,1.0,INFO
+zip_35581,4.2301856769709426e-05,1.0,INFO
+zip_35651,0.00016848649387918337,1.0,INFO
+zip_35747,3.257590260692518e-05,1.0,INFO
+zip_35764,7.706117130543192e-06,1.0,INFO
+zip_35776,0.00019498270880914035,1.0,INFO
+zip_35803,2.580005824378282e-05,1.0,INFO
+zip_35811,0.00026806990583853337,1.0,INFO
+zip_35901,1.7689984072623173e-05,1.0,INFO
+zip_35903,2.043602792269452e-06,1.0,INFO
+zip_36009,2.5671671592569294e-06,1.0,INFO
+zip_3601,0.00012562386071259012,1.0,INFO
+zip_36111,9.562620491753953e-05,1.0,INFO
+zip_36344,0.00031325325618983247,1.0,INFO
+zip_36507,0.0005467419806431024,1.0,INFO
+zip_36532,5.35237511574179e-05,1.0,INFO
+zip_36541,6.134317863680421e-05,1.0,INFO
+zip_36617,3.436289464974321e-05,1.0,INFO
+zip_36749,3.096611581143074e-05,1.0,INFO
+zip_36758,3.53322607000678e-05,1.0,INFO
+zip_36775,7.052305170177992e-05,1.0,INFO
+zip_36853,0.00027497725107395105,1.0,INFO
+zip_36869,0.0,1.0,INFO
+zip_37040,0.00015333774116289294,1.0,INFO
+zip_37132,6.463867637827813e-06,1.0,INFO
+zip_37138,4.0556513311449894e-05,1.0,INFO
+zip_37165,0.00025202977177480614,1.0,INFO
+zip_37302,0.0002366272441243627,1.0,INFO
+zip_3753,2.9145919617210432e-05,1.0,INFO
+zip_37663,4.731778964190432e-05,1.0,INFO
+zip_3774,7.71003480412759e-06,1.0,INFO
+zip_37754,1.4319062464093236e-05,1.0,INFO
+zip_37849,0.0001807570232645825,1.0,INFO
+zip_37932,1.1716774616536578e-05,1.0,INFO
+zip_38039,0.00013474908688130294,1.0,INFO
+zip_38060,3.707900296326453e-06,1.0,INFO
+zip_38079,1.4320091368979128e-05,1.0,INFO
+zip_3816,0.00012172959998378885,1.0,INFO
+zip_3818,9.541028491477443e-06,1.0,INFO
+zip_38315,0.0001809541936290788,1.0,INFO
+zip_3858,6.679070569078354e-06,1.0,INFO
+zip_38668,0.0,1.0,INFO
+zip_38677,1.697581276731701e-06,1.0,INFO
+zip_38740,2.737075209696216e-05,1.0,INFO
+zip_38761,0.0,1.0,INFO
+zip_38778,3.365722666302989e-05,1.0,INFO
+zip_38922,1.2706148212767014e-05,1.0,INFO
+zip_38949,7.71003480412759e-06,1.0,INFO
+zip_3905,2.5141446829699582e-05,1.0,INFO
+zip_39073,5.011062097554697e-06,1.0,INFO
+zip_39113,0.00013396599484816055,1.0,INFO
+zip_39157,0.0001724893586624169,1.0,INFO
+zip_39211,3.365722666302989e-05,1.0,INFO
+zip_39439,4.731778964190432e-05,1.0,INFO
+zip_39572,7.71003480412759e-06,1.0,INFO
+zip_39653,5.891652845771446e-06,1.0,INFO
+zip_39665,3.210858007774796e-05,1.0,INFO
+zip_39769,0.0001914001552095638,1.0,INFO
+zip_39825,2.9145919617210432e-05,1.0,INFO
+zip_39840,0.0,1.0,INFO
+zip_39897,0.0,1.0,INFO
+zip_40056,4.317482268651423e-05,1.0,INFO
+zip_40062,9.118578527387357e-06,1.0,INFO
+zip_40077,9.034322319395847e-07,1.0,INFO
+zip_40170,0.0,1.0,INFO
+zip_40202,0.00027474798206887733,1.0,INFO
+zip_40209,7.052305170177992e-05,1.0,INFO
+zip_40336,7.05230517017799e-05,1.0,INFO
+zip_4047,3.53322607000678e-05,1.0,INFO
+zip_40502,0.0,1.0,INFO
+zip_4074,3.345086499043621e-05,1.0,INFO
+zip_40820,9.681133820800384e-05,1.0,INFO
+zip_40914,2.567167159256931e-06,1.0,INFO
+zip_41056,1.4320091368979138e-05,1.0,INFO
+zip_41254,7.879938296008659e-05,1.0,INFO
+zip_41810,1.7021832648146787e-05,1.0,INFO
+zip_41812,2.866022480677849e-05,1.0,INFO
+zip_41836,0.00045591417692007833,1.0,INFO
+zip_42049,5.270526970956171e-06,1.0,INFO
+zip_4210,8.713921891275558e-05,1.0,INFO
+zip_42171,1.1790301943233435e-06,1.0,INFO
+zip_42211,0.0002117043307941975,1.0,INFO
+zip_4226,0.00015452790667899022,1.0,INFO
+zip_42273,1.1159678128337601e-05,1.0,INFO
+zip_42634,2.7370752096962177e-05,1.0,INFO
+zip_42701,6.45198383228235e-05,1.0,INFO
+zip_42731,0.00016095891029484116,1.0,INFO
+zip_4286,3.3657226663029884e-05,1.0,INFO
+zip_4287,1.910212013777039e-05,1.0,INFO
+zip_43070,2.232435963345523e-05,1.0,INFO
+zip_43076,0.0,1.0,INFO
+zip_43102,0.0002315620362821152,1.0,INFO
+zip_43136,4.768010303406207e-06,1.0,INFO
+zip_43160,6.238194012365118e-05,1.0,INFO
+zip_43321,1.5410870024505148e-06,1.0,INFO
+zip_43330,1.495152352010408e-06,1.0,INFO
+zip_43408,9.562620491753953e-05,1.0,INFO
+zip_4364,3.365722666302989e-05,1.0,INFO
+zip_43760,3.650435540737798e-05,1.0,INFO
+zip_43767,0.0,1.0,INFO
+zip_43903,0.00019198936822259157,1.0,INFO
+zip_43985,8.652370208889651e-05,1.0,INFO
+zip_44223,0.00020103190396168633,1.0,INFO
+zip_44233,5.529290364281677e-05,1.0,INFO
+zip_44265,0.00015089662177955804,1.0,INFO
+zip_44307,2.8778210746411887e-05,1.0,INFO
+zip_44412,0.0,1.0,INFO
+zip_44483,1.3363146768089832e-05,1.0,INFO
+zip_44702,0.0,1.0,INFO
+zip_44804,0.00037220797444092383,1.0,INFO
+zip_44857,9.118578527387357e-06,1.0,INFO
+zip_44902,4.4035255805838176e-05,1.0,INFO
+zip_45051,0.0010906500282976067,1.0,INFO
+zip_45106,4.779057036040145e-05,1.0,INFO
+zip_45150,2.1112179276374267e-05,1.0,INFO
+zip_45307,0.00019140015520956372,1.0,INFO
+zip_45331,3.619682259387001e-05,1.0,INFO
+zip_45342,6.451983832282352e-05,1.0,INFO
+zip_45415,0.00033907922419703805,1.0,INFO
+zip_4555,0.00024363960568696426,1.0,INFO
+zip_45622,1.589938859440898e-06,1.0,INFO
+zip_45638,7.71003480412759e-06,1.0,INFO
+zip_45698,0.00017113775807745248,1.0,INFO
+zip_45801,4.253735152285378e-05,1.0,INFO
+zip_45808,1.2526322301814062e-05,1.0,INFO
+zip_45860,7.358497803730374e-05,1.0,INFO
+zip_45879,2.043602792269453e-06,1.0,INFO
+zip_45896,0.00046353133396815407,1.0,INFO
+zip_46143,0.00017113775807745256,1.0,INFO
+zip_4616,0.00020150002732788108,1.0,INFO
+zip_46254,4.432564474821476e-05,1.0,INFO
+zip_46290,0.0001410911473124468,1.0,INFO
+zip_46322,0.00012081679589469324,1.0,INFO
+zip_46346,0.0002926279757903885,1.0,INFO
+zip_46366,1.6402424774888793e-05,1.0,INFO
+zip_46702,1.4951523520104073e-06,1.0,INFO
+zip_46723,6.804598673726286e-05,1.0,INFO
+zip_46765,1.8208856507773277e-06,1.0,INFO
+zip_4680,3.927626220299646e-05,1.0,INFO
+zip_46946,0.000329673713609211,1.0,INFO
+zip_47032,4.768010303406207e-06,1.0,INFO
+zip_47110,1.2526322301814062e-05,1.0,INFO
+zip_47434,7.706117130543204e-06,1.0,INFO
+zip_47451,7.308897549583666e-05,1.0,INFO
+zip_47470,0.00012143948677548685,1.0,INFO
+zip_47515,0.0002235992863306021,1.0,INFO
+zip_47838,5.030291768193534e-05,1.0,INFO
+zip_47863,0.0002080341946868927,1.0,INFO
+zip_47869,0.0004159783308422691,1.0,INFO
+zip_47987,9.562620491753953e-05,1.0,INFO
+zip_48034,0.0001807570232645825,1.0,INFO
+zip_48043,0.0,1.0,INFO
+zip_48088,2.220102639839166e-05,1.0,INFO
+zip_48154,0.0,1.0,INFO
+zip_48174,5.274392384719282e-06,1.0,INFO
+zip_48193,0.0,1.0,INFO
+zip_48202,2.580005824378282e-05,1.0,INFO
+zip_48206,0.0,1.0,INFO
+zip_48214,8.11330416317714e-05,1.0,INFO
+zip_48221,1.3363146768089856e-05,1.0,INFO
+zip_48371,4.924015335107161e-05,1.0,INFO
+zip_48438,8.596321293981907e-06,1.0,INFO
+zip_48636,3.033733155025224e-06,1.0,INFO
+zip_48706,2.232435963345523e-05,1.0,INFO
+zip_48850,1.8242161182430476e-05,1.0,INFO
+zip_49101,1.8895197160377713e-06,1.0,INFO
+zip_49259,5.5848458220569715e-05,1.0,INFO
+zip_49440,0.00010703763903815192,1.0,INFO
+zip_4953,2.232435963345523e-05,1.0,INFO
+zip_49613,4.4668746295404814e-05,1.0,INFO
+zip_49621,0.00010068602772476246,1.0,INFO
+zip_49628,5.2910796884595786e-05,1.0,INFO
+zip_49629,0.0004159783308422691,1.0,INFO
+zip_49632,6.262051723782787e-06,1.0,INFO
+zip_49705,1.1132572519138092e-05,1.0,INFO
+zip_49775,3.860027168494942e-05,1.0,INFO
+zip_49826,1.3363146768089832e-05,1.0,INFO
+zip_49854,1.0126415687285583e-06,1.0,INFO
+zip_49879,6.084227465693216e-05,1.0,INFO
+zip_49895,0.00017724046365926146,1.0,INFO
+zip_50073,0.0001385709140187295,1.0,INFO
+zip_50312,7.198307284866504e-05,1.0,INFO
+zip_50314,0.0,1.0,INFO
+zip_50421,2.7058633781553574e-06,1.0,INFO
+zip_50469,5.270526970956171e-06,1.0,INFO
+zip_50527,8.396487437955765e-05,1.0,INFO
+zip_50535,2.8778210746411887e-05,1.0,INFO
+zip_50595,0.00011759734698545894,1.0,INFO
+zip_50598,5.891652845771446e-06,1.0,INFO
+zip_50664,3.619682259387001e-05,1.0,INFO
+zip_5084,8.969934961869642e-05,1.0,INFO
+zip_51003,0.0002774189682837499,1.0,INFO
+zip_51006,0.00043537813653588047,1.0,INFO
+zip_51453,0.0,1.0,INFO
+zip_51521,6.238194012365118e-05,1.0,INFO
+zip_5155,5.757644251010356e-05,1.0,INFO
+zip_51632,6.963060137017287e-05,1.0,INFO
+zip_52217,2.87782107464119e-05,1.0,INFO
+zip_52535,2.6970311699558008e-05,1.0,INFO
+zip_52563,3.22942799588181e-06,1.0,INFO
+zip_52572,0.0001744037101657273,1.0,INFO
+zip_52576,0.0,1.0,INFO
+zip_52658,0.0,1.0,INFO
+zip_52760,9.043704275684868e-05,1.0,INFO
+zip_52768,0.00020103190396168633,1.0,INFO
+zip_53061,2.1682791065334298e-05,1.0,INFO
+zip_53120,3.349404789493225e-05,1.0,INFO
+zip_53129,1.0018355865716621e-05,1.0,INFO
+zip_53153,2.674633861517375e-05,1.0,INFO
+zip_53186,0.00016095891029484113,1.0,INFO
+zip_53228,0.00018266202672118052,1.0,INFO
+zip_53801,8.042859882828925e-05,1.0,INFO
+zip_53803,0.0007334186344419443,1.0,INFO
+zip_53910,2.8778210746411887e-05,1.0,INFO
+zip_53924,7.155910417850323e-06,1.0,INFO
+zip_53926,0.0004125334357151359,1.0,INFO
+zip_54154,0.0001744037101657273,1.0,INFO
+zip_54229,0.000354182865043453,1.0,INFO
+zip_54418,0.00017334931858660455,1.0,INFO
+zip_54441,0.0001529412379625751,1.0,INFO
+zip_54487,0.00011955741171653483,1.0,INFO
+zip_54499,0.0,1.0,INFO
+zip_54559,6.0291343842127604e-05,1.0,INFO
+zip_5461,2.7562866315623965e-05,1.0,INFO
+zip_54654,3.4910723482050266e-05,1.0,INFO
+zip_54726,8.11330416317714e-05,1.0,INFO
+zip_5486,3.033733155025224e-06,1.0,INFO
+zip_54896,0.0,1.0,INFO
+zip_54981,0.0001150990552706836,1.0,INFO
+zip_55001,0.00016095891029484116,1.0,INFO
+zip_55046,4.5642975254642256e-05,1.0,INFO
+zip_55065,0.00027497725107395105,1.0,INFO
+zip_55080,4.5174841276201844e-05,1.0,INFO
+zip_55128,4.358534247004244e-06,1.0,INFO
+zip_55388,3.229427995881807e-06,1.0,INFO
+zip_55403,0.00011393695856979384,1.0,INFO
+zip_55428,5.891652845771446e-06,1.0,INFO
+zip_55606,0.00030331811447115815,1.0,INFO
+zip_55771,0.0005467419806431024,1.0,INFO
+zip_56019,2.5072692693499274e-05,1.0,INFO
+zip_56029,0.0,1.0,INFO
+zip_56068,8.713921891275558e-05,1.0,INFO
+zip_56117,2.5141446829699582e-05,1.0,INFO
+zip_56138,0.000134811654885106,1.0,INFO
+zip_56152,0.0006507323001154487,1.0,INFO
+zip_56321,0.0001410911473124468,1.0,INFO
+zip_56367,0.0,1.0,INFO
+zip_56379,6.451983832282352e-05,1.0,INFO
+zip_5654,3.744553835621389e-05,1.0,INFO
+zip_56546,3.087018803327352e-05,1.0,INFO
+zip_56548,0.0002697484880974061,1.0,INFO
+zip_56549,6.963060137017287e-05,1.0,INFO
+zip_56592,4.4035255805838176e-05,1.0,INFO
+zip_56668,1.7442367610147916e-05,1.0,INFO
+zip_56672,8.396487437955765e-05,1.0,INFO
+zip_56729,2.705863378155357e-06,1.0,INFO
+zip_57036,6.804598673726286e-05,1.0,INFO
+zip_5733,0.00010061750898939385,1.0,INFO
+zip_57340,8.356653916141329e-05,1.0,INFO
+zip_57374,0.0003294811400227051,1.0,INFO
+zip_57426,0.0,1.0,INFO
+zip_57439,2.8778210746411887e-05,1.0,INFO
+zip_57641,0.00027497725107395105,1.0,INFO
+zip_57717,2.2013044214986948e-05,1.0,INFO
+zip_57732,9.107188832694364e-06,1.0,INFO
+zip_57756,7.155910417850324e-06,1.0,INFO
+zip_58015,1.8242161182430476e-05,1.0,INFO
+zip_58259,2.8778210746411887e-05,1.0,INFO
+zip_58275,2.860422881413695e-06,1.0,INFO
+zip_58531,7.580078735213243e-05,1.0,INFO
+zip_58569,9.116249098176331e-06,1.0,INFO
+zip_58579,0.00014838333380055152,1.0,INFO
+zip_58651,8.34817290833079e-06,1.0,INFO
+zip_58765,0.00047429520634703816,1.0,INFO
+zip_58769,0.00014725008824608045,1.0,INFO
+zip_59014,1.6419949594730096e-06,1.0,INFO
+zip_59448,0.0001961417312650677,1.0,INFO
+zip_59542,2.328503472137348e-06,1.0,INFO
+zip_59632,9.118578527387359e-06,1.0,INFO
+zip_59710,6.207101167781245e-05,1.0,INFO
+zip_59714,6.703318705918746e-05,1.0,INFO
+zip_59871,0.00024134309819966962,1.0,INFO
+zip_60072,8.713921891275558e-05,1.0,INFO
+zip_60091,0.00010068602772476246,1.0,INFO
+zip_60193,0.00020103190396168633,1.0,INFO
+zip_6024,0.0004832935175353568,1.0,INFO
+zip_60432,0.00023694457049965167,1.0,INFO
+zip_60913,5.126117981823411e-05,1.0,INFO
+zip_60958,5.790067349390757e-05,1.0,INFO
+zip_60963,0.00042151302134077267,1.0,INFO
+zip_61272,0.0003223102043781548,1.0,INFO
+zip_61335,0.00022805434995687123,1.0,INFO
+zip_61454,9.116249098176331e-06,1.0,INFO
+zip_61477,2.8778210746411887e-05,1.0,INFO
+zip_61530,7.4208107336302036e-06,1.0,INFO
+zip_61560,7.71003480412759e-06,1.0,INFO
+zip_61830,0.00036961262148028896,1.0,INFO
+zip_62023,0.00032356378262787507,1.0,INFO
+zip_62067,1.702183264814679e-05,1.0,INFO
+zip_62075,0.0002749772510739511,1.0,INFO
+zip_62262,5.416740661324394e-06,1.0,INFO
+zip_62266,4.0046369471545226e-06,1.0,INFO
+zip_62360,0.00010746583500055557,1.0,INFO
+zip_62424,5.5848458220569715e-05,1.0,INFO
+zip_62571,7.420810733630187e-06,1.0,INFO
+zip_62661,7.358497803730371e-05,1.0,INFO
+zip_62668,0.00015061444806295269,1.0,INFO
+zip_62673,0.0010297938107835644,1.0,INFO
+zip_62856,0.00010588070655260383,1.0,INFO
+zip_62888,0.0,1.0,INFO
+zip_62926,9.562620491753953e-05,1.0,INFO
+zip_62935,5.35237511574179e-05,1.0,INFO
+zip_62939,3.22942799588181e-06,1.0,INFO
+zip_62970,0.00020449037761101674,1.0,INFO
+zip_63010,7.308897549583668e-05,1.0,INFO
+zip_63021,0.00010081137560593048,1.0,INFO
+zip_63131,2.0077074548724752e-05,1.0,INFO
+zip_63336,0.0001515964774666988,1.0,INFO
+zip_63353,7.71003480412759e-06,1.0,INFO
+zip_63388,0.00015333774116289297,1.0,INFO
+zip_63453,2.3145123933040963e-05,1.0,INFO
+zip_63533,8.396487437955765e-05,1.0,INFO
+zip_63565,1.2526322301814054e-05,1.0,INFO
+zip_6365,8.396487437955765e-05,1.0,INFO
+zip_63665,6.39352811464564e-05,1.0,INFO
+zip_63829,5.891652845771447e-06,1.0,INFO
+zip_63867,0.0,1.0,INFO
+zip_64017,0.0001919893682225916,1.0,INFO
+zip_64019,0.0,1.0,INFO
+zip_64058,0.00020103190396168633,1.0,INFO
+zip_64076,0.00013481165488510598,1.0,INFO
+zip_64114,5.1645234854784476e-05,1.0,INFO
+zip_6441,0.00018584247061636448,1.0,INFO
+zip_6444,1.4320091368979138e-05,1.0,INFO
+zip_64470,0.0001943547332392429,1.0,INFO
+zip_64630,6.134317863680421e-05,1.0,INFO
+zip_64659,6.745288639911455e-05,1.0,INFO
+zip_64686,2.7670125780519464e-05,1.0,INFO
+zip_64726,0.00010746583500055553,1.0,INFO
+zip_64874,0.0001296597520473538,1.0,INFO
+zip_65066,0.0006439352129901797,1.0,INFO
+zip_65072,1.0778160870942685e-06,1.0,INFO
+zip_65354,4.0046369471545226e-06,1.0,INFO
+zip_65680,0.00016740634876479633,1.0,INFO
+zip_65745,0.0,1.0,INFO
+zip_66018,2.344418213896005e-05,1.0,INFO
+zip_66020,5.757644251010359e-05,1.0,INFO
+zip_66070,3.4910723482050266e-05,1.0,INFO
+zip_66616,0.0,1.0,INFO
+zip_66618,0.00017724046365926146,1.0,INFO
+zip_66941,0.0005220417590156291,1.0,INFO
+zip_66958,0.0,1.0,INFO
+zip_67020,4.7317789641904335e-05,1.0,INFO
+zip_67038,5.891652845771447e-06,1.0,INFO
+zip_67216,0.0001515964774666988,1.0,INFO
+zip_67232,8.250113429339399e-05,1.0,INFO
+zip_67529,0.00046353133396815407,1.0,INFO
+zip_67545,5.1261179818234104e-05,1.0,INFO
+zip_67556,0.0,1.0,INFO
+zip_67584,1.1716774616536575e-05,1.0,INFO
+zip_67635,7.71003480412759e-06,1.0,INFO
+zip_6782,6.262051723782807e-06,1.0,INFO
+zip_67851,1.387853464170541e-05,1.0,INFO
+zip_68031,7.352489137674678e-05,1.0,INFO
+zip_68117,7.052305170177992e-05,1.0,INFO
+zip_68403,0.00014071933894913976,1.0,INFO
+zip_68438,0.0,1.0,INFO
+zip_68463,2.860422881413695e-06,1.0,INFO
+zip_68626,6.679070569078354e-06,1.0,INFO
+zip_68638,3.650435540737796e-05,1.0,INFO
+zip_68641,0.0003208099060456402,1.0,INFO
+zip_68723,9.562620491753953e-05,1.0,INFO
+zip_68859,5.894067031250936e-06,1.0,INFO
+zip_68869,7.052305170177992e-05,1.0,INFO
+zip_68881,5.316936570894485e-05,1.0,INFO
+zip_68932,4.4035255805838156e-05,1.0,INFO
+zip_68950,1.7689984072623163e-05,1.0,INFO
+zip_68961,0.0,1.0,INFO
+zip_68973,3.8251089396821946e-05,1.0,INFO
+zip_69165,8.394901809490079e-05,1.0,INFO
+zip_69201,0.00035418286504345297,1.0,INFO
+zip_70003,7.198307284866504e-05,1.0,INFO
+zip_7005,0.0003393999377144457,1.0,INFO
+zip_70056,7.4208107336302036e-06,1.0,INFO
+zip_70062,2.328503472137347e-06,1.0,INFO
+zip_7022,5.126117981823411e-05,1.0,INFO
+zip_70466,0.0,1.0,INFO
+zip_70531,5.894067031250936e-06,1.0,INFO
+zip_7060,1.6716418018898796e-05,1.0,INFO
+zip_70726,0.00010588070655260384,1.0,INFO
+zip_70732,0.00014881153791606973,1.0,INFO
+zip_70774,0.00014004288192627804,1.0,INFO
+zip_70808,9.916246473029165e-06,1.0,INFO
+zip_71232,0.00024134309819966962,1.0,INFO
+zip_71277,0.0,1.0,INFO
+zip_71291,0.0005075259324333981,1.0,INFO
+zip_71762,9.107188832694364e-06,1.0,INFO
+zip_71832,2.232435963345523e-05,1.0,INFO
+zip_71854,5.757644251010356e-05,1.0,INFO
+zip_71960,3.844022345184094e-05,1.0,INFO
+zip_72011,0.00023940413748336185,1.0,INFO
+zip_72042,1.5141616783409742e-05,1.0,INFO
+zip_72047,0.00014004288192627804,1.0,INFO
+zip_72059,0.0,1.0,INFO
+zip_7208,7.308897549583668e-05,1.0,INFO
+zip_72165,7.587195181309668e-06,1.0,INFO
+zip_72341,4.466874629540481e-05,1.0,INFO
+zip_72354,0.0,1.0,INFO
+zip_72476,8.95058841671216e-05,1.0,INFO
+zip_72513,9.077435165264722e-05,1.0,INFO
+zip_72524,0.00010872580597178741,1.0,INFO
+zip_72529,2.2250909442098357e-06,1.0,INFO
+zip_72583,5.584845822056967e-05,1.0,INFO
+zip_72751,6.679070569078347e-06,1.0,INFO
+zip_72959,1.6715414469927107e-05,1.0,INFO
+zip_73027,3.345086499043619e-05,1.0,INFO
+zip_73034,5.274392384719282e-06,1.0,INFO
+zip_73044,0.0,1.0,INFO
+zip_73134,0.0,1.0,INFO
+zip_73559,6.463867637827809e-06,1.0,INFO
+zip_73564,4.737308283233104e-05,1.0,INFO
+zip_73624,0.00013481165488510598,1.0,INFO
+zip_73669,2.328503472137348e-06,1.0,INFO
+zip_73719,0.0,1.0,INFO
+zip_73754,3.7141542411406658e-06,1.0,INFO
+zip_74047,2.22509094420983e-06,1.0,INFO
+zip_74074,4.4668746295404814e-05,1.0,INFO
+zip_74130,0.0001545279066789902,1.0,INFO
+zip_74131,0.00010081137560593048,1.0,INFO
+zip_7439,0.0002143655794162665,1.0,INFO
+zip_74536,5.9299470232670926e-05,1.0,INFO
+zip_74555,0.00017334931858660455,1.0,INFO
+zip_74633,5.5848458220569715e-05,1.0,INFO
+zip_74720,0.0002452698304454852,1.0,INFO
+zip_74875,6.207101167781245e-05,1.0,INFO
+zip_75048,1.2073827772399746e-06,1.0,INFO
+zip_75092,3.744553835621389e-05,1.0,INFO
+zip_75210,4.768010303406201e-06,1.0,INFO
+zip_75218,0.00010396472658117391,1.0,INFO
+zip_75236,0.0007346254570930473,1.0,INFO
+zip_75238,6.679070569078354e-06,1.0,INFO
+zip_75452,8.042859882828925e-05,1.0,INFO
+zip_75490,0.00013481165488510598,1.0,INFO
+zip_75661,2.5671671592569294e-06,1.0,INFO
+zip_75662,2.0986815569845635e-05,1.0,INFO
+zip_75703,7.155910417850324e-06,1.0,INFO
+zip_75858,1.5289937383057635e-05,1.0,INFO
+zip_75934,0.0001858018075450543,1.0,INFO
+zip_75980,0.0005417233877261481,1.0,INFO
+zip_76008,2.7370752096962177e-05,1.0,INFO
+zip_76050,0.00016890220695839656,1.0,INFO
+zip_76240,0.0006439352129901797,1.0,INFO
+zip_76248,8.639471633554065e-05,1.0,INFO
+zip_76366,2.972405509678706e-05,1.0,INFO
+zip_7640,9.562620491753953e-05,1.0,INFO
+zip_76443,1.178831207287784e-05,1.0,INFO
+zip_76445,1.3363146768089832e-05,1.0,INFO
+zip_76566,0.0,1.0,INFO
+zip_76578,0.00016890220695839656,1.0,INFO
+zip_76626,5.020638769175434e-05,1.0,INFO
+zip_76631,5.891652845771446e-06,1.0,INFO
+zip_76665,0.00016890220695839656,1.0,INFO
+zip_76678,0.0,1.0,INFO
+zip_76834,9.107188832694364e-06,1.0,INFO
+zip_76857,1.4110482937259e-06,1.0,INFO
+zip_76905,7.71003480412759e-06,1.0,INFO
+zip_76951,4.768010303406207e-06,1.0,INFO
+zip_77007,3.982877225053257e-05,1.0,INFO
+zip_77026,2.3145123933040957e-05,1.0,INFO
+zip_7711,0.00020150002732788108,1.0,INFO
+zip_77327,0.0,1.0,INFO
+zip_77338,5.757644251010359e-05,1.0,INFO
+zip_77358,2.4420107736013698e-06,1.0,INFO
+zip_77379,7.71003480412759e-06,1.0,INFO
+zip_77412,0.00016732838066854566,1.0,INFO
+zip_77417,4.353070287809033e-06,1.0,INFO
+zip_7747,0.00011121292697834295,1.0,INFO
+zip_7750,5.5670031479478814e-06,1.0,INFO
+zip_77566,4.302044249061646e-05,1.0,INFO
+zip_7764,2.5141446829699582e-05,1.0,INFO
+zip_77971,4.4668746295404814e-05,1.0,INFO
+zip_78040,6.134317863680417e-05,1.0,INFO
+zip_78113,0.0002315620362821152,1.0,INFO
+zip_78214,0.00027622388360554163,1.0,INFO
+zip_78248,1.1420430572168491e-05,1.0,INFO
+zip_78584,2.9508392009750998e-05,1.0,INFO
+zip_78631,0.0,1.0,INFO
+zip_79063,4.737308283233104e-05,1.0,INFO
+zip_79085,2.328503472137347e-06,1.0,INFO
+zip_79237,3.22942799588181e-06,1.0,INFO
+zip_79252,2.130483661895937e-06,1.0,INFO
+zip_79343,5.352375115741789e-05,1.0,INFO
+zip_79413,6.733447133878482e-05,1.0,INFO
+zip_79539,8.652370208889651e-05,1.0,INFO
+zip_79548,2.860422881413692e-06,1.0,INFO
+zip_79759,6.909301669759039e-06,1.0,INFO
+zip_79772,0.0,1.0,INFO
+zip_7980,1.6402424774888793e-05,1.0,INFO
+zip_79837,0.0002366272441243627,1.0,INFO
+zip_79842,3.982877225053262e-05,1.0,INFO
+zip_79906,0.0006400356042966824,1.0,INFO
+zip_80005,1.8242161182430476e-05,1.0,INFO
+zip_80014,0.00035418286504345297,1.0,INFO
+zip_80021,5.891652845771447e-06,1.0,INFO
+zip_80120,0.00028175978489808573,1.0,INFO
+zip_80138,0.00015159647746669876,1.0,INFO
+zip_8014,4.4035255805838176e-05,1.0,INFO
+zip_80436,0.00025227283010500475,1.0,INFO
+zip_80736,3.229427995881807e-06,1.0,INFO
+zip_80824,1.3363146768089856e-05,1.0,INFO
+zip_80951,8.34817290833079e-06,1.0,INFO
+zip_81005,0.00018584247061636448,1.0,INFO
+zip_81642,0.00045375730931847757,1.0,INFO
+zip_81649,6.679070569078354e-06,1.0,INFO
+zip_82063,5.846628005550707e-05,1.0,INFO
+zip_82072,2.866022480677852e-05,1.0,INFO
+zip_82190,8.113304163177139e-05,1.0,INFO
+zip_82221,3.707900296326453e-06,1.0,INFO
+zip_82227,2.2285199152012628e-05,1.0,INFO
+zip_82501,0.0001256238607125902,1.0,INFO
+zip_82514,5.8445165688045126e-05,1.0,INFO
+zip_82711,3.229427995881807e-06,1.0,INFO
+zip_82901,7.35248913767468e-05,1.0,INFO
+zip_82936,2.9145919617210432e-05,1.0,INFO
+zip_83120,2.7670125780519488e-05,1.0,INFO
+zip_8323,7.658243141431538e-05,1.0,INFO
+zip_8324,2.860422881413692e-06,1.0,INFO
+zip_83252,2.0077074548724745e-05,1.0,INFO
+zip_8350,0.0005305973344562543,1.0,INFO
+zip_83643,0.00011826676892991111,1.0,INFO
+zip_83646,2.005677187185124e-05,1.0,INFO
+zip_83869,0.0003722079744409239,1.0,INFO
+zip_84002,7.138234601333478e-05,1.0,INFO
+zip_84003,1.3363146768089856e-05,1.0,INFO
+zip_84087,0.0,1.0,INFO
+zip_84325,0.00014725008824608045,1.0,INFO
+zip_84532,0.0,1.0,INFO
+zip_84540,0.000455719145590065,1.0,INFO
+zip_84735,0.0001242221795944294,1.0,INFO
+zip_85020,0.0003220803613112569,1.0,INFO
+zip_85086,0.0001292695571576746,1.0,INFO
+zip_85173,2.6402777705662784e-05,1.0,INFO
+zip_85253,0.00026922930740267515,1.0,INFO
+zip_86018,1.178831207287784e-05,1.0,INFO
+zip_86329,5.270526970956171e-06,1.0,INFO
+zip_87035,5.478661578429473e-05,1.0,INFO
+zip_87109,2.87782107464119e-05,1.0,INFO
+zip_87116,0.00010220514075973419,1.0,INFO
+zip_87117,7.640796399319598e-05,1.0,INFO
+zip_87313,7.198307284866504e-05,1.0,INFO
+zip_87417,0.0,1.0,INFO
+zip_87533,4.302044249061646e-05,1.0,INFO
+zip_87540,2.232435963345523e-05,1.0,INFO
+zip_87543,0.00020103190396168633,1.0,INFO
+zip_87558,8.698609864589123e-05,1.0,INFO
+zip_88256,3.937715261510928e-05,1.0,INFO
+zip_8830,9.118578527387359e-06,1.0,INFO
+zip_88325,1.8208856507773321e-06,1.0,INFO
+zip_88355,7.879938296008665e-05,1.0,INFO
+zip_89084,2.8778210746411887e-05,1.0,INFO
+zip_89319,2.0052234234729358e-05,1.0,INFO
+zip_89512,2.483538387337108e-05,1.0,INFO
+zip_89704,0.00030653661015975307,1.0,INFO
+zip_90014,0.0006439352129901797,1.0,INFO
+zip_90250,0.0002880893046156042,1.0,INFO
+zip_90403,0.0002117043307941975,1.0,INFO
+zip_90650,8.250113429339399e-05,1.0,INFO
+zip_91206,0.00024363960568696426,1.0,INFO
+zip_91321,0.0005144943954969026,1.0,INFO
+zip_91702,7.71003480412759e-06,1.0,INFO
+zip_91711,6.679070569078354e-06,1.0,INFO
+zip_92101,0.0001515964774666988,1.0,INFO
+zip_92128,0.00014004288192627804,1.0,INFO
+zip_92210,1.4320091368979138e-05,1.0,INFO
+zip_92267,6.679070569078354e-06,1.0,INFO
+zip_92561,2.5671671592569294e-06,1.0,INFO
+zip_92585,4.6858809828666526e-05,1.0,INFO
+zip_92637,2.2250909442098357e-06,1.0,INFO
+zip_92648,7.71003480412759e-06,1.0,INFO
+zip_92882,0.0002774189682837499,1.0,INFO
+zip_93529,0.0004273296321746616,1.0,INFO
+zip_93552,5.891652845771446e-06,1.0,INFO
+zip_93627,0.0001256238607125902,1.0,INFO
+zip_94015,6.703318705918748e-05,1.0,INFO
+zip_94558,1.202894841782303e-05,1.0,INFO
+zip_94569,8.941770904716355e-05,1.0,INFO
+zip_94619,0.00027155156091366526,1.0,INFO
+zip_94971,1.202894841782303e-05,1.0,INFO
+zip_95148,1.7689984072623163e-05,1.0,INFO
+zip_95453,0.00028178479880410255,1.0,INFO
+zip_95528,7.822293620308585e-05,1.0,INFO
+zip_95537,6.703318705918748e-05,1.0,INFO
+zip_95567,3.707900296326453e-06,1.0,INFO
+zip_95629,1.8208856507773321e-06,1.0,INFO
+zip_95827,1.6419949594730096e-06,1.0,INFO
+zip_95842,2.87782107464119e-05,1.0,INFO
+zip_96037,3.8251089396821946e-05,1.0,INFO
+zip_96038,3.4910723482050266e-05,1.0,INFO
+zip_96103,4.017417913260402e-05,1.0,INFO
+zip_96135,0.0003530323773494227,1.0,INFO
+zip_96136,0.00011759734698545897,1.0,INFO
+zip_96727,1.824216118243048e-05,1.0,INFO
+zip_96776,0.00043700440541511224,1.0,INFO
+zip_97014,0.0,1.0,INFO
+zip_97033,0.0001809541936290788,1.0,INFO
+zip_97034,1.2526322301814062e-05,1.0,INFO
+zip_97107,2.0077074548724745e-05,1.0,INFO
+zip_97132,7.640796399319598e-05,1.0,INFO
+zip_97210,3.349404789493227e-05,1.0,INFO
+zip_97375,0.0002774189682837499,1.0,INFO
+zip_97377,0.0002080341946868927,1.0,INFO
+zip_97383,0.00010142881611429659,1.0,INFO
+zip_97403,2.4420107736013698e-06,1.0,INFO
+zip_97441,5.126117981823411e-05,1.0,INFO
+zip_97452,3.345086499043619e-05,1.0,INFO
+zip_97476,0.00010103175206000631,1.0,INFO
+zip_97492,9.118578527387359e-06,1.0,INFO
+zip_97753,0.0,1.0,INFO
+zip_97813,0.0001292695571576746,1.0,INFO
+zip_97910,0.00010399458214767331,1.0,INFO
+zip_98027,1.589938859440898e-06,1.0,INFO
+zip_98118,0.0,1.0,INFO
+zip_98233,7.243872968654491e-05,1.0,INFO
+zip_98238,9.817848879483219e-05,1.0,INFO
+zip_98304,3.707900296326453e-06,1.0,INFO
+zip_98665,5.270526970956171e-06,1.0,INFO
+zip_98836,0.00012143948677548685,1.0,INFO
+zip_99033,1.6716418018898796e-05,1.0,INFO
+zip_99113,1.4320091368979128e-05,1.0,INFO
+zip_99160,9.916246473029165e-06,1.0,INFO
+zip_99323,0.0004865099202848418,1.0,INFO
+zip_99746,2.5141446829699582e-05,1.0,INFO
+zip_99783,9.311877053565688e-05,1.0,INFO
+zip_99921,0.0,1.0,INFO
+job_Academic librarian,0.0001410911473124468,1.0,INFO
+"job_Accountant, chartered certified",0.00023662724412436273,1.0,INFO
+"job_Accountant, chartered public finance",0.00010872580597178741,1.0,INFO
+job_Accounting technician,0.0006961927329318744,1.0,INFO
+job_Acupuncturist,2.328503472137348e-06,1.0,INFO
+job_Administrator,5.639323755394193e-05,1.0,INFO
+"job_Administrator, arts",2.232435963345523e-05,1.0,INFO
+"job_Administrator, charities/voluntary organisations",0.00046055452207349523,1.0,INFO
+"job_Administrator, education",7.845815952636579e-05,1.0,INFO
+"job_Administrator, local government",0.0001228117425745161,1.0,INFO
+job_Advertising account executive,0.0003361298692081688,1.0,INFO
+job_Advertising account planner,7.608326373995207e-05,1.0,INFO
+job_Advertising copywriter,0.0,1.0,INFO
+job_Advice worker,8.468394204772779e-05,1.0,INFO
+job_Aeronautical engineer,0.0,1.0,INFO
+job_Agricultural consultant,5.560184138482993e-05,1.0,INFO
+job_Aid worker,1.3074245428054098e-05,1.0,INFO
+job_Air broker,5.757644251010359e-05,1.0,INFO
+job_Air cabin crew,0.00011759734698545894,1.0,INFO
+job_Airline pilot,1.202894841782303e-05,1.0,INFO
+job_Ambulance person,6.733447133878483e-05,1.0,INFO
+job_Amenity horticulturist,9.926376932889342e-07,1.0,INFO
+job_Analytical chemist,5.891652845771446e-06,1.0,INFO
+job_Animal nutritionist,5.725858914681919e-06,1.0,INFO
+job_Animal technologist,2.1682791065334298e-05,1.0,INFO
+job_Animator,2.3145123933040957e-05,1.0,INFO
+job_Applications developer,6.957089997581001e-05,1.0,INFO
+job_Arboriculturist,2.7562866315624002e-05,1.0,INFO
+job_Archaeologist,3.345793419162406e-05,1.0,INFO
+job_Architect,0.0001943547332392429,1.0,INFO
+job_Architectural technologist,0.00020103190396168633,1.0,INFO
+job_Archivist,7.4208107336302036e-06,1.0,INFO
+job_Armed forces logistics/support/administrative officer,6.02913438421276e-05,1.0,INFO
+job_Armed forces training and education officer,4.106285893896507e-05,1.0,INFO
+job_Art gallery manager,0.00020449037761101677,1.0,INFO
+job_Art therapist,0.0002522728301050047,1.0,INFO
+job_Artist,4.0556513311449894e-05,1.0,INFO
+job_Arts development officer,0.0001529412379625751,1.0,INFO
+job_Associate Professor,6.679070569078354e-06,1.0,INFO
+job_Audiological scientist,5.7162214393354726e-05,1.0,INFO
+job_Barista,0.00027155156091366526,1.0,INFO
+job_Barrister,2.4034866440000754e-05,1.0,INFO
+job_Barrister's clerk,1.0615182996453393e-05,1.0,INFO
+"job_Biochemist, clinical",6.207101167781245e-05,1.0,INFO
+job_Biomedical engineer,1.8208856507773277e-06,1.0,INFO
+job_Biomedical scientist,8.57226033854267e-05,1.0,INFO
+job_Bookseller,0.00027465849976183077,1.0,INFO
+job_Broadcast engineer,2.5141446829699582e-05,1.0,INFO
+job_Broadcast presenter,1.4080966060612809e-05,1.0,INFO
+job_Building control surveyor,1.113874147805199e-05,1.0,INFO
+job_Building services engineer,4.924015335107161e-05,1.0,INFO
+job_Building surveyor,0.0,1.0,INFO
+"job_Buyer, industrial",4.527876768387769e-05,1.0,INFO
+"job_Buyer, retail",0.00042151302134077267,1.0,INFO
+job_Cabin crew,4.4668746295404814e-05,1.0,INFO
+job_Call centre manager,3.408884472648568e-05,1.0,INFO
+job_Camera operator,2.6970311699558008e-05,1.0,INFO
+job_Careers information officer,7.587195181309668e-06,1.0,INFO
+job_Cartographer,0.00011826676892991111,1.0,INFO
+job_Catering manager,2.8778210746411887e-05,1.0,INFO
+job_Ceramics designer,1.7800655085248917e-05,1.0,INFO
+job_Charity fundraiser,1.5410870024505055e-06,1.0,INFO
+job_Charity officer,0.00010220514075973419,1.0,INFO
+job_Chartered accountant,1.8412875910197654e-05,1.0,INFO
+job_Chartered legal executive (England and Wales),4.017417913260402e-05,1.0,INFO
+job_Chartered loss adjuster,0.0,1.0,INFO
+job_Chartered public finance accountant,1.1275491932598453e-05,1.0,INFO
+job_Chemical engineer,4.6529975997570016e-05,1.0,INFO
+"job_Chemist, analytical",9.562620491753953e-05,1.0,INFO
+job_Chief Executive Officer,6.143175320293405e-05,1.0,INFO
+job_Chief Financial Officer,0.0001296597520473538,1.0,INFO
+job_Chief Marketing Officer,1.528993738305764e-05,1.0,INFO
+job_Chief Operating Officer,5.529290364281676e-05,1.0,INFO
+job_Chief Strategy Officer,1.7310945258844026e-05,1.0,INFO
+job_Chief Technology Officer,0.0,1.0,INFO
+job_Chief of Staff,6.207101167781245e-05,1.0,INFO
+job_Child psychotherapist,9.288791710093134e-05,1.0,INFO
+job_Chiropodist,1.5141616783409742e-05,1.0,INFO
+job_Civil Service administrator,2.87782107464119e-05,1.0,INFO
+job_Civil Service fast streamer,0.00030331811447115804,1.0,INFO
+"job_Civil engineer, contracting",0.0001744037101657273,1.0,INFO
+job_Claims inspector/assessor,2.9133700691764864e-05,1.0,INFO
+job_Clinical biochemist,0.00011986537064297836,1.0,INFO
+job_Clinical cytogeneticist,0.0,1.0,INFO
+job_Clinical psychologist,5.757644251010356e-05,1.0,INFO
+job_Clinical research associate,0.000543941460245257,1.0,INFO
+job_Clothing/textile technologist,0.0003704380161480562,1.0,INFO
+job_Colour technologist,7.223953410912036e-06,1.0,INFO
+job_Commercial horticulturist,0.0001310226134916069,1.0,INFO
+job_Commercial/residential surveyor,0.000148040725900432,1.0,INFO
+job_Commissioning editor,0.00025566306213846955,1.0,INFO
+job_Communications engineer,0.00036222925310610356,1.0,INFO
+job_Community arts worker,8.941770904716355e-05,1.0,INFO
+job_Community development worker,4.768010303406207e-06,1.0,INFO
+job_Community education officer,0.00014881153791606973,1.0,INFO
+job_Community pharmacist,2.7058633781553574e-06,1.0,INFO
+job_Company secretary,3.707900296326449e-06,1.0,INFO
+job_Comptroller,0.0006089076177986635,1.0,INFO
+"job_Conservation officer, historic buildings",2.866022480677849e-05,1.0,INFO
+"job_Conservator, furniture",6.679070569078347e-06,1.0,INFO
+"job_Conservator, museum/gallery",3.937715261510925e-05,1.0,INFO
+job_Contractor,0.0003220803613112569,1.0,INFO
+job_Control and instrumentation engineer,2.2013044214986948e-05,1.0,INFO
+job_Copy,9.118578527387357e-06,1.0,INFO
+"job_Copywriter, advertising",2.1527253455570258e-05,1.0,INFO
+job_Corporate investment banker,1.4110482937259e-06,1.0,INFO
+job_Counselling psychologist,0.00012714648514367436,1.0,INFO
+job_Counsellor,8.462487976968005e-06,1.0,INFO
+job_Curator,0.0001424962446164021,1.0,INFO
+job_Cytogeneticist,0.0001653241491703677,1.0,INFO
+job_Dance movement psychotherapist,1.5410870024505055e-06,1.0,INFO
+job_Data scientist,0.000134811654885106,1.0,INFO
+job_Database administrator,1.9102120137770352e-05,1.0,INFO
+job_Dealer,3.3481514780819704e-05,1.0,INFO
+"job_Designer, ceramics/pottery",0.0006581989166373531,1.0,INFO
+"job_Designer, exhibition/display",4.6858809828666526e-05,1.0,INFO
+"job_Designer, furniture",9.916246473029165e-06,1.0,INFO
+"job_Designer, industrial/product",2.9145227665246094e-05,1.0,INFO
+"job_Designer, interior/spatial",0.0003028282956938886,1.0,INFO
+"job_Designer, jewellery",0.00013621732110426893,1.0,INFO
+"job_Designer, multimedia",1.8242161182430476e-05,1.0,INFO
+"job_Designer, television/film set",7.358497803730374e-05,1.0,INFO
+"job_Designer, textile",0.0002117043307941975,1.0,INFO
+"job_Development worker, community",8.428633755121816e-07,1.0,INFO
+"job_Development worker, international aid",0.0002642249327896143,1.0,INFO
+job_Diagnostic radiographer,5.1261179818234104e-05,1.0,INFO
+job_Dispensing optician,0.00013679486186310013,1.0,INFO
+"job_Doctor, general practice",1.2683953464858791e-06,1.0,INFO
+"job_Doctor, hospital",5.0110620975547035e-06,1.0,INFO
+job_Drilling engineer,0.00010831450422034651,1.0,INFO
+job_Early years teacher,0.0002981265592704935,1.0,INFO
+job_Ecologist,0.00020449037761101677,1.0,INFO
+job_Economist,4.004636947154527e-06,1.0,INFO
+"job_Editor, commissioning",0.00010264782033256401,1.0,INFO
+"job_Editor, film/video",0.00016732838066854566,1.0,INFO
+"job_Editor, magazine features",0.00035806862361803266,1.0,INFO
+job_Education administrator,0.0003530323773494227,1.0,INFO
+"job_Education officer, community",3.365722666302989e-05,1.0,INFO
+"job_Education officer, museum",4.302044249061646e-05,1.0,INFO
+job_Educational psychologist,2.2886129003853407e-05,1.0,INFO
+job_Electrical engineer,4.761560145368618e-05,1.0,INFO
+job_Electronics engineer,0.0,1.0,INFO
+"job_Embryologist, clinical",1.7689984072623173e-05,1.0,INFO
+job_Emergency planning/management officer,2.7370752096962177e-05,1.0,INFO
+job_Energy engineer,3.654941839574216e-05,1.0,INFO
+job_Energy manager,0.00012824548255334586,1.0,INFO
+"job_Engineer, aeronautical",4.2301856769709426e-05,1.0,INFO
+"job_Engineer, agricultural",0.00016740634876479633,1.0,INFO
+"job_Engineer, automotive",0.0002776612187617582,1.0,INFO
+"job_Engineer, biomedical",6.6903405803246546e-06,1.0,INFO
+"job_Engineer, broadcasting (operations)",2.9145919617210432e-05,1.0,INFO
+"job_Engineer, building services",3.349404789493227e-05,1.0,INFO
+"job_Engineer, civil (consulting)",2.5141446829699582e-05,1.0,INFO
+"job_Engineer, civil (contracting)",0.0001150990552706836,1.0,INFO
+"job_Engineer, communications",0.00010081137560593048,1.0,INFO
+"job_Engineer, control and instrumentation",0.00013332139445027506,1.0,INFO
+"job_Engineer, drilling",6.703318705918746e-05,1.0,INFO
+"job_Engineer, electronics",2.483538387337108e-05,1.0,INFO
+"job_Engineer, land",0.0001757048455850048,1.0,INFO
+"job_Engineer, maintenance",5.126117981823411e-05,1.0,INFO
+"job_Engineer, manufacturing",0.0006439352129901797,1.0,INFO
+"job_Engineer, materials",3.365722666302989e-05,1.0,INFO
+"job_Engineer, mining",0.00012714648514367433,1.0,INFO
+"job_Engineer, petroleum",7.35248913767468e-05,1.0,INFO
+"job_Engineer, production",6.408976256045258e-05,1.0,INFO
+"job_Engineer, structural",6.679070569078347e-06,1.0,INFO
+"job_Engineer, technical sales",8.969934961869647e-05,1.0,INFO
+"job_Engineer, water",0.0,1.0,INFO
+job_Engineering geologist,0.0003374752457323821,1.0,INFO
+job_English as a foreign language teacher,7.358497803730371e-05,1.0,INFO
+job_English as a second language teacher,2.738183144574473e-05,1.0,INFO
+job_Environmental consultant,1.534805932222814e-05,1.0,INFO
+job_Environmental education officer,2.9145919617210432e-05,1.0,INFO
+job_Environmental health practitioner,7.706117130543204e-06,1.0,INFO
+job_Environmental manager,0.00033907922419703805,1.0,INFO
+job_Equality and diversity officer,0.0002480390101545615,1.0,INFO
+job_Equities trader,0.00020103190396168633,1.0,INFO
+job_Estate manager/land agent,8.396487437955765e-05,1.0,INFO
+job_Event organiser,2.4400360256477946e-05,1.0,INFO
+job_Exercise physiologist,0.00013187783020768442,1.0,INFO
+job_Exhibition designer,0.00038930603751162853,1.0,INFO
+"job_Exhibitions officer, museum/gallery",9.581838523226233e-05,1.0,INFO
+job_Facilities manager,0.0002516547033608515,1.0,INFO
+job_Farm manager,0.0003729317217491358,1.0,INFO
+job_Field seismologist,0.0,1.0,INFO
+job_Field trials officer,4.779057036040145e-05,1.0,INFO
+job_Film/video editor,3.303892362768637e-07,1.0,INFO
+job_Financial adviser,1.7195021801773014e-06,1.0,INFO
+job_Financial trader,1.3727390386472556e-05,1.0,INFO
+job_Fine artist,7.544022084588205e-07,1.0,INFO
+job_Firefighter,0.00011986369142929331,1.0,INFO
+job_Fisheries officer,7.432627553305424e-07,1.0,INFO
+job_Fitness centre manager,1.3724532802480391e-06,1.0,INFO
+job_Forensic psychologist,9.141146779806744e-05,1.0,INFO
+job_Freight forwarder,2.585871099006817e-05,1.0,INFO
+job_Furniture conservator/restorer,3.707900296326453e-06,1.0,INFO
+job_Furniture designer,6.262051723782787e-06,1.0,INFO
+job_Further education lecturer,3.714154241140661e-06,1.0,INFO
+job_Futures trader,7.853533291924688e-05,1.0,INFO
+job_Gaffer,0.00022499609507407785,1.0,INFO
+job_Garment/textile technologist,0.0001623462034055655,1.0,INFO
+job_General practice doctor,0.00010068602772476246,1.0,INFO
+"job_Geneticist, molecular",9.043704275684865e-05,1.0,INFO
+job_Geochemist,2.228519915201263e-05,1.0,INFO
+"job_Geologist, engineering",4.358534247004241e-06,1.0,INFO
+"job_Geologist, wellsite",1.4319062464093236e-05,1.0,INFO
+job_Geophysicist/field seismologist,5.5848458220569715e-05,1.0,INFO
+job_Geoscientist,2.81379859795348e-05,1.0,INFO
+job_Glass blower/designer,0.0001440914744980935,1.0,INFO
+job_Health and safety adviser,1.0615182996453375e-05,1.0,INFO
+job_Health physicist,0.0005144943954969026,1.0,INFO
+job_Health promotion specialist,5.5670031479478814e-06,1.0,INFO
+job_Health service manager,0.00033193803622496486,1.0,INFO
+job_Health visitor,0.00011826676892991115,1.0,INFO
+job_Herbalist,2.3444182138960067e-05,1.0,INFO
+job_Heritage manager,3.2890128756170775e-06,1.0,INFO
+job_Herpetologist,6.262051723782807e-06,1.0,INFO
+job_Higher education careers adviser,2.043602792269452e-06,1.0,INFO
+job_Historic buildings inspector/conservation officer,8.297447547684923e-05,1.0,INFO
+job_Horticultural consultant,0.0,1.0,INFO
+job_Horticultural therapist,4.5174841276201844e-05,1.0,INFO
+"job_Horticulturist, commercial",1.5410870024505148e-06,1.0,INFO
+job_Hospital doctor,0.0,1.0,INFO
+job_Hospital pharmacist,2.2013044214986948e-05,1.0,INFO
+job_Hotel manager,1.8242161182430476e-05,1.0,INFO
+job_Human resources officer,6.39352811464564e-05,1.0,INFO
+job_Hydrogeologist,0.0002366272441243627,1.0,INFO
+job_Hydrographic surveyor,6.451983832282352e-05,1.0,INFO
+job_Hydrologist,9.077435165264722e-05,1.0,INFO
+job_IT consultant,7.198307284866504e-05,1.0,INFO
+job_IT trainer,4.248251998964408e-06,1.0,INFO
+job_Illustrator,8.34817290833079e-06,1.0,INFO
+job_Immigration officer,1.8208856507773321e-06,1.0,INFO
+job_Immunologist,2.6912090007370652e-05,1.0,INFO
+job_Industrial/product designer,0.00047429520634703816,1.0,INFO
+job_Information systems manager,6.463867637827813e-06,1.0,INFO
+job_Insurance broker,6.957089997581006e-05,1.0,INFO
+job_Insurance claims handler,0.0003393999377144457,1.0,INFO
+job_Insurance risk surveyor,1.2742807542753912e-05,1.0,INFO
+job_Insurance underwriter,4.4650832127338275e-05,1.0,INFO
+job_Intelligence analyst,2.005677187185124e-05,1.0,INFO
+job_Interior and spatial designer,0.0,1.0,INFO
+job_Interpreter,2.0052234234729358e-05,1.0,INFO
+job_Investment analyst,6.39352811464564e-05,1.0,INFO
+"job_Investment banker, corporate",6.936172799086692e-05,1.0,INFO
+"job_Investment banker, operational",0.00013481165488510598,1.0,INFO
+job_Jewellery designer,3.349404789493225e-05,1.0,INFO
+"job_Journalist, newspaper",4.884584565860713e-05,1.0,INFO
+job_Land,0.00027622388360554163,1.0,INFO
+job_Land/geomatics surveyor,0.000429658547587749,1.0,INFO
+job_Landscape architect,0.00036961262148028896,1.0,INFO
+job_Lawyer,0.00013481165488510598,1.0,INFO
+job_Learning disability nurse,0.0,1.0,INFO
+job_Learning mentor,1.4320091368979138e-05,1.0,INFO
+"job_Lecturer, further education",3.2850035772680044e-05,1.0,INFO
+"job_Lecturer, higher education",4.010558524034997e-06,1.0,INFO
+job_Leisure centre manager,1.6716418018898796e-05,1.0,INFO
+job_Lexicographer,4.20532792993174e-05,1.0,INFO
+"job_Librarian, academic",0.0003255613731589346,1.0,INFO
+"job_Librarian, public",5.489650166770956e-07,1.0,INFO
+job_Licensed conveyancer,4.265984997243054e-06,1.0,INFO
+job_Local government officer,0.0,1.0,INFO
+job_Location manager,0.0,1.0,INFO
+job_Logistics and distribution manager,1.0018355865716621e-05,1.0,INFO
+"job_Loss adjuster, chartered",0.00020150002732788108,1.0,INFO
+job_Magazine features editor,4.509475147757192e-07,1.0,INFO
+job_Magazine journalist,4.0046369471545226e-06,1.0,INFO
+job_Maintenance engineer,3.34454655640973e-05,1.0,INFO
+job_Make,3.974115326825893e-05,1.0,INFO
+job_Management consultant,5.345609859873199e-05,1.0,INFO
+job_Manufacturing engineer,0.00016220604281725053,1.0,INFO
+job_Manufacturing systems engineer,9.541028491477448e-06,1.0,INFO
+job_Market researcher,8.042859882828927e-05,1.0,INFO
+job_Marketing executive,6.679070569078354e-06,1.0,INFO
+job_Materials engineer,5.013264137117789e-05,1.0,INFO
+job_Mechanical engineer,9.292998625358014e-05,1.0,INFO
+job_Media buyer,5.274392384719282e-06,1.0,INFO
+job_Media planner,3.619682259387001e-05,1.0,INFO
+job_Medical physicist,0.0001914001552095638,1.0,INFO
+job_Medical sales representative,0.0003056431616727852,1.0,INFO
+job_Medical secretary,0.00012965975204735374,1.0,INFO
+job_Medical technical officer,2.4400360256477946e-05,1.0,INFO
+job_Mental health nurse,1.7442367610147916e-05,1.0,INFO
+"job_Merchandiser, retail",0.0,1.0,INFO
+job_Metallurgist,9.67024847619005e-05,1.0,INFO
+job_Minerals surveyor,0.00027497725107395105,1.0,INFO
+job_Mining engineer,0.0001723117954952406,1.0,INFO
+job_Mudlogger,0.00036961262148028896,1.0,INFO
+job_Multimedia programmer,0.00010497327859751326,1.0,INFO
+job_Museum education officer,0.0001809541936290788,1.0,INFO
+job_Museum/gallery conservator,2.5882408392384438e-05,1.0,INFO
+job_Museum/gallery exhibitions officer,7.580078735213243e-05,1.0,INFO
+job_Music therapist,7.35248913767468e-05,1.0,INFO
+job_Music tutor,3.0219626904642388e-05,1.0,INFO
+job_Musician,5.079930209706833e-05,1.0,INFO
+job_Nature conservation officer,2.0077074548724745e-05,1.0,INFO
+job_Naval architect,7.005421071682148e-05,1.0,INFO
+job_Network engineer,5.584845822056967e-05,1.0,INFO
+job_Neurosurgeon,3.860027168494942e-05,1.0,INFO
+"job_Nurse, children's",1.3012791419454795e-06,1.0,INFO
+"job_Nurse, mental health",3.8251089396821946e-05,1.0,INFO
+job_Nutritional therapist,6.463867637827809e-06,1.0,INFO
+job_Occupational hygienist,0.0,1.0,INFO
+job_Occupational psychologist,1.0168905190460863e-05,1.0,INFO
+job_Occupational therapist,0.0002366272441243627,1.0,INFO
+job_Oceanographer,6.963060137017287e-05,1.0,INFO
+job_Oncologist,4.779057036040146e-05,1.0,INFO
+job_Operational investment banker,0.0,1.0,INFO
+job_Operational researcher,7.308897549583668e-05,1.0,INFO
+job_Operations geologist,5.407551726375923e-05,1.0,INFO
+"job_Optician, dispensing",0.0,1.0,INFO
+job_Optometrist,8.014283283006582e-06,1.0,INFO
+job_Orthoptist,0.00010990278356823293,1.0,INFO
+job_Osteopath,1.589938859440898e-06,1.0,INFO
+job_Outdoor activities/education manager,8.713921891275558e-05,1.0,INFO
+job_Paediatric nurse,1.1790301943233414e-06,1.0,INFO
+job_Paramedic,6.946954239163537e-05,1.0,INFO
+job_Patent attorney,2.1682791065334332e-05,1.0,INFO
+job_Pathologist,0.00015333774116289294,1.0,INFO
+job_Pension scheme manager,1.8895197160377707e-06,1.0,INFO
+job_Pensions consultant,0.00011986369142929331,1.0,INFO
+job_Petroleum engineer,2.983781273208414e-05,1.0,INFO
+"job_Pharmacist, community",0.0,1.0,INFO
+"job_Pharmacist, hospital",0.0,1.0,INFO
+job_Pharmacologist,2.2250909442098357e-06,1.0,INFO
+"job_Physicist, medical",7.608326373995202e-05,1.0,INFO
+job_Physiological scientist,1.7689984072623173e-05,1.0,INFO
+job_Physiotherapist,1.2947828613244163e-05,1.0,INFO
+job_Phytotherapist,0.00019010374523597976,1.0,INFO
+"job_Pilot, airline",1.4861702723268275e-05,1.0,INFO
+job_Planning and development surveyor,1.2526322301814062e-05,1.0,INFO
+job_Plant breeder/geneticist,1.8242161182430476e-05,1.0,INFO
+job_Podiatrist,9.292998625358014e-05,1.0,INFO
+job_Police officer,5.274392384719282e-06,1.0,INFO
+job_Politician's assistant,0.00015779092396620684,1.0,INFO
+"job_Presenter, broadcasting",1.3363146768089832e-05,1.0,INFO
+job_Press photographer,2.545753704736712e-05,1.0,INFO
+job_Press sub,0.00016890220695839656,1.0,INFO
+job_Primary school teacher,0.00013866944811572357,1.0,INFO
+job_Prison officer,7.849964558440936e-05,1.0,INFO
+job_Private music teacher,4.513891696361803e-05,1.0,INFO
+job_Probation officer,0.0002990632040571837,1.0,INFO
+"job_Producer, radio",0.00015114952305801056,1.0,INFO
+"job_Producer, television/film/video",2.8778210746411887e-05,1.0,INFO
+job_Product designer,5.929947023267093e-05,1.0,INFO
+job_Product manager,1.1788312072877839e-05,1.0,INFO
+job_Product/process development scientist,3.856654150564205e-06,1.0,INFO
+"job_Production assistant, radio",0.0,1.0,INFO
+"job_Production assistant, television",2.5141446829699582e-05,1.0,INFO
+job_Production engineer,1.1132572519138092e-05,1.0,INFO
+job_Production manager,0.0005036472146490589,1.0,INFO
+job_Professor Emeritus,2.232435963345523e-05,1.0,INFO
+"job_Programme researcher, broadcasting/film/video",3.0871984726531757e-06,1.0,INFO
+"job_Programmer, applications",4.466874629540481e-05,1.0,INFO
+"job_Programmer, multimedia",9.58555801249532e-05,1.0,INFO
+job_Psychiatric nurse,5.584845822056967e-05,1.0,INFO
+job_Psychiatrist,8.652370208889651e-05,1.0,INFO
+"job_Psychologist, clinical",5.5848458220569715e-05,1.0,INFO
+"job_Psychologist, counselling",2.9145227665246094e-05,1.0,INFO
+"job_Psychologist, forensic",0.00016639096302213853,1.0,INFO
+"job_Psychologist, sport and exercise",0.00013396599484816055,1.0,INFO
+job_Psychotherapist,0.0001296597520473538,1.0,INFO
+"job_Psychotherapist, child",5.6836389919026125e-06,1.0,INFO
+job_Public affairs consultant,5.139348976862724e-06,1.0,INFO
+job_Public house manager,7.243872968654491e-05,1.0,INFO
+job_Public librarian,5.846628005550707e-05,1.0,INFO
+job_Public relations account executive,0.00024115806035124125,1.0,INFO
+job_Public relations officer,0.0007334186344419443,1.0,INFO
+job_Purchasing manager,8.396487437955765e-05,1.0,INFO
+job_Quantity surveyor,9.944578493548246e-05,1.0,INFO
+job_Quarry manager,7.879938296008659e-05,1.0,INFO
+job_Race relations officer,0.0,1.0,INFO
+job_Radio broadcast assistant,6.063668996602509e-06,1.0,INFO
+job_Radio producer,6.792160237535812e-05,1.0,INFO
+"job_Radiographer, diagnostic",0.00033521919021827976,1.0,INFO
+"job_Radiographer, therapeutic",0.00015064631558507011,1.0,INFO
+job_Records manager,3.345086499043621e-05,1.0,INFO
+job_Regulatory affairs officer,3.784059368704708e-06,1.0,INFO
+"job_Research officer, political party",6.841058370013524e-05,1.0,INFO
+"job_Research officer, trade union",3.856654150564194e-06,1.0,INFO
+job_Research scientist (life sciences),6.463867637827809e-06,1.0,INFO
+job_Research scientist (maths),0.0003208099060456402,1.0,INFO
+job_Research scientist (medical),0.0,1.0,INFO
+job_Research scientist (physical sciences),4.4650832127338275e-05,1.0,INFO
+"job_Restaurant manager, fast food",5.35237511574179e-05,1.0,INFO
+job_Retail banker,1.4951523520104073e-06,1.0,INFO
+job_Retail buyer,1.697581276731701e-06,1.0,INFO
+job_Retail manager,2.9145919617210432e-05,1.0,INFO
+job_Retail merchandiser,3.0625074579206016e-05,1.0,INFO
+job_Risk analyst,8.042859882828925e-05,1.0,INFO
+job_Rural practice surveyor,0.00016740634876479633,1.0,INFO
+job_Sales executive,2.2250909442098357e-06,1.0,INFO
+"job_Sales professional, IT",2.1153886464934964e-06,1.0,INFO
+job_Science writer,7.652609705136202e-05,1.0,INFO
+job_Scientific laboratory technician,0.0001529412379625751,1.0,INFO
+"job_Scientist, audiological",6.440797789697635e-06,1.0,INFO
+"job_Scientist, biomedical",3.115246544203447e-05,1.0,INFO
+"job_Scientist, clinical (histocompatibility and immunogenetics)",0.0001724893586624169,1.0,INFO
+"job_Scientist, marine",0.0002692677507943903,1.0,INFO
+"job_Scientist, physiological",4.253735152285378e-05,1.0,INFO
+"job_Scientist, research (maths)",0.0003238565413372828,1.0,INFO
+"job_Scientist, research (medical)",0.00013068548442216093,1.0,INFO
+"job_Scientist, research (physical sciences)",0.00010588070655260383,1.0,INFO
+job_Secondary school teacher,4.309304227031435e-05,1.0,INFO
+job_Secretary/administrator,0.0001292695571576746,1.0,INFO
+job_Seismic interpreter,0.0002639755079652351,1.0,INFO
+job_Senior tax professional/tax inspector,1.8868563815507343e-05,1.0,INFO
+job_Set designer,6.909301669759039e-06,1.0,INFO
+job_Site engineer,2.344418213896005e-05,1.0,INFO
+"job_Social research officer, government",0.00010068602772476246,1.0,INFO
+job_Social researcher,8.155337548015109e-07,1.0,INFO
+job_Software engineer,0.0,1.0,INFO
+job_Soil scientist,3.096611581143076e-05,1.0,INFO
+"job_Solicitor, Scotland",7.052305170177992e-05,1.0,INFO
+job_Special educational needs teacher,2.5742822140377194e-06,1.0,INFO
+job_Special effects artist,1.0018355865716621e-05,1.0,INFO
+job_Sport and exercise psychologist,3.74455383562139e-05,1.0,INFO
+job_Sports administrator,3.619682259387001e-05,1.0,INFO
+job_Sports development officer,7.155910417850324e-06,1.0,INFO
+job_Stage manager,4.317482268651423e-05,1.0,INFO
+job_Statistician,0.00017724046365926146,1.0,INFO
+job_Structural engineer,2.8182135229604338e-05,1.0,INFO
+job_Sub,1.8449686654807592e-06,1.0,INFO
+job_Surgeon,0.00011169167183388838,1.0,INFO
+"job_Surveyor, hydrographic",0.00010220514075973419,1.0,INFO
+"job_Surveyor, land/geomatics",9.103701436459109e-05,1.0,INFO
+"job_Surveyor, minerals",0.00017650074401703267,1.0,INFO
+"job_Surveyor, mining",3.650435540737796e-05,1.0,INFO
+"job_Surveyor, rural practice",0.00014004288192627804,1.0,INFO
+job_Systems analyst,0.0,1.0,INFO
+job_Systems developer,3.7552218365118355e-05,1.0,INFO
+job_TEFL teacher,4.768010303406207e-06,1.0,INFO
+job_Tax adviser,0.00012590771514769665,1.0,INFO
+job_Tax inspector,1.0778160870942685e-06,1.0,INFO
+"job_Teacher, English as a foreign language",0.00010103175206000631,1.0,INFO
+"job_Teacher, adult education",0.00011759734698545897,1.0,INFO
+"job_Teacher, early years/pre",0.0004128586984298508,1.0,INFO
+"job_Teacher, primary school",0.0,1.0,INFO
+"job_Teacher, secondary school",0.0001529412379625751,1.0,INFO
+"job_Teacher, special educational needs",2.479301923737589e-06,1.0,INFO
+job_Teaching laboratory technician,1.963538849233839e-06,1.0,INFO
+job_Technical brewer,6.921752020884067e-07,1.0,INFO
+job_Telecommunications researcher,1.7689984072623163e-05,1.0,INFO
+job_Television camera operator,4.768010303406201e-06,1.0,INFO
+job_Television floor manager,9.303865252891299e-06,1.0,INFO
+job_Television production assistant,5.1201216541505484e-05,1.0,INFO
+job_Television/film/video producer,9.894094382504469e-05,1.0,INFO
+job_Textile designer,0.0001515964774666988,1.0,INFO
+job_Theatre director,3.4910723482050266e-05,1.0,INFO
+job_Theatre manager,2.7670125780519464e-05,1.0,INFO
+job_Theme park manager,5.020638769175434e-05,1.0,INFO
+"job_Therapist, art",5.478661578429473e-05,1.0,INFO
+"job_Therapist, drama",0.0005923070564266854,1.0,INFO
+"job_Therapist, horticultural",0.00021088495742452898,1.0,INFO
+"job_Therapist, music",7.420810733630187e-06,1.0,INFO
+"job_Therapist, occupational",6.145882170578364e-06,1.0,INFO
+"job_Therapist, sports",1.1790301943233435e-06,1.0,INFO
+job_Tour manager,0.00010220514075973422,1.0,INFO
+job_Tourism officer,0.0005220417590156291,1.0,INFO
+job_Tourist information centre manager,3.932096880527779e-06,1.0,INFO
+job_Town planner,0.000467611187621711,1.0,INFO
+job_Toxicologist,0.0002548547692279863,1.0,INFO
+job_Trade mark attorney,4.994717204727781e-05,1.0,INFO
+job_Trading standards officer,1.707609634629809e-05,1.0,INFO
+job_Training and development officer,4.017417913260404e-05,1.0,INFO
+job_Transport planner,0.00018826510391738323,1.0,INFO
+job_Travel agency manager,3.4586466914699198e-06,1.0,INFO
+job_Tree surgeon,3.613351911720888e-05,1.0,INFO
+job_Video editor,0.0001228117425745161,1.0,INFO
+job_Visual merchandiser,2.860422881413695e-06,1.0,INFO
+job_Volunteer coordinator,7.155910417850324e-06,1.0,INFO
+job_Warden/ranger,0.00013392358800008865,1.0,INFO
+job_Waste management officer,0.0,1.0,INFO
+job_Water engineer,0.00047612099048134404,1.0,INFO
+job_Water quality scientist,2.232435963345523e-05,1.0,INFO
+job_Web designer,1.2683953464858791e-06,1.0,INFO
+job_Wellsite geologist,0.00019668841397029347,1.0,INFO
+job_Writer,0.0,1.0,INFO
+time_of_day_Afternoon,7.718568257336484e-05,0.9964539,INFO
+time_of_day_Evening,3.4367193062880996e-06,1.0,INFO
+time_of_day_Morning,2.168734753088231e-05,1.0,INFO
+time_of_day_Night,5.887980077494084e-05,0.9999836,INFO
+age_bucket_25-40,0.00013016189585738548,0.94003457,INFO
+age_bucket_40-60,0.00011455219383890941,0.9483818,INFO
+age_bucket_60+,6.333859503139728e-05,0.9998983,INFO
+age_bucket_lt_25,0.00013544702456537495,0.9999484,INFO

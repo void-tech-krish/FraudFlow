@@ -1,0 +1,3024 @@
+feature,importance_mean,importance_std
+amt,0.33257996397425066,0.03493151373308397
+amount_log,0.19760105902588496,0.08132741030138857
+category_kids_pets,0.11133222533357702,0.04900797985372914
+hour_cos,0.061531702616754946,0.014619754493002688
+city_pop,0.05670353551196248,0.03933345469941432
+category_grocery_pos,0.03747072328687758,0.008872163971790416
+state_WY,0.0300069596687198,4.921228946564676e-06
+category_health_fitness,0.027318391169809757,0.02913345392350716
+category_misc_net,0.02171817834078423,0.03011640265397887
+time_of_day_Night,0.01287120263666286,0.0003168255417001989
+time_of_day_Afternoon,0.012299516038475011,0.049349130756635516
+category_food_dining,0.01116725576002294,0.00655790488442313
+category_gas_transport,0.007784834780882026,0.00047657000219240294
+zip_3220,0.006294256490951944,0.0
+category_entertainment,0.005864033534542457,0.04820644358816348
+transaction_day_of_week,0.005821185425353074,0.004482294058308946
+city_Belmont,0.004184829991281558,0.0
+"job_Librarian, academic",0.0034739454094292834,0.004912900712958647
+job_Chief Executive Officer,0.0022494417577411476,0.003188623704375913
+category_shopping_net,0.001829358702372219,0.0003458027377302752
+gender_M,0.0015759618374973454,0.0005951336353807357
+state_WV,0.001314959355986578,0.00036699905088822177
+gender_F,0.0011201460623759447,0.0004659886817994321
+age_bucket_60+,0.0010728514461559497,0.00036212972858216654
+category_misc_pos,0.0010600393287400662,0.0007348569829351998
+state_OH,0.0010391824829657503,0.0007348255010425985
+merch_lat,0.0008771715849544837,0.00011524296877957118
+state_MA,0.0008064516129031585,0.0
+state_UT,0.0008064516129031585,0.0
+job_Public house manager,0.0008064516129031585,0.0
+"job_Scientist, research (medical)",0.0008064516129031585,0.0
+job_English as a second language teacher,0.0008064516129031585,0.0
+job_Immunologist,0.0008064516129031585,0.0
+zip_63665,0.0008064516129031585,0.0
+state_MO,0.0008064516129031585,0.0
+city_Knoxville,0.0008064516129031585,0.0
+state_NH,0.0008064516129031585,0.0
+job_Materials engineer,0.0008029491822162393,4.953184978712754e-06
+state_AR,0.0008029037687512138,1.3111267642271313e-05
+category_shopping_pos,0.0007523987182462092,0.0011403627495573023
+lat,0.0006323023914959943,0.0006934675092309063
+transaction_day,0.0005830803640921219,0.00263512203517943
+category_home,0.0005455896207419523,0.0007348724984996261
+state_TN,0.0005376344086021057,0.000380164936121768
+job_Animal technologist,0.0002688172043010528,0.000380164936121768
+zip_12419,0.0002688172043010528,0.000380164936121768
+zip_29320,0.0002688172043010528,0.000380164936121768
+zip_66018,0.0002688172043010528,0.000380164936121768
+zip_39665,0.0002688172043010528,0.000380164936121768
+city_Arcadia,0.0002688172043010528,0.000380164936121768
+state_NC,0.0002688172043010528,0.000380164936121768
+state_KS,0.0002688172043010528,0.000380164936121768
+merchant_fraud_Mosciski Group,0.0002688172043010528,0.000380164936121768
+job_Colour technologist,0.00024773416876555654,0.000380164936121768
+zip_75452,0.00023324295168947184,0.0
+job_Sub,0.00023324295168947184,0.0
+age_bucket_40-60,2.7660505987088985e-05,9.68543235341714e-06
+city_San Antonio,1.7177526298780183e-05,2.429269065975545e-05
+"merchant_fraud_Ruecker, Beer and Collier",1.0439503079662238e-05,0.0
+state_CA,1.0439503079662238e-05,0.0
+state_PA,1.0439503079662238e-05,0.0
+zip_7060,1.0439503079662238e-05,0.0
+job_Leisure centre manager,1.0439503079662238e-05,0.0
+"job_Pilot, airline",1.0439503079662238e-05,0.0
+"job_Surveyor, land/geomatics",6.959668719774825e-06,4.921228946564676e-06
+city_Orient,3.4798343598874126e-06,4.921228946564676e-06
+city_Burrton,3.4798343598874126e-06,4.921228946564676e-06
+merchant_fraud_Miller-Hauck,3.4798343598874126e-06,4.921228946564676e-06
+merchant_fraud_Parisian and Sons,3.4798343598874126e-06,4.921228946564676e-06
+city_Lakeport,3.4798343598874126e-06,4.921228946564676e-06
+"merchant_fraud_Hartmann, Rowe and Hermann",3.4798343598874126e-06,4.921228946564676e-06
+city_Farmington,3.4798343598874126e-06,4.921228946564676e-06
+zip_14425,3.4798343598874126e-06,4.921228946564676e-06
+zip_61830,3.4798343598874126e-06,4.921228946564676e-06
+zip_61454,3.4798343598874126e-06,4.921228946564676e-06
+zip_95453,3.4798343598874126e-06,4.921228946564676e-06
+job_Advertising account executive,3.4798343598874126e-06,4.921228946564676e-06
+job_Landscape architect,3.4798343598874126e-06,4.921228946564676e-06
+job_Press sub,3.4798343598874126e-06,4.921228946564676e-06
+job_Science writer,3.4798343598874126e-06,4.921228946564676e-06
+merchant_fraud_Bahringer-Streich,0.0,0.0
+merchant_fraud_Bahringer-Larson,0.0,0.0
+"merchant_fraud_Bahringer, Schoen and Corkery",0.0,0.0
+"merchant_fraud_Bahringer, Osinski and Block",0.0,0.0
+"merchant_fraud_Bahringer, Bergnaum and Quitzon",0.0,0.0
+merchant_fraud_Bahringer Group,0.0,0.0
+merchant_fraud_Auer-West,0.0,0.0
+merchant_fraud_Auer-Mosciski,0.0,0.0
+job_Statistician,0.0,0.0
+job_Seismic interpreter,0.0,0.0
+job_Secretary/administrator,0.0,0.0
+job_Theatre director,0.0,0.0
+merchant_fraud_Breitenberg-Hermiston,0.0,0.0
+merchant_fraud_Breitenberg LLC,0.0,0.0
+merchant_fraud_Beier-Hyatt,0.0,0.0
+merchant_fraud_Beier and Sons,0.0,0.0
+merchant_fraud_Beier LLC,0.0,0.0
+merchant_fraud_Beer-Jast,0.0,0.0
+merchant_fraud_Boyer PLC,0.0,0.0
+merchant_fraud_Botsford and Sons,0.0,0.0
+merchant_fraud_Botsford PLC,0.0,0.0
+merchant_fraud_Botsford Ltd,0.0,0.0
+merchant_fraud_Bogisich-Weimann,0.0,0.0
+merchant_fraud_Bogisich-Homenick,0.0,0.0
+merchant_fraud_Bogisich Inc,0.0,0.0
+"merchant_fraud_Boehm, Predovic and Reinger",0.0,0.0
+"merchant_fraud_Boehm, Block and Jakubowski",0.0,0.0
+merchant_fraud_Bode-Schuster,0.0,0.0
+merchant_fraud_Champlin-Casper,0.0,0.0
+"merchant_fraud_Champlin, Rolfson and Connelly",0.0,0.0
+merchant_fraud_Block-Hauck,0.0,0.0
+merchant_fraud_Block Group,0.0,0.0
+merchant_fraud_Bins-Tillman,0.0,0.0
+merchant_fraud_Bins-Rice,0.0,0.0
+merchant_fraud_Cartwright-Harris,0.0,0.0
+merchant_fraud_Cartwright PLC,0.0,0.0
+merchant_fraud_Carroll PLC,0.0,0.0
+merchant_fraud_Buckridge PLC,0.0,0.0
+merchant_fraud_Bruen-Yost,0.0,0.0
+merchant_fraud_Brown-Greenholt,0.0,0.0
+"merchant_fraud_Brown, Homenick and Lesch",0.0,0.0
+merchant_fraud_Brown PLC,0.0,0.0
+merchant_fraud_Brown Inc,0.0,0.0
+merchant_fraud_Brekke and Sons,0.0,0.0
+merchant_fraud_Corwin-Collins,0.0,0.0
+"merchant_fraud_Cormier, Stracke and Thiel",0.0,0.0
+"merchant_fraud_Bradtke, Torp and Bahringer",0.0,0.0
+merchant_fraud_Bradtke PLC,0.0,0.0
+merchant_fraud_Boyer-Reichert,0.0,0.0
+merchant_fraud_Boyer-Haley,0.0,0.0
+"merchant_fraud_Conroy, Balistreri and Gorczany",0.0,0.0
+merchant_fraud_Conroy Ltd,0.0,0.0
+merchant_fraud_Connelly-Carter,0.0,0.0
+"merchant_fraud_Connelly, Reichert and Fritsch",0.0,0.0
+merchant_fraud_Connelly PLC,0.0,0.0
+merchant_fraud_Collier LLC,0.0,0.0
+merchant_fraud_Collier Inc,0.0,0.0
+"merchant_fraud_Cole, Hills and Jewess",0.0,0.0
+merchant_fraud_Cole PLC,0.0,0.0
+merchant_fraud_Christiansen-Gusikowski,0.0,0.0
+"merchant_fraud_Dare, Fritsch and Zboncak",0.0,0.0
+"merchant_fraud_Dare, Casper and Bartoletti",0.0,0.0
+merchant_fraud_Champlin and Sons,0.0,0.0
+merchant_fraud_Cassin-Harvey,0.0,0.0
+"merchant_fraud_Casper, Hand and Zulauf",0.0,0.0
+merchant_fraud_Cummings Group,0.0,0.0
+merchant_fraud_Cummerata-Jones,0.0,0.0
+merchant_fraud_Cummerata-Hilpert,0.0,0.0
+merchant_fraud_Cruickshank-Mills,0.0,0.0
+merchant_fraud_Crooks and Sons,0.0,0.0
+"merchant_fraud_Cronin, Kshlerin and Weber",0.0,0.0
+merchant_fraud_Crona and Sons,0.0,0.0
+"merchant_fraud_Crist, Jakubowski and Littel",0.0,0.0
+"merchant_fraud_Cremin, Hamill and Reichel",0.0,0.0
+merchant_fraud_Corwin-Romaguera,0.0,0.0
+merchant_fraud_Corwin-Gorczany,0.0,0.0
+merchant_fraud_Donnelly LLC,0.0,0.0
+merchant_fraud_Dietrich-Fadel,0.0,0.0
+merchant_fraud_Cormier LLC,0.0,0.0
+merchant_fraud_Conroy-Emard,0.0,0.0
+merchant_fraud_Conroy-Cruickshank,0.0,0.0
+merchant_fraud_Dibbert-Green,0.0,0.0
+merchant_fraud_Dibbert and Sons,0.0,0.0
+"merchant_fraud_Denesik, Powlowski and Pouros",0.0,0.0
+merchant_fraud_Denesik and Sons,0.0,0.0
+merchant_fraud_Deckow-O'Conner,0.0,0.0
+merchant_fraud_Deckow-Dare,0.0,0.0
+merchant_fraud_Daugherty-Thompson,0.0,0.0
+"merchant_fraud_Daugherty, Pouros and Beahan",0.0,0.0
+merchant_fraud_Daugherty LLC,0.0,0.0
+merchant_fraud_Dare-Marvin,0.0,0.0
+merchant_fraud_Dare-Gibson,0.0,0.0
+merchant_fraud_Eichmann-Kilback,0.0,0.0
+"merchant_fraud_Eichmann, Hayes and Treutel",0.0,0.0
+merchant_fraud_Dach-Nader,0.0,0.0
+merchant_fraud_Dach-Borer,0.0,0.0
+merchant_fraud_Cummings LLC,0.0,0.0
+merchant_fraud_Ebert-Daugherty,0.0,0.0
+merchant_fraud_Durgan-Auer,0.0,0.0
+"merchant_fraud_Durgan, Gislason and Spencer",0.0,0.0
+merchant_fraud_DuBuque LLC,0.0,0.0
+merchant_fraud_Doyle Ltd,0.0,0.0
+merchant_fraud_Douglas-White,0.0,0.0
+"merchant_fraud_Douglas, Schneider and Turner",0.0,0.0
+"merchant_fraud_Douglas, DuBuque and McKenzie",0.0,0.0
+merchant_fraud_Dooley-Thompson,0.0,0.0
+merchant_fraud_Dooley Inc,0.0,0.0
+merchant_fraud_Donnelly PLC,0.0,0.0
+merchant_fraud_Feil-Morar,0.0,0.0
+"merchant_fraud_Feil, Hilpert and Koss",0.0,0.0
+merchant_fraud_Dickinson-Rempel,0.0,0.0
+merchant_fraud_Dickinson Ltd,0.0,0.0
+merchant_fraud_Dicki Ltd,0.0,0.0
+merchant_fraud_Fadel Inc,0.0,0.0
+merchant_fraud_Ernser-Lynch,0.0,0.0
+merchant_fraud_Ernser-Feest,0.0,0.0
+merchant_fraud_Erdman-Schaden,0.0,0.0
+merchant_fraud_Erdman-Kertzmann,0.0,0.0
+merchant_fraud_Erdman-Ebert,0.0,0.0
+merchant_fraud_Erdman-Durgan,0.0,0.0
+merchant_fraud_Emmerich-Rau,0.0,0.0
+merchant_fraud_Emmerich-Luettgen,0.0,0.0
+merchant_fraud_Emard Inc,0.0,0.0
+merchant_fraud_Eichmann-Russel,0.0,0.0
+merchant_fraud_Gaylord-Powlowski,0.0,0.0
+merchant_fraud_Funk Group,0.0,0.0
+"merchant_fraud_Eichmann, Bogan and Rodriguez",0.0,0.0
+"merchant_fraud_Effertz, Welch and Schowalter",0.0,0.0
+merchant_fraud_Effertz LLC,0.0,0.0
+merchant_fraud_Friesen-Ortiz,0.0,0.0
+merchant_fraud_Friesen-D'Amore,0.0,0.0
+merchant_fraud_Friesen Ltd,0.0,0.0
+merchant_fraud_Friesen Inc,0.0,0.0
+merchant_fraud_Frami Group,0.0,0.0
+merchant_fraud_Flatley-Durgan,0.0,0.0
+merchant_fraud_Flatley Group,0.0,0.0
+merchant_fraud_Fisher-Schowalter,0.0,0.0
+merchant_fraud_Fisher Inc,0.0,0.0
+"merchant_fraud_Ferry, Reichel and DuBuque",0.0,0.0
+"merchant_fraud_Ferry, Lynch and Kautzer",0.0,0.0
+merchant_fraud_Goyette-Herzog,0.0,0.0
+merchant_fraud_Goyette-Gerhold,0.0,0.0
+merchant_fraud_Fahey Inc,0.0,0.0
+merchant_fraud_Fadel-Hilpert,0.0,0.0
+"merchant_fraud_Fadel, Mertz and Rippin",0.0,0.0
+"merchant_fraud_Gottlieb, Considine and Schultz",0.0,0.0
+merchant_fraud_Gottlieb Group,0.0,0.0
+merchant_fraud_Goodwin-Nitzsche,0.0,0.0
+merchant_fraud_Goldner-Lemke,0.0,0.0
+"merchant_fraud_Goldner, Kovacek and Abbott",0.0,0.0
+merchant_fraud_Gleason-Macejkovic,0.0,0.0
+merchant_fraud_Gleason and Sons,0.0,0.0
+merchant_fraud_Gislason Group,0.0,0.0
+merchant_fraud_Gibson-Deckow,0.0,0.0
+merchant_fraud_Gerlach Inc,0.0,0.0
+merchant_fraud_Gerhold LLC,0.0,0.0
+"merchant_fraud_Hagenes, Kohler and Hoppe",0.0,0.0
+"merchant_fraud_Hagenes, Hermann and Stroman",0.0,0.0
+merchant_fraud_Fritsch and Sons,0.0,0.0
+merchant_fraud_Fritsch LLC,0.0,0.0
+merchant_fraud_Friesen-Stamm,0.0,0.0
+merchant_fraud_Gutmann-Upton,0.0,0.0
+"merchant_fraud_Gutmann, McLaughlin and Wiza",0.0,0.0
+merchant_fraud_Gutmann Ltd,0.0,0.0
+merchant_fraud_Gulgowski LLC,0.0,0.0
+merchant_fraud_Grimes LLC,0.0,0.0
+"merchant_fraud_Greenholt, O'Hara and Balistreri",0.0,0.0
+"merchant_fraud_Greenholt, Jacobi and Gleason",0.0,0.0
+merchant_fraud_Greenholt Ltd,0.0,0.0
+"merchant_fraud_Greenfelder, Bartoletti and Davis",0.0,0.0
+"merchant_fraud_Graham, Hegmann and Hammes",0.0,0.0
+merchant_fraud_Graham and Sons,0.0,0.0
+"merchant_fraud_Hayes, Marquardt and Dibbert",0.0,0.0
+"merchant_fraud_Hauck, Dietrich and Funk",0.0,0.0
+"merchant_fraud_Goyette, Howell and Collier",0.0,0.0
+merchant_fraud_Goyette Inc,0.0,0.0
+merchant_fraud_Gottlieb-Hansen,0.0,0.0
+merchant_fraud_Harris Group,0.0,0.0
+merchant_fraud_Harber Inc,0.0,0.0
+merchant_fraud_Hammes-Beatty,0.0,0.0
+merchant_fraud_Hamill-Daugherty,0.0,0.0
+merchant_fraud_Hamill-D'Amore,0.0,0.0
+merchant_fraud_Halvorson Group,0.0,0.0
+"merchant_fraud_Haley, Jewess and Bechtelar",0.0,0.0
+"merchant_fraud_Haley, Batz and Auer",0.0,0.0
+merchant_fraud_Haley Group,0.0,0.0
+"merchant_fraud_Hahn, Douglas and Schowalter",0.0,0.0
+"merchant_fraud_Hahn, Bahringer and McLaughlin",0.0,0.0
+"merchant_fraud_Hettinger, McCullough and Fay",0.0,0.0
+merchant_fraud_Herzog Ltd,0.0,0.0
+merchant_fraud_Hackett-Lueilwitz,0.0,0.0
+merchant_fraud_Hackett Group,0.0,0.0
+merchant_fraud_Haag-Blanda,0.0,0.0
+merchant_fraud_Hermann and Sons,0.0,0.0
+"merchant_fraud_Herman, Treutel and Dickens",0.0,0.0
+merchant_fraud_Herman Inc,0.0,0.0
+merchant_fraud_Heller-Langosh,0.0,0.0
+merchant_fraud_Heller-Abshire,0.0,0.0
+"merchant_fraud_Heller, Gutmann and Zieme",0.0,0.0
+merchant_fraud_Heller PLC,0.0,0.0
+merchant_fraud_Heidenreich PLC,0.0,0.0
+"merchant_fraud_Heathcote, Yost and Kertzmann",0.0,0.0
+merchant_fraud_Heathcote LLC,0.0,0.0
+merchant_fraud_Heaney-Marquardt,0.0,0.0
+merchant_fraud_Hudson-Grady,0.0,0.0
+merchant_fraud_Howe PLC,0.0,0.0
+"merchant_fraud_Harris, Gusikowski and Heaney",0.0,0.0
+merchant_fraud_Harris Inc,0.0,0.0
+merchant_fraud_Homenick LLC,0.0,0.0
+"merchant_fraud_Hodkiewicz, Prohaska and Paucek",0.0,0.0
+merchant_fraud_Hirthe-Beier,0.0,0.0
+merchant_fraud_Hintz-Bruen,0.0,0.0
+"merchant_fraud_Hintz, Bauch and Smith",0.0,0.0
+merchant_fraud_Hilpert-Conroy,0.0,0.0
+merchant_fraud_Hills-Witting,0.0,0.0
+merchant_fraud_Hills-Olson,0.0,0.0
+merchant_fraud_Hills-Boyer,0.0,0.0
+"merchant_fraud_Hills, Hegmann and Schaefer",0.0,0.0
+merchant_fraud_Hickle Group,0.0,0.0
+merchant_fraud_Jast and Sons,0.0,0.0
+merchant_fraud_Jast Ltd,0.0,0.0
+"merchant_fraud_Hermiston, Russel and Price",0.0,0.0
+"merchant_fraud_Hermiston, Pacocha and Smith",0.0,0.0
+merchant_fraud_Hermann-Gaylord,0.0,0.0
+merchant_fraud_Jakubowski Group,0.0,0.0
+merchant_fraud_Jacobi and Sons,0.0,0.0
+merchant_fraud_Jacobi Inc,0.0,0.0
+merchant_fraud_Hyatt-Blick,0.0,0.0
+"merchant_fraud_Hyatt, Russel and Gleichner",0.0,0.0
+merchant_fraud_Huels-Nolan,0.0,0.0
+merchant_fraud_Huels-Hahn,0.0,0.0
+merchant_fraud_Huel-Langworth,0.0,0.0
+"merchant_fraud_Huel, Hammes and Witting",0.0,0.0
+merchant_fraud_Huel Ltd,0.0,0.0
+merchant_fraud_Hudson-Ratke,0.0,0.0
+merchant_fraud_Kemmer-Reinger,0.0,0.0
+merchant_fraud_Kemmer-Buckridge,0.0,0.0
+merchant_fraud_Howe Ltd,0.0,0.0
+merchant_fraud_Hoppe-Parisian,0.0,0.0
+"merchant_fraud_Hoppe, Harris and Bednar",0.0,0.0
+merchant_fraud_Kassulke Inc,0.0,0.0
+"merchant_fraud_Jones, Sawayn and Romaguera",0.0,0.0
+merchant_fraud_Johnston-Casper,0.0,0.0
+"merchant_fraud_Johnston, Nikolaus and Maggio",0.0,0.0
+"merchant_fraud_Johnson, Runolfsdottir and Mayer",0.0,0.0
+merchant_fraud_Johns-Hoeger,0.0,0.0
+merchant_fraud_Johns Inc,0.0,0.0
+merchant_fraud_Jewess LLC,0.0,0.0
+merchant_fraud_Jerde-Hermann,0.0,0.0
+"merchant_fraud_Jenkins, Hauck and Friesen",0.0,0.0
+merchant_fraud_Jast-McDermott,0.0,0.0
+merchant_fraud_Kilback Group,0.0,0.0
+merchant_fraud_Kihn-Schuster,0.0,0.0
+merchant_fraud_Jaskolski-Vandervort,0.0,0.0
+merchant_fraud_Jaskolski-Dibbert,0.0,0.0
+merchant_fraud_Jakubowski Inc,0.0,0.0
+merchant_fraud_Kihn Inc,0.0,0.0
+merchant_fraud_Kiehn-Emmerich,0.0,0.0
+merchant_fraud_Kiehn Inc,0.0,0.0
+merchant_fraud_Kessler Inc,0.0,0.0
+merchant_fraud_Kessler Group,0.0,0.0
+merchant_fraud_Kertzmann LLC,0.0,0.0
+merchant_fraud_Kerluke-Abshire,0.0,0.0
+"merchant_fraud_Kerluke, Kertzmann and Wiza",0.0,0.0
+"merchant_fraud_Kerluke, Considine and Macejkovic",0.0,0.0
+merchant_fraud_Kerluke PLC,0.0,0.0
+merchant_fraud_Kerluke Inc,0.0,0.0
+"merchant_fraud_Konopelski, Schneider and Hartmann",0.0,0.0
+"merchant_fraud_Kohler, Lindgren and Koelpin",0.0,0.0
+merchant_fraud_Keeling-Crist,0.0,0.0
+merchant_fraud_Kautzer and Sons,0.0,0.0
+merchant_fraud_Kassulke PLC,0.0,0.0
+"merchant_fraud_Klocko, Runolfsdottir and Breitenberg",0.0,0.0
+merchant_fraud_Klocko LLC,0.0,0.0
+merchant_fraud_Kling-Grant,0.0,0.0
+merchant_fraud_Kling-Ernser,0.0,0.0
+"merchant_fraud_Kling, Howe and Schneider",0.0,0.0
+merchant_fraud_Kling Inc,0.0,0.0
+merchant_fraud_Klein Group,0.0,0.0
+merchant_fraud_Kirlin and Sons,0.0,0.0
+"merchant_fraud_Kilback, Nitzsche and Leffler",0.0,0.0
+merchant_fraud_Kilback and Sons,0.0,0.0
+merchant_fraud_Kilback LLC,0.0,0.0
+"merchant_fraud_Kuhic, Bins and Pfeffer",0.0,0.0
+merchant_fraud_Kuhic LLC,0.0,0.0
+merchant_fraud_Kihn-Fritsch,0.0,0.0
+"merchant_fraud_Kihn, Brakus and Goyette",0.0,0.0
+"merchant_fraud_Kihn, Abernathy and Douglas",0.0,0.0
+merchant_fraud_Kris-Weimann,0.0,0.0
+merchant_fraud_Kris-Padberg,0.0,0.0
+merchant_fraud_Kris-Kertzmann,0.0,0.0
+merchant_fraud_Kozey-McDermott,0.0,0.0
+merchant_fraud_Kozey-Kuhlman,0.0,0.0
+merchant_fraud_Kozey-Boehm,0.0,0.0
+"merchant_fraud_Kovacek, Dibbert and Ondricka",0.0,0.0
+merchant_fraud_Kovacek Ltd,0.0,0.0
+"merchant_fraud_Koss, McLaughlin and Mayer",0.0,0.0
+"merchant_fraud_Koss, Hansen and Lueilwitz",0.0,0.0
+merchant_fraud_Koss and Sons,0.0,0.0
+merchant_fraud_Kutch-Hegmann,0.0,0.0
+merchant_fraud_Kutch-Ferry,0.0,0.0
+merchant_fraud_Koepp-Witting,0.0,0.0
+merchant_fraud_Koepp-Parker,0.0,0.0
+merchant_fraud_Koelpin and Sons,0.0,0.0
+merchant_fraud_Kutch LLC,0.0,0.0
+merchant_fraud_Kutch Group,0.0,0.0
+merchant_fraud_Kuphal-Toy,0.0,0.0
+merchant_fraud_Kuphal-Predovic,0.0,0.0
+merchant_fraud_Kuphal-Bartoletti,0.0,0.0
+"merchant_fraud_Kunze, Larkin and Mayert",0.0,0.0
+merchant_fraud_Kunze Inc,0.0,0.0
+merchant_fraud_Kunde-Sanford,0.0,0.0
+merchant_fraud_Kulas Group,0.0,0.0
+merchant_fraud_Kuhn LLC,0.0,0.0
+merchant_fraud_Kuhn Group,0.0,0.0
+merchant_fraud_Lebsack and Sons,0.0,0.0
+merchant_fraud_Leannon-Ward,0.0,0.0
+merchant_fraud_Kuhic Inc,0.0,0.0
+merchant_fraud_Kub-Heaney,0.0,0.0
+merchant_fraud_Kub PLC,0.0,0.0
+"merchant_fraud_Larkin, Stracke and Greenfelder",0.0,0.0
+merchant_fraud_Larkin Ltd,0.0,0.0
+"merchant_fraud_Langworth, Boehm and Gulgowski",0.0,0.0
+merchant_fraud_Langworth LLC,0.0,0.0
+"merchant_fraud_Langosh, Wintheiser and Hyatt",0.0,0.0
+"merchant_fraud_Lang, Towne and Schuppe",0.0,0.0
+"merchant_fraud_Lakin, Ferry and Beatty",0.0,0.0
+"merchant_fraud_Labadie, Treutel and Bode",0.0,0.0
+merchant_fraud_Labadie LLC,0.0,0.0
+merchant_fraud_Kuvalis Ltd,0.0,0.0
+merchant_fraud_Kutch-Wilderman,0.0,0.0
+"merchant_fraud_Lockman, West and Runte",0.0,0.0
+merchant_fraud_Lockman Ltd,0.0,0.0
+"merchant_fraud_Kutch, Steuber and Gerhold",0.0,0.0
+"merchant_fraud_Kutch, Hermiston and Farrell",0.0,0.0
+merchant_fraud_Kutch and Sons,0.0,0.0
+merchant_fraud_Lind-Buckridge,0.0,0.0
+"merchant_fraud_Lind, Huel and McClure",0.0,0.0
+"merchant_fraud_Lesch, D'Amore and Brown",0.0,0.0
+merchant_fraud_Lesch Ltd,0.0,0.0
+merchant_fraud_Lemke-Gutmann,0.0,0.0
+merchant_fraud_Lemke and Sons,0.0,0.0
+"merchant_fraud_Lehner, Reichert and Mills",0.0,0.0
+"merchant_fraud_Lehner, Mosciski and King",0.0,0.0
+merchant_fraud_Leffler-Goldner,0.0,0.0
+merchant_fraud_Ledner-Pfannerstill,0.0,0.0
+"merchant_fraud_Ledner, Hartmann and Feest",0.0,0.0
+merchant_fraud_McCullough LLC,0.0,0.0
+merchant_fraud_McCullough Group,0.0,0.0
+merchant_fraud_Leannon-Nikolaus,0.0,0.0
+merchant_fraud_Larson-Moen,0.0,0.0
+"merchant_fraud_Larson, Quitzon and Spencer",0.0,0.0
+"merchant_fraud_Mante, Luettgen and Hackett",0.0,0.0
+merchant_fraud_Mante Group,0.0,0.0
+merchant_fraud_Maggio-Fahey,0.0,0.0
+merchant_fraud_Macejkovic-Lesch,0.0,0.0
+merchant_fraud_Lynch-Wisozk,0.0,0.0
+merchant_fraud_Lynch-Mohr,0.0,0.0
+merchant_fraud_Lynch Ltd,0.0,0.0
+merchant_fraud_Luettgen PLC,0.0,0.0
+merchant_fraud_Lubowitz-Walter,0.0,0.0
+"merchant_fraud_Lubowitz, Terry and Stracke",0.0,0.0
+"merchant_fraud_Lowe, Dietrich and Erdman",0.0,0.0
+merchant_fraud_Miller-Harris,0.0,0.0
+merchant_fraud_Little-Gleichner,0.0,0.0
+"merchant_fraud_Little, Gutmann and Lynch",0.0,0.0
+merchant_fraud_Little Ltd,0.0,0.0
+"merchant_fraud_Medhurst, Cartwright and Ebert",0.0,0.0
+merchant_fraud_Medhurst PLC,0.0,0.0
+merchant_fraud_Medhurst Inc,0.0,0.0
+"merchant_fraud_McLaughlin, Armstrong and Koepp",0.0,0.0
+merchant_fraud_McKenzie-Huels,0.0,0.0
+merchant_fraud_McGlynn-Jaskolski,0.0,0.0
+merchant_fraud_McGlynn-Heathcote,0.0,0.0
+merchant_fraud_McDermott-Weimann,0.0,0.0
+merchant_fraud_McDermott-Rice,0.0,0.0
+"merchant_fraud_McDermott, Osinski and Morar",0.0,0.0
+"merchant_fraud_McCullough, Hudson and Schuster",0.0,0.0
+"merchant_fraud_Mosciski, Ziemann and Farrell",0.0,0.0
+"merchant_fraud_Mosciski, Gislason and Mertz",0.0,0.0
+merchant_fraud_Mayert Group,0.0,0.0
+merchant_fraud_Marvin-Lind,0.0,0.0
+merchant_fraud_Marks Inc,0.0,0.0
+merchant_fraud_Morissette PLC,0.0,0.0
+merchant_fraud_Morissette LLC,0.0,0.0
+merchant_fraud_Morar Inc,0.0,0.0
+"merchant_fraud_Moore, Williamson and Emmerich",0.0,0.0
+"merchant_fraud_Moore, Dibbert and Koepp",0.0,0.0
+merchant_fraud_Monahan-Morar,0.0,0.0
+"merchant_fraud_Monahan, Hermann and Johns",0.0,0.0
+"merchant_fraud_Monahan, Bogisich and Ledner",0.0,0.0
+merchant_fraud_Mohr-Bayer,0.0,0.0
+merchant_fraud_Mohr Inc,0.0,0.0
+"merchant_fraud_Moen, Reinger and Murphy",0.0,0.0
+merchant_fraud_O'Keefe-Hudson,0.0,0.0
+merchant_fraud_O'Hara-Wilderman,0.0,0.0
+merchant_fraud_Metz-Boehm,0.0,0.0
+"merchant_fraud_Metz, Russel and Metz",0.0,0.0
+"merchant_fraud_Medhurst, Labadie and Gottlieb",0.0,0.0
+"merchant_fraud_Nitzsche, Kessler and Wolff",0.0,0.0
+"merchant_fraud_Nienow, Barrows and Romaguera",0.0,0.0
+"merchant_fraud_Nienow, Ankunding and Collier",0.0,0.0
+merchant_fraud_Nienow PLC,0.0,0.0
+"merchant_fraud_Nicolas, Hills and McGlynn",0.0,0.0
+merchant_fraud_Nader-Maggio,0.0,0.0
+merchant_fraud_Nader-Heller,0.0,0.0
+merchant_fraud_Murray-Smitham,0.0,0.0
+merchant_fraud_Murray Ltd,0.0,0.0
+"merchant_fraud_Mueller, Gerhold and Mueller",0.0,0.0
+merchant_fraud_Mraz-Herzog,0.0,0.0
+"merchant_fraud_Parker, Nolan and Trantow",0.0,0.0
+"merchant_fraud_Parisian, Schiller and Altenwerth",0.0,0.0
+merchant_fraud_Morissette-Schaefer,0.0,0.0
+"merchant_fraud_Morissette, Weber and Wiegand",0.0,0.0
+merchant_fraud_Padberg-Rogahn,0.0,0.0
+merchant_fraud_Pacocha-Weissnat,0.0,0.0
+merchant_fraud_Pacocha-O'Reilly,0.0,0.0
+merchant_fraud_Pacocha-Bauch,0.0,0.0
+"merchant_fraud_Osinski, Ledner and Leuschke",0.0,0.0
+merchant_fraud_Osinski Inc,0.0,0.0
+merchant_fraud_Ortiz Group,0.0,0.0
+"merchant_fraud_Olson, Becker and Koch",0.0,0.0
+"merchant_fraud_Okuneva, Schneider and Rau",0.0,0.0
+"merchant_fraud_O'Reilly, Mohr and Purdy",0.0,0.0
+merchant_fraud_O'Keefe-Wisoky,0.0,0.0
+merchant_fraud_Quitzon-Goyette,0.0,0.0
+"merchant_fraud_Quitzon, Green and Bashirian",0.0,0.0
+"merchant_fraud_Prosacco, Kreiger and Kovacek",0.0,0.0
+merchant_fraud_O'Connell-Ullrich,0.0,0.0
+"merchant_fraud_O'Connell, Botsford and Hand",0.0,0.0
+merchant_fraud_Nolan-Williamson,0.0,0.0
+merchant_fraud_Predovic Inc,0.0,0.0
+merchant_fraud_Powlowski-Weimann,0.0,0.0
+merchant_fraud_Pouros-Haag,0.0,0.0
+merchant_fraud_Pouros-Conroy,0.0,0.0
+"merchant_fraud_Pouros, Walker and Spencer",0.0,0.0
+merchant_fraud_Pollich LLC,0.0,0.0
+merchant_fraud_Pfeffer and Sons,0.0,0.0
+merchant_fraud_Pfeffer LLC,0.0,0.0
+merchant_fraud_Paucek-Wiza,0.0,0.0
+merchant_fraud_Parker-Kunde,0.0,0.0
+"merchant_fraud_Reilly, Heaney and Cole",0.0,0.0
+merchant_fraud_Reilly and Sons,0.0,0.0
+merchant_fraud_Reilly LLC,0.0,0.0
+merchant_fraud_Pagac LLC,0.0,0.0
+merchant_fraud_Padberg-Welch,0.0,0.0
+merchant_fraud_Padberg-Sauer,0.0,0.0
+"merchant_fraud_Reichert, Huels and Hoppe",0.0,0.0
+"merchant_fraud_Reichel, Bradtke and Blanda",0.0,0.0
+merchant_fraud_Reichel LLC,0.0,0.0
+merchant_fraud_Reichel Inc,0.0,0.0
+"merchant_fraud_Raynor, Reinger and Hagenes",0.0,0.0
+"merchant_fraud_Raynor, Feest and Miller",0.0,0.0
+merchant_fraud_Rau-Robel,0.0,0.0
+merchant_fraud_Rau-Grant,0.0,0.0
+merchant_fraud_Rau and Sons,0.0,0.0
+merchant_fraud_Ratke and Sons,0.0,0.0
+"merchant_fraud_Rohan, White and Aufderhar",0.0,0.0
+"merchant_fraud_Rodriguez, Yost and Jenkins",0.0,0.0
+merchant_fraud_Rodriguez Group,0.0,0.0
+merchant_fraud_Prosacco LLC,0.0,0.0
+merchant_fraud_Prohaska-Murray,0.0,0.0
+merchant_fraud_Price Inc,0.0,0.0
+"merchant_fraud_Robel, Cummerata and Prosacco",0.0,0.0
+"merchant_fraud_Ritchie, Oberbrunner and Cremin",0.0,0.0
+"merchant_fraud_Ritchie, Bradtke and Stiedemann",0.0,0.0
+merchant_fraud_Rippin-VonRueden,0.0,0.0
+"merchant_fraud_Rippin, Kub and Mann",0.0,0.0
+merchant_fraud_Reynolds-Schinner,0.0,0.0
+merchant_fraud_Renner Ltd,0.0,0.0
+merchant_fraud_Rempel PLC,0.0,0.0
+merchant_fraud_Rempel Inc,0.0,0.0
+"merchant_fraud_Reinger, Weissnat and Strosin",0.0,0.0
+"merchant_fraud_Runte, Green and Emard",0.0,0.0
+merchant_fraud_Runolfsson and Sons,0.0,0.0
+"merchant_fraud_Runolfsdottir, Mueller and Hand",0.0,0.0
+merchant_fraud_Reichert-Weissnat,0.0,0.0
+"merchant_fraud_Reichert, Shanahan and Hayes",0.0,0.0
+"merchant_fraud_Reichert, Rowe and Mraz",0.0,0.0
+merchant_fraud_Rowe-Vandervort,0.0,0.0
+"merchant_fraud_Rowe, Batz and Goodwin",0.0,0.0
+merchant_fraud_Roob-Okuneva,0.0,0.0
+"merchant_fraud_Roob, Conn and Tremblay",0.0,0.0
+merchant_fraud_Roob LLC,0.0,0.0
+"merchant_fraud_Romaguera, Wehner and Tromp",0.0,0.0
+"merchant_fraud_Romaguera, Cruickshank and Greenholt",0.0,0.0
+merchant_fraud_Romaguera and Sons,0.0,0.0
+merchant_fraud_Romaguera Ltd,0.0,0.0
+merchant_fraud_Rolfson-Kunde,0.0,0.0
+merchant_fraud_Schmeler-Howe,0.0,0.0
+"merchant_fraud_Schmeler, Bashirian and Price",0.0,0.0
+merchant_fraud_Schmeler Inc,0.0,0.0
+merchant_fraud_Roberts-Beahan,0.0,0.0
+"merchant_fraud_Roberts, Ryan and Smith",0.0,0.0
+"merchant_fraud_Roberts, Daniel and Macejkovic",0.0,0.0
+merchant_fraud_Schamberger-O'Keefe,0.0,0.0
+"merchant_fraud_Schaefer, McGlynn and Bosco",0.0,0.0
+"merchant_fraud_Schaefer, Maggio and Daugherty",0.0,0.0
+"merchant_fraud_Schaefer, Fay and Hilll",0.0,0.0
+merchant_fraud_Schaefer Ltd,0.0,0.0
+merchant_fraud_Sawayn PLC,0.0,0.0
+merchant_fraud_Satterfield-Lowe,0.0,0.0
+merchant_fraud_Rutherford-Mertz,0.0,0.0
+"merchant_fraud_Rutherford, Homenick and Bergstrom",0.0,0.0
+merchant_fraud_Runte-Mohr,0.0,0.0
+"merchant_fraud_Schumm, Bauch and Ondricka",0.0,0.0
+merchant_fraud_Schumm PLC,0.0,0.0
+merchant_fraud_Schulist Ltd,0.0,0.0
+merchant_fraud_Ruecker-Mayert,0.0,0.0
+merchant_fraud_Ruecker Group,0.0,0.0
+merchant_fraud_Schroeder Group,0.0,0.0
+merchant_fraud_Schoen-Quigley,0.0,0.0
+"merchant_fraud_Schoen, Nienow and Bauch",0.0,0.0
+"merchant_fraud_Schoen, Kuphal and Nitzsche",0.0,0.0
+merchant_fraud_Schoen Ltd,0.0,0.0
+"merchant_fraud_Schneider, Hayes and Nikolaus",0.0,0.0
+merchant_fraud_Schmitt Ltd,0.0,0.0
+merchant_fraud_Schmitt Inc,0.0,0.0
+merchant_fraud_Schmidt-Larkin,0.0,0.0
+merchant_fraud_Schmidt and Sons,0.0,0.0
+merchant_fraud_Spencer-Runolfsson,0.0,0.0
+merchant_fraud_Spencer PLC,0.0,0.0
+merchant_fraud_Smitham-Schiller,0.0,0.0
+merchant_fraud_Schimmel-Olson,0.0,0.0
+"merchant_fraud_Schiller, Blanda and Johnson",0.0,0.0
+merchant_fraud_Schiller Ltd,0.0,0.0
+merchant_fraud_Skiles-Ankunding,0.0,0.0
+merchant_fraud_Skiles LLC,0.0,0.0
+merchant_fraud_Simonis-Prohaska,0.0,0.0
+merchant_fraud_Shields-Wunsch,0.0,0.0
+merchant_fraud_Shields Inc,0.0,0.0
+merchant_fraud_Shanahan-Lehner,0.0,0.0
+merchant_fraud_Schuppe-Schuppe,0.0,0.0
+"merchant_fraud_Schuppe, Nolan and Hoeger",0.0,0.0
+merchant_fraud_Schuppe LLC,0.0,0.0
+"merchant_fraud_Schumm, McLaughlin and Carter",0.0,0.0
+merchant_fraud_Streich Ltd,0.0,0.0
+merchant_fraud_Stracke-Lemke,0.0,0.0
+merchant_fraud_Stoltenberg-Beatty,0.0,0.0
+"merchant_fraud_Schroeder, Wolff and Hermiston",0.0,0.0
+"merchant_fraud_Schroeder, Hauck and Treutel",0.0,0.0
+merchant_fraud_Stiedemann Inc,0.0,0.0
+"merchant_fraud_Stehr, Jewess and Schimmel",0.0,0.0
+merchant_fraud_Stark-Koss,0.0,0.0
+merchant_fraud_Stark-Batz,0.0,0.0
+"merchant_fraud_Stanton, Jakubowski and Baumbach",0.0,0.0
+merchant_fraud_Stamm-Witting,0.0,0.0
+merchant_fraud_Stamm-Rodriguez,0.0,0.0
+merchant_fraud_Sporer-Keebler,0.0,0.0
+merchant_fraud_Sporer Inc,0.0,0.0
+merchant_fraud_Spinka-Welch,0.0,0.0
+merchant_fraud_Spinka Inc,0.0,0.0
+merchant_fraud_Thiel-Thiel,0.0,0.0
+merchant_fraud_Thiel PLC,0.0,0.0
+merchant_fraud_Thiel Ltd,0.0,0.0
+merchant_fraud_Smitham-Boehm,0.0,0.0
+merchant_fraud_Smith-Stokes,0.0,0.0
+merchant_fraud_Terry Ltd,0.0,0.0
+"merchant_fraud_Swift, Bradtke and Marquardt",0.0,0.0
+merchant_fraud_Swift PLC,0.0,0.0
+"merchant_fraud_Swaniawski, Nitzsche and Welch",0.0,0.0
+"merchant_fraud_Swaniawski, Lowe and Robel",0.0,0.0
+"merchant_fraud_Swaniawski, Bahringer and Ledner",0.0,0.0
+merchant_fraud_Strosin-Cruickshank,0.0,0.0
+"merchant_fraud_Stroman, Hudson and Erdman",0.0,0.0
+"merchant_fraud_Streich, Rolfson and Wilderman",0.0,0.0
+"merchant_fraud_Streich, Hansen and Veum",0.0,0.0
+"merchant_fraud_Streich, Dietrich and Barton",0.0,0.0
+"merchant_fraud_Tromp, Kerluke and Glover",0.0,0.0
+merchant_fraud_Tromp Group,0.0,0.0
+merchant_fraud_Treutel-King,0.0,0.0
+"merchant_fraud_Stokes, Christiansen and Sipes",0.0,0.0
+merchant_fraud_Stiedemann Ltd,0.0,0.0
+"merchant_fraud_Towne, Greenholt and Koepp",0.0,0.0
+merchant_fraud_Towne LLC,0.0,0.0
+merchant_fraud_Torphy-Kertzmann,0.0,0.0
+merchant_fraud_Torphy-Goyette,0.0,0.0
+merchant_fraud_Torp-Lemke,0.0,0.0
+merchant_fraud_Torp-Labadie,0.0,0.0
+"merchant_fraud_Torp, Muller and Borer",0.0,0.0
+"merchant_fraud_Tillman, Fritsch and Schmitt",0.0,0.0
+"merchant_fraud_Tillman, Dickinson and Labadie",0.0,0.0
+merchant_fraud_Tillman LLC,0.0,0.0
+merchant_fraud_Thompson-Gleason,0.0,0.0
+merchant_fraud_Waelchi Inc,0.0,0.0
+merchant_fraud_VonRueden Group,0.0,0.0
+merchant_fraud_Volkman-Predovic,0.0,0.0
+merchant_fraud_Terry-Huel,0.0,0.0
+"merchant_fraud_Terry, Johns and Bins",0.0,0.0
+merchant_fraud_Veum-Koelpin,0.0,0.0
+merchant_fraud_Vandervort-Funk,0.0,0.0
+merchant_fraud_Upton PLC,0.0,0.0
+merchant_fraud_Ullrich Ltd,0.0,0.0
+"merchant_fraud_Turner, Ziemann and Lehner",0.0,0.0
+"merchant_fraud_Turner, Ruecker and Parisian",0.0,0.0
+merchant_fraud_Turner and Sons,0.0,0.0
+merchant_fraud_Turner LLC,0.0,0.0
+merchant_fraud_Turcotte-Halvorson,0.0,0.0
+"merchant_fraud_Turcotte, McKenzie and Koss",0.0,0.0
+"merchant_fraud_Turcotte, Batz and Buckridge",0.0,0.0
+merchant_fraud_Wilkinson PLC,0.0,0.0
+merchant_fraud_Wilkinson Ltd,0.0,0.0
+merchant_fraud_Wilkinson LLC,0.0,0.0
+merchant_fraud_Trantow PLC,0.0,0.0
+"merchant_fraud_Towne, Walker and Borer",0.0,0.0
+"merchant_fraud_Welch, Rath and Koepp",0.0,0.0
+merchant_fraud_Welch Inc,0.0,0.0
+merchant_fraud_Weimann-Lockman,0.0,0.0
+"merchant_fraud_Weimann, Kuhic and Beahan",0.0,0.0
+"merchant_fraud_Weber, Thiel and Hammes",0.0,0.0
+merchant_fraud_Weber and Sons,0.0,0.0
+"merchant_fraud_Watsica, Haag and Considine",0.0,0.0
+merchant_fraud_Watsica LLC,0.0,0.0
+merchant_fraud_Waters-Cruickshank,0.0,0.0
+"merchant_fraud_Walter, Hettinger and Kessler",0.0,0.0
+merchant_fraud_Waelchi-Wolf,0.0,0.0
+"merchant_fraud_Yost, Schamberger and Windler",0.0,0.0
+"merchant_fraud_Yost, Block and Koepp",0.0,0.0
+merchant_fraud_Wuckert-Walter,0.0,0.0
+merchant_fraud_Volkman PLC,0.0,0.0
+merchant_fraud_Volkman Ltd,0.0,0.0
+merchant_fraud_Wolf Inc,0.0,0.0
+"merchant_fraud_Wiza, Schaden and Stark",0.0,0.0
+merchant_fraud_Wiza LLC,0.0,0.0
+"merchant_fraud_Witting, Beer and Ernser",0.0,0.0
+merchant_fraud_Wisozk and Sons,0.0,0.0
+"merchant_fraud_Wintheiser, Dietrich and Schimmel",0.0,0.0
+"merchant_fraud_Windler, Goodwin and Kovacek",0.0,0.0
+merchant_fraud_Windler LLC,0.0,0.0
+"merchant_fraud_Willms, Kris and Bergnaum",0.0,0.0
+merchant_fraud_Williamson LLC,0.0,0.0
+merchant_fraud_Will Ltd,0.0,0.0
+merchant_fraud_Bernhard Inc,0.0,0.0
+merchant_fraud_Berge-Ullrich,0.0,0.0
+merchant_fraud_Berge-Hills,0.0,0.0
+"merchant_fraud_Berge, Kautzer and Harris",0.0,0.0
+merchant_fraud_Berge LLC,0.0,0.0
+merchant_fraud_Auer LLC,0.0,0.0
+merchant_fraud_White and Sons,0.0,0.0
+merchant_fraud_Zulauf LLC,0.0,0.0
+"merchant_fraud_Zieme, Bode and Dooley",0.0,0.0
+merchant_fraud_Ziemann-Waters,0.0,0.0
+"merchant_fraud_Zemlak, Tillman and Cremin",0.0,0.0
+merchant_fraud_Zemlak Group,0.0,0.0
+"merchant_fraud_Zboncak, Rowe and Murazik",0.0,0.0
+merchant_fraud_Zboncak Ltd,0.0,0.0
+merchant_fraud_Zboncak LLC,0.0,0.0
+merchant_fraud_Yost-Rogahn,0.0,0.0
+merchant_fraud_Wuckert-Goldner,0.0,0.0
+"merchant_fraud_Wuckert, Wintheiser and Friesen",0.0,0.0
+city_Acworth,0.0,0.0
+city_Achille,0.0,0.0
+category_travel,0.0,0.0
+merchant_fraud_Wiegand-Lowe,0.0,0.0
+merchant_fraud_Barton Inc,0.0,0.0
+merchant_fraud_Bartoletti-Wunsch,0.0,0.0
+merchant_fraud_Bartoletti and Sons,0.0,0.0
+merchant_fraud_Bins-Howell,0.0,0.0
+"merchant_fraud_Bins, Balistreri and Beatty",0.0,0.0
+"merchant_fraud_Bernier, Volkman and Hoeger",0.0,0.0
+"merchant_fraud_Bernier, Streich and Jewess",0.0,0.0
+merchant_fraud_Bernier and Sons,0.0,0.0
+merchant_fraud_Bernhard-Lesch,0.0,0.0
+"merchant_fraud_Bernhard, Grant and Langworth",0.0,0.0
+city_Alva,0.0,0.0
+city_Altonah,0.0,0.0
+city_Altona,0.0,0.0
+city_Alton,0.0,0.0
+city_Altair,0.0,0.0
+city_Alpharetta,0.0,0.0
+city_Allentown,0.0,0.0
+city_Allenhurst,0.0,0.0
+city_Alexandria,0.0,0.0
+city_Aledo,0.0,0.0
+city_Alder,0.0,0.0
+city_Albuquerque,0.0,0.0
+city_Albany,0.0,0.0
+city_Akron,0.0,0.0
+city_Afton,0.0,0.0
+city_Adams,0.0,0.0
+city_Atglen,0.0,0.0
+city_Ashford,0.0,0.0
+city_Ashfield,0.0,0.0
+city_Ash Flat,0.0,0.0
+city_Arvada,0.0,0.0
+city_Arnold,0.0,0.0
+city_Armonk,0.0,0.0
+city_Armagh,0.0,0.0
+city_Arlington,0.0,0.0
+city_Apison,0.0,0.0
+city_Annapolis,0.0,0.0
+city_Andrews,0.0,0.0
+city_Amsterdam,0.0,0.0
+city_Amorita,0.0,0.0
+city_American Fork,0.0,0.0
+city_Amanda,0.0,0.0
+city_Baton Rouge,0.0,0.0
+city_Basye,0.0,0.0
+city_Baroda,0.0,0.0
+city_Barnstable,0.0,0.0
+city_Barneveld,0.0,0.0
+city_Barnard,0.0,0.0
+city_Ballwin,0.0,0.0
+city_Bailey,0.0,0.0
+city_Bagley,0.0,0.0
+city_Azusa,0.0,0.0
+city_Avoca,0.0,0.0
+city_Avera,0.0,0.0
+city_Aurora,0.0,0.0
+city_Auburn,0.0,0.0
+city_Atlantic,0.0,0.0
+city_Athena,0.0,0.0
+city_Bethel Springs,0.0,0.0
+city_Bethel,0.0,0.0
+city_Bessemer,0.0,0.0
+city_Benton,0.0,0.0
+city_Belmond,0.0,0.0
+city_Bellmore,0.0,0.0
+city_Belle Fourche,0.0,0.0
+city_Belgrade,0.0,0.0
+city_Belfast,0.0,0.0
+city_Beaverdam,0.0,0.0
+city_Beaver Falls,0.0,0.0
+city_Beasley,0.0,0.0
+city_Bay Minette,0.0,0.0
+city_Bay City,0.0,0.0
+city_Bauxite,0.0,0.0
+city_Battle Creek,0.0,0.0
+city_Bowersville,0.0,0.0
+city_Bowdoin,0.0,0.0
+city_Boulder,0.0,0.0
+city_Boonton,0.0,0.0
+city_Bonita Springs,0.0,0.0
+city_Bonfield,0.0,0.0
+city_Bolton,0.0,0.0
+city_Bolivar,0.0,0.0
+city_Blooming Grove,0.0,0.0
+city_Blairstown,0.0,0.0
+city_Blairsden-Graeagle,0.0,0.0
+city_Blackville,0.0,0.0
+city_Birmingham,0.0,0.0
+city_Bigelow,0.0,0.0
+city_Big Indian,0.0,0.0
+city_Big Creek,0.0,0.0
+city_Brooklyn,0.0,0.0
+city_Central,0.0,0.0
+city_Brooklin,0.0,0.0
+city_Bronx,0.0,0.0
+city_Bristow,0.0,0.0
+city_Bristol,0.0,0.0
+city_Brinson,0.0,0.0
+city_Bridger,0.0,0.0
+city_Bridgeport,0.0,0.0
+city_Breesport,0.0,0.0
+city_Brashear,0.0,0.0
+city_Brantley,0.0,0.0
+city_Brandon,0.0,0.0
+city_Brainard,0.0,0.0
+city_Bradley,0.0,0.0
+city_Boyd,0.0,0.0
+city_Cape Coral,0.0,0.0
+city_Clifton,0.0,0.0
+city_Canton,0.0,0.0
+city_Campbell,0.0,0.0
+city_Cadiz,0.0,0.0
+city_Bynum,0.0,0.0
+city_Burns Flat,0.0,0.0
+city_Burlington,0.0,0.0
+city_Burke,0.0,0.0
+city_Burbank,0.0,0.0
+city_Bryant,0.0,0.0
+city_Brunson,0.0,0.0
+city_Brownville,0.0,0.0
+city_Browning,0.0,0.0
+city_Broomfield,0.0,0.0
+city_Chatham,0.0,0.0
+city_Cord,0.0,0.0
+city_Centerview,0.0,0.0
+city_Center Tuftonboro,0.0,0.0
+city_Center Point,0.0,0.0
+city_Cedar,0.0,0.0
+city_Cecilton,0.0,0.0
+city_Cazenovia,0.0,0.0
+city_Catawba,0.0,0.0
+city_Cassatt,0.0,0.0
+city_Cass,0.0,0.0
+city_Cascade Locks,0.0,0.0
+city_Carroll,0.0,0.0
+city_Carlotta,0.0,0.0
+city_Carlisle,0.0,0.0
+city_Cardwell,0.0,0.0
+city_Clune,0.0,0.0
+city_Curlew,0.0,0.0
+city_Cleveland,0.0,0.0
+city_Clearwater,0.0,0.0
+city_Clayton,0.0,0.0
+city_Clay Center,0.0,0.0
+city_Clarksville,0.0,0.0
+city_Clarks Mills,0.0,0.0
+city_Clarinda,0.0,0.0
+city_Claremont,0.0,0.0
+city_Cisco,0.0,0.0
+city_Churubusco,0.0,0.0
+city_Christine,0.0,0.0
+city_Chester Heights,0.0,0.0
+city_Chester,0.0,0.0
+city_Cherokee Village,0.0,0.0
+city_Corona,0.0,0.0
+city_Deane,0.0,0.0
+city_Conway,0.0,0.0
+city_Comfrey,0.0,0.0
+city_Comfort,0.0,0.0
+city_Columbia,0.0,0.0
+city_Colton,0.0,0.0
+city_Colorado Springs,0.0,0.0
+city_Collettsville,0.0,0.0
+city_Collegeville,0.0,0.0
+city_Coleman,0.0,0.0
+city_Coleharbor,0.0,0.0
+city_Cokeburg,0.0,0.0
+city_Coffeeville,0.0,0.0
+city_Cochranton,0.0,0.0
+city_Clutier,0.0,0.0
+city_Cuthbert,0.0,0.0
+city_Du Pont,0.0,0.0
+city_Crownpoint,0.0,0.0
+city_Cross Plains,0.0,0.0
+city_Cross,0.0,0.0
+city_Cromona,0.0,0.0
+city_Cressona,0.0,0.0
+city_Creola,0.0,0.0
+city_Creedmoor,0.0,0.0
+city_Cranks,0.0,0.0
+city_Craig,0.0,0.0
+city_Coyle,0.0,0.0
+city_Cowlesville,0.0,0.0
+city_Cottekill,0.0,0.0
+city_Corsica,0.0,0.0
+city_Corriganville,0.0,0.0
+city_Delhi,0.0,0.0
+city_Egan,0.0,0.0
+city_Deadwood,0.0,0.0
+city_De Witt,0.0,0.0
+city_De Soto,0.0,0.0
+city_De Queen,0.0,0.0
+city_De Lancey,0.0,0.0
+city_Dayton,0.0,0.0
+city_Darien,0.0,0.0
+city_Daniels,0.0,0.0
+city_Damascus,0.0,0.0
+city_Daly City,0.0,0.0
+city_Dalton,0.0,0.0
+city_Dallas,0.0,0.0
+city_Dadeville,0.0,0.0
+city_Cuyahoga Falls,0.0,0.0
+city_Dublin,0.0,0.0
+city_Eureka,0.0,0.0
+city_Dresden,0.0,0.0
+city_Drakes Branch,0.0,0.0
+city_Downsville,0.0,0.0
+city_Dongola,0.0,0.0
+city_Doe Hill,0.0,0.0
+city_Dieterich,0.0,0.0
+city_Diamond,0.0,0.0
+city_Dexter,0.0,0.0
+city_Detroit,0.0,0.0
+city_Desdemona,0.0,0.0
+city_Des Moines,0.0,0.0
+city_Denham Springs,0.0,0.0
+city_Deltona,0.0,0.0
+city_Dell City,0.0,0.0
+city_Fort Myers,0.0,0.0
+city_Fordoche,0.0,0.0
+city_Edmond,0.0,0.0
+city_Edisto Island,0.0,0.0
+city_Edinburg,0.0,0.0
+city_Easton,0.0,0.0
+city_East Troy,0.0,0.0
+city_East Rochester,0.0,0.0
+city_East Canaan,0.0,0.0
+city_East Andover,0.0,0.0
+city_Early,0.0,0.0
+city_Eagarville,0.0,0.0
+city_Dunlevy,0.0,0.0
+city_Duncan,0.0,0.0
+city_Dumont,0.0,0.0
+city_Dubre,0.0,0.0
+city_Glen Rock,0.0,0.0
+city_Glade Spring,0.0,0.0
+city_Eugene,0.0,0.0
+city_Etlan,0.0,0.0
+city_Espanola,0.0,0.0
+city_Esbon,0.0,0.0
+city_Enola,0.0,0.0
+city_Emporium,0.0,0.0
+city_Emmons,0.0,0.0
+city_Elkhart,0.0,0.0
+city_Elk Rapids,0.0,0.0
+city_Elizabethtown,0.0,0.0
+city_Eldridge,0.0,0.0
+city_Elberta,0.0,0.0
+city_El Paso,0.0,0.0
+city_Ehrhardt,0.0,0.0
+city_Greenville,0.0,0.0
+city_Greenview,0.0,0.0
+city_Ford,0.0,0.0
+city_Florence,0.0,0.0
+city_Fields Landing,0.0,0.0
+city_Fiddletown,0.0,0.0
+city_Ferney,0.0,0.0
+city_Fenelton,0.0,0.0
+city_Fayetteville,0.0,0.0
+city_Falmouth,0.0,0.0
+city_Falls City,0.0,0.0
+city_Falls Church,0.0,0.0
+city_Falconer,0.0,0.0
+city_Fairview,0.0,0.0
+city_Fairhope,0.0,0.0
+city_Hannawa Falls,0.0,0.0
+city_Hancock,0.0,0.0
+city_Girard,0.0,0.0
+city_Gibsonville,0.0,0.0
+city_Georgetown,0.0,0.0
+city_Garrattsville,0.0,0.0
+city_Garfield,0.0,0.0
+city_Gardiner,0.0,0.0
+city_Galatia,0.0,0.0
+city_Gaithersburg,0.0,0.0
+city_Gainesville,0.0,0.0
+city_Gadsden,0.0,0.0
+city_Fulton,0.0,0.0
+city_Fullerton,0.0,0.0
+city_Freedom,0.0,0.0
+city_Fort Washakie,0.0,0.0
+city_Hedrick,0.0,0.0
+city_Hedley,0.0,0.0
+city_Greendale,0.0,0.0
+city_Greenbush,0.0,0.0
+city_Great Mills,0.0,0.0
+city_Grassflat,0.0,0.0
+city_Grantham,0.0,0.0
+city_Grant,0.0,0.0
+city_Graniteville,0.0,0.0
+city_Grandview,0.0,0.0
+city_Grand Ridge,0.0,0.0
+city_Grand Junction,0.0,0.0
+city_Grand Bay,0.0,0.0
+city_Goreville,0.0,0.0
+city_Goodrich,0.0,0.0
+city_Glendale,0.0,0.0
+city_Holstein,0.0,0.0
+city_Holloway,0.0,0.0
+city_Hampton,0.0,0.0
+city_Halstad,0.0,0.0
+city_Halma,0.0,0.0
+city_Haines City,0.0,0.0
+city_Hahira,0.0,0.0
+city_Guthrie,0.0,0.0
+city_Grover,0.0,0.0
+city_Grimesland,0.0,0.0
+city_Grifton,0.0,0.0
+city_Gretna,0.0,0.0
+city_Grenada,0.0,0.0
+city_Gregory,0.0,0.0
+city_Greenwood,0.0,0.0
+city_Greenwich,0.0,0.0
+city_Huslia,0.0,0.0
+city_Hurricane,0.0,0.0
+city_Heart Butte,0.0,0.0
+city_Hazel,0.0,0.0
+city_Haynes,0.0,0.0
+city_Hawthorne,0.0,0.0
+city_Hawley,0.0,0.0
+city_Haw River,0.0,0.0
+city_Hatch,0.0,0.0
+city_Harwood,0.0,0.0
+city_Hartford,0.0,0.0
+city_Harrodsburg,0.0,0.0
+city_Harrington Park,0.0,0.0
+city_Harper,0.0,0.0
+city_Harmony,0.0,0.0
+city_Harborcreek,0.0,0.0
+city_Johns Island,0.0,0.0
+city_Jermyn,0.0,0.0
+city_Holliday,0.0,0.0
+city_Holcomb,0.0,0.0
+city_Hinesburg,0.0,0.0
+city_Hinckley,0.0,0.0
+city_Hills,0.0,0.0
+city_Highland,0.0,0.0
+city_High Rolls Mountain Park,0.0,0.0
+city_Higganum,0.0,0.0
+city_Hewitt,0.0,0.0
+city_Henderson,0.0,0.0
+city_Helm,0.0,0.0
+city_Heislerville,0.0,0.0
+city_Heiskell,0.0,0.0
+city_Heidelberg,0.0,0.0
+city_Kings Bay,0.0,0.0
+city_Kilgore,0.0,0.0
+city_Hurley,0.0,0.0
+city_Huntsville,0.0,0.0
+city_Huntington Beach,0.0,0.0
+city_Humboldt,0.0,0.0
+city_Humble,0.0,0.0
+city_Hudson,0.0,0.0
+city_Howes Cave,0.0,0.0
+city_Howells,0.0,0.0
+city_Hovland,0.0,0.0
+city_Houston,0.0,0.0
+city_Hopkins,0.0,0.0
+city_Hopewell,0.0,0.0
+city_Hooper,0.0,0.0
+city_Honokaa,0.0,0.0
+city_Lake Jackson,0.0,0.0
+city_Lahoma,0.0,0.0
+city_Jelm,0.0,0.0
+city_Jefferson,0.0,0.0
+city_Jay,0.0,0.0
+city_Jaffrey,0.0,0.0
+city_Jackson,0.0,0.0
+city_Issaquah,0.0,0.0
+city_Iselin,0.0,0.0
+city_Irwinton,0.0,0.0
+city_Irvine,0.0,0.0
+city_Ironton,0.0,0.0
+city_Indianapolis,0.0,0.0
+city_Indian Wells,0.0,0.0
+city_Independence,0.0,0.0
+city_Iliff,0.0,0.0
+city_Leonard,0.0,0.0
+city_Leo,0.0,0.0
+city_Key West,0.0,0.0
+city_Kent,0.0,0.0
+city_Kensington,0.0,0.0
+city_Kenner,0.0,0.0
+city_Keller,0.0,0.0
+city_Keisterville,0.0,0.0
+city_Karnack,0.0,0.0
+city_Kansas City,0.0,0.0
+city_June Lake,0.0,0.0
+city_Juliette,0.0,0.0
+city_Jordanville,0.0,0.0
+city_Jordan Valley,0.0,0.0
+city_Jones,0.0,0.0
+city_Joliet,0.0,0.0
+city_Lake Oswego,0.0,0.0
+city_Lonsdale,0.0,0.0
+city_Lonetree,0.0,0.0
+city_Laguna Hills,0.0,0.0
+city_Lagrange,0.0,0.0
+city_Knowlesville,0.0,0.0
+city_Kittery Point,0.0,0.0
+city_Kissee Mills,0.0,0.0
+city_Kirtland Afb,0.0,0.0
+city_Kirtland,0.0,0.0
+city_Kirkwood,0.0,0.0
+city_Kirk,0.0,0.0
+city_Kirby,0.0,0.0
+city_Kingsville,0.0,0.0
+city_Kingsport,0.0,0.0
+city_Kingsford Heights,0.0,0.0
+city_Lepanto,0.0,0.0
+city_Manistique,0.0,0.0
+city_Manderson,0.0,0.0
+city_Leetsdale,0.0,0.0
+city_Lebanon,0.0,0.0
+city_Lawrence,0.0,0.0
+city_Lawn,0.0,0.0
+city_Laredo,0.0,0.0
+city_Laramie,0.0,0.0
+city_Lane,0.0,0.0
+city_Lanark Village,0.0,0.0
+city_Lamy,0.0,0.0
+city_Lamberton,0.0,0.0
+city_Lakeview,0.0,0.0
+city_Lakeland,0.0,0.0
+city_Lorenzo,0.0,0.0
+city_Maysville,0.0,0.0
+city_Mayersville,0.0,0.0
+city_Lomax,0.0,0.0
+city_Lolita,0.0,0.0
+city_Lohrville,0.0,0.0
+city_Logan,0.0,0.0
+city_Loami,0.0,0.0
+city_Llano,0.0,0.0
+city_Livonia,0.0,0.0
+city_Littleton,0.0,0.0
+city_Lithopolis,0.0,0.0
+city_Linthicum Heights,0.0,0.0
+city_Lima,0.0,0.0
+city_Liberty Mills,0.0,0.0
+city_Lexington,0.0,0.0
+city_Manley,0.0,0.0
+city_Mifflin,0.0,0.0
+city_Michigan,0.0,0.0
+city_Manchester,0.0,0.0
+city_Mallie,0.0,0.0
+city_Malad City,0.0,0.0
+city_Luzerne,0.0,0.0
+city_Luray,0.0,0.0
+city_Lubbock,0.0,0.0
+city_Loxahatchee,0.0,0.0
+city_Lowville,0.0,0.0
+city_Lowell,0.0,0.0
+city_Loving,0.0,0.0
+city_Louisville,0.0,0.0
+city_Louisiana,0.0,0.0
+city_Los Angeles,0.0,0.0
+city_Mc Clellandtown,0.0,0.0
+city_Mooresville,0.0,0.0
+city_Moores Hill,0.0,0.0
+city_May,0.0,0.0
+city_Matthews,0.0,0.0
+city_Matawan,0.0,0.0
+city_Marion,0.0,0.0
+city_Marietta,0.0,0.0
+city_Marienville,0.0,0.0
+city_Maria Stein,0.0,0.0
+city_Margaretville,0.0,0.0
+city_Marathon,0.0,0.0
+city_Manville,0.0,0.0
+city_Mansfield,0.0,0.0
+city_Manquin,0.0,0.0
+city_Manor,0.0,0.0
+city_Milford,0.0,0.0
+city_Mount Perry,0.0,0.0
+city_Mount Morris,0.0,0.0
+city_Miamisburg,0.0,0.0
+city_Methuen,0.0,0.0
+city_Metairie,0.0,0.0
+city_Mesa,0.0,0.0
+city_Meridian,0.0,0.0
+city_Meredith,0.0,0.0
+city_Mendon,0.0,0.0
+city_Melbourne,0.0,0.0
+city_Meadville,0.0,0.0
+city_Mc Veytown,0.0,0.0
+city_Mc Nabb,0.0,0.0
+city_Mc Intosh,0.0,0.0
+city_Mc Cracken,0.0,0.0
+city_Moorhead,0.0,0.0
+city_New Goshen,0.0,0.0
+city_New Franken,0.0,0.0
+city_Montrose,0.0,0.0
+city_Montgomery,0.0,0.0
+city_Montandon,0.0,0.0
+city_Monmouth Beach,0.0,0.0
+city_Monitor,0.0,0.0
+city_Monetta,0.0,0.0
+city_Mobile,0.0,0.0
+city_Moab,0.0,0.0
+city_Minnesota Lake,0.0,0.0
+city_Minneapolis,0.0,0.0
+city_Milwaukee,0.0,0.0
+city_Milner,0.0,0.0
+city_Mill Creek,0.0,0.0
+city_Mount Saint Joseph,0.0,0.0
+city_North Brookfield,0.0,0.0
+city_North Augusta,0.0,0.0
+city_Mount Hope,0.0,0.0
+city_Mount Clemens,0.0,0.0
+city_Moundsville,0.0,0.0
+city_Mounds,0.0,0.0
+city_Mound City,0.0,0.0
+city_Moulton,0.0,0.0
+city_Moscow,0.0,0.0
+city_Morrowville,0.0,0.0
+city_Morrisdale,0.0,0.0
+city_Moro,0.0,0.0
+city_Moriches,0.0,0.0
+city_Moriarty,0.0,0.0
+city_Moravian Falls,0.0,0.0
+city_New Holstein,0.0,0.0
+city_Oakford,0.0,0.0
+city_Oakdale,0.0,0.0
+city_New Ellenton,0.0,0.0
+city_New Boston,0.0,0.0
+city_Nelson,0.0,0.0
+city_Nazareth,0.0,0.0
+city_Naples,0.0,0.0
+city_Napa,0.0,0.0
+city_Muskegon,0.0,0.0
+city_Murrayville,0.0,0.0
+city_Murfreesboro,0.0,0.0
+city_Munith,0.0,0.0
+city_Mulberry Grove,0.0,0.0
+city_Mountain Park,0.0,0.0
+city_Mountain Center,0.0,0.0
+city_North Haverhill,0.0,0.0
+city_Orr,0.0,0.0
+city_Oriskany Falls,0.0,0.0
+city_Norman Park,0.0,0.0
+city_Norman,0.0,0.0
+city_Noonan,0.0,0.0
+city_Nokomis,0.0,0.0
+city_Nobleboro,0.0,0.0
+city_Newton,0.0,0.0
+city_Newport,0.0,0.0
+city_Newhall,0.0,0.0
+city_Newberg,0.0,0.0
+city_Newark Valley,0.0,0.0
+city_New York City,0.0,0.0
+city_New Waverly,0.0,0.0
+city_New Memphis,0.0,0.0
+city_Oakland,0.0,0.0
+city_Paulding,0.0,0.0
+city_Parsonsfield,0.0,0.0
+city_Oak Hill,0.0,0.0
+city_O Brien,0.0,0.0
+city_Notrees,0.0,0.0
+city_Norwich,0.0,0.0
+city_Norwalk,0.0,0.0
+city_Northport,0.0,0.0
+city_North Wilkesboro,0.0,0.0
+city_North Washington,0.0,0.0
+city_North Tonawanda,0.0,0.0
+city_North Prairie,0.0,0.0
+city_North Loup,0.0,0.0
+city_North Las Vegas,0.0,0.0
+city_North Judson,0.0,0.0
+city_Owensville,0.0,0.0
+city_Plainfield,0.0,0.0
+city_Pittsburgh,0.0,0.0
+city_Orangeburg,0.0,0.0
+city_Oran,0.0,0.0
+city_Oolitic,0.0,0.0
+city_Omaha,0.0,0.0
+city_Olmsted,0.0,0.0
+city_Ollie,0.0,0.0
+city_Old Hickory,0.0,0.0
+city_Oklahoma City,0.0,0.0
+city_Ogdensburg,0.0,0.0
+city_Odessa,0.0,0.0
+city_Oconto Falls,0.0,0.0
+city_Oaks,0.0,0.0
+city_Paxton,0.0,0.0
+city_Premier,0.0,0.0
+city_Prairie Hill,0.0,0.0
+city_Parks,0.0,0.0
+city_Parkers Lake,0.0,0.0
+city_Parker Dam,0.0,0.0
+city_Parker,0.0,0.0
+city_Paris,0.0,0.0
+city_Paradise Valley,0.0,0.0
+city_Palmyra,0.0,0.0
+city_Palmdale,0.0,0.0
+city_Palermo,0.0,0.0
+city_Paint Rock,0.0,0.0
+city_Paauilo,0.0,0.0
+city_Ozawkie,0.0,0.0
+city_Oxford,0.0,0.0
+city_Red River,0.0,0.0
+city_Red Cliff,0.0,0.0
+city_Ravenna,0.0,0.0
+city_Pikesville,0.0,0.0
+city_Phoenix,0.0,0.0
+city_Philadelphia,0.0,0.0
+city_Phil Campbell,0.0,0.0
+city_Phenix City,0.0,0.0
+city_Pewee Valley,0.0,0.0
+city_Pembroke Township,0.0,0.0
+city_Pembroke,0.0,0.0
+city_Pelham,0.0,0.0
+city_Pecos,0.0,0.0
+city_Pearlington,0.0,0.0
+city_Pea Ridge,0.0,0.0
+city_Payson,0.0,0.0
+city_Rock Springs,0.0,0.0
+city_Rock Glen,0.0,0.0
+city_Rochester,0.0,0.0
+city_Prairie Creek,0.0,0.0
+city_Powell Butte,0.0,0.0
+city_Powell,0.0,0.0
+city_Portland,0.0,0.0
+city_Port Saint Lucie,0.0,0.0
+city_Port Richey,0.0,0.0
+city_Port Gibson,0.0,0.0
+city_Port Ewen,0.0,0.0
+city_Port Costa,0.0,0.0
+city_Port Charlotte,0.0,0.0
+city_Pomona,0.0,0.0
+city_Pointe Aux Pins,0.0,0.0
+city_Plantersville,0.0,0.0
+city_Ruth,0.0,0.0
+city_Rumely,0.0,0.0
+city_Rule,0.0,0.0
+city_Ratcliff,0.0,0.0
+city_Ranier,0.0,0.0
+city_Randolph,0.0,0.0
+city_Ragland,0.0,0.0
+city_Queenstown,0.0,0.0
+city_Quanah,0.0,0.0
+city_Putnam,0.0,0.0
+city_Purmela,0.0,0.0
+city_Pueblo,0.0,0.0
+city_Providence,0.0,0.0
+city_Prosperity,0.0,0.0
+city_Princeton,0.0,0.0
+city_Preston,0.0,0.0
+city_Sauk Rapids,0.0,0.0
+city_Sardis,0.0,0.0
+city_Santa Monica,0.0,0.0
+city_Riverview,0.0,0.0
+city_Riverton,0.0,0.0
+city_River,0.0,0.0
+city_Ringwood,0.0,0.0
+city_Ridgeland,0.0,0.0
+city_Richland,0.0,0.0
+city_Rice,0.0,0.0
+city_Rhame,0.0,0.0
+city_Reynolds,0.0,0.0
+city_Republic,0.0,0.0
+city_Reno,0.0,0.0
+city_Remer,0.0,0.0
+city_Redford,0.0,0.0
+city_Shelter Island,0.0,0.0
+city_Sheffield,0.0,0.0
+city_Shedd,0.0,0.0
+city_Ruidoso,0.0,0.0
+city_Ruckersville,0.0,0.0
+city_Rossville,0.0,0.0
+city_Rosewood,0.0,0.0
+city_Roseland,0.0,0.0
+city_Roosevelt,0.0,0.0
+city_Ronceverte,0.0,0.0
+city_Romulus,0.0,0.0
+city_Roma,0.0,0.0
+city_Rocky Mount,0.0,0.0
+city_Rockwood,0.0,0.0
+city_Rockwell,0.0,0.0
+city_Rock Tavern,0.0,0.0
+city_South Londonderry,0.0,0.0
+city_South Hero,0.0,0.0
+city_Sontag,0.0,0.0
+city_San Jose,0.0,0.0
+city_San Diego,0.0,0.0
+city_San Angelo,0.0,0.0
+city_Saint Petersburg,0.0,0.0
+city_Saint Paul,0.0,0.0
+city_Saint Louis,0.0,0.0
+city_Saint James City,0.0,0.0
+city_Saint Francis,0.0,0.0
+city_Saint Bonaventure,0.0,0.0
+city_Saint Amant,0.0,0.0
+city_Sacramento,0.0,0.0
+city_Sachse,0.0,0.0
+city_Steuben,0.0,0.0
+city_Sterling City,0.0,0.0
+city_Stephensport,0.0,0.0
+city_Seneca,0.0,0.0
+city_Senatobia,0.0,0.0
+city_Seligman,0.0,0.0
+city_Sebring,0.0,0.0
+city_Seattle,0.0,0.0
+city_Sea Island,0.0,0.0
+city_Scotts Mills,0.0,0.0
+city_Scotland,0.0,0.0
+city_Scotia,0.0,0.0
+city_Schaumburg,0.0,0.0
+city_Schaefferstown,0.0,0.0
+city_Scarborough,0.0,0.0
+city_Saxon,0.0,0.0
+city_Tampa,0.0,0.0
+city_Tamaroa,0.0,0.0
+city_Tallmansville,0.0,0.0
+city_Smock,0.0,0.0
+city_Smiths Grove,0.0,0.0
+city_Smithfield,0.0,0.0
+city_Smith River,0.0,0.0
+city_Smackover,0.0,0.0
+city_Slayden,0.0,0.0
+city_Skytop,0.0,0.0
+city_Sixes,0.0,0.0
+city_Shrewsbury,0.0,0.0
+city_Shippingport,0.0,0.0
+city_Shields,0.0,0.0
+city_Sherman,0.0,0.0
+city_Shenandoah Junction,0.0,0.0
+city_Trenton,0.0,0.0
+city_Tower Hill,0.0,0.0
+city_Topeka,0.0,0.0
+city_Stayton,0.0,0.0
+city_Stanchfield,0.0,0.0
+city_Springville,0.0,0.0
+city_Springfield Gardens,0.0,0.0
+city_Springfield,0.0,0.0
+city_Spring Church,0.0,0.0
+city_Spring,0.0,0.0
+city_Sprague,0.0,0.0
+city_Spirit Lake,0.0,0.0
+city_Spencer,0.0,0.0
+city_Spearsville,0.0,0.0
+city_Southfield,0.0,0.0
+city_South Richmond Hill,0.0,0.0
+city_Vancouver,0.0,0.0
+city_Valentine,0.0,0.0
+city_Valdosta,0.0,0.0
+city_Syracuse,0.0,0.0
+city_Sutherland,0.0,0.0
+city_Surrency,0.0,0.0
+city_Superior,0.0,0.0
+city_Sunflower,0.0,0.0
+city_Sun City,0.0,0.0
+city_Summerfield,0.0,0.0
+city_Sula,0.0,0.0
+city_Sturgis,0.0,0.0
+city_Stoneham,0.0,0.0
+city_Stittville,0.0,0.0
+city_Stirling,0.0,0.0
+city_Stillwater,0.0,0.0
+city_Waukesha,0.0,0.0
+city_Wauchula,0.0,0.0
+city_Watertown,0.0,0.0
+city_Tomales,0.0,0.0
+city_Tomahawk,0.0,0.0
+city_Titusville,0.0,0.0
+city_Tiptonville,0.0,0.0
+city_Timberville,0.0,0.0
+city_Tickfaw,0.0,0.0
+city_Thrall,0.0,0.0
+city_Thornville,0.0,0.0
+city_Thompson,0.0,0.0
+city_Thomas,0.0,0.0
+city_Thida,0.0,0.0
+city_Texarkana,0.0,0.0
+city_Tekoa,0.0,0.0
+city_West Henrietta,0.0,0.0
+city_West Hartford,0.0,0.0
+city_West Harrison,0.0,0.0
+city_Utica,0.0,0.0
+city_University,0.0,0.0
+city_Unionville,0.0,0.0
+city_Union,0.0,0.0
+city_Umatilla,0.0,0.0
+city_Uledi,0.0,0.0
+city_Tyler,0.0,0.0
+city_Tyaskin,0.0,0.0
+city_Tuscarora,0.0,0.0
+city_Turner,0.0,0.0
+city_Tupper Lake,0.0,0.0
+city_Tulsa,0.0,0.0
+city_Tryon,0.0,0.0
+city_Wichita,0.0,0.0
+city_Whittemore,0.0,0.0
+city_White Sulphur Springs,0.0,0.0
+city_Washoe Valley,0.0,0.0
+city_Washington Court House,0.0,0.0
+city_Washington,0.0,0.0
+city_Walnut Ridge,0.0,0.0
+city_Wales,0.0,0.0
+city_Viola,0.0,0.0
+city_Vinton,0.0,0.0
+city_Vienna,0.0,0.0
+city_Vero Beach,0.0,0.0
+city_Veedersburg,0.0,0.0
+city_Varnell,0.0,0.0
+city_Vanderbilt,0.0,0.0
+city_West Long Branch,0.0,0.0
+city_Zavalla,0.0,0.0
+city_Zaleski,0.0,0.0
+city_Yellowstone National Park,0.0,0.0
+city_West Green,0.0,0.0
+city_West Finley,0.0,0.0
+city_West Eaton,0.0,0.0
+city_West Decatur,0.0,0.0
+city_West Columbia,0.0,0.0
+city_West Chazy,0.0,0.0
+city_West Bethel,0.0,0.0
+city_Wendel,0.0,0.0
+city_Weeping Water,0.0,0.0
+city_Webster City,0.0,0.0
+city_Waynesfield,0.0,0.0
+city_Waupaca,0.0,0.0
+city_Williams,0.0,0.0
+state_KY,0.0,0.0
+state_IN,0.0,0.0
+state_IL,0.0,0.0
+city_Whigham,0.0,0.0
+city_Wheaton,0.0,0.0
+city_Whaleyville,0.0,0.0
+city_Wever,0.0,0.0
+city_Wetmore,0.0,0.0
+city_Westport,0.0,0.0
+city_Westhampton Beach,0.0,0.0
+city_Westfir,0.0,0.0
+city_Westerville,0.0,0.0
+city_West Sayville,0.0,0.0
+city_West Palm Beach,0.0,0.0
+city_West Monroe,0.0,0.0
+state_AK,0.0,0.0
+state_NM,0.0,0.0
+state_NE,0.0,0.0
+state_ND,0.0,0.0
+state_MT,0.0,0.0
+city_Woodville,0.0,0.0
+city_Woods Cross,0.0,0.0
+city_Wittenberg,0.0,0.0
+city_Winthrop,0.0,0.0
+city_Winter,0.0,0.0
+city_Winslow,0.0,0.0
+city_Winger,0.0,0.0
+city_Winfield,0.0,0.0
+city_Wilton,0.0,0.0
+city_Wilmington,0.0,0.0
+city_Wilmette,0.0,0.0
+city_Williamsburg,0.0,0.0
+state_LA,0.0,0.0
+state_WI,0.0,0.0
+state_WA,0.0,0.0
+state_VA,0.0,0.0
+state_SD,0.0,0.0
+state_SC,0.0,0.0
+state_RI,0.0,0.0
+state_ID,0.0,0.0
+state_HI,0.0,0.0
+state_GA,0.0,0.0
+state_FL,0.0,0.0
+state_DC,0.0,0.0
+job_Visual merchandiser,0.0,0.0
+state_AZ,0.0,0.0
+state_AL,0.0,0.0
+state_NV,0.0,0.0
+job_Television production assistant,0.0,0.0
+job_Television floor manager,0.0,0.0
+job_Television camera operator,0.0,0.0
+job_Telecommunications researcher,0.0,0.0
+job_Technical brewer,0.0,0.0
+job_Teaching laboratory technician,0.0,0.0
+"job_Teacher, special educational needs",0.0,0.0
+"job_Teacher, secondary school",0.0,0.0
+"job_Teacher, primary school",0.0,0.0
+"job_Teacher, early years/pre",0.0,0.0
+"job_Teacher, adult education",0.0,0.0
+"job_Teacher, English as a foreign language",0.0,0.0
+state_MS,0.0,0.0
+state_MI,0.0,0.0
+state_ME,0.0,0.0
+state_MD,0.0,0.0
+zip_11769,0.0,0.0
+zip_11768,0.0,0.0
+zip_11710,0.0,0.0
+zip_11419,0.0,0.0
+zip_11413,0.0,0.0
+zip_11217,0.0,0.0
+zip_10970,0.0,0.0
+zip_10962,0.0,0.0
+zip_10604,0.0,0.0
+zip_10548,0.0,0.0
+zip_10504,0.0,0.0
+zip_10463,0.0,0.0
+zip_10280,0.0,0.0
+job_Volunteer coordinator,0.0,0.0
+state_OK,0.0,0.0
+job_Television/film/video producer,0.0,0.0
+zip_10039,0.0,0.0
+zip_1257,0.0,0.0
+zip_12534,0.0,0.0
+zip_12466,0.0,0.0
+zip_12460,0.0,0.0
+zip_12455,0.0,0.0
+zip_12410,0.0,0.0
+zip_12222,0.0,0.0
+zip_12093,0.0,0.0
+zip_12092,0.0,0.0
+zip_12037,0.0,0.0
+zip_11978,0.0,0.0
+zip_11964,0.0,0.0
+job_Tax inspector,0.0,0.0
+job_Tax adviser,0.0,0.0
+job_TEFL teacher,0.0,0.0
+zip_11955,0.0,0.0
+zip_11796,0.0,0.0
+zip_13752,0.0,0.0
+zip_13647,0.0,0.0
+zip_13615,0.0,0.0
+zip_13484,0.0,0.0
+zip_13469,0.0,0.0
+zip_13425,0.0,0.0
+zip_13367,0.0,0.0
+zip_13361,0.0,0.0
+zip_13342,0.0,0.0
+zip_13316,0.0,0.0
+zip_13304,0.0,0.0
+zip_1330,0.0,0.0
+zip_12992,0.0,0.0
+zip_10162,0.0,0.0
+zip_12910,0.0,0.0
+zip_12575,0.0,0.0
+zip_14733,0.0,0.0
+zip_14711,0.0,0.0
+zip_14707,0.0,0.0
+zip_14586,0.0,0.0
+zip_14537,0.0,0.0
+zip_14522,0.0,0.0
+zip_14510,0.0,0.0
+zip_14479,0.0,0.0
+zip_14445,0.0,0.0
+job_Warden/ranger,0.0,0.0
+zip_14141,0.0,0.0
+zip_14120,0.0,0.0
+zip_14037,0.0,0.0
+zip_11957,0.0,0.0
+zip_13795,0.0,0.0
+zip_13755,0.0,0.0
+zip_15486,0.0,0.0
+zip_15484,0.0,0.0
+zip_15480,0.0,0.0
+zip_15458,0.0,0.0
+zip_1545,0.0,0.0
+zip_15449,0.0,0.0
+zip_15432,0.0,0.0
+zip_15377,0.0,0.0
+zip_1535,0.0,0.0
+zip_15324,0.0,0.0
+zip_15217,0.0,0.0
+zip_15077,0.0,0.0
+zip_15056,0.0,0.0
+zip_12986,0.0,0.0
+zip_14816,0.0,0.0
+zip_14778,0.0,0.0
+zip_16329,0.0,0.0
+zip_16314,0.0,0.0
+zip_16239,0.0,0.0
+zip_1612,0.0,0.0
+zip_16114,0.0,0.0
+zip_16048,0.0,0.0
+zip_16037,0.0,0.0
+zip_16034,0.0,0.0
+zip_15923,0.0,0.0
+zip_15920,0.0,0.0
+zip_15834,0.0,0.0
+zip_15829,0.0,0.0
+zip_15727,0.0,0.0
+zip_13811,0.0,0.0
+zip_15665,0.0,0.0
+zip_15557,0.0,0.0
+zip_18357,0.0,0.0
+zip_18246,0.0,0.0
+zip_18103,0.0,0.0
+zip_17929,0.0,0.0
+zip_17850,0.0,0.0
+zip_17327,0.0,0.0
+zip_17088,0.0,0.0
+zip_17060,0.0,0.0
+zip_17058,0.0,0.0
+zip_17051,0.0,0.0
+zip_17041,0.0,0.0
+zip_16878,0.0,0.0
+zip_16858,0.0,0.0
+zip_15010,0.0,0.0
+zip_16421,0.0,0.0
+zip_16362,0.0,0.0
+zip_20776,0.0,0.0
+zip_20687,0.0,0.0
+zip_20634,0.0,0.0
+zip_20036,0.0,0.0
+zip_20017,0.0,0.0
+zip_20012,0.0,0.0
+zip_19456,0.0,0.0
+zip_19310,0.0,0.0
+zip_19154,0.0,0.0
+zip_19149,0.0,0.0
+zip_19017,0.0,0.0
+zip_19007,0.0,0.0
+zip_18917,0.0,0.0
+zip_15686,0.0,0.0
+zip_18433,0.0,0.0
+zip_1843,0.0,0.0
+zip_21913,0.0,0.0
+zip_21872,0.0,0.0
+zip_21865,0.0,0.0
+zip_2180,0.0,0.0
+zip_21790,0.0,0.0
+zip_21750,0.0,0.0
+zip_21658,0.0,0.0
+zip_21619,0.0,0.0
+zip_21524,0.0,0.0
+zip_21405,0.0,0.0
+zip_21208,0.0,0.0
+zip_21102,0.0,0.0
+zip_21090,0.0,0.0
+zip_16839,0.0,0.0
+zip_20895,0.0,0.0
+zip_20882,0.0,0.0
+zip_23850,0.0,0.0
+zip_23666,0.0,0.0
+zip_23357,0.0,0.0
+zip_23303,0.0,0.0
+zip_23106,0.0,0.0
+zip_22968,0.0,0.0
+zip_22853,0.0,0.0
+zip_22824,0.0,0.0
+zip_22810,0.0,0.0
+zip_22719,0.0,0.0
+zip_22311,0.0,0.0
+zip_22213,0.0,0.0
+zip_22204,0.0,0.0
+zip_1844,0.0,0.0
+zip_22046,0.0,0.0
+zip_22015,0.0,0.0
+zip_25442,0.0,0.0
+zip_25213,0.0,0.0
+zip_25106,0.0,0.0
+zip_25049,0.0,0.0
+zip_24986,0.0,0.0
+zip_24983,0.0,0.0
+zip_24970,0.0,0.0
+zip_24927,0.0,0.0
+zip_24878,0.0,0.0
+zip_24433,0.0,0.0
+zip_24340,0.0,0.0
+zip_24266,0.0,0.0
+zip_24236,0.0,0.0
+zip_21087,0.0,0.0
+zip_23937,0.0,0.0
+zip_23860,0.0,0.0
+zip_28117,0.0,0.0
+zip_28073,0.0,0.0
+zip_27837,0.0,0.0
+zip_27807,0.0,0.0
+zip_27522,0.0,0.0
+zip_27358,0.0,0.0
+zip_27311,0.0,0.0
+zip_27258,0.0,0.0
+zip_27249,0.0,0.0
+zip_26339,0.0,0.0
+zip_2630,0.0,0.0
+zip_26292,0.0,0.0
+zip_26237,0.0,0.0
+zip_22151,0.0,0.0
+zip_25832,0.0,0.0
+zip_25526,0.0,0.0
+zip_29170,0.0,0.0
+zip_29127,0.0,0.0
+zip_29105,0.0,0.0
+zip_29081,0.0,0.0
+zip_2908,0.0,0.0
+zip_29061,0.0,0.0
+zip_29032,0.0,0.0
+zip_28901,0.0,0.0
+zip_28659,0.0,0.0
+zip_28654,0.0,0.0
+zip_28611,0.0,0.0
+zip_28530,0.0,0.0
+zip_28423,0.0,0.0
+zip_24070,0.0,0.0
+zip_28372,0.0,0.0
+zip_28314,0.0,0.0
+zip_30426,0.0,0.0
+zip_30257,0.0,0.0
+zip_30009,0.0,0.0
+zip_29939,0.0,0.0
+zip_29911,0.0,0.0
+zip_29860,0.0,0.0
+zip_29817,0.0,0.0
+zip_29809,0.0,0.0
+zip_29661,0.0,0.0
+zip_29455,0.0,0.0
+zip_29438,0.0,0.0
+zip_29436,0.0,0.0
+zip_29324,0.0,0.0
+zip_26041,0.0,0.0
+zip_29209,0.0,0.0
+zip_31771,0.0,0.0
+zip_31632,0.0,0.0
+zip_31630,0.0,0.0
+zip_31605,0.0,0.0
+zip_31567,0.0,0.0
+zip_31563,0.0,0.0
+zip_31561,0.0,0.0
+zip_31547,0.0,0.0
+zip_31329,0.0,0.0
+zip_31305,0.0,0.0
+zip_31092,0.0,0.0
+zip_31046,0.0,0.0
+zip_31042,0.0,0.0
+zip_31003,0.0,0.0
+zip_28405,0.0,0.0
+"merchant_fraud_Armstrong, Walter and Gottlieb",0.0,0.0
+merchant_fraud_Ankunding-Carroll,0.0,0.0
+merchant_fraud_Ankunding LLC,0.0,0.0
+merchant_fraud_Altenwerth-Kilback,0.0,0.0
+merchant_fraud_Bednar PLC,0.0,0.0
+merchant_fraud_Bednar Inc,0.0,0.0
+"merchant_fraud_Becker, Harris and Harvey",0.0,0.0
+merchant_fraud_Bechtelar-Rippin,0.0,0.0
+"merchant_fraud_Baumbach, Strosin and Nicolas",0.0,0.0
+"merchant_fraud_Baumbach, Hodkiewicz and Walsh",0.0,0.0
+"merchant_fraud_Baumbach, Feeney and Morar",0.0,0.0
+merchant_fraud_Baumbach Ltd,0.0,0.0
+merchant_fraud_Bauch-Raynor,0.0,0.0
+merchant_fraud_Bauch-Blanda,0.0,0.0
+merchant_fraud_Bashirian Group,0.0,0.0
+"job_Therapist, art",0.0,0.0
+zip_30803,0.0,0.0
+zip_30756,0.0,0.0
+zip_33620,0.0,0.0
+zip_33510,0.0,0.0
+zip_33470,0.0,0.0
+zip_33417,0.0,0.0
+zip_33404,0.0,0.0
+zip_33040,0.0,0.0
+zip_32960,0.0,0.0
+zip_32935,0.0,0.0
+zip_32784,0.0,0.0
+zip_32780,0.0,0.0
+zip_32725,0.0,0.0
+zip_32565,0.0,0.0
+zip_32442,0.0,0.0
+zip_32323,0.0,0.0
+zip_35022,0.0,0.0
+zip_32044,0.0,0.0
+zip_3452,0.0,0.0
+zip_34135,0.0,0.0
+zip_34120,0.0,0.0
+zip_34112,0.0,0.0
+zip_33981,0.0,0.0
+zip_33967,0.0,0.0
+zip_33956,0.0,0.0
+zip_33909,0.0,0.0
+zip_33873,0.0,0.0
+zip_33872,0.0,0.0
+zip_33844,0.0,0.0
+zip_33813,0.0,0.0
+zip_33811,0.0,0.0
+zip_33809,0.0,0.0
+zip_3601,0.0,0.0
+zip_33760,0.0,0.0
+zip_33710,0.0,0.0
+zip_35901,0.0,0.0
+zip_35811,0.0,0.0
+zip_35803,0.0,0.0
+zip_35776,0.0,0.0
+zip_35764,0.0,0.0
+zip_35747,0.0,0.0
+zip_35651,0.0,0.0
+zip_35581,0.0,0.0
+zip_35554,0.0,0.0
+zip_35229,0.0,0.0
+zip_35211,0.0,0.0
+zip_35131,0.0,0.0
+zip_35049,0.0,0.0
+zip_37302,0.0,0.0
+zip_34953,0.0,0.0
+zip_34668,0.0,0.0
+zip_37132,0.0,0.0
+zip_37040,0.0,0.0
+zip_36869,0.0,0.0
+zip_36853,0.0,0.0
+zip_36775,0.0,0.0
+zip_36758,0.0,0.0
+zip_36749,0.0,0.0
+zip_36617,0.0,0.0
+zip_36541,0.0,0.0
+zip_36532,0.0,0.0
+zip_36507,0.0,0.0
+zip_36344,0.0,0.0
+zip_36111,0.0,0.0
+zip_38740,0.0,0.0
+zip_36009,0.0,0.0
+zip_35903,0.0,0.0
+zip_3858,0.0,0.0
+zip_38315,0.0,0.0
+zip_3818,0.0,0.0
+zip_3816,0.0,0.0
+zip_38079,0.0,0.0
+zip_38060,0.0,0.0
+zip_38039,0.0,0.0
+zip_37932,0.0,0.0
+zip_37849,0.0,0.0
+zip_37754,0.0,0.0
+zip_3774,0.0,0.0
+zip_37663,0.0,0.0
+zip_3753,0.0,0.0
+zip_39897,0.0,0.0
+zip_39840,0.0,0.0
+zip_37165,0.0,0.0
+zip_37138,0.0,0.0
+zip_39653,0.0,0.0
+zip_39572,0.0,0.0
+zip_39439,0.0,0.0
+zip_39211,0.0,0.0
+zip_39157,0.0,0.0
+zip_39113,0.0,0.0
+zip_39073,0.0,0.0
+zip_3905,0.0,0.0
+zip_38949,0.0,0.0
+zip_38922,0.0,0.0
+zip_38778,0.0,0.0
+zip_38761,0.0,0.0
+zip_41812,0.0,0.0
+zip_41810,0.0,0.0
+zip_38677,0.0,0.0
+zip_38668,0.0,0.0
+zip_40914,0.0,0.0
+zip_40820,0.0,0.0
+zip_4074,0.0,0.0
+zip_40502,0.0,0.0
+zip_4047,0.0,0.0
+zip_40336,0.0,0.0
+zip_40209,0.0,0.0
+zip_40202,0.0,0.0
+zip_40170,0.0,0.0
+zip_40077,0.0,0.0
+zip_40062,0.0,0.0
+zip_40056,0.0,0.0
+zip_43136,0.0,0.0
+zip_43102,0.0,0.0
+zip_39825,0.0,0.0
+zip_39769,0.0,0.0
+zip_4287,0.0,0.0
+zip_4286,0.0,0.0
+zip_42731,0.0,0.0
+zip_42701,0.0,0.0
+zip_42634,0.0,0.0
+zip_42273,0.0,0.0
+zip_4226,0.0,0.0
+zip_42211,0.0,0.0
+zip_42171,0.0,0.0
+zip_4210,0.0,0.0
+zip_42049,0.0,0.0
+zip_41836,0.0,0.0
+zip_44702,0.0,0.0
+zip_44483,0.0,0.0
+zip_41254,0.0,0.0
+zip_41056,0.0,0.0
+zip_44265,0.0,0.0
+zip_44233,0.0,0.0
+zip_44223,0.0,0.0
+zip_43985,0.0,0.0
+zip_43903,0.0,0.0
+zip_43767,0.0,0.0
+zip_43760,0.0,0.0
+zip_4364,0.0,0.0
+zip_43408,0.0,0.0
+zip_43330,0.0,0.0
+zip_43321,0.0,0.0
+zip_43160,0.0,0.0
+zip_45808,0.0,0.0
+zip_45801,0.0,0.0
+zip_43076,0.0,0.0
+zip_43070,0.0,0.0
+zip_45622,0.0,0.0
+zip_4555,0.0,0.0
+zip_45415,0.0,0.0
+zip_45342,0.0,0.0
+zip_45331,0.0,0.0
+zip_45307,0.0,0.0
+zip_45150,0.0,0.0
+zip_45106,0.0,0.0
+zip_45051,0.0,0.0
+zip_44902,0.0,0.0
+zip_44857,0.0,0.0
+zip_44804,0.0,0.0
+zip_47032,0.0,0.0
+zip_46946,0.0,0.0
+zip_44412,0.0,0.0
+zip_44307,0.0,0.0
+zip_46723,0.0,0.0
+zip_46702,0.0,0.0
+zip_46366,0.0,0.0
+zip_46346,0.0,0.0
+zip_46322,0.0,0.0
+zip_46290,0.0,0.0
+zip_46254,0.0,0.0
+zip_4616,0.0,0.0
+zip_46143,0.0,0.0
+zip_45896,0.0,0.0
+zip_45879,0.0,0.0
+zip_45860,0.0,0.0
+zip_48202,0.0,0.0
+zip_48193,0.0,0.0
+zip_45698,0.0,0.0
+zip_45638,0.0,0.0
+zip_48088,0.0,0.0
+zip_48043,0.0,0.0
+zip_48034,0.0,0.0
+zip_47987,0.0,0.0
+zip_47869,0.0,0.0
+zip_47863,0.0,0.0
+zip_47838,0.0,0.0
+zip_47515,0.0,0.0
+zip_47470,0.0,0.0
+zip_47451,0.0,0.0
+zip_47434,0.0,0.0
+zip_47110,0.0,0.0
+zip_49629,0.0,0.0
+zip_49628,0.0,0.0
+zip_4680,0.0,0.0
+zip_46765,0.0,0.0
+zip_4953,0.0,0.0
+zip_49440,0.0,0.0
+zip_49259,0.0,0.0
+zip_49101,0.0,0.0
+zip_48850,0.0,0.0
+zip_48706,0.0,0.0
+zip_48636,0.0,0.0
+zip_48438,0.0,0.0
+zip_48371,0.0,0.0
+zip_48221,0.0,0.0
+zip_48214,0.0,0.0
+zip_48206,0.0,0.0
+zip_50598,0.0,0.0
+zip_50595,0.0,0.0
+zip_48174,0.0,0.0
+zip_48154,0.0,0.0
+zip_50469,0.0,0.0
+zip_50421,0.0,0.0
+zip_50314,0.0,0.0
+zip_50312,0.0,0.0
+zip_50073,0.0,0.0
+zip_49895,0.0,0.0
+zip_49879,0.0,0.0
+zip_49854,0.0,0.0
+zip_49826,0.0,0.0
+zip_49775,0.0,0.0
+zip_49705,0.0,0.0
+zip_49632,0.0,0.0
+zip_52768,0.0,0.0
+zip_52760,0.0,0.0
+zip_49621,0.0,0.0
+zip_49613,0.0,0.0
+zip_52572,0.0,0.0
+zip_52563,0.0,0.0
+zip_52535,0.0,0.0
+zip_52217,0.0,0.0
+zip_51632,0.0,0.0
+zip_5155,0.0,0.0
+zip_51521,0.0,0.0
+zip_51453,0.0,0.0
+zip_51006,0.0,0.0
+zip_51003,0.0,0.0
+zip_5084,0.0,0.0
+zip_50664,0.0,0.0
+zip_54487,0.0,0.0
+zip_54441,0.0,0.0
+zip_50535,0.0,0.0
+zip_50527,0.0,0.0
+zip_54154,0.0,0.0
+zip_53926,0.0,0.0
+zip_53924,0.0,0.0
+zip_53910,0.0,0.0
+zip_53803,0.0,0.0
+zip_53801,0.0,0.0
+zip_53228,0.0,0.0
+zip_53186,0.0,0.0
+zip_53153,0.0,0.0
+zip_53129,0.0,0.0
+zip_53120,0.0,0.0
+zip_53061,0.0,0.0
+zip_55428,0.0,0.0
+zip_55403,0.0,0.0
+zip_52658,0.0,0.0
+zip_52576,0.0,0.0
+zip_55080,0.0,0.0
+zip_55065,0.0,0.0
+zip_55046,0.0,0.0
+zip_55001,0.0,0.0
+zip_54981,0.0,0.0
+zip_54896,0.0,0.0
+zip_5486,0.0,0.0
+zip_54726,0.0,0.0
+zip_54654,0.0,0.0
+zip_5461,0.0,0.0
+zip_54559,0.0,0.0
+zip_54499,0.0,0.0
+zip_56592,0.0,0.0
+zip_56549,0.0,0.0
+zip_54418,0.0,0.0
+zip_54229,0.0,0.0
+zip_5654,0.0,0.0
+zip_56379,0.0,0.0
+zip_56367,0.0,0.0
+zip_56321,0.0,0.0
+zip_56152,0.0,0.0
+zip_56138,0.0,0.0
+zip_56117,0.0,0.0
+zip_56068,0.0,0.0
+zip_56029,0.0,0.0
+zip_56019,0.0,0.0
+zip_55771,0.0,0.0
+zip_55606,0.0,0.0
+zip_58275,0.0,0.0
+zip_58259,0.0,0.0
+zip_55388,0.0,0.0
+zip_55128,0.0,0.0
+zip_57732,0.0,0.0
+zip_57717,0.0,0.0
+zip_57641,0.0,0.0
+zip_57439,0.0,0.0
+zip_57426,0.0,0.0
+zip_57374,0.0,0.0
+zip_57340,0.0,0.0
+zip_5733,0.0,0.0
+zip_57036,0.0,0.0
+zip_56729,0.0,0.0
+zip_56672,0.0,0.0
+zip_56668,0.0,0.0
+zip_60193,0.0,0.0
+zip_60091,0.0,0.0
+zip_56548,0.0,0.0
+zip_56546,0.0,0.0
+zip_59714,0.0,0.0
+zip_59710,0.0,0.0
+zip_59632,0.0,0.0
+zip_59542,0.0,0.0
+zip_59448,0.0,0.0
+zip_59014,0.0,0.0
+zip_58769,0.0,0.0
+zip_58765,0.0,0.0
+zip_58651,0.0,0.0
+zip_58579,0.0,0.0
+zip_58569,0.0,0.0
+zip_58531,0.0,0.0
+zip_62262,0.0,0.0
+zip_62075,0.0,0.0
+zip_58015,0.0,0.0
+zip_57756,0.0,0.0
+job_Waste management officer,0.0,0.0
+zip_61560,0.0,0.0
+zip_61530,0.0,0.0
+zip_61477,0.0,0.0
+job_Water engineer,0.0,0.0
+zip_61335,0.0,0.0
+zip_61272,0.0,0.0
+zip_60963,0.0,0.0
+zip_60958,0.0,0.0
+zip_60913,0.0,0.0
+zip_60432,0.0,0.0
+zip_6024,0.0,0.0
+zip_63021,0.0,0.0
+zip_63010,0.0,0.0
+zip_60072,0.0,0.0
+zip_59871,0.0,0.0
+zip_62939,0.0,0.0
+zip_62935,0.0,0.0
+zip_62926,0.0,0.0
+zip_62888,0.0,0.0
+zip_62856,0.0,0.0
+zip_62673,0.0,0.0
+zip_62668,0.0,0.0
+zip_62661,0.0,0.0
+zip_62571,0.0,0.0
+zip_62424,0.0,0.0
+zip_62360,0.0,0.0
+zip_62266,0.0,0.0
+zip_6441,0.0,0.0
+zip_64114,0.0,0.0
+zip_64076,0.0,0.0
+zip_62067,0.0,0.0
+zip_62023,0.0,0.0
+zip_64019,0.0,0.0
+zip_63867,0.0,0.0
+zip_63829,0.0,0.0
+zip_6365,0.0,0.0
+zip_63565,0.0,0.0
+zip_63533,0.0,0.0
+zip_63453,0.0,0.0
+zip_63388,0.0,0.0
+zip_63353,0.0,0.0
+zip_63336,0.0,0.0
+zip_63131,0.0,0.0
+zip_66616,0.0,0.0
+zip_66070,0.0,0.0
+zip_66020,0.0,0.0
+zip_62970,0.0,0.0
+zip_65745,0.0,0.0
+zip_65680,0.0,0.0
+zip_65354,0.0,0.0
+zip_65072,0.0,0.0
+zip_65066,0.0,0.0
+zip_64874,0.0,0.0
+zip_64726,0.0,0.0
+zip_64686,0.0,0.0
+zip_64659,0.0,0.0
+zip_64630,0.0,0.0
+zip_64470,0.0,0.0
+zip_6444,0.0,0.0
+zip_68117,0.0,0.0
+zip_68031,0.0,0.0
+zip_67851,0.0,0.0
+zip_64058,0.0,0.0
+zip_67635,0.0,0.0
+zip_67584,0.0,0.0
+zip_67556,0.0,0.0
+zip_67545,0.0,0.0
+zip_67529,0.0,0.0
+zip_67232,0.0,0.0
+zip_67216,0.0,0.0
+zip_67038,0.0,0.0
+zip_67020,0.0,0.0
+zip_66958,0.0,0.0
+zip_66941,0.0,0.0
+zip_66618,0.0,0.0
+zip_69201,0.0,0.0
+zip_69165,0.0,0.0
+zip_68973,0.0,0.0
+zip_68961,0.0,0.0
+zip_68950,0.0,0.0
+zip_68932,0.0,0.0
+zip_68881,0.0,0.0
+zip_68869,0.0,0.0
+zip_68859,0.0,0.0
+zip_68723,0.0,0.0
+zip_68641,0.0,0.0
+zip_68638,0.0,0.0
+zip_68626,0.0,0.0
+zip_68463,0.0,0.0
+zip_68438,0.0,0.0
+zip_68403,0.0,0.0
+zip_71762,0.0,0.0
+zip_71291,0.0,0.0
+zip_71277,0.0,0.0
+zip_71232,0.0,0.0
+zip_70808,0.0,0.0
+zip_70774,0.0,0.0
+zip_70732,0.0,0.0
+zip_70726,0.0,0.0
+job_Water quality scientist,0.0,0.0
+zip_70531,0.0,0.0
+zip_70466,0.0,0.0
+zip_7022,0.0,0.0
+zip_70062,0.0,0.0
+zip_70056,0.0,0.0
+zip_7005,0.0,0.0
+zip_70003,0.0,0.0
+zip_72583,0.0,0.0
+zip_72529,0.0,0.0
+zip_72524,0.0,0.0
+zip_72513,0.0,0.0
+zip_72476,0.0,0.0
+zip_72354,0.0,0.0
+zip_72341,0.0,0.0
+zip_72165,0.0,0.0
+zip_7208,0.0,0.0
+zip_72059,0.0,0.0
+zip_72047,0.0,0.0
+zip_72042,0.0,0.0
+zip_72011,0.0,0.0
+zip_71960,0.0,0.0
+zip_71854,0.0,0.0
+zip_71832,0.0,0.0
+zip_74131,0.0,0.0
+zip_74130,0.0,0.0
+zip_74074,0.0,0.0
+zip_74047,0.0,0.0
+zip_73754,0.0,0.0
+zip_73719,0.0,0.0
+zip_73669,0.0,0.0
+zip_73624,0.0,0.0
+zip_73564,0.0,0.0
+zip_73559,0.0,0.0
+zip_73134,0.0,0.0
+zip_73044,0.0,0.0
+zip_73034,0.0,0.0
+zip_73027,0.0,0.0
+zip_72959,0.0,0.0
+zip_72751,0.0,0.0
+zip_75661,0.0,0.0
+zip_75490,0.0,0.0
+job_Web designer,0.0,0.0
+zip_77358,0.0,0.0
+zip_75238,0.0,0.0
+zip_75236,0.0,0.0
+zip_75218,0.0,0.0
+zip_75210,0.0,0.0
+zip_75092,0.0,0.0
+zip_75048,0.0,0.0
+zip_74875,0.0,0.0
+zip_74720,0.0,0.0
+zip_74633,0.0,0.0
+zip_74555,0.0,0.0
+zip_74536,0.0,0.0
+zip_7439,0.0,0.0
+zip_76626,0.0,0.0
+zip_76578,0.0,0.0
+zip_76566,0.0,0.0
+zip_79085,0.0,0.0
+zip_76445,0.0,0.0
+zip_76443,0.0,0.0
+zip_7640,0.0,0.0
+zip_76366,0.0,0.0
+zip_76248,0.0,0.0
+zip_76240,0.0,0.0
+zip_76008,0.0,0.0
+zip_75980,0.0,0.0
+zip_75934,0.0,0.0
+zip_75858,0.0,0.0
+zip_75703,0.0,0.0
+zip_75662,0.0,0.0
+zip_77417,0.0,0.0
+zip_77412,0.0,0.0
+zip_77379,0.0,0.0
+zip_80120,0.0,0.0
+zip_77338,0.0,0.0
+zip_77327,0.0,0.0
+zip_7711,0.0,0.0
+zip_77026,0.0,0.0
+zip_77007,0.0,0.0
+zip_76951,0.0,0.0
+zip_76905,0.0,0.0
+zip_76857,0.0,0.0
+zip_76834,0.0,0.0
+zip_76678,0.0,0.0
+zip_76665,0.0,0.0
+zip_76631,0.0,0.0
+zip_79343,0.0,0.0
+zip_79252,0.0,0.0
+zip_79237,0.0,0.0
+zip_82514,0.0,0.0
+zip_79063,0.0,0.0
+zip_78631,0.0,0.0
+zip_78584,0.0,0.0
+zip_78248,0.0,0.0
+zip_78214,0.0,0.0
+zip_78113,0.0,0.0
+zip_78040,0.0,0.0
+zip_77971,0.0,0.0
+zip_7764,0.0,0.0
+zip_77566,0.0,0.0
+zip_7750,0.0,0.0
+zip_7747,0.0,0.0
+zip_80436,0.0,0.0
+zip_8014,0.0,0.0
+zip_80138,0.0,0.0
+zip_84532,0.0,0.0
+zip_80021,0.0,0.0
+zip_80014,0.0,0.0
+zip_80005,0.0,0.0
+zip_79906,0.0,0.0
+zip_79842,0.0,0.0
+zip_79837,0.0,0.0
+zip_7980,0.0,0.0
+zip_79772,0.0,0.0
+zip_79759,0.0,0.0
+zip_79548,0.0,0.0
+zip_79539,0.0,0.0
+zip_79413,0.0,0.0
+zip_82936,0.0,0.0
+zip_82901,0.0,0.0
+zip_82711,0.0,0.0
+zip_87540,0.0,0.0
+zip_82501,0.0,0.0
+zip_82227,0.0,0.0
+zip_82221,0.0,0.0
+zip_82190,0.0,0.0
+zip_82072,0.0,0.0
+zip_82063,0.0,0.0
+zip_81649,0.0,0.0
+zip_81642,0.0,0.0
+zip_81005,0.0,0.0
+zip_80951,0.0,0.0
+zip_80824,0.0,0.0
+zip_80736,0.0,0.0
+zip_85020,0.0,0.0
+zip_84735,0.0,0.0
+zip_84540,0.0,0.0
+zip_91321,0.0,0.0
+zip_84325,0.0,0.0
+zip_84087,0.0,0.0
+zip_84003,0.0,0.0
+zip_84002,0.0,0.0
+zip_83869,0.0,0.0
+zip_83646,0.0,0.0
+zip_83643,0.0,0.0
+zip_8350,0.0,0.0
+zip_83252,0.0,0.0
+zip_8324,0.0,0.0
+zip_8323,0.0,0.0
+zip_83120,0.0,0.0
+zip_88256,0.0,0.0
+zip_87558,0.0,0.0
+zip_87543,0.0,0.0
+zip_94558,0.0,0.0
+zip_87533,0.0,0.0
+zip_87417,0.0,0.0
+zip_87313,0.0,0.0
+zip_87117,0.0,0.0
+zip_87116,0.0,0.0
+zip_87109,0.0,0.0
+zip_87035,0.0,0.0
+zip_86329,0.0,0.0
+zip_86018,0.0,0.0
+zip_85253,0.0,0.0
+zip_85173,0.0,0.0
+zip_85086,0.0,0.0
+zip_92101,0.0,0.0
+zip_91711,0.0,0.0
+zip_91702,0.0,0.0
+zip_96136,0.0,0.0
+zip_91206,0.0,0.0
+zip_90650,0.0,0.0
+zip_90403,0.0,0.0
+zip_90250,0.0,0.0
+zip_90014,0.0,0.0
+zip_89704,0.0,0.0
+zip_89512,0.0,0.0
+zip_89319,0.0,0.0
+zip_89084,0.0,0.0
+zip_88355,0.0,0.0
+zip_88325,0.0,0.0
+zip_8830,0.0,0.0
+zip_94971,0.0,0.0
+zip_94619,0.0,0.0
+zip_94569,0.0,0.0
+zip_97492,0.0,0.0
+zip_94015,0.0,0.0
+zip_93627,0.0,0.0
+zip_93552,0.0,0.0
+zip_93529,0.0,0.0
+zip_92882,0.0,0.0
+zip_92648,0.0,0.0
+zip_92637,0.0,0.0
+zip_92585,0.0,0.0
+zip_92561,0.0,0.0
+zip_92267,0.0,0.0
+zip_92210,0.0,0.0
+zip_92128,0.0,0.0
+zip_97014,0.0,0.0
+zip_96776,0.0,0.0
+zip_96727,0.0,0.0
+zip_99783,0.0,0.0
+zip_96135,0.0,0.0
+zip_96103,0.0,0.0
+zip_96038,0.0,0.0
+zip_96037,0.0,0.0
+zip_95842,0.0,0.0
+zip_95827,0.0,0.0
+zip_95629,0.0,0.0
+zip_95567,0.0,0.0
+zip_95537,0.0,0.0
+zip_95528,0.0,0.0
+job_Wellsite geologist,0.0,0.0
+zip_95148,0.0,0.0
+zip_97910,0.0,0.0
+zip_97813,0.0,0.0
+zip_97753,0.0,0.0
+job_Aeronautical engineer,0.0,0.0
+zip_97476,0.0,0.0
+zip_97452,0.0,0.0
+zip_97441,0.0,0.0
+zip_97403,0.0,0.0
+zip_97383,0.0,0.0
+zip_97377,0.0,0.0
+zip_97375,0.0,0.0
+zip_97210,0.0,0.0
+zip_97132,0.0,0.0
+zip_97107,0.0,0.0
+zip_97034,0.0,0.0
+zip_97033,0.0,0.0
+"job_Accountant, chartered certified",0.0,0.0
+job_Academic librarian,0.0,0.0
+zip_99921,0.0,0.0
+job_Architectural technologist,0.0,0.0
+zip_99746,0.0,0.0
+zip_99323,0.0,0.0
+zip_99160,0.0,0.0
+zip_99113,0.0,0.0
+zip_99033,0.0,0.0
+zip_98836,0.0,0.0
+zip_98665,0.0,0.0
+zip_98304,0.0,0.0
+zip_98238,0.0,0.0
+zip_98233,0.0,0.0
+zip_98118,0.0,0.0
+zip_98027,0.0,0.0
+job_Air broker,0.0,0.0
+job_Aid worker,0.0,0.0
+job_Agricultural consultant,0.0,0.0
+job_Bookseller,0.0,0.0
+job_Advice worker,0.0,0.0
+job_Advertising copywriter,0.0,0.0
+job_Advertising account planner,0.0,0.0
+job_Writer,0.0,0.0
+"job_Administrator, local government",0.0,0.0
+"job_Administrator, education",0.0,0.0
+"job_Administrator, charities/voluntary organisations",0.0,0.0
+"job_Administrator, arts",0.0,0.0
+job_Administrator,0.0,0.0
+job_Acupuncturist,0.0,0.0
+job_Accounting technician,0.0,0.0
+"job_Accountant, chartered public finance",0.0,0.0
+job_Art gallery manager,0.0,0.0
+job_Armed forces training and education officer,0.0,0.0
+job_Armed forces logistics/support/administrative officer,0.0,0.0
+job_Archivist,0.0,0.0
+job_Charity officer,0.0,0.0
+job_Architect,0.0,0.0
+job_Archaeologist,0.0,0.0
+job_Arboriculturist,0.0,0.0
+job_Applications developer,0.0,0.0
+job_Animator,0.0,0.0
+job_Animal nutritionist,0.0,0.0
+job_Analytical chemist,0.0,0.0
+job_Amenity horticulturist,0.0,0.0
+job_Ambulance person,0.0,0.0
+job_Airline pilot,0.0,0.0
+job_Air cabin crew,0.0,0.0
+job_Building services engineer,0.0,0.0
+job_Building control surveyor,0.0,0.0
+job_Broadcast presenter,0.0,0.0
+job_Broadcast engineer,0.0,0.0
+job_Civil Service administrator,0.0,0.0
+job_Biomedical scientist,0.0,0.0
+job_Biomedical engineer,0.0,0.0
+"job_Biochemist, clinical",0.0,0.0
+job_Barrister's clerk,0.0,0.0
+job_Barrister,0.0,0.0
+job_Barista,0.0,0.0
+job_Audiological scientist,0.0,0.0
+job_Associate Professor,0.0,0.0
+job_Arts development officer,0.0,0.0
+job_Artist,0.0,0.0
+job_Art therapist,0.0,0.0
+job_Chartered loss adjuster,0.0,0.0
+job_Chartered legal executive (England and Wales),0.0,0.0
+job_Chartered accountant,0.0,0.0
+job_Community education officer,0.0,0.0
+job_Community development worker,0.0,0.0
+job_Charity fundraiser,0.0,0.0
+job_Ceramics designer,0.0,0.0
+job_Catering manager,0.0,0.0
+job_Cartographer,0.0,0.0
+job_Careers information officer,0.0,0.0
+job_Camera operator,0.0,0.0
+job_Call centre manager,0.0,0.0
+job_Cabin crew,0.0,0.0
+"job_Buyer, retail",0.0,0.0
+"job_Buyer, industrial",0.0,0.0
+job_Building surveyor,0.0,0.0
+job_Clinical biochemist,0.0,0.0
+job_Claims inspector/assessor,0.0,0.0
+"job_Civil engineer, contracting",0.0,0.0
+job_Civil Service fast streamer,0.0,0.0
+job_Dance movement psychotherapist,0.0,0.0
+job_Cytogeneticist,0.0,0.0
+job_Chiropodist,0.0,0.0
+job_Child psychotherapist,0.0,0.0
+job_Chief of Staff,0.0,0.0
+job_Chief Technology Officer,0.0,0.0
+job_Chief Strategy Officer,0.0,0.0
+job_Chief Operating Officer,0.0,0.0
+job_Chief Marketing Officer,0.0,0.0
+job_Chief Financial Officer,0.0,0.0
+"job_Chemist, analytical",0.0,0.0
+job_Chemical engineer,0.0,0.0
+"job_Conservation officer, historic buildings",0.0,0.0
+job_Comptroller,0.0,0.0
+job_Company secretary,0.0,0.0
+job_Community pharmacist,0.0,0.0
+job_Dispensing optician,0.0,0.0
+job_Diagnostic radiographer,0.0,0.0
+job_Community arts worker,0.0,0.0
+job_Communications engineer,0.0,0.0
+job_Commissioning editor,0.0,0.0
+job_Commercial/residential surveyor,0.0,0.0
+job_Commercial horticulturist,0.0,0.0
+job_Special effects artist,0.0,0.0
+job_Clothing/textile technologist,0.0,0.0
+job_Clinical research associate,0.0,0.0
+job_Clinical psychologist,0.0,0.0
+job_Clinical cytogeneticist,0.0,0.0
+"job_Designer, ceramics/pottery",0.0,0.0
+job_Dealer,0.0,0.0
+job_Database administrator,0.0,0.0
+job_Data scientist,0.0,0.0
+"job_Embryologist, clinical",0.0,0.0
+job_Electronics engineer,0.0,0.0
+job_Curator,0.0,0.0
+job_Counsellor,0.0,0.0
+job_Counselling psychologist,0.0,0.0
+job_Corporate investment banker,0.0,0.0
+"job_Copywriter, advertising",0.0,0.0
+job_Copy,0.0,0.0
+job_Control and instrumentation engineer,0.0,0.0
+job_Contractor,0.0,0.0
+"job_Conservator, museum/gallery",0.0,0.0
+"job_Conservator, furniture",0.0,0.0
+job_Early years teacher,0.0,0.0
+"job_Doctor, hospital",0.0,0.0
+"job_Doctor, general practice",0.0,0.0
+"job_Engineer, land",0.0,0.0
+"job_Engineer, electronics",0.0,0.0
+"job_Engineer, drilling",0.0,0.0
+"job_Development worker, international aid",0.0,0.0
+"job_Development worker, community",0.0,0.0
+"job_Designer, textile",0.0,0.0
+"job_Designer, television/film set",0.0,0.0
+"job_Designer, multimedia",0.0,0.0
+"job_Designer, jewellery",0.0,0.0
+"job_Designer, interior/spatial",0.0,0.0
+"job_Designer, industrial/product",0.0,0.0
+"job_Designer, furniture",0.0,0.0
+"job_Designer, exhibition/display",0.0,0.0
+job_Energy manager,0.0,0.0
+job_Energy engineer,0.0,0.0
+job_Emergency planning/management officer,0.0,0.0
+job_Environmental manager,0.0,0.0
+job_Environmental health practitioner,0.0,0.0
+job_Environmental education officer,0.0,0.0
+job_Electrical engineer,0.0,0.0
+job_Educational psychologist,0.0,0.0
+"job_Education officer, museum",0.0,0.0
+"job_Education officer, community",0.0,0.0
+job_Education administrator,0.0,0.0
+"job_Editor, magazine features",0.0,0.0
+"job_Editor, film/video",0.0,0.0
+"job_Editor, commissioning",0.0,0.0
+job_Economist,0.0,0.0
+job_Ecologist,0.0,0.0
+"job_Engineer, materials",0.0,0.0
+"job_Engineer, manufacturing",0.0,0.0
+"job_Engineer, maintenance",0.0,0.0
+job_Firefighter,0.0,0.0
+job_Fine artist,0.0,0.0
+job_Financial trader,0.0,0.0
+"job_Engineer, control and instrumentation",0.0,0.0
+"job_Engineer, communications",0.0,0.0
+"job_Engineer, civil (contracting)",0.0,0.0
+"job_Engineer, civil (consulting)",0.0,0.0
+"job_Engineer, building services",0.0,0.0
+"job_Engineer, broadcasting (operations)",0.0,0.0
+"job_Engineer, biomedical",0.0,0.0
+"job_Engineer, automotive",0.0,0.0
+"job_Engineer, agricultural",0.0,0.0
+"job_Engineer, aeronautical",0.0,0.0
+job_Estate manager/land agent,0.0,0.0
+job_Equities trader,0.0,0.0
+job_Equality and diversity officer,0.0,0.0
+job_Geophysicist/field seismologist,0.0,0.0
+"job_Geologist, wellsite",0.0,0.0
+"job_Geologist, engineering",0.0,0.0
+job_Geochemist,0.0,0.0
+job_Environmental consultant,0.0,0.0
+job_English as a foreign language teacher,0.0,0.0
+job_Engineering geologist,0.0,0.0
+"job_Engineer, water",0.0,0.0
+"job_Engineer, technical sales",0.0,0.0
+"job_Engineer, structural",0.0,0.0
+"job_Engineer, production",0.0,0.0
+"job_Engineer, petroleum",0.0,0.0
+"job_Engineer, mining",0.0,0.0
+job_Fitness centre manager,0.0,0.0
+job_Fisheries officer,0.0,0.0
+job_Hospital doctor,0.0,0.0
+"job_Horticulturist, commercial",0.0,0.0
+job_Horticultural therapist,0.0,0.0
+job_Horticultural consultant,0.0,0.0
+job_Historic buildings inspector/conservation officer,0.0,0.0
+job_Financial adviser,0.0,0.0
+job_Film/video editor,0.0,0.0
+job_Field trials officer,0.0,0.0
+job_Field seismologist,0.0,0.0
+job_Farm manager,0.0,0.0
+job_Facilities manager,0.0,0.0
+"job_Exhibitions officer, museum/gallery",0.0,0.0
+job_Exercise physiologist,0.0,0.0
+job_Event organiser,0.0,0.0
+job_Glass blower/designer,0.0,0.0
+job_Geoscientist,0.0,0.0
+job_Insurance risk surveyor,0.0,0.0
+job_Insurance claims handler,0.0,0.0
+job_Insurance broker,0.0,0.0
+job_Information systems manager,0.0,0.0
+job_Industrial/product designer,0.0,0.0
+"job_Geneticist, molecular",0.0,0.0
+job_General practice doctor,0.0,0.0
+job_Garment/textile technologist,0.0,0.0
+job_Futures trader,0.0,0.0
+job_Further education lecturer,0.0,0.0
+job_Furniture designer,0.0,0.0
+job_Furniture conservator/restorer,0.0,0.0
+job_Freight forwarder,0.0,0.0
+job_Forensic psychologist,0.0,0.0
+job_Hotel manager,0.0,0.0
+job_Hospital pharmacist,0.0,0.0
+"job_Lecturer, further education",0.0,0.0
+job_Learning mentor,0.0,0.0
+job_Learning disability nurse,0.0,0.0
+job_Lawyer,0.0,0.0
+job_Sport and exercise psychologist,0.0,0.0
+job_Higher education careers adviser,0.0,0.0
+job_Herpetologist,0.0,0.0
+job_Heritage manager,0.0,0.0
+job_Herbalist,0.0,0.0
+job_Health visitor,0.0,0.0
+job_Health service manager,0.0,0.0
+job_Health promotion specialist,0.0,0.0
+job_Health physicist,0.0,0.0
+job_Health and safety adviser,0.0,0.0
+job_Interior and spatial designer,0.0,0.0
+job_Intelligence analyst,0.0,0.0
+job_Insurance underwriter,0.0,0.0
+job_Manufacturing engineer,0.0,0.0
+job_Management consultant,0.0,0.0
+job_Make,0.0,0.0
+job_Maintenance engineer,0.0,0.0
+job_Magazine journalist,0.0,0.0
+job_Immigration officer,0.0,0.0
+job_Illustrator,0.0,0.0
+job_IT trainer,0.0,0.0
+job_IT consultant,0.0,0.0
+job_Hydrologist,0.0,0.0
+job_Hydrographic surveyor,0.0,0.0
+job_Hydrogeologist,0.0,0.0
+job_Human resources officer,0.0,0.0
+job_Sports administrator,0.0,0.0
+"job_Lecturer, higher education",0.0,0.0
+job_Mining engineer,0.0,0.0
+job_Minerals surveyor,0.0,0.0
+job_Metallurgist,0.0,0.0
+"job_Merchandiser, retail",0.0,0.0
+job_Mental health nurse,0.0,0.0
+job_Medical technical officer,0.0,0.0
+job_Land/geomatics surveyor,0.0,0.0
+job_Land,0.0,0.0
+"job_Journalist, newspaper",0.0,0.0
+job_Jewellery designer,0.0,0.0
+"job_Investment banker, operational",0.0,0.0
+"job_Investment banker, corporate",0.0,0.0
+job_Investment analyst,0.0,0.0
+job_Interpreter,0.0,0.0
+job_Marketing executive,0.0,0.0
+job_Market researcher,0.0,0.0
+job_Manufacturing systems engineer,0.0,0.0
+job_Occupational hygienist,0.0,0.0
+job_Nutritional therapist,0.0,0.0
+"job_Nurse, mental health",0.0,0.0
+"job_Nurse, children's",0.0,0.0
+job_Neurosurgeon,0.0,0.0
+job_Network engineer,0.0,0.0
+"job_Loss adjuster, chartered",0.0,0.0
+job_Logistics and distribution manager,0.0,0.0
+job_Location manager,0.0,0.0
+job_Local government officer,0.0,0.0
+job_Licensed conveyancer,0.0,0.0
+"job_Librarian, public",0.0,0.0
+job_Lexicographer,0.0,0.0
+job_Museum education officer,0.0,0.0
+job_Multimedia programmer,0.0,0.0
+job_Mudlogger,0.0,0.0
+job_Pathologist,0.0,0.0
+job_Patent attorney,0.0,0.0
+job_Paramedic,0.0,0.0
+job_Paediatric nurse,0.0,0.0
+job_Outdoor activities/education manager,0.0,0.0
+job_Osteopath,0.0,0.0
+job_Orthoptist,0.0,0.0
+job_Medical secretary,0.0,0.0
+job_Medical sales representative,0.0,0.0
+job_Medical physicist,0.0,0.0
+job_Media planner,0.0,0.0
+job_Media buyer,0.0,0.0
+job_Mechanical engineer,0.0,0.0
+job_Oceanographer,0.0,0.0
+job_Occupational therapist,0.0,0.0
+job_Occupational psychologist,0.0,0.0
+job_Politician's assistant,0.0,0.0
+job_Police officer,0.0,0.0
+job_Podiatrist,0.0,0.0
+job_Plant breeder/geneticist,0.0,0.0
+job_Planning and development surveyor,0.0,0.0
+job_Sports development officer,0.0,0.0
+job_Phytotherapist,0.0,0.0
+job_Naval architect,0.0,0.0
+job_Nature conservation officer,0.0,0.0
+job_Music tutor,0.0,0.0
+job_Music therapist,0.0,0.0
+job_Museum/gallery exhibitions officer,0.0,0.0
+job_Museum/gallery conservator,0.0,0.0
+job_Petroleum engineer,0.0,0.0
+job_Pensions consultant,0.0,0.0
+job_Pension scheme manager,0.0,0.0
+job_Production manager,0.0,0.0
+job_Production engineer,0.0,0.0
+"job_Production assistant, television",0.0,0.0
+"job_Production assistant, radio",0.0,0.0
+job_Product/process development scientist,0.0,0.0
+job_Product manager,0.0,0.0
+job_Product designer,0.0,0.0
+job_Optometrist,0.0,0.0
+"job_Optician, dispensing",0.0,0.0
+job_Operations geologist,0.0,0.0
+job_Operational researcher,0.0,0.0
+job_Operational investment banker,0.0,0.0
+job_Oncologist,0.0,0.0
+job_Primary school teacher,0.0,0.0
+"job_Scientist, research (physical sciences)",0.0,0.0
+job_Press photographer,0.0,0.0
+"job_Presenter, broadcasting",0.0,0.0
+job_Public relations account executive,0.0,0.0
+job_Public librarian,0.0,0.0
+job_Public affairs consultant,0.0,0.0
+"job_Psychotherapist, child",0.0,0.0
+job_Psychotherapist,0.0,0.0
+"job_Psychologist, sport and exercise",0.0,0.0
+job_Physiotherapist,0.0,0.0
+job_Physiological scientist,0.0,0.0
+"job_Physicist, medical",0.0,0.0
+job_Pharmacologist,0.0,0.0
+"job_Pharmacist, hospital",0.0,0.0
+"job_Pharmacist, community",0.0,0.0
+"job_Programmer, multimedia",0.0,0.0
+"job_Programmer, applications",0.0,0.0
+"job_Programme researcher, broadcasting/film/video",0.0,0.0
+job_Professor Emeritus,0.0,0.0
+job_Research scientist (medical),0.0,0.0
+job_Research scientist (maths),0.0,0.0
+job_Research scientist (life sciences),0.0,0.0
+"job_Research officer, trade union",0.0,0.0
+"job_Research officer, political party",0.0,0.0
+job_Regulatory affairs officer,0.0,0.0
+job_Records manager,0.0,0.0
+"job_Producer, television/film/video",0.0,0.0
+"job_Producer, radio",0.0,0.0
+job_Probation officer,0.0,0.0
+job_Private music teacher,0.0,0.0
+job_Prison officer,0.0,0.0
+job_Quarry manager,0.0,0.0
+job_Quantity surveyor,0.0,0.0
+job_Purchasing manager,0.0,0.0
+job_Public relations officer,0.0,0.0
+"job_Scientist, marine",0.0,0.0
+"job_Scientist, clinical (histocompatibility and immunogenetics)",0.0,0.0
+"job_Scientist, biomedical",0.0,0.0
+job_Scientific laboratory technician,0.0,0.0
+merchant_fraud_Barrows PLC,0.0,0.0
+"job_Sales professional, IT",0.0,0.0
+job_Sales executive,0.0,0.0
+"job_Psychologist, forensic",0.0,0.0
+"job_Psychologist, counselling",0.0,0.0
+"job_Psychologist, clinical",0.0,0.0
+job_Psychiatrist,0.0,0.0
+job_Psychiatric nurse,0.0,0.0
+job_Retail banker,0.0,0.0
+"job_Restaurant manager, fast food",0.0,0.0
+job_Research scientist (physical sciences),0.0,0.0
+job_Special educational needs teacher,0.0,0.0
+"job_Solicitor, Scotland",0.0,0.0
+job_Soil scientist,0.0,0.0
+job_Software engineer,0.0,0.0
+job_Social researcher,0.0,0.0
+"job_Social research officer, government",0.0,0.0
+job_Site engineer,0.0,0.0
+job_Set designer,0.0,0.0
+"job_Radiographer, therapeutic",0.0,0.0
+"job_Radiographer, diagnostic",0.0,0.0
+job_Radio producer,0.0,0.0
+job_Radio broadcast assistant,0.0,0.0
+job_Race relations officer,0.0,0.0
+"job_Scientist, research (maths)",0.0,0.0
+"job_Scientist, physiological",0.0,0.0
+job_Systems developer,0.0,0.0
+job_Systems analyst,0.0,0.0
+"job_Surveyor, rural practice",0.0,0.0
+"job_Surveyor, mining",0.0,0.0
+"job_Surveyor, minerals",0.0,0.0
+merchant_fraud_Balistreri-Nader,0.0,0.0
+"job_Surveyor, hydrographic",0.0,0.0
+job_Surgeon,0.0,0.0
+merchant_fraud_Bailey-Morar,0.0,0.0
+job_Rural practice surveyor,0.0,0.0
+job_Risk analyst,0.0,0.0
+job_Retail merchandiser,0.0,0.0
+job_Retail manager,0.0,0.0
+job_Retail buyer,0.0,0.0
+merchant_fraud_Bode-Rempel,0.0,0.0
+job_Travel agency manager,0.0,0.0
+job_Transport planner,0.0,0.0
+job_Training and development officer,0.0,0.0
+job_Trading standards officer,0.0,0.0
+"merchant_fraud_Altenwerth, Cartwright and Koss",0.0,0.0
+merchant_fraud_Adams-Barrows,0.0,0.0
+"merchant_fraud_Adams, Kovacek and Kuhlman",0.0,0.0
+merchant_fraud_Abshire PLC,0.0,0.0
+merchant_fraud_Abernathy and Sons,0.0,0.0
+merchant_fraud_Abbott-Steuber,0.0,0.0
+merchant_fraud_Abbott-Rogahn,0.0,0.0
+job_Senior tax professional/tax inspector,0.0,0.0
+job_Theme park manager,0.0,0.0
+job_Theatre manager,0.0,0.0
+job_Stage manager,0.0,0.0
+job_Textile designer,0.0,0.0
+merchant_fraud_Block-Parisian,0.0,0.0
+merchant_fraud_Barton LLC,0.0,0.0
+job_Trade mark attorney,0.0,0.0
+job_Toxicologist,0.0,0.0
+job_Town planner,0.0,0.0
+job_Tourist information centre manager,0.0,0.0
+job_Tourism officer,0.0,0.0
+job_Tour manager,0.0,0.0
+"job_Therapist, sports",0.0,0.0
+"job_Therapist, occupational",0.0,0.0
+"job_Therapist, music",0.0,0.0
+"job_Therapist, horticultural",0.0,0.0
+"job_Therapist, drama",0.0,0.0
+job_Tree surgeon,0.0,0.0
+job_Video editor,0.0,0.0
+"job_Scientist, audiological",-3.5024306869191335e-06,4.953184978712754e-06
+job_Musician,-3.5024306869191335e-06,4.953184978712754e-06
+job_Secondary school teacher,-3.5024306869191335e-06,4.953184978712754e-06
+zip_76050,-3.5024306869191335e-06,4.953184978712754e-06
+state_TX,-3.5024306869191335e-06,4.953184978712754e-06
+age_bucket_<25,-3.5024306869191335e-06,4.953184978712754e-06
+state_VT,-7.004861373838267e-06,4.953184978712754e-06
+state_CO,-7.004861373838267e-06,4.953184978712754e-06
+state_NY,-7.004861373838267e-06,4.953184978712754e-06
+job_Exhibition designer,-7.027678511832096e-06,9.938638263430918e-06
+zip_64017,-1.05072920607574e-05,0.0
+state_CT,-1.05072920607574e-05,0.0
+city_Camden,-1.05072920607574e-05,0.0
+"merchant_fraud_Schultz, Simonis and Little",-1.05072920607574e-05,0.0
+city_Plymouth,-1.05072920607574e-05,0.0
+zip_6782,-1.05072920607574e-05,0.0
+state_OR,-1.7742576505996865e-05,2.5091792326223007e-05
+is_weekend,-0.00027632122653087343,0.0003981818787147103
+category_grocery_net,-0.00027977868253474075,0.00040307118319308626
+job_Magazine features editor,-0.0002867383512545156,0.0004055092651966362
+job_Chartered public finance accountant,-0.0002867383512545156,0.0004055092651966362
+state_IA,-0.0002867383512545156,0.0004055092651966362
+state_MN,-0.0002867383512545156,0.0004055092651966362
+state_NJ,-0.0002867383512545156,0.0004055092651966362
+merchant_fraud_Bednar Group,-0.0002867383512545156,0.0004055092651966362
+city_Elizabeth,-0.0002867383512545156,0.0004055092651966362
+job_Structural engineer,-0.0002867383512545156,0.0004055092651966362
+job_Drilling engineer,-0.0002867383512545156,0.0004055092651966362
+city_Warren,-0.0002867383512545156,0.0004055092651966362
+age_bucket_25-40,-0.0005354971982686566,0.0008229225893156808
+customer_age,-0.000563249149557595,0.0010470985636278232
+time_of_day_Morning,-0.0007460684393482131,0.0012371255972790285
+job_Gaffer,-0.0008602150537635467,0.0
+zip_29819,-0.0008602150537635467,0.0
+long,-0.00091130899931402,0.0012887659839473718
+"merchant_fraud_Christiansen, Goyette and Schamberger",-0.0017797552836485986,0.0
+merchant_distance,-0.0021370283696254453,0.0012346818703400252
+merch_long,-0.00326196388617798,0.002058451913123216
+unix_time,-0.00634140376277668,0.062173145436271025
+time_of_day_Evening,-0.012965659636449208,0.002281851000927128
+category_personal_care,-0.01613605993657637,0.023392399188904237
+hour_sin,-0.016820687457714367,0.031532080014533656
+transaction_month,-0.017708113771400025,0.02391653672109759
+transaction_hour,-0.051537444907365115,0.0006375504431846081

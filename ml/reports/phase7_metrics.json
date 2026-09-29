@@ -1,0 +1,32 @@
+{
+    "model_name": "Random Forest",
+    "model_parameters": {
+        "n_estimators": 150,
+        "random_state": 42,
+        "class_weight": "balanced",
+        "oob_score": true,
+        "n_jobs": -1,
+        "max_depth": 15,
+        "min_samples_leaf": 5
+    },
+    "train_samples": 444575,
+    "test_samples": 111144,
+    "train_fraud_count": 1716,
+    "test_fraud_count": 429,
+    "threshold": 0.5,
+    "oob_accuracy": 0.9538233144013946,
+    "oob_pr_auc": 0.003859866164314233,
+    "oob_roc_auc": 0.0,
+    "test_accuracy": 0.9587742028359606,
+    "test_precision": 0.07871779265571109,
+    "test_recall": 0.9044289044289044,
+    "test_f1": 0.1448301605076521,
+    "test_pr_auc": 0.6487809794414444,
+    "test_roc_auc": 0.974662889986017,
+    "random_state": 42,
+    "n_estimators": 150,
+    "max_depth": 15,
+    "min_samples_leaf": 5,
+    "class_weight": "balanced",
+    "oob_score": true
+}

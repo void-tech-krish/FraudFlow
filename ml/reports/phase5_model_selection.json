@@ -1,0 +1,19 @@
+{
+    "best_mean_prauc": 0.8332034815433086,
+    "best_model": "Random Forest",
+    "best_model_se": 0.005363653030443623,
+    "one_se_threshold": 0.827839828512865,
+    "qualifying_models": [
+        "Random Forest"
+    ],
+    "selected_model": "Random Forest",
+    "selection_rule": "Select simplest model within 1 standard error of the best model (Complexity: LR < BLR < DT(6) < DT(9) < DT(12) < RF)",
+    "final_untouched_test_metrics": {
+        "Precision": 0.9764705882352941,
+        "Recall": 0.5804195804195804,
+        "F1": 0.7280701754385965,
+        "PR-AUC": 0.8556230563119519,
+        "ROC-AUC": 0.9860374823658933,
+        "Accuracy": 0.9983264953573742
+    }
+}
