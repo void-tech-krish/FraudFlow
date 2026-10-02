@@ -5,7 +5,7 @@ import os
 import glob
 from contextlib import asynccontextmanager
 
-from app.config.settings import settings
+from app.config.settings import settings, PROJECT_ROOT
 from app.services.model_state import model_state
 from app.routes import health, prediction, analytics, explainability, monitoring, retraining
 
@@ -32,11 +32,11 @@ app.include_router(monitoring.router, tags=["Monitoring"])
 app.include_router(retraining.router, tags=["Retraining"])
 
 # Mount static files for ML figures
-app.mount("/figures", StaticFiles(directory="ml/reports/figures"), name="figures")
+app.mount("/figures", StaticFiles(directory=os.path.join(PROJECT_ROOT, "ml/reports/figures")), name="figures")
 
 @app.get("/api/figures-list", tags=["Analytics"])
 def list_figures():
-    base_dir = "ml/reports/figures"
+    base_dir = os.path.join(PROJECT_ROOT, "ml/reports/figures")
     png_files = []
     for root, dirs, files in os.walk(base_dir):
         for file in files:

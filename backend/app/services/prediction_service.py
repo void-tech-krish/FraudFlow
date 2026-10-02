@@ -4,7 +4,9 @@ from app.services.model_state import model_state
 from app.schemas.prediction import TransactionInput, PredictionResponse
 import sys
 import os
-sys.path.append(os.path.join(os.getcwd(), "ml"))
+# Add the parent directory of 'backend' to sys.path so it finds 'ml'
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../"))
+sys.path.append(os.path.join(parent_dir, "ml"))
 from src.preprocessing.feature_engineering import engineer_features
 
 def make_prediction(tx: TransactionInput) -> PredictionResponse:

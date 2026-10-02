@@ -1,17 +1,13 @@
-import path from 'path'
-import { fileURLToPath } from 'url'
+const path = require('path');
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-
-const contentGlob = path.join(__dirname, 'src/**/*.{js,ts,jsx,tsx}').replace(/\\/g, '/')
-const htmlGlob = path.join(__dirname, 'index.html').replace(/\\/g, '/')
+const srcPath = path.resolve(__dirname, 'src/**/*.{js,ts,jsx,tsx}').replace(/\\/g, '/');
+const indexPath = path.resolve(__dirname, 'index.html').replace(/\\/g, '/');
 
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   content: [
-    htmlGlob,
-    contentGlob,
+    indexPath,
+    srcPath
   ],
   theme: {
     extend: {
