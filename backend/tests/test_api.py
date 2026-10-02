@@ -31,3 +31,7 @@ def test_retraining_dry_run():
     # We do not want to actually trigger a long retraining in tests if it takes minutes,
     # but the API allows it. We'll just verify the endpoint exists.
     pass
+
+def test_ml_pipeline():
+    response = client.get("/ml-pipeline")
+    assert response.status_code == 200

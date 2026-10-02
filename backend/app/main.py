@@ -7,7 +7,7 @@ from contextlib import asynccontextmanager
 
 from app.config.settings import settings, PROJECT_ROOT
 from app.services.model_state import model_state
-from app.routes import health, prediction, analytics, explainability, monitoring, retraining
+from app.routes import health, prediction, analytics, explainability, monitoring, retraining, ml_pipeline
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -30,6 +30,7 @@ app.include_router(analytics.router, tags=["Analytics"])
 app.include_router(explainability.router, tags=["Explainability"])
 app.include_router(monitoring.router, tags=["Monitoring"])
 app.include_router(retraining.router, tags=["Retraining"])
+app.include_router(ml_pipeline.router, tags=["ML Pipeline"])
 
 # Mount static files for ML figures
 app.mount("/figures", StaticFiles(directory=os.path.join(PROJECT_ROOT, "ml/reports/figures")), name="figures")

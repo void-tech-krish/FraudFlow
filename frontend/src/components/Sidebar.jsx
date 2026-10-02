@@ -9,7 +9,8 @@ import {
   Menu,
   X,
   Sparkles,
-  ChevronRight
+  ChevronRight,
+  Activity
 } from 'lucide-react';
 
 export default function Sidebar({ activeTab, setActiveTab }) {
@@ -20,6 +21,7 @@ export default function Sidebar({ activeTab, setActiveTab }) {
     { id: 'predict', label: 'Predict Transaction', icon: Zap },
     { id: 'transactions', label: 'Transactions', icon: CreditCard },
     { id: 'analytics', label: 'Analytics', icon: BarChart3 },
+    { id: 'ml-pipeline', label: 'ML Pipeline', icon: Activity },
     { id: 'settings', label: 'Settings', icon: Settings },
   ];
 

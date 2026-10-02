@@ -5,6 +5,7 @@ import KPICards from './components/KPICards';
 import TransactionStream from './components/TransactionStream';
 import FraudAnalytics from './components/FraudAnalytics';
 import FraudAnalyticsPage from './components/FraudAnalyticsPage';
+import MLPipelinePage from './components/MLPipelinePage';
 import AIModelInsights from './components/AIModelInsights';
 import PredictTransaction from './components/PredictTransaction';
 import TransactionsPage from './components/TransactionsPage';
@@ -155,7 +156,12 @@ export default function App() {
             </div>
           )}
 
-          {/* 5. Settings View */}
+          {/* 5. ML Pipeline View */}
+          {activeTab === 'ml-pipeline' && (
+            <MLPipelinePage />
+          )}
+
+          {/* 6. Settings View */}
           {activeTab === 'settings' && (
             <SettingsPage />
           )}
