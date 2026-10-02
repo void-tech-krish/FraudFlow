@@ -1,8 +1,30 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Cpu, Sliders, Zap, CheckCircle2, AlertOctagon, Info, ShieldCheck, Sparkles, Activity } from 'lucide-react';
-import { featureImportanceData } from '../data/mockData';
 
 export default function AIModelInsights() {
+  const [explainData, setExplainData] = useState([]);
+  const [metricsData, setMetricsData] = useState(null);
+
+  useEffect(() => {
+    fetch(`${import.meta.env.VITE_API_URL}/explainability`)
+      .then(r => r.json())
+      .then(data => {
+        if (data.global_importance_top_10) {
+          const maxShap = data.global_importance_top_10[0]?.mean_abs_shap || 1;
+          const formatted = data.global_importance_top_10.map(item => ({
+            feature: item.feature,
+            importance: ((item.mean_abs_shap / maxShap) * 100).toFixed(1)
+          }));
+          setExplainData(formatted);
+        }
+      })
+      .catch(console.error);
+
+    fetch(`${import.meta.env.VITE_API_URL}/analytics`)
+      .then(r => r.json())
+      .then(data => setMetricsData(data))
+      .catch(console.error);
+  }, []);
   // Simulator State
   const [simAmount, setSimAmount] = useState(2500);
   const [simVelocity, setSimVelocity] = useState(6);
@@ -56,19 +78,19 @@ export default function AIModelInsights() {
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
             <div className="bg-[#F0EDDF] p-3 rounded-xl border border-[#292B23]/15 text-center">
               <span className="text-[10px] text-[#292B23]/70 font-semibold block uppercase">AUC-ROC</span>
-              <span className="text-lg font-bold text-[#486789] font-mono">0.984</span>
+              <span className="text-lg font-bold text-[#486789] font-mono">{metricsData ? metricsData.roc_auc.toFixed(3) : '...'}</span>
             </div>
             <div className="bg-[#F0EDDF] p-3 rounded-xl border border-[#292B23]/15 text-center">
               <span className="text-[10px] text-[#292B23]/70 font-semibold block uppercase">Precision</span>
-              <span className="text-lg font-bold text-[#486789] font-mono">99.4%</span>
+              <span className="text-lg font-bold text-[#486789] font-mono">{metricsData ? (metricsData.precision * 100).toFixed(1) + '%' : '...'}</span>
             </div>
             <div className="bg-[#F0EDDF] p-3 rounded-xl border border-[#292B23]/15 text-center">
               <span className="text-[10px] text-[#292B23]/70 font-semibold block uppercase">Recall Rate</span>
-              <span className="text-lg font-bold text-[#BC4129] font-mono">96.8%</span>
+              <span className="text-lg font-bold text-[#BC4129] font-mono">{metricsData ? (metricsData.recall * 100).toFixed(1) + '%' : '...'}</span>
             </div>
             <div className="bg-[#F0EDDF] p-3 rounded-xl border border-[#292B23]/15 text-center">
-              <span className="text-[10px] text-[#292B23]/70 font-semibold block uppercase">Inference</span>
-              <span className="text-lg font-bold text-[#292B23] font-mono">12 ms</span>
+              <span className="text-[10px] text-[#292B23]/70 font-semibold block uppercase">F1 Score</span>
+              <span className="text-lg font-bold text-[#292B23] font-mono">{metricsData ? (metricsData.f1).toFixed(3) : '...'}</span>
             </div>
           </div>
         </div>
@@ -89,20 +111,20 @@ export default function AIModelInsights() {
           </div>
 
           <div className="space-y-3.5 pt-2">
-            {featureImportanceData.map((item, idx) => (
+            {explainData.length > 0 ? explainData.map((item, idx) => (
               <div key={idx} className="space-y-1">
                 <div className="flex items-center justify-between text-xs">
                   <span className="font-semibold text-[#292B23]">{item.feature}</span>
-                  <span className="font-mono font-bold text-[#BC4129]">{item.importance}% Weight</span>
+                  <span className="font-mono font-bold text-[#BC4129]">{item.importance}% Rel. Weight</span>
                 </div>
                 <div className="w-full bg-[#F0EDDF] h-2.5 rounded-full overflow-hidden p-0.5 border border-[#292B23]/15">
                   <div
                     className="h-full rounded-full bg-[#BC4129] transition-all duration-500"
-                    style={{ width: `${item.importance * 2.2}%` }}
+                    style={{ width: `${item.importance}%` }}
                   />
                 </div>
               </div>
-            ))}
+            )) : <div className="text-xs text-[#292B23]/70">Loading SHAP importance...</div>}
           </div>
 
           <div className="p-3.5 rounded-xl bg-[#F0EDDF] border border-[#292B23]/15 text-xs text-[#292B23] flex items-start gap-2.5">

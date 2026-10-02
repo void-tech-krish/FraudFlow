@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Settings as SettingsIcon,
   Moon,
@@ -36,6 +36,27 @@ export default function SettingsPage() {
 
   // Save Toast State
   const [showSavedToast, setShowSavedToast] = useState(false);
+
+  // Retraining State
+  const [isRetraining, setIsRetraining] = useState(false);
+  const [retrainResult, setRetrainResult] = useState(null);
+
+  const handleRetrainDryRun = async () => {
+    setIsRetraining(true);
+    setRetrainResult(null);
+    try {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/retrain/dry-run`, {
+        method: 'POST',
+      });
+      const data = await response.json();
+      setRetrainResult(data);
+    } catch (err) {
+      console.error(err);
+      setRetrainResult({ status: 'error', detail: err.message });
+    } finally {
+      setIsRetraining(false);
+    }
+  };
 
   const toggleAppearance = (key) => {
     setAppearance((prev) => ({ ...prev, [key]: !prev[key] }));
@@ -308,11 +329,37 @@ export default function SettingsPage() {
             </div>
 
             {/* Model Information Notice */}
-            <div className="p-3.5 rounded-2xl bg-[#F0EDDF] border border-[#292B23]/15 text-xs text-[#292B23] flex items-start gap-2.5 relative z-10">
-              <Sparkles className="w-4 h-4 text-[#BC4129] shrink-0 mt-0.5" />
-              <p className="leading-relaxed">
-                <span className="font-bold text-[#292B23]">Placeholder UI Information:</span> Model parameters run in client-side demonstration mode with SHAP feature weight explanation vectors.
-              </p>
+            <div className="p-3.5 rounded-2xl bg-[#F0EDDF] border border-[#292B23]/15 text-xs text-[#292B23] flex flex-col gap-2.5 relative z-10">
+              <div className="flex items-start gap-2.5">
+                <Sparkles className="w-4 h-4 text-[#BC4129] shrink-0 mt-0.5" />
+                <p className="leading-relaxed">
+                  <span className="font-bold text-[#292B23]">Model Operations:</span> The current active model is the champion. You can trigger a candidate validation dry-run below.
+                </p>
+              </div>
+              <div className="pt-2 border-t border-[#292B23]/15">
+                <button
+                  onClick={handleRetrainDryRun}
+                  disabled={isRetraining}
+                  className="px-4 py-2 w-full rounded-xl bg-[#486789] hover:bg-[#3b5572] text-[#F0EDDF] font-bold disabled:opacity-50 flex items-center justify-center gap-2"
+                >
+                  {isRetraining ? <RefreshCw className="w-4 h-4 animate-spin" /> : <Zap className="w-4 h-4" />}
+                  {isRetraining ? 'Running Dry-Run Validation...' : 'Run Retraining Dry-Run'}
+                </button>
+              </div>
+              {retrainResult && (
+                <div className="p-3 rounded-xl bg-[#E2DFCE] border border-[#292B23]/20 mt-2 font-mono text-[10px] overflow-auto max-h-32">
+                  <span className="font-bold text-[#292B23] uppercase mb-1 block">Validation Result:</span>
+                  {retrainResult.status === 'success' ? (
+                    <div>
+                      <p>Trigger Reason: {retrainResult.latest_audit?.trigger_reason || 'Manual Dry Run'}</p>
+                      <p className="text-[#BC4129]">Decision: {retrainResult.latest_audit?.promotion_decision || 'DECLINED'}</p>
+                      <pre className="mt-2 text-[#486789]">{retrainResult.output}</pre>
+                    </div>
+                  ) : (
+                    <p className="text-[#BC4129]">Error: {retrainResult.detail}</p>
+                  )}
+                </div>
+              )}
             </div>
 
           </div>

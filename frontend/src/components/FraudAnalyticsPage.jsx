@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   AreaChart,
   Area,
@@ -69,6 +69,15 @@ const volumeLineData = [
 ];
 
 export default function FraudAnalyticsPage() {
+  const [metrics, setMetrics] = useState(null);
+
+  useEffect(() => {
+    fetch(`${import.meta.env.VITE_API_URL}/analytics`)
+      .then(res => res.json())
+      .then(data => setMetrics(data))
+      .catch(console.error);
+  }, []);
+
   return (
     <div className="space-y-6">
       
@@ -107,7 +116,7 @@ export default function FraudAnalyticsPage() {
           </div>
           <div className="mt-3">
             <div className="text-3xl sm:text-4xl font-black font-mono text-[#292B23] tracking-tight">
-              2.42%
+              {metrics ? (metrics.test_fraud_count / metrics.test_samples * 100).toFixed(2) + '%' : '...'}
             </div>
             <div className="flex items-center space-x-1 text-xs text-[#486789] font-black mt-1">
               <ArrowDownRight className="w-4 h-4" />
@@ -126,7 +135,7 @@ export default function FraudAnalyticsPage() {
           </div>
           <div className="mt-3">
             <div className="text-3xl sm:text-4xl font-black font-mono text-[#292B23] tracking-tight">
-              99.4%
+              {metrics ? (metrics.accuracy * 100).toFixed(1) + '%' : '...'}
             </div>
             <div className="flex items-center space-x-1 text-xs text-[#486789] font-black mt-1">
               <ArrowUpRight className="w-4 h-4" />
@@ -156,17 +165,17 @@ export default function FraudAnalyticsPage() {
         {/* 4. Average Transaction Value */}
         <div className="glass-panel rounded-2xl p-5 border border-[#292B23]/15 shadow-md bg-[#E2DFCE] relative overflow-hidden group hover:border-[#486789]/40 transition-all">
           <div className="flex items-center justify-between">
-            <span className="text-sm font-black text-[#292B23]/90 uppercase">Average Value</span>
+            <span className="text-sm font-black text-[#292B23]/90 uppercase">PR-AUC Score</span>
             <div className="w-10 h-10 rounded-xl bg-[#F0EDDF] border border-[#292B23]/15 flex items-center justify-center text-[#486789]">
               <DollarSign className="w-5 h-5" />
             </div>
           </div>
           <div className="mt-3">
             <div className="text-3xl sm:text-4xl font-black font-mono text-[#292B23] tracking-tight">
-              $482.50
+              {metrics ? (metrics.pr_auc).toFixed(3) : '...'}
             </div>
             <div className="text-xs text-[#486789] font-black mt-1">
-              Based on 14,250 scanned tx
+              Area Under PR Curve
             </div>
           </div>
         </div>
@@ -412,7 +421,7 @@ export default function FraudAnalyticsPage() {
               Detection Rate
             </span>
             <div className="text-4xl font-black font-mono text-[#486789]">
-              99.4%
+              {metrics ? (metrics.accuracy * 100).toFixed(1) + '%' : '...'}
             </div>
             <p className="text-[11px] text-[#292B23]/70">
               False positive rate below <span className="text-[#486789] font-bold">0.06%</span>
@@ -425,7 +434,7 @@ export default function FraudAnalyticsPage() {
               Fraud Detected
             </span>
             <div className="text-4xl font-black font-mono text-[#BC4129]">
-              1,420
+              {metrics ? metrics.test_fraud_count : '...'}
             </div>
             <p className="text-[11px] text-[#292B23]/70">
               Prevented <span className="text-[#BC4129] font-bold">$1.24M</span> in unauthorized losses
@@ -438,7 +447,7 @@ export default function FraudAnalyticsPage() {
               Transactions Scanned
             </span>
             <div className="text-4xl font-black font-mono text-[#292B23]">
-              58,420
+              {metrics ? (metrics.train_samples + metrics.test_samples).toLocaleString() : '...'}
             </div>
             <p className="text-[11px] text-[#292B23]/70">
               Average inference latency: <span className="text-[#BC4129] font-bold font-mono">12 ms</span>
