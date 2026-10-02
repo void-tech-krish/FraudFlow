@@ -283,11 +283,11 @@ export default function MLPipelinePage() {
         '09',
         'SHAP Explainability',
         <Zap className="w-6 h-6 text-[#486789]" />,
-        explainability?.global_importance_top_10 ? (
+        explainability?.local_explanations?.[0]?.top_positive_contributors ? (
           <div className="space-y-3">
-            {explainability.global_importance_top_10.map((feat, idx) => {
-              const maxVal = explainability.global_importance_top_10[0].mean_abs_shap;
-              const pct = ((feat.mean_abs_shap / maxVal) * 100).toFixed(1);
+            {explainability.local_explanations[0].top_positive_contributors.map((feat, idx) => {
+              const maxVal = explainability.local_explanations[0].top_positive_contributors[0].contribution;
+              const pct = ((feat.contribution / maxVal) * 100).toFixed(1);
               return (
                 <div key={idx} className="space-y-1">
                   <div className="flex justify-between text-xs font-bold">
@@ -364,23 +364,23 @@ export default function MLPipelinePage() {
           <div className="space-y-4">
             <div className="flex items-center justify-between p-4 bg-white rounded-xl border border-[#292B23]/15">
               <span className="font-bold text-sm">Monitoring Status</span>
-              <span className={`px-3 py-1 text-xs font-bold rounded-full ${monitoring.alerts?.critical_alerts?.length > 0 ? 'bg-[#BC4129]/20 text-[#BC4129]' : 'bg-[#486789]/20 text-[#486789]'}`}>
-                {monitoring.alerts?.critical_alerts?.length > 0 ? 'ALERTS DETECTED' : 'HEALTHY'}
+              <span className={`px-3 py-1 text-xs font-bold rounded-full ${monitoring.alerts?.some(a => a.severity === 'CRITICAL') ? 'bg-[#BC4129]/20 text-[#BC4129]' : 'bg-[#486789]/20 text-[#486789]'}`}>
+                {monitoring.alerts?.some(a => a.severity === 'CRITICAL') ? 'ALERTS DETECTED' : 'HEALTHY'}
               </span>
             </div>
             {monitoring.performance && (
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <div className="p-3 bg-white rounded-xl border border-[#292B23]/15">
                   <span className="block text-[10px] font-bold uppercase text-[#292B23]/60">Current PR-AUC</span>
-                  <span className="block text-lg font-black font-mono text-[#486789]">{monitoring.performance.current.pr_auc?.toFixed(4)}</span>
+                  <span className="block text-lg font-black font-mono text-[#486789]">{monitoring.performance.pr_auc?.toFixed(4) || 'N/A'}</span>
                 </div>
                 <div className="p-3 bg-white rounded-xl border border-[#292B23]/15">
-                  <span className="block text-[10px] font-bold uppercase text-[#292B23]/60">Reference PR-AUC</span>
-                  <span className="block text-lg font-black font-mono text-[#486789]">{monitoring.performance.reference.pr_auc?.toFixed(4)}</span>
+                  <span className="block text-[10px] font-bold uppercase text-[#292B23]/60">Precision</span>
+                  <span className="block text-lg font-black font-mono text-[#486789]">{monitoring.performance.precision?.toFixed(4) || 'N/A'}</span>
                 </div>
                 <div className="p-3 bg-white rounded-xl border border-[#292B23]/15">
-                  <span className="block text-[10px] font-bold uppercase text-[#292B23]/60">PR-AUC Drop</span>
-                  <span className="block text-lg font-black font-mono text-[#BC4129]">{monitoring.performance.drift.pr_auc_drop?.toFixed(4)}</span>
+                  <span className="block text-[10px] font-bold uppercase text-[#292B23]/60">Recall</span>
+                  <span className="block text-lg font-black font-mono text-[#BC4129]">{monitoring.performance.recall?.toFixed(4) || 'N/A'}</span>
                 </div>
               </div>
             )}
