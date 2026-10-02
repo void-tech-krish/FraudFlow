@@ -23,7 +23,25 @@ import {
 } from './data/mockData';
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('overview');
+  const [activeTab, setActiveTab] = useState(() => {
+    // Gracefully handle deep links / unknown paths without React Router
+    const path = window.location.pathname.replace(/^\/+/, '');
+    const validTabs = ['overview', 'predict', 'transactions', 'analytics', 'ml-pipeline', 'settings'];
+    
+    // Explicit mapping for the requested retraining path
+    if (path === 'retraining') return 'settings';
+    
+    if (validTabs.includes(path)) return path;
+    return 'overview';
+  });
+
+  // Sync URL when activeTab changes, and handle unsupported paths on mount
+  useEffect(() => {
+    const currentPath = activeTab === 'overview' ? '/' : `/${activeTab}`;
+    if (window.location.pathname !== currentPath) {
+      window.history.replaceState(null, '', currentPath);
+    }
+  }, [activeTab]);
   const [isStreaming, setIsStreaming] = useState(true);
   const [transactions, setTransactions] = useState(initialTransactions);
   const [selectedTransaction, setSelectedTransaction] = useState(null);
